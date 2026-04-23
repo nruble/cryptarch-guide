@@ -1,0 +1,133 @@
+.items-database-wrapper {
+    width:100%;
+    max-width: 1600px;
+    margin:0 auto;
+    padding-block: 36px;
+    padding-inline: $padding-inline-desktop;
+    display: flex;
+    flex-direction: row;
+    .resultslist-filter-menu {
+        width:325px;
+        flex-shrink: 0;
+        border-right:1px solid rgba($color-white, 0.4);
+        margin-block:0;
+        margin-right:24px;
+        padding-inline:0 24px;
+        section {
+            h3 {
+                margin:0 0 18px;
+                font-weight:$font-bold;
+                font-size:20px;
+                line-height:1;
+                text-transform: uppercase;
+                letter-spacing: 0.05rem;
+            }
+            &:not(:last-child) {
+                border-bottom:1px solid rgba($color-white, 0.4);
+                margin-bottom:32px;
+            }
+        }
+    }
+    .resultslist {
+        flex-grow:1;
+        h2 {
+            margin:0 0 18px;
+            font-weight:$font-bold;
+            font-size:20px;
+            line-height:1;
+            text-transform: uppercase;
+            letter-spacing: 0.05rem;
+        }
+        .resultslist-container {
+            display:grid;
+            // grid-template-columns: repeat(auto-fill, 385px);
+            grid-template-columns: repeat(3, 1fr);
+            gap:16px;
+            .resultslist-item {
+                @include glass-box;
+                display:flex;
+                flex-direction: row;
+                min-width:0;
+                overflow:hidden;
+                .resultslist-item-icon {
+                    width:96px;
+                    height:96px;
+                }
+                h3 {
+                    font-size:1rem;
+                    margin:0;
+                    font-weight:$font-normal;
+                    padding:20px 24px;
+                    font-size: 22px;
+                    font-weight:$font-light;
+                    letter-spacing: 0.04rem;
+                }
+            }
+        }
+        .resultslist-pagination-wrapper{
+            max-width:392px;
+            margin:32px auto 0;
+            .resultslist-pagination {
+                display:flex;
+                list-style-type: none;
+                gap:5px;
+                padding: 0;
+                margin:0;
+                .page-item {
+                    .page-link {
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        width:38px;
+                        height:36px;
+                        color:$color-white;
+                        text-decoration: none;
+                        border-bottom:4px solid rgba($color-white, 0.3);
+                        position: relative;
+                        bottom:1px;
+                    }
+                    &.active {
+                        .page-link{
+                            border-bottom-color: rgba($color-white,1.0);
+                        }
+                    }
+                    &.disabled:not(.prev-btn, .next-btn) {
+                        .page-link {
+                            display:grid;
+                            grid-template-columns: repeat(3, 1fr);
+                            flex-direction: row;
+                            gap:5px;
+                            border-bottom:none;
+                            .resultslist-pagination-break {
+                                display: block;
+                                height:100%;
+                                width:100%;
+                                border-bottom:4px solid rgba($color-white, 0.3);
+                            }
+                        }
+                    }
+                    &.prev-btn, &.next-btn {
+                        .page-link {
+                            height:36px;
+                            background:rgba($color-white, 0.3);
+                            border-bottom:none;
+                            bottom:0;
+                            span {
+                                line-height: 0;
+                                svg {
+                                    width:20px;
+                                    height:20px;
+                                }
+                            }
+                        }
+                        &.disabled {
+                            .page-link {
+                                opacity:0.4;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

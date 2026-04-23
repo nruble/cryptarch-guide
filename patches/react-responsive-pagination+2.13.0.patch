@@ -1,0 +1,62 @@
+diff --git a/node_modules/react-responsive-pagination/dist/index.d.ts b/node_modules/react-responsive-pagination/dist/index.d.ts
+index 8db9249..859bc4a 100644
+--- a/node_modules/react-responsive-pagination/dist/index.d.ts
++++ b/node_modules/react-responsive-pagination/dist/index.d.ts
+@@ -202,6 +202,7 @@ export declare type ResponsivePaginationProps = {
+     ariaPreviousLabel?: string;
+     ariaNextLabel?: string;
+     ariaPageLabel?: (page: number, active: boolean) => string | undefined;
++    breakLabel?: string | ReactNode;
+     renderNav?: boolean;
+     ariaCurrentAttr?: boolean;
+     linkHref?: ((page: number) => string) | 'hash' | 'omit';
+diff --git a/node_modules/react-responsive-pagination/dist/index.js b/node_modules/react-responsive-pagination/dist/index.js
+index 425a278..4a476d9 100644
+--- a/node_modules/react-responsive-pagination/dist/index.js
++++ b/node_modules/react-responsive-pagination/dist/index.js
+@@ -17,7 +17,7 @@ function ResponsivePagination(props) {
+     if (process.env.NODE_ENV !== 'production') {
+         checkLegacyProps(props);
+     }
+-    const { current, total, onPageChange: handlePageChange, maxWidth, narrowBehaviour, className, containerClassName, extraClassName = 'justify-content-center', pageItemClassName = 'page-item', pageLinkClassName = 'page-link', activeItemClassName = 'active', inactiveItemClassName = '', disabledItemClassName = 'disabled', navClassName, previousClassName, nextClassName, classMerge = defaultClassMerge, previousLabel, nextLabel, ariaPreviousLabel, ariaNextLabel, ariaPageLabel, renderNav = true, ariaCurrentAttr = true, linkHref = 'hash', labelBehaviour: getLabel = defaultLabelBehaviour, } = props;
++    const { current, total, onPageChange: handlePageChange, maxWidth, narrowBehaviour, className, containerClassName, extraClassName = 'justify-content-center', pageItemClassName = 'page-item', pageLinkClassName = 'page-link', activeItemClassName = 'active', inactiveItemClassName = '', disabledItemClassName = 'disabled', navClassName, previousClassName, nextClassName, classMerge = defaultClassMerge, previousLabel, nextLabel, ariaPreviousLabel, ariaNextLabel, ariaPageLabel, breakLabel, renderNav = true, ariaCurrentAttr = true, linkHref = 'hash', labelBehaviour: getLabel = defaultLabelBehaviour, } = props;
+     const { visible, items, ref, clearCache } = usePaginationItems(current, total, maxWidth, {
+         narrowBehaviour,
+         previousLabel,
+@@ -25,6 +25,7 @@ function ResponsivePagination(props) {
+         ariaPreviousLabel,
+         ariaNextLabel,
+         ariaPageLabel,
++        breakLabel,
+         renderNav,
+     });
+     useEffect(() => {
+@@ -116,6 +117,7 @@ ResponsivePagination.propTypes = {
+     ariaPreviousLabel: PropTypes.string,
+     ariaNextLabel: PropTypes.string,
+     ariaPageLabel: PropTypes.func,
++    breakLabel: PropTypes.oneOfType([PropTypes.string, PropTypes.element]),
+     renderNav: PropTypes.bool,
+     ariaCurrentAttr: PropTypes.bool,
+     linkHref: PropTypes.oneOfType([
+diff --git a/node_modules/react-responsive-pagination/dist/paginationItem.js b/node_modules/react-responsive-pagination/dist/paginationItem.js
+index 65760ac..1dc1f4a 100644
+--- a/node_modules/react-responsive-pagination/dist/paginationItem.js
++++ b/node_modules/react-responsive-pagination/dist/paginationItem.js
+@@ -4,6 +4,7 @@ export function compositionToPaginationItems(compositionItems, options) {
+     const nextLabel = options?.nextLabel || '»';
+     const a11yNextLabel = options?.ariaNextLabel || 'Next';
+     const ariaPageLabel = options?.ariaPageLabel;
++    const breakLabel = options?.breakLabel || '…';
+     return compositionItems.map(({ type, page }) => {
+         switch (type) {
+             case '<':
+@@ -27,7 +28,7 @@ export function compositionToPaginationItems(compositionItems, options) {
+                 return {
+                     type: 'ellipsis',
+                     key: `ellipsis_${type === '…L' ? 'l' : 'r'}`,
+-                    label: '…',
++                    label: breakLabel,
+                     a11yHidden: true,
+                     gotoPage: undefined,
+                 };

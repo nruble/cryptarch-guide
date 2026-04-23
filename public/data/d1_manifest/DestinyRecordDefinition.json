@@ -1,0 +1,8536 @@
+{
+	"151089592": {
+		"displayName": "Primary Adept",
+		"description": "Defeat Guardians in Trials with Primary Weapons.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/09a9d1684e84335ad703606b5a653b47.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1521507572,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3300391675,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 999449512
+			}
+		],
+		"hash": 151089592,
+		"index": 163,
+		"contentIdentifier": "d15.v260.ages.trials.record3",
+		"redacted": false
+	},
+	"151089593": {
+		"displayName": "Deconstruction",
+		"description": "Earn a Wrecking Ball medal in Trials.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/45576ea3055851a3221c9711947fc182.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1521507573,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 4249425780,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 999449513
+			}
+		],
+		"hash": 151089593,
+		"index": 162,
+		"contentIdentifier": "d15.v260.ages.trials.record2",
+		"redacted": false
+	},
+	"151089594": {
+		"displayName": "Trials and Tribulations",
+		"description": "Complete Trials of Osiris Bounties.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/4a536cc3a53b7efdbad23ceb7fc60cd8.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1521507574,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3678775497,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 999449514
+			}
+		],
+		"hash": 151089594,
+		"index": 161,
+		"contentIdentifier": "d15.v260.ages.trials.record1",
+		"redacted": false
+	},
+	"151089595": {
+		"displayName": "To the Lighthouse",
+		"description": "Complete a Flawless Trials Ticket.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/3498faff0ba43e8eb09e578c10e666b8.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1521507575,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 751493530,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 999449515
+			}
+		],
+		"hash": 151089595,
+		"index": 160,
+		"contentIdentifier": "d15.v260.ages.trials.record0",
+		"redacted": false
+	},
+	"151089596": {
+		"displayName": "Judge, Jury, Executioner",
+		"description": "Complete Trials milestones in the Age of Triumph Record Book to unlock this page's emblem.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/63ee1cbb0e374738398e60d1c3ce0257.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 2792559724,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1521507568,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 238630391,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 999449516
+			}
+		],
+		"hash": 151089596,
+		"index": 167,
+		"contentIdentifier": "d15.v260.ages.trials.record7",
+		"redacted": false
+	},
+	"151089597": {
+		"displayName": "Lifegiver",
+		"description": "Revive fallen teammates in Trials.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/3fd5691cc7543efbce9cf1df584850e9.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1521507569,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1187561280,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 999449517
+			}
+		],
+		"hash": 151089597,
+		"index": 166,
+		"contentIdentifier": "d15.v260.ages.trials.record6",
+		"redacted": false
+	},
+	"151089598": {
+		"displayName": "Heavy Adept",
+		"description": "Defeat Guardians in Trials with Heavy Weapons.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/0886060df3cad7d8dcd40bfe84079018.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1521507570,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2343629893,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 999449518
+			}
+		],
+		"hash": 151089598,
+		"index": 165,
+		"contentIdentifier": "d15.v260.ages.trials.record5",
+		"redacted": false
+	},
+	"151089599": {
+		"displayName": "Special Adept",
+		"description": "Defeat Guardians in Trials with Special Weapons.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/4a4603b0f2510197c02770459ce54ba1.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1521507571,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 4129863510,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 999449519
+			}
+		],
+		"hash": 151089599,
+		"index": 164,
+		"contentIdentifier": "d15.v260.ages.trials.record4",
+		"redacted": false
+	},
+	"217055300": {
+		"displayName": "Races Finished",
+		"description": "Complete SRL races on Mars.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/img/destiny_content/records/races_complete.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2828837273,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 1475579175,
+				"uiItemQuantity": 0,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2629845530,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2010841766,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 1386234429,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				}
+			},
+			{
+				"rewardSiteHash": 3369393392,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 10,
+							"flagHash": 0,
+							"valueHash": 2246811594,
+							"value": 0
+						},
+						{
+							"stepOperator": 11,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 16
+						},
+						{
+							"stepOperator": 8,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 2740627668,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 1386234429,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2255816006
+			}
+		],
+		"hash": 217055300,
+		"index": 0,
+		"contentIdentifier": "record_book.d15.sparrow_racing0.mars.races",
+		"redacted": false
+	},
+	"322404552": {
+		"displayName": "Archon's Forge",
+		"description": "Survive the Devil Splicers' onslaught in the Archon's Forge.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/63d94f93595202e86f958215a800cee8.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2292909661,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3139731853,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 647959370
+			}
+		],
+		"hash": 322404552,
+		"index": 39,
+		"contentIdentifier": "d15.fall.rise_of_iron.plaguelands.record7",
+		"redacted": false
+	},
+	"322404553": {
+		"displayName": "Taking Back the Plaguelands",
+		"description": "Kill enemies in the Plaguelands.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/88f4fb82c5221133dbb2d72b430538c0.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2735637270,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 741491806,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 647959371
+			}
+		],
+		"hash": 322404553,
+		"index": 38,
+		"contentIdentifier": "d15.fall.rise_of_iron.plaguelands.record6",
+		"redacted": false
+	},
+	"322404554": {
+		"displayName": "Team Player",
+		"description": "Achieve gold medals in Plaguelands public events.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/152746f87de71e66caeb393c9dce5170.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3010832735,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 648775455,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 647959368
+			}
+		],
+		"hash": 322404554,
+		"index": 37,
+		"contentIdentifier": "d15.fall.rise_of_iron.plaguelands.record5",
+		"redacted": false
+	},
+	"322404555": {
+		"displayName": "Vigilant Scout",
+		"description": "Complete patrols in the Plaguelands.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/d2e2ed3824eff76c599e2cfa4bf98ddf.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3213714984,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 4281103624,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 647959369
+			}
+		],
+		"hash": 322404555,
+		"index": 36,
+		"contentIdentifier": "d15.fall.rise_of_iron.plaguelands.record4",
+		"redacted": false
+	},
+	"322404556": {
+		"displayName": "Prove Your Metal",
+		"description": "Complete bounties for the Iron Lords.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/719d636d11e0cd020588574bcb6e5d52.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 992033209,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2896585105,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 647959374
+			}
+		],
+		"hash": 322404556,
+		"index": 35,
+		"contentIdentifier": "d15.fall.rise_of_iron.plaguelands.record3",
+		"redacted": false
+	},
+	"322404557": {
+		"displayName": "What's the Use",
+		"description": "Use SIVA Offerings, Splicer Keys, Skeleton Keys, Intel Relays, Isenfyre Tokens, and SIVA Cache Keys.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/a22e061fa2fb7dfd9268bc0911b25ab0.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1818603602,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3803356226,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 647959375
+			}
+		],
+		"hash": 322404557,
+		"index": 34,
+		"contentIdentifier": "d15.fall.rise_of_iron.plaguelands.record2",
+		"redacted": false
+	},
+	"322404558": {
+		"displayName": "Treasured Possessions",
+		"description": "Open chests in the Plaguelands patrol.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/8d758b396c980bff25e5803eaeacbf9e.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2592608507,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 4254473123,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 647959372
+			}
+		],
+		"hash": 322404558,
+		"index": 33,
+		"contentIdentifier": "d15.fall.rise_of_iron.plaguelands.record1",
+		"redacted": false
+	},
+	"322404559": {
+		"displayName": "Meticulous Collector",
+		"description": "Collect Dormant SIVA Clusters.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/4d6ea165be68ec8fee973ab4026265dc.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1725598692,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1327191420,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 647959373
+			}
+		],
+		"hash": 322404559,
+		"index": 32,
+		"contentIdentifier": "d15.fall.rise_of_iron.plaguelands.record0",
+		"redacted": false
+	},
+	"562497696": {
+		"displayName": "Life is Fleeting",
+		"description": "Acquire Ships.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/80b5645b4c22bb1000ad4fd1924401ae.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2751677756,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2088153139,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2693898832
+			}
+		],
+		"hash": 562497696,
+		"index": 136,
+		"contentIdentifier": "d15.v260.ages.collectors.record0",
+		"redacted": false
+	},
+	"562497697": {
+		"displayName": "Slings and Sparrows",
+		"description": "Acquire Sparrows.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/0548b1fb70712adfe9eb9d348241d3e5.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2751677757,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 228626508,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2693898833
+			}
+		],
+		"hash": 562497697,
+		"index": 137,
+		"contentIdentifier": "d15.v260.ages.collectors.record1",
+		"redacted": false
+	},
+	"562497698": {
+		"displayName": "Made in the Shade",
+		"description": "Acquire Shaders.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/608cf74b4802e9c9a9f7c95a7e78c8bc.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2751677758,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1728972129,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2693898834
+			}
+		],
+		"hash": 562497698,
+		"index": 138,
+		"contentIdentifier": "d15.v260.ages.collectors.record2",
+		"redacted": false
+	},
+	"562497699": {
+		"displayName": "Flying Colors",
+		"description": "Acquire Emblems.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/887bdfba866c65cfc16217fd9c734376.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2751677759,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2672783314,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2693898835
+			}
+		],
+		"hash": 562497699,
+		"index": 139,
+		"contentIdentifier": "d15.v260.ages.collectors.record3",
+		"redacted": false
+	},
+	"562497700": {
+		"displayName": "Outlandish Arms",
+		"description": "Acquire Exotic Weapons.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/4cd101624535e4a0a57b0d6a3e7f0e3e.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2751677752,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3823615663,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2693898836
+			}
+		],
+		"hash": 562497700,
+		"index": 140,
+		"contentIdentifier": "d15.v260.ages.collectors.record4",
+		"redacted": false
+	},
+	"562497701": {
+		"displayName": "Outlandish Dress",
+		"description": "Acquire Exotic Armor.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/45916c33323363f5ee8be7ecea5b5107.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2751677753,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2125126360,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2693898837
+			}
+		],
+		"hash": 562497701,
+		"index": 141,
+		"contentIdentifier": "d15.v260.ages.collectors.record5",
+		"redacted": false
+	},
+	"562497702": {
+		"displayName": "Quaint and Curious",
+		"description": "Unlock Grimoire.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/528dd4e8688b353944116a3248222416.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2751677754,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2041270173,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2693898838
+			}
+		],
+		"hash": 562497702,
+		"index": 142,
+		"contentIdentifier": "d15.v260.ages.collectors.record6",
+		"redacted": false
+	},
+	"562497703": {
+		"displayName": "The Most Toys",
+		"description": "Complete all Collections milestones in the Age of Triumph Record Book to unlock this page's emblem.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/9ef8c721173ef00d0fcf5220a4a56619.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 2792559727,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2751677755,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3905989294,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2693898839
+			}
+		],
+		"hash": 562497703,
+		"index": 143,
+		"contentIdentifier": "d15.v260.ages.collectors.record7",
+		"redacted": false
+	},
+	"623161888": {
+		"displayName": "Quality Control",
+		"description": "Capture control points in Control Crucible matches.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/b337bc135bd82b514bf9e3d98383d646.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3432479628,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3688969315,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2323411760
+			}
+		],
+		"hash": 623161888,
+		"index": 120,
+		"contentIdentifier": "d15.v260.ages.pvp.record0",
+		"redacted": false
+	},
+	"623161889": {
+		"displayName": "Clash Warfare",
+		"description": "Earn points in Clash Crucible matches.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/667a3ec9c044110058d899857cfd8cec.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3432479629,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 337126716,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2323411761
+			}
+		],
+		"hash": 623161889,
+		"index": 121,
+		"contentIdentifier": "d15.v260.ages.pvp.record1",
+		"redacted": false
+	},
+	"623161890": {
+		"displayName": "Rumble Tumble",
+		"description": "Earn points in Rumble Crucible matches.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/205e5a46e7493cde19f0682fe0a5d874.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3432479630,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1906520657,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2323411762
+			}
+		],
+		"hash": 623161890,
+		"index": 122,
+		"contentIdentifier": "d15.v260.ages.pvp.record2",
+		"redacted": false
+	},
+	"623161891": {
+		"displayName": "Master at Arms",
+		"description": "Complete Crucible Quartermaster bounties.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/2565f97154385603906923203f0400ba.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3432479631,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3279325698,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2323411763
+			}
+		],
+		"hash": 623161891,
+		"index": 123,
+		"contentIdentifier": "d15.v260.ages.pvp.record3",
+		"redacted": false
+	},
+	"623161892": {
+		"displayName": "Historian",
+		"description": "Recover Dead Ghosts on Crucible maps during Private Matches.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/6afbace6d3785c85f4403dd085c4bf1f.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3432479624,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3995358175,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2323411764
+			}
+		],
+		"hash": 623161892,
+		"index": 124,
+		"contentIdentifier": "d15.v260.ages.pvp.record4",
+		"redacted": false
+	},
+	"623161893": {
+		"displayName": "Ignite the Light",
+		"description": "Run the spark and ignite your opponent's rift in Rift Crucible matches.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/6b804ea35ade83d4932e65a5275cf115.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3432479625,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3715496648,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2323411765
+			}
+		],
+		"hash": 623161893,
+		"index": 125,
+		"contentIdentifier": "d15.v260.ages.pvp.record5",
+		"redacted": false
+	},
+	"623161894": {
+		"displayName": "Pride of Shaxx",
+		"description": "Win matches in the Crucible.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/bda4851df892effbcd996897c7a6341c.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3432479626,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2149667405,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2323411766
+			}
+		],
+		"hash": 623161894,
+		"index": 126,
+		"contentIdentifier": "d15.v260.ages.pvp.record6",
+		"redacted": false
+	},
+	"623161895": {
+		"displayName": "Forged Ingot",
+		"description": "Complete all Crucible milestones to unlock this page's emblem.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/8050b79eea8faabb60f6e5fc0bec4248.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 2809337284,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3432479627,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 217564446,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2323411767
+			}
+		],
+		"hash": 623161895,
+		"index": 127,
+		"contentIdentifier": "d15.v260.ages.pvp.record7",
+		"redacted": false
+	},
+	"706022976": {
+		"displayName": "At the Gates",
+		"description": "Complete the quests \"At the Gates\" and \"Return to the Prison\" from \"The Taken King.\"",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/864ed4d2b94c8110f4e897075762ed2e.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2053581068,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 145808611,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3657305520
+			}
+		],
+		"hash": 706022976,
+		"index": 85,
+		"contentIdentifier": "d15.v260.ages.story.record5",
+		"redacted": false
+	},
+	"706022977": {
+		"displayName": "The Taken War",
+		"description": "Complete the \"Summoner's Circle\" mission from \"The Taken King.\"",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/4143b472bdd658c694d73f3ce1134e27.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2053581069,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1088933308,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3657305521
+			}
+		],
+		"hash": 706022977,
+		"index": 84,
+		"contentIdentifier": "d15.v260.ages.story.record4",
+		"redacted": false
+	},
+	"706022978": {
+		"displayName": "Storied Past",
+		"description": "Complete all Story milestones in the Age of Triumph Record Book to unlock this page's emblem.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/98c3bcbe015f4f447bb7fd3fbb2ef632.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 2809337291,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2053581070,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2658327249,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3657305522
+			}
+		],
+		"hash": 706022978,
+		"index": 87,
+		"contentIdentifier": "d15.v260.ages.story.record7",
+		"redacted": false
+	},
+	"706022979": {
+		"displayName": "An Iron Lord Rises",
+		"description": "Complete \"The Iron Tomb\" mission from \"Rise of Iron.\"",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/4a2d36bf1d01e7921b2e1f7d027672c7.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2053581071,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 4031132290,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3657305523
+			}
+		],
+		"hash": 706022979,
+		"index": 86,
+		"contentIdentifier": "d15.v260.ages.story.record6",
+		"redacted": false
+	},
+	"706022980": {
+		"displayName": "The Wakening",
+		"description": "Complete \"The Wakening\" mission from \"The Dark Below.\"",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/52b7f03ac3e7259913924a0f9a0e5bc6.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2053581064,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 452197471,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3657305524
+			}
+		],
+		"hash": 706022980,
+		"index": 81,
+		"contentIdentifier": "d15.v260.ages.story.record1",
+		"redacted": false
+	},
+	"706022981": {
+		"displayName": "The Black Garden",
+		"description": "Complete \"The Black Garden\" mission from \"Destiny.\"",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/778cff30ed747242aef8ce7e46b68e37.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2053581065,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 172335944,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3657305525
+			}
+		],
+		"hash": 706022981,
+		"index": 80,
+		"contentIdentifier": "d15.v260.ages.story.record0",
+		"redacted": false
+	},
+	"706022982": {
+		"displayName": "Regicide",
+		"description": "Complete the \"Regicide\" mission from \"The Taken King.\"",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/6f4a394568cf0d7f745b4b64049f59ac.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2053581066,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2901473997,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3657305526
+			}
+		],
+		"hash": 706022982,
+		"index": 83,
+		"contentIdentifier": "d15.v260.ages.story.record3",
+		"redacted": false
+	},
+	"706022983": {
+		"displayName": "Queen's Ransom",
+		"description": "Complete the \"Queen's Ransom\" from \"House of Wolves.\"",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/8b9f9491040e4ef18f390497c5afd649.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2053581067,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 969371038,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3657305527
+			}
+		],
+		"hash": 706022983,
+		"index": 82,
+		"contentIdentifier": "d15.v260.ages.story.record2",
+		"redacted": false
+	},
+	"706320034": {
+		"displayName": "Gates Hit",
+		"description": "Successfully pass through gates during Venus SRL races.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/img/destiny_content/records/gates_hit.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 4223010277,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 1475579175,
+				"uiItemQuantity": 0,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 802891466,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2636832046,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 1386234429,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				}
+			},
+			{
+				"rewardSiteHash": 3369393392,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 10,
+							"flagHash": 0,
+							"valueHash": 2246811594,
+							"value": 0
+						},
+						{
+							"stepOperator": 11,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 16
+						},
+						{
+							"stepOperator": 8,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 2740627668,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 1386234429,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1118244576
+			}
+		],
+		"hash": 706320034,
+		"index": 10,
+		"contentIdentifier": "record_book.d15.sparrow_racing0.venus.gates_hit_all",
+		"redacted": false
+	},
+	"729754904": {
+		"displayName": "Sleeping Echoes",
+		"description": "Collect Dormant SIVA.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/fb89136de2103d96441fab98c10f8795.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 552986204,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1429397971,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 838192168
+			}
+		],
+		"hash": 729754904,
+		"index": 146,
+		"contentIdentifier": "d15.v260.ages.explorers.record2",
+		"redacted": false
+	},
+	"729754905": {
+		"displayName": "Sneak Peak",
+		"description": "Collect the Dormant SIVA at the top of Felwinter Peak.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/d78b179f1502423d11575b9050ca84f1.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 552986205,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3918130796,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 838192169
+			}
+		],
+		"hash": 729754905,
+		"index": 147,
+		"contentIdentifier": "d15.v260.ages.explorers.record3",
+		"redacted": false
+	},
+	"729754906": {
+		"displayName": "Echoes of the Ages",
+		"description": "Recover Dead Ghosts.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/88b85fbf41fe9f6c5bf4738c97b78a4e.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 552986206,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 657474689,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 838192170
+			}
+		],
+		"hash": 729754906,
+		"index": 144,
+		"contentIdentifier": "d15.v260.ages.explorers.record0",
+		"redacted": false
+	},
+	"729754907": {
+		"displayName": "Echoes of Darkness",
+		"description": "Collect Calcified Fragments.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/76825ed8452e3cabc5b30cf49587ea83.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 552986207,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2014028146,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 838192171
+			}
+		],
+		"hash": 729754907,
+		"index": 145,
+		"contentIdentifier": "d15.v260.ages.explorers.record1",
+		"redacted": false
+	},
+	"729754908": {
+		"displayName": "Spelunker",
+		"description": "Disturb the Remains.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/e4ddda788f29affcf48102864ba4bfed.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 552986200,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3164860495,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 838192172
+			}
+		],
+		"hash": 729754908,
+		"index": 150,
+		"contentIdentifier": "d15.v260.ages.explorers.record6",
+		"redacted": false
+	},
+	"729754909": {
+		"displayName": "The World Explored",
+		"description": "Complete all Wanderer milestones in the Age of Triumph Record Book to unlock this page's emblem.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/0792455e2b1f8f3623a61305e5957d82.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 2792559726,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 552986201,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1890725496,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 838192173
+			}
+		],
+		"hash": 729754909,
+		"index": 151,
+		"contentIdentifier": "d15.v260.ages.explorers.record7",
+		"redacted": false
+	},
+	"729754910": {
+		"displayName": "Public Defender",
+		"description": "Achieve Gold Tier Ratings in Public Events.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/981c96c70034b1cf71f3aeef347fd39e.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 552986202,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1011246525,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 838192174
+			}
+		],
+		"hash": 729754910,
+		"index": 148,
+		"contentIdentifier": "d15.v260.ages.explorers.record4",
+		"redacted": false
+	},
+	"729754911": {
+		"displayName": "Concordat's Shadow",
+		"description": "Find Lysander's Cry.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/28837c544edf61324fefef9718dc94ca.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 552986203,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3247234126,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 838192175
+			}
+		],
+		"hash": 729754911,
+		"index": 149,
+		"contentIdentifier": "d15.v260.ages.explorers.record5",
+		"redacted": false
+	},
+	"1005786758": {
+		"displayName": "Races Finished",
+		"description": "Complete SRL races on Venus.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/img/destiny_content/records/races_complete.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2170625065,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 1475579175,
+				"uiItemQuantity": 0,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2137647328,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1025550548,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 1386234429,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				}
+			},
+			{
+				"rewardSiteHash": 3369393392,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 10,
+							"flagHash": 0,
+							"valueHash": 2246811594,
+							"value": 0
+						},
+						{
+							"stepOperator": 11,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 16
+						},
+						{
+							"stepOperator": 8,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 2740627668,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 1386234429,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3770162832
+			}
+		],
+		"hash": 1005786758,
+		"index": 8,
+		"contentIdentifier": "record_book.d15.sparrow_racing0.venus.races",
+		"redacted": false
+	},
+	"1023796540": {
+		"displayName": "Tricks Landed",
+		"description": "Land Sparrow tricks during Venus SRL races.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/img/destiny_content/records/tricks_landed.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2092342448,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 1475579175,
+				"uiItemQuantity": 0,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3683743185,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2795016589,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 1386234429,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				}
+			},
+			{
+				"rewardSiteHash": 3369393392,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 10,
+							"flagHash": 0,
+							"valueHash": 2246811594,
+							"value": 0
+						},
+						{
+							"stepOperator": 11,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 16
+						},
+						{
+							"stepOperator": 8,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 2740627668,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 1386234429,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2489427174
+			}
+		],
+		"hash": 1023796540,
+		"index": 11,
+		"contentIdentifier": "record_book.d15.sparrow_racing0.venus.tricks",
+		"redacted": false
+	},
+	"1040741368": {
+		"displayName": "Most Gates: Single Race",
+		"description": "Successfully pass through gates during a single Mars race.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/img/destiny_content/records/gates_hit_race.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 1475579175,
+				"uiItemQuantity": 0,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1040741368,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1361492956,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			},
+			{
+				"rewardSiteHash": 3369393392,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 10,
+							"flagHash": 0,
+							"valueHash": 2246811594,
+							"value": 0
+						},
+						{
+							"stepOperator": 11,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 16
+						},
+						{
+							"stepOperator": 8,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 2740627668,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 1386234429,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1092765482
+			}
+		],
+		"hash": 1040741368,
+		"index": 6,
+		"contentIdentifier": "record_book.d15.sparrow_racing0.mars.gates_hit_race",
+		"redacted": false
+	},
+	"1211935760": {
+		"displayName": "Pot of Gold",
+		"description": "Rapidly earn Primary, Special, and Heavy Streak Medals to earn Rainbow Medals in Rise of Iron Strike playlists.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/e5ec7ddaf6f1a6164ad4988666d6a8f1.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 1078667812,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3801080873,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1653208481,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1212977662
+			}
+		],
+		"hash": 1211935760,
+		"index": 65,
+		"contentIdentifier": "d15.winter.silver_chalice.strikes.record1",
+		"redacted": false
+	},
+	"1211935761": {
+		"displayName": "Heroic High Score",
+		"description": "Beat the par score in the Heroic SIVA Crisis Strike Playlist.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/20d847eb94e4b3108414a5adf62d389d.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 1078667812,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 4166710210,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3063053842,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1212977663
+			}
+		],
+		"hash": 1211935761,
+		"index": 64,
+		"contentIdentifier": "d15.winter.silver_chalice.strikes.record0",
+		"redacted": false
+	},
+	"1211935762": {
+		"displayName": "Killing Spree",
+		"description": "Earn Spree Medals in Rise of Iron Strike playlists.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/038f650d3227da5f4d66715012835f71.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 1078667812,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2547775147,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2478320755,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1212977660
+			}
+		],
+		"hash": 1211935762,
+		"index": 67,
+		"contentIdentifier": "d15.winter.silver_chalice.strikes.record3",
+		"redacted": false
+	},
+	"1211935763": {
+		"displayName": "Champion of Night",
+		"description": "Beat the par score in Nightfall Strikes.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/4b05a50ca9dc4316c7eadeb7261d4122.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 1078667812,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3306496276,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 577320332,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1212977661
+			}
+		],
+		"hash": 1211935763,
+		"index": 66,
+		"contentIdentifier": "d15.winter.silver_chalice.strikes.record2",
+		"redacted": false
+	},
+	"1211935764": {
+		"displayName": "Super Hero",
+		"description": "Earn Super Medals in Rise of Iron Strike playlists.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/7a5755dd082cad9afbc6b605b63b354b.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 1078667812,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3449349965,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2389861085,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1212977658
+			}
+		],
+		"hash": 1211935764,
+		"index": 69,
+		"contentIdentifier": "d15.winter.silver_chalice.strikes.record5",
+		"redacted": false
+	},
+	"1211935765": {
+		"displayName": "Scores of Scores",
+		"description": "Earn cumulative score in Rise of Iron Strike playlists.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/c59930a949e08f6977ddbf6f44e6919b.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 1078667812,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3160474694,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3830122734,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1212977659
+			}
+		],
+		"hash": 1211935765,
+		"index": 68,
+		"contentIdentifier": "d15.winter.silver_chalice.strikes.record4",
+		"redacted": false
+	},
+	"1211935766": {
+		"displayName": "All the Medals",
+		"description": "Earn Completion Medals in Rise of Iron Strike playlists.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/80d0bf4a1517a85c097bf3a70b0aa35f.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 1078667812,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3451921807,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3747852271,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1212977656
+			}
+		],
+		"hash": 1211935766,
+		"index": 71,
+		"contentIdentifier": "d15.winter.silver_chalice.strikes.record7",
+		"redacted": false
+	},
+	"1211935767": {
+		"displayName": "Bounty Hunter",
+		"description": "Complete Vanguard Elite Bounties.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/7cdaeffcc605897ae88aa0f4d979049b.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 1078667812,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2781464472,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2515293720,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1212977657
+			}
+		],
+		"hash": 1211935767,
+		"index": 70,
+		"contentIdentifier": "d15.winter.silver_chalice.strikes.record6",
+		"redacted": false
+	},
+	"1292871602": {
+		"displayName": "Tricks Landed",
+		"description": "Land Sparrow tricks during Mars SRL races.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/img/destiny_content/records/tricks_landed.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 3764987313,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 1475579175,
+				"uiItemQuantity": 0,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3897909765,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2941030825,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 1386234429,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				}
+			},
+			{
+				"rewardSiteHash": 3369393392,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 10,
+							"flagHash": 0,
+							"valueHash": 2246811594,
+							"value": 0
+						},
+						{
+							"stepOperator": 11,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 16
+						},
+						{
+							"stepOperator": 8,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 2740627668,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 1386234429,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 817684220
+			}
+		],
+		"hash": 1292871602,
+		"index": 3,
+		"contentIdentifier": "record_book.d15.sparrow_racing0.mars.tricks",
+		"redacted": false
+	},
+	"1296553125": {
+		"displayName": "Fastest Lap",
+		"description": "Beat the par lap time on the Mars SRL track.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_time_in_milliseconds",
+		"icon": "/img/destiny_content/records/best_lap.png",
+		"style": 2,
+		"rewards": [
+			{
+				"uiItemHash": 1475579175,
+				"uiItemQuantity": 0,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1296553125,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 406078009,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			},
+			{
+				"rewardSiteHash": 3369393392,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 10,
+							"flagHash": 0,
+							"valueHash": 2246811594,
+							"value": 0
+						},
+						{
+							"stepOperator": 11,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 16
+						},
+						{
+							"stepOperator": 8,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 2740627668,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 1386234429,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3659081023
+			}
+		],
+		"hash": 1296553125,
+		"index": 4,
+		"contentIdentifier": "record_book.d15.sparrow_racing0.mars.best_lap_ms",
+		"redacted": false
+	},
+	"1724017521": {
+		"displayName": "Event Standing Earned",
+		"description": "Earn SRL Event Standing in SRL races. Placing higher earns more standing.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/img/destiny_content/records/venus_points_earned.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 1266297719,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 1475579175,
+				"uiItemQuantity": 0,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 337147374,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1719248266,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 1386234429,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				}
+			},
+			{
+				"rewardSiteHash": 3369393392,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 10,
+							"flagHash": 0,
+							"valueHash": 2246811594,
+							"value": 0
+						},
+						{
+							"stepOperator": 11,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 16
+						},
+						{
+							"stepOperator": 8,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 2740627668,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 1386234429,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3234845967
+			}
+		],
+		"hash": 1724017521,
+		"index": 9,
+		"contentIdentifier": "record_book.d15.sparrow_racing0.venus.points_earned",
+		"redacted": false
+	},
+	"1741875240": {
+		"displayName": "Hold the Line",
+		"description": "Reach Level 40 as a Titan.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/6fd2a12d8b9065847122af1bcc6f48d8.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 4082688612,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2009009867,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 342915544
+			}
+		],
+		"hash": 1741875240,
+		"index": 88,
+		"contentIdentifier": "d15.v260.ages.titan.record0",
+		"redacted": false
+	},
+	"1741875241": {
+		"displayName": "No Surrender",
+		"description": "Defeat opposing Guardians in the Crucible as a Titan.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/2d99127c92c8978184f2285f784acc15.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 4082688613,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 4025902276,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 342915545
+			}
+		],
+		"hash": 1741875241,
+		"index": 89,
+		"contentIdentifier": "d15.v260.ages.titan.record1",
+		"redacted": false
+	},
+	"1741875242": {
+		"displayName": "Get Personal",
+		"description": "Defeat enemies with Melee abilities as a Titan.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/34b92aa8ec4f5aaa0233b53130c16461.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 4082688614,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3742386713,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 342915546
+			}
+		],
+		"hash": 1741875242,
+		"index": 90,
+		"contentIdentifier": "d15.v260.ages.titan.record2",
+		"redacted": false
+	},
+	"1741875243": {
+		"displayName": "Portable Destruction",
+		"description": "Defeat enemies with Grenade abilities as a Titan.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/fa32e218346aaba89df2cadcc4a41073.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 4082688615,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1511797930,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 342915547
+			}
+		],
+		"hash": 1741875243,
+		"index": 91,
+		"contentIdentifier": "d15.v260.ages.titan.record3",
+		"redacted": false
+	},
+	"1741875244": {
+		"displayName": "Super Star",
+		"description": "Defeat enemies with your Super abilities as a Titan.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/5c2679aba7f9d846e859c4ac6c7a98c2.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 4082688608,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2817655239,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 342915548
+			}
+		],
+		"hash": 1741875244,
+		"index": 92,
+		"contentIdentifier": "d15.v260.ages.titan.record4",
+		"redacted": false
+	},
+	"1741875245": {
+		"displayName": "Light Show",
+		"description": "Generate Orbs of Light as a Titan.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/ec1ab6a8dd514a22750d93b4e9d3eb46.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 4082688609,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 964037840,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 342915549
+			}
+		],
+		"hash": 1741875245,
+		"index": 93,
+		"contentIdentifier": "d15.v260.ages.titan.record5",
+		"redacted": false
+	},
+	"1741875246": {
+		"displayName": "Victory or Death",
+		"description": "Complete the Crucible Titan quests \"Striking Fist,\" \"Armored Void,\" and \"Flameforged.\"",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/cfc73193545fc2f463387c9116cf716a.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 4082688610,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2411777557,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 342915550
+			}
+		],
+		"hash": 1741875246,
+		"index": 94,
+		"contentIdentifier": "d15.v260.ages.titan.record6",
+		"redacted": false
+	},
+	"1741875247": {
+		"displayName": "Be the Wall",
+		"description": "Complete all Titan milestones in the Age of Triumph Record Book to unlock this page's emblem.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/f08c33ed5a3c7d6654b689023a787599.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 2809337281,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 4082688611,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 558160358,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 342915551
+			}
+		],
+		"hash": 1741875247,
+		"index": 95,
+		"contentIdentifier": "d15.v260.ages.titan.record7",
+		"redacted": false
+	},
+	"1872531696": {
+		"displayName": "Challenge of the Elders",
+		"description": "Complete an Elder's Sigil scorecard in the Prison of Elders.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/aa9a4f4a0d245b5fd0a143f0edd2e2bb.png",
+		"recruitmentTag": "ChallengeOfElders",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 661507044,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1013569497,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3020527793,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1872531696
+			}
+		],
+		"hash": 1872531696,
+		"index": 21,
+		"contentIdentifier": "d15.summer.triumph0.moments.record5",
+		"redacted": false
+	},
+	"1872531697": {
+		"displayName": "The Play's the Thing",
+		"description": "Complete the Taken King main questline, culminating in \"Regicide.\"",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/a1efebf5f736f59d514a7cde98ab0b5f.png",
+		"recruitmentTag": "Quest",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 661507044,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3370185842,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 98365794,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1872531697
+			}
+		],
+		"hash": 1872531697,
+		"index": 20,
+		"contentIdentifier": "d15.summer.triumph0.moments.record4",
+		"redacted": false
+	},
+	"1872531698": {
+		"displayName": "The Third Element",
+		"description": "Equip a fully leveled Year Two subclass on any character.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/1b231fcfd62383c4b2a95c6d18608735.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 661507044,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2952421019,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 454613827,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1872531698
+			}
+		],
+		"hash": 1872531698,
+		"index": 23,
+		"contentIdentifier": "d15.summer.triumph0.moments.record7",
+		"redacted": false
+	},
+	"1872531699": {
+		"displayName": "This is Amazing",
+		"description": "Complete the Crucible questline culminating in \"The Mountaintop.\"",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/03784f53b2fa664690b9ab8d0bf265c5.png",
+		"recruitmentTag": "PvP",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 661507044,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1343080580,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1822195996,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1872531699
+			}
+		],
+		"hash": 1872531699,
+		"index": 22,
+		"contentIdentifier": "d15.summer.triumph0.moments.record6",
+		"redacted": false
+	},
+	"1872531700": {
+		"displayName": "Eris Morn's Revenge",
+		"description": "Collect all 50 Calcified Fragments",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/42dbbce18f29b3b6573ba3c9fd443c87.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 661507044,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2611145725,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3634839853,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1872531700
+			}
+		],
+		"hash": 1872531700,
+		"index": 17,
+		"contentIdentifier": "d15.summer.triumph0.moments.record1",
+		"redacted": false
+	},
+	"1872531701": {
+		"displayName": "A Blade Reborn",
+		"description": "Complete any of the Exotic sword quests from Shaxx",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/4efa1a5767e4f220466e0ecb21849f86.png",
+		"recruitmentTag": "Quest",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 661507044,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1631962166,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 907011198,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1872531701
+			}
+		],
+		"hash": 1872531701,
+		"index": 16,
+		"contentIdentifier": "d15.summer.triumph0.moments.record0",
+		"redacted": false
+	},
+	"1872531702": {
+		"displayName": "Return to the Reef",
+		"description": "Complete the April quests \"At the Gates\" and \"Return to the Prison\"",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/d4bce57001500757434969e06cb454ad.png",
+		"recruitmentTag": "Quest",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 661507044,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1865580927,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 814294847,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1872531702
+			}
+		],
+		"hash": 1872531702,
+		"index": 19,
+		"contentIdentifier": "d15.summer.triumph0.moments.record3",
+		"redacted": false
+	},
+	"1872531703": {
+		"displayName": "The Sword Logic",
+		"description": "Defeat Oryx in the King's Fall Raid on Hard difficulty",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/a5607dc35d58132f1ec4931899c01942.png",
+		"recruitmentTag": "KingsFallHeroic",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 661507044,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 4278089672,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 905598632,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1872531703
+			}
+		],
+		"hash": 1872531703,
+		"index": 18,
+		"contentIdentifier": "d15.summer.triumph0.moments.record2",
+		"redacted": false
+	},
+	"2023542984": {
+		"displayName": "Fully Charged",
+		"description": "Throw SIVA Charges in the Wrath of the Machine raid.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/b85b88dd493719daf5c72d24dce5281c.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1773217153,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1001508105,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3853467318
+			}
+		],
+		"hash": 2023542984,
+		"index": 40,
+		"contentIdentifier": "d15.fall.rise_of_iron.promise.record0",
+		"redacted": false
+	},
+	"2023542985": {
+		"displayName": "Volt Shepherd",
+		"description": "Deliver voltage to the Foundry spinners in the Wrath of the Machine raid.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/7b62e2744cd2cfa815f86caf042e721f.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 4259884602,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2369090522,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3853467319
+			}
+		],
+		"hash": 2023542985,
+		"index": 41,
+		"contentIdentifier": "d15.fall.rise_of_iron.promise.record1",
+		"redacted": false
+	},
+	"2023542986": {
+		"displayName": "Treasure-Seeker",
+		"description": "Open SIVA Caches in the Wrath of the Machine raid.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/58578a94369ff84fc7e5cdcc093587e5.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1780397411,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 623124283,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3853467316
+			}
+		],
+		"hash": 2023542986,
+		"index": 42,
+		"contentIdentifier": "d15.fall.rise_of_iron.promise.record2",
+		"redacted": false
+	},
+	"2023542987": {
+		"displayName": "Smash the Machine",
+		"description": "Defeat Bosses in the Wrath of the Machine raid.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/91605d5cd95cff068918756f37bfa883.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3471211180,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1613631924,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3853467317
+			}
+		],
+		"hash": 2023542987,
+		"index": 43,
+		"contentIdentifier": "d15.fall.rise_of_iron.promise.record3",
+		"redacted": false
+	},
+	"2023542988": {
+		"displayName": "Change the Channel",
+		"description": "Destroy SIVA-controlled Monitors in the Wrath of the Machine raid.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/4492af7ee31f6af4f1542be1ea67acd0.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 40738981,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 4002803333,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3853467314
+			}
+		],
+		"hash": 2023542988,
+		"index": 44,
+		"contentIdentifier": "d15.fall.rise_of_iron.promise.record4",
+		"redacted": false
+	},
+	"2023542989": {
+		"displayName": "You Got Served",
+		"description": "Kill SIVA-controlled Servitors in the Plaguelands.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/78c96ac7ac63c8a72a434f6a5ce0165d.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 175939998,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1028035478,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3853467315
+			}
+		],
+		"hash": 2023542989,
+		"index": 45,
+		"contentIdentifier": "d15.fall.rise_of_iron.promise.record5",
+		"redacted": false
+	},
+	"2023542990": {
+		"displayName": "High-Speed Crash",
+		"description": "Complete the Wrath of the Machine raid's Siege Engine encounter on Heroic difficulty in under 6 minutes.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_time_in_milliseconds",
+		"icon": "/common/destiny_content/icons/d5827e17e96a430f2b53550f3ef548f6.png",
+		"style": 2,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 646235655,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1431769655,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3853467312
+			}
+		],
+		"hash": 2023542990,
+		"index": 46,
+		"contentIdentifier": "d15.fall.rise_of_iron.promise.record6",
+		"redacted": false
+	},
+	"2023542991": {
+		"displayName": "Meddle with Metal",
+		"description": "Complete the Wrath of the Machine Raid on Heroic Difficulty",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/16d8a968e3df48772d70b74f557236ed.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3577288624,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2846837888,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3853467313
+			}
+		],
+		"hash": 2023542991,
+		"index": 47,
+		"contentIdentifier": "d15.fall.rise_of_iron.promise.record7",
+		"redacted": false
+	},
+	"2107771632": {
+		"displayName": "From the Beginning",
+		"description": "Completed an activity between Destiny release and Dark Below release.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/96528958250a8b41a7747e2d90a1e137.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 1845137794,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3468315636,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3532785659,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3671529280
+			}
+		],
+		"hash": 2107771632,
+		"index": 72,
+		"contentIdentifier": "d15.v260.ages.memorialization.record0",
+		"redacted": false
+	},
+	"2107771633": {
+		"displayName": "Lunar Veteran",
+		"description": "Completed an activity between Dark Below release and House of Wolves release.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/51d497834fbd6ce7b26df64c634862eb.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 1845137793,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3468315637,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 186852468,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3671529281
+			}
+		],
+		"hash": 2107771633,
+		"index": 73,
+		"contentIdentifier": "d15.v260.ages.memorialization.record1",
+		"redacted": false
+	},
+	"2107771634": {
+		"displayName": "Wolf Breaker",
+		"description": "Completed an activity between House of Wolves release and The Taken King release.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/22318852752ceee68a2fdc57c3ab4caf.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 1845137792,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3468315638,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3911169481,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3671529282
+			}
+		],
+		"hash": 2107771634,
+		"index": 74,
+		"contentIdentifier": "d15.v260.ages.memorialization.record2",
+		"redacted": false
+	},
+	"2107771635": {
+		"displayName": "Year of Triumph",
+		"description": "Completed an activity during the Year 1 Moments of Triumph.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/e83d7a272984649e6466858f734be17b.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 1845137807,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3468315639,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 983887514,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3671529283
+			}
+		],
+		"hash": 2107771635,
+		"index": 75,
+		"contentIdentifier": "d15.v260.ages.memorialization.record3",
+		"redacted": false
+	},
+	"2107771636": {
+		"displayName": "Doom of Oryx",
+		"description": "Completed an activity between The Taken King release and Rise of Iron release.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/2a86dd149780fa9ac43c3bef4ec7033b.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 1845137806,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3468315632,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 471024375,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3671529284
+			}
+		],
+		"hash": 2107771636,
+		"index": 76,
+		"contentIdentifier": "d15.v260.ages.memorialization.record4",
+		"redacted": false
+	},
+	"2107771637": {
+		"displayName": "Rising Light",
+		"description": "Completed an activity during the 2016 April Update.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/6c17eab056069bd4e21db9e8a497d583.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 2809337282,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3468315633,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1419955264,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3671529285
+			}
+		],
+		"hash": 2107771637,
+		"index": 77,
+		"contentIdentifier": "d15.v260.ages.memorialization.record5",
+		"redacted": false
+	},
+	"2107771638": {
+		"displayName": "Second Year of Triumph",
+		"description": "Completed an activity during the Year 2 Moments of Triumph.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/3a2dfb447402c2a376292059c44b337f.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 2809337280,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3468315634,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2576023877,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3671529286
+			}
+		],
+		"hash": 2107771638,
+		"index": 78,
+		"contentIdentifier": "d15.v260.ages.memorialization.record6",
+		"redacted": false
+	},
+	"2107771639": {
+		"displayName": "Reign of Iron",
+		"description": "Completed an activity between Rise of Iron and Age of Triumph.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/be2466bf7cc6ec38bc5146a418c3251f.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 2809337283,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3468315635,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 67290198,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3671529287
+			}
+		],
+		"hash": 2107771639,
+		"index": 79,
+		"contentIdentifier": "d15.v260.ages.memorialization.record7",
+		"redacted": false
+	},
+	"2543960984": {
+		"displayName": "A Burst of Light",
+		"description": "Generate Orbs of Light as a Warlock.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/ec1ab6a8dd514a22750d93b4e9d3eb46.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3719496908,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2218889251,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1295680264
+			}
+		],
+		"hash": 2543960984,
+		"index": 109,
+		"contentIdentifier": "d15.v260.ages.warlock.record5",
+		"redacted": false
+	},
+	"2543960985": {
+		"displayName": "Shock and Awe",
+		"description": "Defeat enemies with your Super abilities as a Warlock.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/5c2679aba7f9d846e859c4ac6c7a98c2.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3719496909,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3586574844,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1295680265
+			}
+		],
+		"hash": 2543960985,
+		"index": 108,
+		"contentIdentifier": "d15.v260.ages.warlock.record4",
+		"redacted": false
+	},
+	"2543960986": {
+		"displayName": "Mysterious Path",
+		"description": "Complete all Warlock milestones in the Age of Triumph Record Book to unlock this page's emblem.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/8a713532ba6dd3ad2a20c179e840b9e2.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 2809337287,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3719496910,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 861001233,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1295680266
+			}
+		],
+		"hash": 2543960986,
+		"index": 111,
+		"contentIdentifier": "d15.v260.ages.warlock.record7",
+		"redacted": false
+	},
+	"2543960987": {
+		"displayName": "A Hard Lesson",
+		"description": "Complete the Crucible Warlock quests \"Voidmaster,\" \"A Song For the Sun,\" and \"Fulminator.\"",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/cfc73193545fc2f463387c9116cf716a.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3719496911,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1767772354,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1295680267
+			}
+		],
+		"hash": 2543960987,
+		"index": 110,
+		"contentIdentifier": "d15.v260.ages.warlock.record6",
+		"redacted": false
+	},
+	"2543960988": {
+		"displayName": "Show Your Might",
+		"description": "Defeat opposing Guardians in the Crucible as a Warlock.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/2d99127c92c8978184f2285f784acc15.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3719496904,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2908158879,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1295680268
+			}
+		],
+		"hash": 2543960988,
+		"index": 105,
+		"contentIdentifier": "d15.v260.ages.warlock.record1",
+		"redacted": false
+	},
+	"2543960989": {
+		"displayName": "Secrets Learned",
+		"description": "Reach Level 40 as a Warlock.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/6fd2a12d8b9065847122af1bcc6f48d8.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3719496905,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2245519752,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1295680269
+			}
+		],
+		"hash": 2543960989,
+		"index": 104,
+		"contentIdentifier": "d15.v260.ages.warlock.record0",
+		"redacted": false
+	},
+	"2543960990": {
+		"displayName": "Tactical Explosive",
+		"description": "Defeat enemies with Grenade abilities as a Warlock.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/fa32e218346aaba89df2cadcc4a41073.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3719496906,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1104147981,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1295680270
+			}
+		],
+		"hash": 2543960990,
+		"index": 107,
+		"contentIdentifier": "d15.v260.ages.warlock.record3",
+		"redacted": false
+	},
+	"2543960991": {
+		"displayName": "Up Close",
+		"description": "Defeat enemies with Melee abilities as a Warlock.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/34b92aa8ec4f5aaa0233b53130c16461.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3719496907,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3000875230,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1295680271
+			}
+		],
+		"hash": 2543960991,
+		"index": 106,
+		"contentIdentifier": "d15.v260.ages.warlock.record2",
+		"redacted": false
+	},
+	"2571286512": {
+		"displayName": "Shaxx's Esteem",
+		"description": "Reach Rank 25 in the Crucible.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/f68b8d87e16725d62a102c8f1d9c794a.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 2792559721,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1445029260,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2245292643,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2150048128
+			}
+		],
+		"hash": 2571286512,
+		"index": 155,
+		"contentIdentifier": "d15.v260.ages.allegiance.record3",
+		"redacted": false
+	},
+	"2571286513": {
+		"displayName": "Hideo's Favor",
+		"description": "Reach Rank 25 with New Monarchy.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/db1353148ae32262d27c30f50dfe224e.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 2792559718,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1445029261,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3188417340,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2150048129
+			}
+		],
+		"hash": 2571286513,
+		"index": 154,
+		"contentIdentifier": "d15.v260.ages.allegiance.record2",
+		"redacted": false
+	},
+	"2571286514": {
+		"displayName": "Lakshmi's Favor",
+		"description": "Reach Rank 25 with Future War Cult.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/3c3671698c3a31b408b7207f430a53f0.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 2792559719,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1445029262,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 462843985,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2150048130
+			}
+		],
+		"hash": 2571286514,
+		"index": 153,
+		"contentIdentifier": "d15.v260.ages.allegiance.record1",
+		"redacted": false
+	},
+	"2571286515": {
+		"displayName": "Jalaal's Favor",
+		"description": "Reach Rank 25 with Dead Orbit.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/404d85330a7397cf05122444925ec32a.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 2792559720,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1445029263,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1835649026,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2150048131
+			}
+		],
+		"hash": 2571286515,
+		"index": 152,
+		"contentIdentifier": "d15.v260.ages.allegiance.record0",
+		"redacted": false
+	},
+	"2571286516": {
+		"displayName": "Beloved of All",
+		"description": "Complete all Allegiance milestones in the Age of Triumph Record Book to unlock this page's emblem.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/3308baf80f0d300d96cbb4948fd54aa2.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 2792559725,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1445029256,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2551681503,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2150048132
+			}
+		],
+		"hash": 2571286516,
+		"index": 159,
+		"contentIdentifier": "d15.v260.ages.allegiance.record7",
+		"redacted": false
+	},
+	"2571286517": {
+		"displayName": "Efrideet's Regard",
+		"description": "Reach Rank 5 with the Iron Banner.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/344af4427688137ebcde2692a22dc6a2.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1445029257,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2271819976,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2150048133
+			}
+		],
+		"hash": 2571286517,
+		"index": 158,
+		"contentIdentifier": "d15.v260.ages.allegiance.record6",
+		"redacted": false
+	},
+	"2571286518": {
+		"displayName": "Cryptarchs' Esteem",
+		"description": "Reach Rank 50 with the Cryptarchy.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/ba4fc90e3de5c858473dc042c82bfb49.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1445029258,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 705990733,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2150048134
+			}
+		],
+		"hash": 2571286518,
+		"index": 157,
+		"contentIdentifier": "d15.v260.ages.allegiance.record5",
+		"redacted": false
+	},
+	"2571286519": {
+		"displayName": "Vanguard's Esteem",
+		"description": "Reach Rank 25 with the Vanguard.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/c9201d5b4fbba687bba90e035d8cbdba.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 2792559722,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1445029259,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3068855070,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2150048135
+			}
+		],
+		"hash": 2571286519,
+		"index": 156,
+		"contentIdentifier": "d15.v260.ages.allegiance.record4",
+		"redacted": false
+	},
+	"2897558091": {
+		"displayName": "Event Standing Earned",
+		"description": "Earn SRL Event Standing in SRL races. Placing higher earns more standing.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/img/destiny_content/records/mars_points_earned.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 1001251649,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 1475579175,
+				"uiItemQuantity": 0,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3671326592,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 4226887052,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 1386234429,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				}
+			},
+			{
+				"rewardSiteHash": 3369393392,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 10,
+							"flagHash": 0,
+							"valueHash": 2246811594,
+							"value": 0
+						},
+						{
+							"stepOperator": 11,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 16
+						},
+						{
+							"stepOperator": 8,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 2740627668,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 1386234429,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3626886705
+			}
+		],
+		"hash": 2897558091,
+		"index": 1,
+		"contentIdentifier": "record_book.d15.sparrow_racing0.mars.points_earned",
+		"redacted": false
+	},
+	"3195182366": {
+		"displayName": "Races Won",
+		"description": "Earn first-place finishes in Mars SRL races.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/img/destiny_content/records/mars_first_place.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 1475579175,
+				"uiItemQuantity": 0,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3195182366,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2852016362,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			},
+			{
+				"rewardSiteHash": 3369393392,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 10,
+							"flagHash": 0,
+							"valueHash": 2246811594,
+							"value": 0
+						},
+						{
+							"stepOperator": 11,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 16
+						},
+						{
+							"stepOperator": 8,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 2740627668,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 1386234429,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1796431156
+			}
+		],
+		"hash": 3195182366,
+		"index": 7,
+		"contentIdentifier": "record_book.d15.sparrow_racing0.mars.first_place_wins",
+		"redacted": false
+	},
+	"3238180283": {
+		"displayName": "Fastest Race",
+		"description": "Beat the par race time on the Mars SRL track.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_time_in_milliseconds",
+		"icon": "/img/destiny_content/records/best_race.png",
+		"style": 2,
+		"rewards": [
+			{
+				"uiItemHash": 1475579175,
+				"uiItemQuantity": 0,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3238180283,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2758018167,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			},
+			{
+				"rewardSiteHash": 3369393392,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 10,
+							"flagHash": 0,
+							"valueHash": 2246811594,
+							"value": 0
+						},
+						{
+							"stepOperator": 11,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 16
+						},
+						{
+							"stepOperator": 8,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 2740627668,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 1386234429,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 3957301881
+			}
+		],
+		"hash": 3238180283,
+		"index": 5,
+		"contentIdentifier": "record_book.d15.sparrow_racing0.mars.best_race_ms",
+		"redacted": false
+	},
+	"3320873840": {
+		"displayName": "Cold Winter Night",
+		"description": "Complete Nightfall strikes.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/7088b9310ad6724f05ceaa6c6c7e64cd.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2702004841,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 927680225,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2295227838
+			}
+		],
+		"hash": 3320873840,
+		"index": 28,
+		"contentIdentifier": "d15.fall.rise_of_iron.pve.record4",
+		"redacted": false
+	},
+	"3320873841": {
+		"displayName": "Hard as Iron",
+		"description": "Complete Rise of Iron story missions on Hard difficulty.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/696dd837177bfa8f53fada4767178167.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2321495298,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1871491410,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2295227839
+			}
+		],
+		"hash": 3320873841,
+		"index": 29,
+		"contentIdentifier": "d15.fall.rise_of_iron.pve.record5",
+		"redacted": false
+	},
+	"3320873842": {
+		"displayName": "A Life Exotic",
+		"description": "Complete all Exotic quests in Rise of Iron.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/88ce24304bc1e0a2efb18350b9e4251d.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1703403,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1286861235,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2295227836
+			}
+		],
+		"hash": 3320873842,
+		"index": 30,
+		"contentIdentifier": "d15.fall.rise_of_iron.pve.record6",
+		"redacted": false
+	},
+	"3320873843": {
+		"displayName": "Patrol with It",
+		"description": "Complete the weekly patrol quest.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/9306c7c0262bb854466bd7878f14ceae.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 760424532,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3722301900,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2295227837
+			}
+		],
+		"hash": 3320873843,
+		"index": 31,
+		"contentIdentifier": "d15.fall.rise_of_iron.pve.record7",
+		"redacted": false
+	},
+	"3320873844": {
+		"displayName": "The Rise of Iron",
+		"description": "Complete the Rise of Iron questline.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/e4ee814725c958bc0678c4fa4b3bcbd9.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1604031885,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1239978269,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2295227834
+			}
+		],
+		"hash": 3320873844,
+		"index": 24,
+		"contentIdentifier": "d15.fall.rise_of_iron.pve.record0",
+		"redacted": false
+	},
+	"3320873845": {
+		"displayName": "Metal and Flesh",
+		"description": "Complete the quest \"Metal and Flesh.\"",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/59034783adef8efd67d515887c95a355.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2527432582,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3104697390,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2295227835
+			}
+		],
+		"hash": 3320873845,
+		"index": 25,
+		"contentIdentifier": "d15.fall.rise_of_iron.pve.record1",
+		"redacted": false
+	},
+	"3320873846": {
+		"displayName": "Honoring the Past",
+		"description": "Collect all eight Iron Lord artifacts.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/0c4542b2dbae85e972a4829145b09701.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3561107407,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3022323759,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2295227832
+			}
+		],
+		"hash": 3320873846,
+		"index": 26,
+		"contentIdentifier": "d15.fall.rise_of_iron.pve.record2",
+		"redacted": false
+	},
+	"3320873847": {
+		"displayName": "Take a Strike",
+		"description": "Complete strikes in the SIVA Crisis Strikes playlist.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/47641952c5a38cb930f8cc8105006933.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 193919192,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1323834456,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2295227833
+			}
+		],
+		"hash": 3320873847,
+		"index": 27,
+		"contentIdentifier": "d15.fall.rise_of_iron.pve.record3",
+		"redacted": false
+	},
+	"3374757482": {
+		"displayName": "Most Gates: Single Race",
+		"description": "Successfully pass through gates during a single Venus race.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/img/destiny_content/records/gates_hit_race.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 1475579175,
+				"uiItemQuantity": 0,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3374757482,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2815419774,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			},
+			{
+				"rewardSiteHash": 3369393392,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 10,
+							"flagHash": 0,
+							"valueHash": 2246811594,
+							"value": 0
+						},
+						{
+							"stepOperator": 11,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 16
+						},
+						{
+							"stepOperator": 8,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 2740627668,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 1386234429,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1548462092
+			}
+		],
+		"hash": 3374757482,
+		"index": 14,
+		"contentIdentifier": "record_book.d15.sparrow_racing0.venus.gates_hit_race",
+		"redacted": false
+	},
+	"3416780927": {
+		"displayName": "Fastest Lap",
+		"description": "Beat the par lap time on the Venus SRL track.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_time_in_milliseconds",
+		"icon": "/img/destiny_content/records/best_lap.png",
+		"style": 2,
+		"rewards": [
+			{
+				"uiItemHash": 1475579175,
+				"uiItemQuantity": 0,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3416780927,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1410676963,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			},
+			{
+				"rewardSiteHash": 3369393392,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 10,
+							"flagHash": 0,
+							"valueHash": 2246811594,
+							"value": 0
+						},
+						{
+							"stepOperator": 11,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 16
+						},
+						{
+							"stepOperator": 8,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 2740627668,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 1386234429,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1183785417
+			}
+		],
+		"hash": 3416780927,
+		"index": 12,
+		"contentIdentifier": "record_book.d15.sparrow_racing0.venus.best_lap_ms",
+		"redacted": false
+	},
+	"3744735417": {
+		"displayName": "Fastest Race",
+		"description": "Earn first-place finishes in Venus SRL races.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_time_in_milliseconds",
+		"icon": "/img/destiny_content/records/best_race.png",
+		"style": 2,
+		"rewards": [
+			{
+				"uiItemHash": 1475579175,
+				"uiItemQuantity": 0,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3744735417,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1569602885,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			},
+			{
+				"rewardSiteHash": 3369393392,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 10,
+							"flagHash": 0,
+							"valueHash": 2246811594,
+							"value": 0
+						},
+						{
+							"stepOperator": 11,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 16
+						},
+						{
+							"stepOperator": 8,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 2740627668,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 1386234429,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1509103335
+			}
+		],
+		"hash": 3744735417,
+		"index": 13,
+		"contentIdentifier": "record_book.d15.sparrow_racing0.venus.best_race_ms",
+		"redacted": false
+	},
+	"3785252456": {
+		"displayName": "Red Racer",
+		"description": "Beat the par race time on Campus Martius.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_time_in_milliseconds",
+		"icon": "/common/destiny_content/icons/8fb2f370aace4756f2fadc8aba7b61fc.png",
+		"style": 2,
+		"rewards": [
+			{
+				"uiItemHash": 1078667812,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3041829217,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1292393449,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2651063574
+			}
+		],
+		"hash": 3785252456,
+		"index": 57,
+		"contentIdentifier": "d15.winter.silver_chalice.srl.record1",
+		"redacted": false
+	},
+	"3785252457": {
+		"displayName": "In It to the Finish",
+		"description": "Complete Sparrow races.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/01511b3596cb3ed78da613dc6d7e215c.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 1078667812,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 104509722,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2235518138,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2651063575
+			}
+		],
+		"hash": 3785252457,
+		"index": 56,
+		"contentIdentifier": "d15.winter.silver_chalice.srl.record0",
+		"redacted": false
+	},
+	"3785252458": {
+		"displayName": "Maximum Velocity",
+		"description": "Beat the par race time on Infinite Descent.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_time_in_milliseconds",
+		"icon": "/common/destiny_content/icons/00e3fd40921743cfbe7db6646ca65ad6.png",
+		"style": 2,
+		"rewards": [
+			{
+				"uiItemHash": 1078667812,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1560539971,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 489551899,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2651063572
+			}
+		],
+		"hash": 3785252458,
+		"index": 59,
+		"contentIdentifier": "d15.winter.silver_chalice.srl.record3",
+		"redacted": false
+	},
+	"3785252459": {
+		"displayName": "Precision Racing",
+		"description": "Pass through gates in Sparrow races.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/1190e9dabcdf31425400018720e1d717.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 1078667812,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1908446732,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2234208788,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2651063573
+			}
+		],
+		"hash": 3785252459,
+		"index": 58,
+		"contentIdentifier": "d15.winter.silver_chalice.srl.record2",
+		"redacted": false
+	},
+	"3785252460": {
+		"displayName": "Sand Speeder",
+		"description": "Beat the par race time on Shining Sands.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_time_in_milliseconds",
+		"icon": "/common/destiny_content/icons/d947a1a89ecb3b48cc9ac57789b5fd9e.png",
+		"style": 2,
+		"rewards": [
+			{
+				"uiItemHash": 1078667812,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2030508037,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 328413157,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2651063570
+			}
+		],
+		"hash": 3785252460,
+		"index": 61,
+		"contentIdentifier": "d15.winter.silver_chalice.srl.record5",
+		"redacted": false
+	},
+	"3785252461": {
+		"displayName": "Tricky",
+		"description": "Land tricks during Sparrow races.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/c69e9d31f506d8beeff04327c1cf857a.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 1078667812,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 2186882686,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1318920822,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2651063571
+			}
+		],
+		"hash": 3785252461,
+		"index": 60,
+		"contentIdentifier": "d15.winter.silver_chalice.srl.record4",
+		"redacted": false
+	},
+	"3785252462": {
+		"displayName": "Slalom",
+		"description": "Beat the par race time on Haakon Precipice.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_time_in_milliseconds",
+		"icon": "/common/destiny_content/icons/e1abe2c0595f6a871b17f752bda6cf06.png",
+		"style": 2,
+		"rewards": [
+			{
+				"uiItemHash": 1078667812,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1490390247,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1681078039,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2651063568
+			}
+		],
+		"hash": 3785252462,
+		"index": 63,
+		"contentIdentifier": "d15.winter.silver_chalice.srl.record7",
+		"redacted": false
+	},
+	"3785252463": {
+		"displayName": "Speed Bumps",
+		"description": "Defeat enemies in Sparrow races",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/1594fad06b5cba4b1dacc1f485b23c93.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 1078667812,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 4078588432,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3042854368,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2651063569
+			}
+		],
+		"hash": 3785252463,
+		"index": 62,
+		"contentIdentifier": "d15.winter.silver_chalice.srl.record6",
+		"redacted": false
+	},
+	"3786833640": {
+		"displayName": "Glass Ceiling",
+		"description": "Complete the 390 Light version of Vault of Glass.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/3f158a45b69ff96db52a6310df3817e4.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1283379372,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1055817987,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 4267187736
+			}
+		],
+		"hash": 3786833640,
+		"index": 112,
+		"contentIdentifier": "d15.v260.ages.raid.record0",
+		"redacted": false
+	},
+	"3786833641": {
+		"displayName": "Crota, Endless",
+		"description": "Complete the 390 Light version of Crota's End.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/182b847bb46ea4966e8a0e7dce8cb0e7.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1283379373,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2423400412,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 4267187737
+			}
+		],
+		"hash": 3786833641,
+		"index": 113,
+		"contentIdentifier": "d15.v260.ages.raid.record1",
+		"redacted": false
+	},
+	"3786833642": {
+		"displayName": "King of Kings",
+		"description": "Complete the 390 Light version of King's Fall.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/4bb58a26bce55bd5339d056422de56b9.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1283379374,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3197171569,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 4267187738
+			}
+		],
+		"hash": 3786833642,
+		"index": 114,
+		"contentIdentifier": "d15.v260.ages.raid.record2",
+		"redacted": false
+	},
+	"3786833643": {
+		"displayName": "Machina Maxima",
+		"description": "Complete the 390 Light version of Wrath of the Machine.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/d46e7c3d2c802080f61d0931cfcddefb.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1283379375,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 275009314,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 4267187739
+			}
+		],
+		"hash": 3786833643,
+		"index": 115,
+		"contentIdentifier": "d15.v260.ages.raid.record3",
+		"redacted": false
+	},
+	"3786833644": {
+		"displayName": "Blind Labyrinth",
+		"description": "Eliminate all Gorgons in the 390 Light version of Vault of Glass.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/2cb256e0c5af72dbd85b1fe101d5b437.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1283379368,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1415396095,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 4267187740
+			}
+		],
+		"hash": 3786833644,
+		"index": 116,
+		"contentIdentifier": "d15.v260.ages.raid.record4",
+		"redacted": false
+	},
+	"3786833645": {
+		"displayName": "Silence Falls",
+		"description": "When the 390 Light version of Crota's End is the Weekly Featured Raid, defeat the Deathsinger Challenge under the time limit.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_time_in_milliseconds",
+		"icon": "/common/destiny_content/icons/7d5f3b0b13c59897515f30fcca030668.png",
+		"style": 2,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1283379369,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1082345576,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 4267187741
+			}
+		],
+		"hash": 3786833645,
+		"index": 117,
+		"contentIdentifier": "d15.v260.ages.raid.record5",
+		"redacted": false
+	},
+	"3786833646": {
+		"displayName": "Raid Insignia",
+		"description": "Collect all Raid Challenge Emblems.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/b8449af0838276a68857932d02ed3189.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1283379370,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3811483629,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 4267187742
+			}
+		],
+		"hash": 3786833646,
+		"index": 118,
+		"contentIdentifier": "d15.v260.ages.raid.record6",
+		"redacted": false
+	},
+	"3786833647": {
+		"displayName": "Light's Stronghold",
+		"description": "Complete all Raid milestones in the Age of Triumph Record Book to unlock this page's emblem.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/7ec18aafd037c3bb4cb431ad018e5084.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 2809337285,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1283379371,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1466638654,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 4267187743
+			}
+		],
+		"hash": 3786833647,
+		"index": 119,
+		"contentIdentifier": "d15.v260.ages.raid.record7",
+		"redacted": false
+	},
+	"3852381276": {
+		"displayName": "Gates Hit",
+		"description": "Successfully pass through gates during Mars SRL races.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/img/destiny_content/records/gates_hit.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2150667284,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 1475579175,
+				"uiItemQuantity": 0,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3784813425,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3895044421,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 1386234429,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				}
+			},
+			{
+				"rewardSiteHash": 3369393392,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 10,
+							"flagHash": 0,
+							"valueHash": 2246811594,
+							"value": 0
+						},
+						{
+							"stepOperator": 11,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 16
+						},
+						{
+							"stepOperator": 8,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 2740627668,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 1386234429,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 1694571362
+			}
+		],
+		"hash": 3852381276,
+		"index": 2,
+		"contentIdentifier": "record_book.d15.sparrow_racing0.mars.gates_hit_all",
+		"redacted": false
+	},
+	"3895391336": {
+		"displayName": "Team Effort",
+		"description": "Complete all Strike milestones in the Age of Triumph Record Book to unlock this page's emblem.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/f3ebdd1c50867f6f84b5fa1f13449e32.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 2809337290,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3553023684,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 207491371,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2541455384
+			}
+		],
+		"hash": 3895391336,
+		"index": 135,
+		"contentIdentifier": "d15.v260.ages.strikes.record7",
+		"redacted": false
+	},
+	"3895391337": {
+		"displayName": "Back in the Fight",
+		"description": "Revive allies during Nightfall strikes.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/ca8fa558e4ca562055f12d4e1808fbe9.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3553023685,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2648841252,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2541455385
+			}
+		],
+		"hash": 3895391337,
+		"index": 134,
+		"contentIdentifier": "d15.v260.ages.strikes.record6",
+		"redacted": false
+	},
+	"3895391338": {
+		"displayName": "One-Guardian Army",
+		"description": "Defeat as many enemies as you can in a single Strike.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/0652221376de254bcfc262d714fb8b6b.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3553023686,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1569806329,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2541455386
+			}
+		],
+		"hash": 3895391338,
+		"index": 133,
+		"contentIdentifier": "d15.v260.ages.strikes.record5",
+		"redacted": false
+	},
+	"3895391339": {
+		"displayName": "On Target",
+		"description": "Earn Precision kills in Strikes.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/78aa0f15ca0ba3912fdd66eea0c1510e.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3553023687,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 134736906,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2541455387
+			}
+		],
+		"hash": 3895391339,
+		"index": 132,
+		"contentIdentifier": "d15.v260.ages.strikes.record4",
+		"redacted": false
+	},
+	"3895391340": {
+		"displayName": "Lead from the Front",
+		"description": "Complete Vanguard Elite bounties.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_percentage",
+		"icon": "/common/destiny_content/icons/a434bbc19ea958f18639c176d66c6cc6.png",
+		"style": 1,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3553023680,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1440594215,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2541455388
+			}
+		],
+		"hash": 3895391340,
+		"index": 131,
+		"contentIdentifier": "d15.v260.ages.strikes.record3",
+		"redacted": false
+	},
+	"3895391341": {
+		"displayName": "Race to the Finish",
+		"description": "Complete a Nightfall Strike in less than 30 minutes.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_time_in_milliseconds",
+		"icon": "/common/destiny_content/icons/c571cd3922ed9db823200c97ffcad5c1.png",
+		"style": 2,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3553023681,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3881944112,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2541455389
+			}
+		],
+		"hash": 3895391341,
+		"index": 130,
+		"contentIdentifier": "d15.v260.ages.strikes.record2",
+		"redacted": false
+	},
+	"3895391342": {
+		"displayName": "In the Dark",
+		"description": "Complete Nightfall Strikes.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/ddb7bd023574dbc0a040daca0736e27b.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3553023682,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 663551477,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2541455390
+			}
+		],
+		"hash": 3895391342,
+		"index": 129,
+		"contentIdentifier": "d15.v260.ages.strikes.record1",
+		"redacted": false
+	},
+	"3895391343": {
+		"displayName": "You're the Hero",
+		"description": "Complete Strikes on Heroic difficulty.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/61a62f2d7a61f4d4b4866733aa7e5623.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3553023683,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3104901318,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2541455391
+			}
+		],
+		"hash": 3895391343,
+		"index": 128,
+		"contentIdentifier": "d15.v260.ages.strikes.record0",
+		"redacted": false
+	},
+	"4186051700": {
+		"displayName": "Races Won",
+		"description": "Earn first-place finishes in Venus SRL races.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/img/destiny_content/records/venus_first_place.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 1475579175,
+				"uiItemQuantity": 0,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 4186051700,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 748271488,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			},
+			{
+				"rewardSiteHash": 3369393392,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 10,
+							"flagHash": 0,
+							"valueHash": 2246811594,
+							"value": 0
+						},
+						{
+							"stepOperator": 11,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 16
+						},
+						{
+							"stepOperator": 8,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 2740627668,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 1386234429,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 744189594
+			}
+		],
+		"hash": 4186051700,
+		"index": 15,
+		"contentIdentifier": "record_book.d15.sparrow_racing0.venus.first_place_wins",
+		"redacted": false
+	},
+	"4226385256": {
+		"displayName": "Supreme Leader",
+		"description": "Win Supremacy Crucible matches.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/d07f38577ce5133787426b0842a6eb10.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 779943841,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 598875945,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2893939414
+			}
+		],
+		"hash": 4226385256,
+		"index": 49,
+		"contentIdentifier": "d15.fall.rise_of_iron.pvp.record1",
+		"redacted": false
+	},
+	"4226385257": {
+		"displayName": "Dragon of Light",
+		"description": "Achieve maximum rank in the Iron Banner event.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/920f0e3e6933cb3411147393f19d7c3e.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 4050415450,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1966458362,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2893939415
+			}
+		],
+		"hash": 4226385257,
+		"index": 48,
+		"contentIdentifier": "d15.fall.rise_of_iron.pvp.record0",
+		"redacted": false
+	},
+	"4226385258": {
+		"displayName": "Takebacks",
+		"description": "Recover Ally Crests in Supremacy Crucible matches.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/d54ec294123f570ad6d2fa0d8a0c8de8.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1995488643,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 220388955,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2893939412
+			}
+		],
+		"hash": 4226385258,
+		"index": 51,
+		"contentIdentifier": "d15.fall.rise_of_iron.pvp.record3",
+		"redacted": false
+	},
+	"4226385259": {
+		"displayName": "Crest in Class",
+		"description": "Collect Crests in Supremacy Crucible matches.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/a148e6f591f09f74a1bce2e11f2cd8be.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 3983002444,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1582165076,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2893939413
+			}
+		],
+		"hash": 4226385259,
+		"index": 50,
+		"contentIdentifier": "d15.fall.rise_of_iron.pvp.record2",
+		"redacted": false
+	},
+	"4226385260": {
+		"displayName": "Unstoppable",
+		"description": "Win consecutive Crucible matches in Rise of Iron.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/e2fe99c37d69a21839d4ae772fa367c7.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 552530245,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3971336485,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2893939410
+			}
+		],
+		"hash": 4226385260,
+		"index": 53,
+		"contentIdentifier": "d15.fall.rise_of_iron.pvp.record5",
+		"redacted": false
+	},
+	"4226385261": {
+		"displayName": "Glory and the Taking of It",
+		"description": "Complete the Rise of Iron Crucible quest \"Glory and the Taking of It.\"",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/fd88a4fea792866b5c0cacb015c2be9f.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 4261541310,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 625403318,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2893939411
+			}
+		],
+		"hash": 4226385261,
+		"index": 52,
+		"contentIdentifier": "d15.fall.rise_of_iron.pvp.record4",
+		"redacted": false
+	},
+	"4226385262": {
+		"displayName": "Forged in Fire",
+		"description": "Earn a Kill/Death ratio of 1.00 or greater in a single Crucible match.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_number_two_decimal_places",
+		"icon": "/common/destiny_content/icons/efe11c610c72f54ccb6ac7f33a8d67b2.png",
+		"style": 4,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 1925235751,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1453594967,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2893939408
+			}
+		],
+		"hash": 4226385262,
+		"index": 55,
+		"contentIdentifier": "d15.fall.rise_of_iron.pvp.record7",
+		"redacted": false
+	},
+	"4226385263": {
+		"displayName": "Golden Ticket",
+		"description": "Complete a Trials of Osiris Passage.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/550b061dc26cf6e5416734261ce52059.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 2122975713,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 4089079888,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2773794336,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 2893939409
+			}
+		],
+		"hash": 4226385263,
+		"index": 54,
+		"contentIdentifier": "d15.fall.rise_of_iron.pvp.record6",
+		"redacted": false
+	},
+	"4286342632": {
+		"displayName": "Cutting Edge",
+		"description": "Defeat enemies with Melee abilities as a Hunter.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/34b92aa8ec4f5aaa0233b53130c16461.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 4120960900,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2432876907,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 606063960
+			}
+		],
+		"hash": 4286342632,
+		"index": 98,
+		"contentIdentifier": "d15.v260.ages.hunter.record2",
+		"redacted": false
+	},
+	"4286342633": {
+		"displayName": "Whizz Bang",
+		"description": "Defeat enemies with Grenade abilities as a Hunter.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/fa32e218346aaba89df2cadcc4a41073.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 4120960901,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 579259492,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 606063961
+			}
+		],
+		"hash": 4286342633,
+		"index": 99,
+		"contentIdentifier": "d15.v260.ages.hunter.record3",
+		"redacted": false
+	},
+	"4286342634": {
+		"displayName": "Mountain's Summit",
+		"description": "Reach Level 40 as a Hunter.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_boolean",
+		"icon": "/common/destiny_content/icons/6fd2a12d8b9065847122af1bcc6f48d8.png",
+		"style": 3,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 4120960902,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3795191609,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 606063962
+			}
+		],
+		"hash": 4286342634,
+		"index": 96,
+		"contentIdentifier": "d15.v260.ages.hunter.record0",
+		"redacted": false
+	},
+	"4286342635": {
+		"displayName": "Hunter and Hunted",
+		"description": "Defeat opposing Guardians in the Crucible as a Hunter.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/2d99127c92c8978184f2285f784acc15.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 4120960903,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1894191434,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 606063963
+			}
+		],
+		"hash": 4286342635,
+		"index": 97,
+		"contentIdentifier": "d15.v260.ages.hunter.record1",
+		"redacted": false
+	},
+	"4286342636": {
+		"displayName": "Self-Sufficient",
+		"description": "Complete the Crucible Hunter quests \"Just a Handful of Bullets,\" \"Sheathed Lightning,\" and \"Draw From the Void.\"",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/cfc73193545fc2f463387c9116cf716a.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 4120960896,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3624506215,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 606063964
+			}
+		],
+		"hash": 4286342636,
+		"index": 102,
+		"contentIdentifier": "d15.v260.ages.hunter.record6",
+		"redacted": false
+	},
+	"4286342637": {
+		"displayName": "Who Walks Alone",
+		"description": "Complete all Hunter milestones in the Age of Triumph Record Book to unlock this page's emblem.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/0980199eb29b342d5803d839181fb719.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			},
+			{
+				"uiItemHash": 2809337286,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 4120960897,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 1346431344,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 606063965
+			}
+		],
+		"hash": 4286342637,
+		"index": 103,
+		"contentIdentifier": "d15.v260.ages.hunter.record7",
+		"redacted": false
+	},
+	"4286342638": {
+		"displayName": "Insuperable",
+		"description": "Defeat enemies with your Super abilities as a Hunter.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/5c2679aba7f9d846e859c4ac6c7a98c2.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 4120960898,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2464582453,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 606063966
+			}
+		],
+		"hash": 4286342638,
+		"index": 100,
+		"contentIdentifier": "d15.v260.ages.hunter.record4",
+		"redacted": false
+	},
+	"4286342639": {
+		"displayName": "Eliminate, Illuminate",
+		"description": "Generate Light Orbs as a Hunter.",
+		"recordValueUIStyle": "_investment_record_value_ui_style_integer",
+		"icon": "/common/destiny_content/icons/ec1ab6a8dd514a22750d93b4e9d3eb46.png",
+		"style": 0,
+		"rewards": [
+			{
+				"uiItemHash": 615153770,
+				"uiItemQuantity": 1,
+				"levelRewarded": 0
+			}
+		],
+		"actualRewards": [
+			{
+				"rewardSiteHash": 4120960899,
+				"itemUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 610964998,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				}
+			}
+		],
+		"objectives": [
+			{
+				"objectiveHash": 606063967
+			}
+		],
+		"hash": 4286342639,
+		"index": 101,
+		"contentIdentifier": "d15.v260.ages.hunter.record5",
+		"redacted": false
+	}
+}

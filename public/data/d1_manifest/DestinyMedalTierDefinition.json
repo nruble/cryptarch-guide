@@ -1,0 +1,79 @@
+{
+	"198020409": {
+		"tierName": "Complete Medals",
+		"order": 400,
+		"hash": 198020409,
+		"index": 0,
+		"redacted": false
+	},
+	"232388007": {
+		"tierName": "Weapon Multikill Medals",
+		"order": 100,
+		"hash": 232388007,
+		"index": 0,
+		"redacted": false
+	},
+	"612614709": {
+		"tierName": "Tier 5",
+		"order": 300,
+		"hash": 612614709,
+		"index": 0,
+		"redacted": false
+	},
+	"1015899236": {
+		"tierName": "Tier 2",
+		"order": 600,
+		"hash": 1015899236,
+		"index": 0,
+		"redacted": false
+	},
+	"1775414123": {
+		"tierName": "Tier 7",
+		"order": 100,
+		"hash": 1775414123,
+		"index": 0,
+		"redacted": false
+	},
+	"2178698650": {
+		"tierName": "Tier 4",
+		"order": 400,
+		"hash": 2178698650,
+		"index": 0,
+		"redacted": false
+	},
+	"2581983177": {
+		"tierName": "Tier 1",
+		"order": 700,
+		"hash": 2581983177,
+		"index": 0,
+		"redacted": false
+	},
+	"2806138325": {
+		"tierName": "Super Medals",
+		"order": 300,
+		"hash": 2806138325,
+		"index": 0,
+		"redacted": false
+	},
+	"3341498064": {
+		"tierName": "Tier 6",
+		"order": 200,
+		"hash": 3341498064,
+		"index": 0,
+		"redacted": false
+	},
+	"3717307810": {
+		"tierName": "Ability/Support Medals",
+		"order": 200,
+		"hash": 3717307810,
+		"index": 0,
+		"redacted": false
+	},
+	"3744782591": {
+		"tierName": "Tier 3",
+		"order": 500,
+		"hash": 3744782591,
+		"index": 0,
+		"redacted": false
+	}
+}

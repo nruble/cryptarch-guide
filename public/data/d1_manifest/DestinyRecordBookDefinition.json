@@ -1,0 +1,1622 @@
+{
+	"243968262": {
+		"bookAvailableUnlockExpression": {
+			"steps": [
+				{
+					"stepOperator": 1,
+					"flagHash": 539284216,
+					"valueHash": 0,
+					"value": 0
+				}
+			]
+		},
+		"activeRanges": [
+			{
+				"start": "2016-09-20T09:00:00Z",
+				"end": "9999-12-31T23:59:59.999Z"
+			}
+		],
+		"pages": [
+			{
+				"displayName": "Rewards",
+				"displayDescription": "Complete Rise of Iron milestones to rank up the Record Book and earn rewards.",
+				"displayStyle": 1,
+				"records": [],
+				"rewards": [
+					{
+						"visible": true,
+						"itemHash": 2479679971,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 2,
+						"claimedUnlockHash": 829681997,
+						"canReclaim": true,
+						"quantity": 1
+					},
+					{
+						"visible": false,
+						"itemHash": 1367053096,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 3,
+						"claimedUnlockHash": 3192546334,
+						"canReclaim": false,
+						"quantity": 1
+					},
+					{
+						"visible": true,
+						"itemHash": 105692437,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 4,
+						"claimedUnlockHash": 2368983907,
+						"canReclaim": true,
+						"quantity": 1
+					},
+					{
+						"visible": false,
+						"itemHash": 1367053096,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 5,
+						"claimedUnlockHash": 3312108604,
+						"canReclaim": false,
+						"quantity": 1
+					},
+					{
+						"visible": true,
+						"itemHash": 1807104308,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 6,
+						"claimedUnlockHash": 586535249,
+						"canReclaim": true,
+						"quantity": 1
+					},
+					{
+						"visible": false,
+						"itemHash": 1367053096,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 7,
+						"claimedUnlockHash": 1959340290,
+						"canReclaim": false,
+						"quantity": 1
+					},
+					{
+						"visible": true,
+						"itemHash": 2672412973,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 8,
+						"claimedUnlockHash": 1886979687,
+						"canReclaim": true,
+						"quantity": 1
+					},
+					{
+						"visible": false,
+						"itemHash": 1367053096,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 9,
+						"claimedUnlockHash": 3903872112,
+						"canReclaim": false,
+						"quantity": 1
+					},
+					{
+						"visible": true,
+						"itemHash": 242408346,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 10,
+						"claimedUnlockHash": 436710414,
+						"canReclaim": true,
+						"quantity": 1
+					},
+					{
+						"visible": false,
+						"itemHash": 1367053096,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 11,
+						"claimedUnlockHash": 2495793533,
+						"canReclaim": false,
+						"quantity": 1
+					},
+					{
+						"visible": true,
+						"itemHash": 509454270,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 12,
+						"claimedUnlockHash": 2950814776,
+						"canReclaim": true,
+						"quantity": 1
+					},
+					{
+						"visible": false,
+						"itemHash": 1367053096,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 13,
+						"claimedUnlockHash": 4224846607,
+						"canReclaim": false,
+						"quantity": 1
+					},
+					{
+						"visible": true,
+						"itemHash": 3924653080,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 14,
+						"claimedUnlockHash": 3498574898,
+						"canReclaim": true,
+						"quantity": 1
+					},
+					{
+						"visible": false,
+						"itemHash": 1367053096,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 15,
+						"claimedUnlockHash": 2183598401,
+						"canReclaim": false,
+						"quantity": 1
+					},
+					{
+						"visible": true,
+						"itemHash": 786324256,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 16,
+						"claimedUnlockHash": 683252780,
+						"canReclaim": true,
+						"quantity": 1
+					},
+					{
+						"visible": false,
+						"itemHash": 1367053096,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 17,
+						"claimedUnlockHash": 2955418259,
+						"canReclaim": false,
+						"quantity": 1
+					},
+					{
+						"visible": true,
+						"itemHash": 4197595974,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 18,
+						"claimedUnlockHash": 3760646646,
+						"canReclaim": true,
+						"quantity": 1
+					},
+					{
+						"visible": false,
+						"itemHash": 1367053096,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 19,
+						"claimedUnlockHash": 2770138981,
+						"canReclaim": false,
+						"quantity": 1
+					},
+					{
+						"visible": true,
+						"itemHash": 691757822,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 20,
+						"claimedUnlockHash": 325573329,
+						"canReclaim": true,
+						"quantity": 1
+					},
+					{
+						"visible": false,
+						"itemHash": 1367053096,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 21,
+						"claimedUnlockHash": 1698378370,
+						"canReclaim": false,
+						"quantity": 1
+					},
+					{
+						"visible": true,
+						"itemHash": 3345355735,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 22,
+						"claimedUnlockHash": 2108021987,
+						"canReclaim": false,
+						"quantity": 1
+					},
+					{
+						"visible": false,
+						"itemHash": 1367053096,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 23,
+						"claimedUnlockHash": 3051146684,
+						"canReclaim": false,
+						"quantity": 1
+					},
+					{
+						"visible": true,
+						"itemHash": 509454271,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 24,
+						"claimedUnlockHash": 568720077,
+						"canReclaim": true,
+						"quantity": 1
+					}
+				]
+			},
+			{
+				"displayName": "Iron Rising",
+				"displayDescription": "The Iron Lords' ancient enemy is now in the hands of the Fallen House of Devils.",
+				"displayStyle": 0,
+				"records": [
+					{
+						"recordHash": 3320873844,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3320873845,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3320873846,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3320873847,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3320873840,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3320873841,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3320873842,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3320873843,
+						"spotlight": false,
+						"scrambled": false
+					}
+				],
+				"rewards": []
+			},
+			{
+				"displayName": "The Plaguelands",
+				"displayDescription": "Venture into the ancient battleground known as the Plaguelands, now the domain of the Devil Splicers.",
+				"displayStyle": 0,
+				"records": [
+					{
+						"recordHash": 322404559,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 322404558,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 322404557,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 322404556,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 322404555,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 322404554,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 322404553,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 322404552,
+						"spotlight": false,
+						"scrambled": false
+					}
+				],
+				"rewards": []
+			},
+			{
+				"displayName": "Wrath of the Machine",
+				"displayDescription": "Join your fellow Guardians to put a stop to the Devil Splicers once and for all.",
+				"displayStyle": 0,
+				"records": [
+					{
+						"recordHash": 2023542984,
+						"spotlight": false,
+						"scrambled": true
+					},
+					{
+						"recordHash": 2023542985,
+						"spotlight": false,
+						"scrambled": true
+					},
+					{
+						"recordHash": 2023542986,
+						"spotlight": false,
+						"scrambled": true
+					},
+					{
+						"recordHash": 2023542987,
+						"spotlight": false,
+						"scrambled": true
+					},
+					{
+						"recordHash": 2023542988,
+						"spotlight": false,
+						"scrambled": true
+					},
+					{
+						"recordHash": 2023542989,
+						"spotlight": false,
+						"scrambled": true
+					},
+					{
+						"recordHash": 2023542990,
+						"spotlight": false,
+						"scrambled": true
+					},
+					{
+						"recordHash": 2023542991,
+						"spotlight": false,
+						"scrambled": true
+					}
+				],
+				"rewards": []
+			},
+			{
+				"displayName": "The Crucible",
+				"displayDescription": "Enter the fires of the Crucible to forge your Iron legend.",
+				"displayStyle": 0,
+				"records": [
+					{
+						"recordHash": 4226385257,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 4226385256,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 4226385259,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 4226385258,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 4226385261,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 4226385260,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 4226385263,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 4226385262,
+						"spotlight": false,
+						"scrambled": false
+					}
+				],
+				"rewards": []
+			}
+		],
+		"displayName": "Rise of Iron",
+		"displayDescription": "Year Three",
+		"icon": "/common/destiny_content/icons/b47a65c6c90a415748d6a4547eafe7b6.png",
+		"unavailableReason": "Rise of Iron is not active",
+		"progressionHash": 3433868304,
+		"recordCount": 32,
+		"bannerImage": "/img/theme/destiny/bgs/record_books/bg_rise_of_iron.jpg",
+		"itemHash": 2360768126,
+		"hash": 243968262,
+		"index": 2,
+		"contentIdentifier": "d15.fall.rise_of_iron",
+		"redacted": false
+	},
+	"840570351": {
+		"bookAvailableUnlockExpression": {
+			"steps": [
+				{
+					"stepOperator": 1,
+					"flagHash": 2919915085,
+					"valueHash": 0,
+					"value": 0
+				}
+			]
+		},
+		"activeRanges": [
+			{
+				"start": "2021-07-14T19:59:23.155Z",
+				"end": "2017-08-01T17:00:00Z"
+			}
+		],
+		"pages": [
+			{
+				"displayName": "Rewards",
+				"displayDescription": "Complete milestones to rank up the Record Book. Completion is not required to claim all rewards.",
+				"displayStyle": 1,
+				"records": [],
+				"rewards": [
+					{
+						"visible": true,
+						"itemHash": 1845137799,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 2,
+						"claimedUnlockHash": 3298602874,
+						"canReclaim": true,
+						"quantity": 1
+					},
+					{
+						"visible": true,
+						"itemHash": 1845137798,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 3,
+						"claimedUnlockHash": 1931020457,
+						"canReclaim": true,
+						"quantity": 1
+					},
+					{
+						"visible": true,
+						"itemHash": 1845137797,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 4,
+						"claimedUnlockHash": 4105938848,
+						"canReclaim": true,
+						"quantity": 1
+					},
+					{
+						"visible": true,
+						"itemHash": 1845137796,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 5,
+						"claimedUnlockHash": 2785739479,
+						"canReclaim": true,
+						"quantity": 1
+					},
+					{
+						"visible": true,
+						"itemHash": 1845137795,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 6,
+						"claimedUnlockHash": 1957547830,
+						"canReclaim": true,
+						"quantity": 1
+					},
+					{
+						"visible": true,
+						"itemHash": 2234667475,
+						"requirementUnlockExpressions": [
+							{
+								"steps": [
+									{
+										"stepOperator": 1,
+										"flagHash": 900223847,
+										"valueHash": 0,
+										"value": 0
+									}
+								]
+							}
+						],
+						"requirementProgressionLevel": 7,
+						"claimedUnlockHash": 1008513701,
+						"canReclaim": false,
+						"quantity": 1
+					}
+				]
+			},
+			{
+				"displayName": "Commemoration",
+				"displayDescription": "You've walked a long road full of deeds and adventures.",
+				"displayStyle": 0,
+				"records": [
+					{
+						"recordHash": 2107771632,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 2107771633,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 2107771634,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 2107771635,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 2107771636,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 2107771637,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 2107771638,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 2107771639,
+						"spotlight": false,
+						"scrambled": false
+					}
+				],
+				"rewards": []
+			},
+			{
+				"displayName": "Story",
+				"displayDescription": "Write your legend upon the stars.",
+				"displayStyle": 0,
+				"records": [
+					{
+						"recordHash": 706022981,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 706022980,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 706022983,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 706022982,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 706022977,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 706022976,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 706022979,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 706022978,
+						"spotlight": false,
+						"scrambled": false
+					}
+				],
+				"rewards": []
+			},
+			{
+				"displayName": "Titan's Will",
+				"displayDescription": "The Titan is a force multiplier, a bulwark against the Darkness.",
+				"displayStyle": 0,
+				"records": [
+					{
+						"recordHash": 1741875240,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 1741875241,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 1741875242,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 1741875243,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 1741875244,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 1741875245,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 1741875246,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 1741875247,
+						"spotlight": false,
+						"scrambled": false
+					}
+				],
+				"rewards": []
+			},
+			{
+				"displayName": "Hunter's Way",
+				"displayDescription": "By knife, by smoke, by blink strike and stealth, a hunter stalks her prey.",
+				"displayStyle": 0,
+				"records": [
+					{
+						"recordHash": 4286342634,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 4286342635,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 4286342632,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 4286342633,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 4286342638,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 4286342639,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 4286342636,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 4286342637,
+						"spotlight": false,
+						"scrambled": false
+					}
+				],
+				"rewards": []
+			},
+			{
+				"displayName": "Warlock's Path",
+				"displayDescription": "There is no end to knowledge, nor to power, but you'll do your best to reach it regardless.",
+				"displayStyle": 0,
+				"records": [
+					{
+						"recordHash": 2543960989,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 2543960988,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 2543960991,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 2543960990,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 2543960985,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 2543960984,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 2543960987,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 2543960986,
+						"spotlight": false,
+						"scrambled": false
+					}
+				],
+				"rewards": []
+			},
+			{
+				"displayName": "Strikes",
+				"displayDescription": "Execute Vanguard Strikes to secure your legend.",
+				"displayStyle": 0,
+				"records": [
+					{
+						"recordHash": 3895391343,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3895391342,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3895391341,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3895391340,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3895391339,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3895391338,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3895391337,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3895391336,
+						"spotlight": false,
+						"scrambled": false
+					}
+				],
+				"rewards": []
+			},
+			{
+				"displayName": "The Crucible",
+				"displayDescription": "Reprise your feats and enshrine your legend in the Crucible.",
+				"displayStyle": 0,
+				"records": [
+					{
+						"recordHash": 623161888,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 623161889,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 623161890,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 623161891,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 623161892,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 623161893,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 623161894,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 623161895,
+						"spotlight": false,
+						"scrambled": false
+					}
+				],
+				"rewards": []
+			},
+			{
+				"displayName": "Raids",
+				"displayDescription": "When six Guardians take up arms and storm the Darkness, what can stand against them?",
+				"displayStyle": 0,
+				"records": [
+					{
+						"recordHash": 3786833640,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3786833641,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3786833642,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3786833643,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3786833644,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3786833645,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3786833646,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3786833647,
+						"spotlight": false,
+						"scrambled": false
+					}
+				],
+				"rewards": []
+			},
+			{
+				"displayName": "Collections",
+				"displayDescription": "Gather the riches and wonders of the star system.",
+				"displayStyle": 0,
+				"records": [
+					{
+						"recordHash": 562497696,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 562497697,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 562497698,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 562497699,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 562497700,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 562497701,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 562497702,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 562497703,
+						"spotlight": false,
+						"scrambled": false
+					}
+				],
+				"rewards": []
+			},
+			{
+				"displayName": "Wanderer",
+				"displayDescription": "You have gone far, seen much, and heard echoes of the past.",
+				"displayStyle": 0,
+				"records": [
+					{
+						"recordHash": 729754906,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 729754907,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 729754904,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 729754905,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 729754910,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 729754911,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 729754908,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 729754909,
+						"spotlight": false,
+						"scrambled": false
+					}
+				],
+				"rewards": []
+			},
+			{
+				"displayName": "Allegiances",
+				"displayDescription": "Fealty and favor, honor and respect—all are yours to earn.",
+				"displayStyle": 0,
+				"records": [
+					{
+						"recordHash": 2571286515,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 2571286514,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 2571286513,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 2571286512,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 2571286519,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 2571286518,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 2571286517,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 2571286516,
+						"spotlight": false,
+						"scrambled": false
+					}
+				],
+				"rewards": []
+			},
+			{
+				"displayName": "Trials of Osiris",
+				"displayDescription": "The Lighthouse beckons, but the Trials winnow.",
+				"displayStyle": 0,
+				"records": [
+					{
+						"recordHash": 151089595,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 151089594,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 151089593,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 151089592,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 151089599,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 151089598,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 151089597,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 151089596,
+						"spotlight": false,
+						"scrambled": false
+					}
+				],
+				"rewards": []
+			}
+		],
+		"displayName": "Age of Triumph",
+		"displayDescription": "Year Three",
+		"icon": "/common/destiny_content/icons/38986e4d920c5c950d7afc09890686f7.png",
+		"unavailableReason": "This Event is Inactive",
+		"progressionHash": 1469071803,
+		"recordCount": 96,
+		"webmasterCampaignSystem": "Triumphs2017",
+		"bannerImage": "/img/theme/destiny/bgs/record_books/bg_age_of_triumph_book.jpg",
+		"itemHash": 1469071803,
+		"rewardImage": "/img/theme/destiny/bgs/age_of_triumph_shirt_front.png",
+		"promoEndDate": "2017-08-01T17:00:00Z",
+		"hash": 840570351,
+		"index": 4,
+		"contentIdentifier": "d15.v260.ages",
+		"redacted": false
+	},
+	"2175864601": {
+		"bookAvailableUnlockExpression": {
+			"steps": [
+				{
+					"stepOperator": 1,
+					"flagHash": 361852057,
+					"valueHash": 0,
+					"value": 0
+				}
+			]
+		},
+		"activeRanges": [
+			{
+				"start": "2021-07-14T19:59:23.086Z",
+				"end": "2016-09-20T17:00:00Z"
+			}
+		],
+		"pages": [
+			{
+				"displayName": "Destiny: Year Two",
+				"displayDescription": "Increase your book rank by completing Moments of Triumph to earn exclusive rewards!",
+				"displayStyle": 1,
+				"records": [],
+				"rewards": [
+					{
+						"visible": true,
+						"itemHash": 139252900,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 2,
+						"claimedUnlockHash": 1127966124,
+						"canReclaim": true,
+						"quantity": 1
+					},
+					{
+						"visible": true,
+						"itemHash": 2596665930,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 3,
+						"claimedUnlockHash": 3400131603,
+						"canReclaim": true,
+						"quantity": 1
+					},
+					{
+						"visible": true,
+						"itemHash": 139252901,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 4,
+						"claimedUnlockHash": 881423758,
+						"canReclaim": true,
+						"quantity": 1
+					},
+					{
+						"visible": true,
+						"itemHash": 2596665931,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 5,
+						"claimedUnlockHash": 2940506877,
+						"canReclaim": true,
+						"quantity": 1
+					}
+				]
+			},
+			{
+				"displayName": "Moments of Triumph",
+				"displayDescription": "A tribute to your accomplishments in Year Two of Destiny. Progress can be made until the end of Year Two.",
+				"displayStyle": 0,
+				"records": [
+					{
+						"recordHash": 1872531701,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 1872531700,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 1872531703,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 1872531702,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 1872531697,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 1872531696,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 1872531699,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 1872531698,
+						"spotlight": false,
+						"scrambled": false
+					}
+				],
+				"rewards": []
+			}
+		],
+		"displayName": "Moments of Triumph",
+		"displayDescription": "Year Two",
+		"icon": "/common/destiny_content/icons/4235c50f2055b267dbffab108288df1c.png",
+		"unavailableReason": "This Event is Inactive",
+		"progressionHash": 2175864601,
+		"recordCount": 8,
+		"webmasterCampaignSystem": "Triumphs2016",
+		"bannerImage": "/img/theme/destiny/bgs/record_books/bg_triumphs_year2_banner.jpg",
+		"itemHash": 4128744703,
+		"rewardImage": "/img/theme/destiny/bgs/triumphs_shirt_front.png",
+		"promoEndDate": "2016-10-05T00:00:00Z",
+		"hash": 2175864601,
+		"index": 1,
+		"contentIdentifier": "d15.summer.record_books.triumph0",
+		"redacted": false
+	},
+	"3192310198": {
+		"bookAvailableUnlockExpression": {
+			"steps": [
+				{
+					"stepOperator": 1,
+					"flagHash": 757683720,
+					"valueHash": 0,
+					"value": 0
+				},
+				{
+					"stepOperator": 1,
+					"flagHash": 103916830,
+					"valueHash": 0,
+					"value": 0
+				},
+				{
+					"stepOperator": 3,
+					"flagHash": 0,
+					"valueHash": 0,
+					"value": -1
+				}
+			]
+		},
+		"activeRanges": [
+			{
+				"start": "2015-12-08T18:00:00Z",
+				"end": "2015-12-29T09:00:00Z"
+			},
+			{
+				"start": "2016-12-13T17:00:00Z",
+				"end": "2017-01-03T09:00:00Z"
+			}
+		],
+		"pages": [
+			{
+				"displayName": "Campus Martius, Mars",
+				"displayDescription": "Complete objectives to earn rewards.",
+				"displayStyle": 0,
+				"records": [
+					{
+						"recordHash": 217055300,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 1296553125,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3852381276,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3238180283,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 2897558091,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 1040741368,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 1292871602,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3195182366,
+						"spotlight": false,
+						"scrambled": false
+					}
+				],
+				"rewards": []
+			},
+			{
+				"displayName": "Infinite Descent, Venus",
+				"displayDescription": "Complete objectives to earn rewards.",
+				"displayStyle": 0,
+				"records": [
+					{
+						"recordHash": 1005786758,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3416780927,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 706320034,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3744735417,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 1724017521,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3374757482,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 1023796540,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 4186051700,
+						"spotlight": false,
+						"scrambled": false
+					}
+				],
+				"rewards": []
+			}
+		],
+		"displayName": "SRL Record Book",
+		"displayDescription": "Vol. 1",
+		"icon": "/common/destiny_content/icons/4521398f634f16b9893f1c77c75e5b44.png",
+		"unavailableReason": "SRL Event Inactive",
+		"progressionHash": 0,
+		"recordCount": 16,
+		"bannerImage": "/img/theme/destiny/bgs/advisors/SRL.jpg",
+		"itemHash": 3192310198,
+		"hash": 3192310198,
+		"index": 0,
+		"contentIdentifier": "r1_s4_record_books.sparrow_racing0",
+		"redacted": false
+	},
+	"3471683641": {
+		"bookAvailableUnlockExpression": {
+			"steps": [
+				{
+					"stepOperator": 1,
+					"flagHash": 232191257,
+					"valueHash": 0,
+					"value": 0
+				}
+			]
+		},
+		"activeRanges": [
+			{
+				"start": "2016-12-13T17:00:00Z",
+				"end": "9999-12-31T23:59:59.999Z"
+			}
+		],
+		"pages": [
+			{
+				"displayName": "Rewards",
+				"displayDescription": "Complete Vanguard Elite milestones and log your Sparrow racing times to rank up the Record Book and earn rewards.",
+				"displayStyle": 1,
+				"records": [],
+				"rewards": [
+					{
+						"visible": true,
+						"itemHash": 1777175506,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 2,
+						"claimedUnlockHash": 473953926,
+						"canReclaim": true,
+						"quantity": 1
+					},
+					{
+						"visible": true,
+						"itemHash": 2341358813,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 3,
+						"claimedUnlockHash": 2327571381,
+						"canReclaim": false,
+						"quantity": 3
+					},
+					{
+						"visible": true,
+						"itemHash": 1814540603,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 4,
+						"claimedUnlockHash": 442248420,
+						"canReclaim": true,
+						"quantity": 1
+					},
+					{
+						"visible": true,
+						"itemHash": 946160311,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 5,
+						"claimedUnlockHash": 2295865835,
+						"canReclaim": false,
+						"quantity": 1
+					},
+					{
+						"visible": true,
+						"itemHash": 462131381,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 6,
+						"claimedUnlockHash": 1757180362,
+						"canReclaim": true,
+						"quantity": 1
+					},
+					{
+						"visible": true,
+						"itemHash": 3077092747,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 7,
+						"claimedUnlockHash": 3658180537,
+						"canReclaim": false,
+						"quantity": 1
+					},
+					{
+						"visible": true,
+						"itemHash": 3703598456,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 8,
+						"claimedUnlockHash": 3996026696,
+						"canReclaim": true,
+						"quantity": 1
+					},
+					{
+						"visible": true,
+						"itemHash": 444371609,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 9,
+						"claimedUnlockHash": 4275888223,
+						"canReclaim": false,
+						"quantity": 1
+					},
+					{
+						"visible": true,
+						"itemHash": 1814540602,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 10,
+						"claimedUnlockHash": 4236886967,
+						"canReclaim": true,
+						"quantity": 1
+					},
+					{
+						"visible": true,
+						"itemHash": 2979651850,
+						"requirementUnlockExpressions": [],
+						"requirementProgressionLevel": 11,
+						"claimedUnlockHash": 1356987904,
+						"canReclaim": true,
+						"quantity": 1
+					}
+				]
+			},
+			{
+				"displayName": "Sparrow Racing",
+				"displayDescription": "Hit gates, win races, and become a champion.",
+				"displayStyle": 0,
+				"records": [
+					{
+						"recordHash": 3785252457,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3785252456,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3785252459,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3785252458,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3785252461,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3785252460,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3785252463,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 3785252462,
+						"spotlight": false,
+						"scrambled": false
+					}
+				],
+				"rewards": []
+			},
+			{
+				"displayName": "Vanguard Elite",
+				"displayDescription": "Team up, set scoring records, and earn Strike Medals.",
+				"displayStyle": 0,
+				"records": [
+					{
+						"recordHash": 1211935761,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 1211935760,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 1211935763,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 1211935762,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 1211935765,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 1211935764,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 1211935767,
+						"spotlight": false,
+						"scrambled": false
+					},
+					{
+						"recordHash": 1211935766,
+						"spotlight": false,
+						"scrambled": false
+					}
+				],
+				"rewards": []
+			}
+		],
+		"displayName": "Competitive Spirit",
+		"displayDescription": "Year Three",
+		"icon": "/common/destiny_content/icons/64481d0f571e13ee70153a182ff3b7f2.png",
+		"unavailableReason": "This Event is Inactive",
+		"progressionHash": 2225855327,
+		"recordCount": 16,
+		"bannerImage": "/img/theme/destiny/bgs/advisors/Dawning_Record_Book.jpg",
+		"itemHash": 2225855327,
+		"hash": 3471683641,
+		"index": 3,
+		"contentIdentifier": "d15.winter.silver_chalice",
+		"redacted": false
+	}
+}

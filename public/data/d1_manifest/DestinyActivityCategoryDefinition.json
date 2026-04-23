@@ -1,0 +1,148 @@
+{
+	"299173589": {
+		"title": "Offline Activities",
+		"identifier": "OFFLINE_ACTIVITIES",
+		"description": "These are Activities that are not currently active, but may be in the future.",
+		"helpTitle": "What are <strong>Offline Activities</strong>?",
+		"image": "",
+		"links": [
+			{
+				"title": "",
+				"url": ""
+			}
+		],
+		"parentHashes": [],
+		"order": 2000,
+		"hasHelpContent": true,
+		"resetIdentifier": "",
+		"hash": 299173589,
+		"index": 0,
+		"redacted": false
+	},
+	"767430688": {
+		"title": "Live Activities",
+		"identifier": "LIVE_ACTIVITIES",
+		"description": "Blah blah blah this is a live activity",
+		"helpTitle": "What are <strong>Live Activities</strong>?",
+		"image": "",
+		"links": [
+			{
+				"title": "",
+				"url": ""
+			}
+		],
+		"parentHashes": [],
+		"order": 100,
+		"hasHelpContent": true,
+		"resetIdentifier": "",
+		"hash": 767430688,
+		"index": 0,
+		"redacted": false
+	},
+	"1025694749": {
+		"title": "Legacy Activities",
+		"identifier": "LEGACY_ACTIVITIES",
+		"description": "These activities won't get you the highest level loot in the game, but they're great experiences for someone who is newly rising through the ranks of Destiny.",
+		"helpTitle": "",
+		"image": "",
+		"links": [
+			{
+				"title": "",
+				"url": ""
+			}
+		],
+		"parentHashes": [],
+		"order": 1000,
+		"hasHelpContent": false,
+		"resetIdentifier": "",
+		"hash": 1025694749,
+		"index": 0,
+		"redacted": false
+	},
+	"1986932861": {
+		"title": "Weekly Activities",
+		"identifier": "WEEKLY_ACTIVITIES",
+		"description": "Activities that you can complete every week for fabulous loot!",
+		"helpTitle": "",
+		"image": "",
+		"links": [
+			{
+				"title": "",
+				"url": ""
+			}
+		],
+		"parentHashes": [
+			3582600593
+		],
+		"order": 300,
+		"hasHelpContent": false,
+		"resetIdentifier": "WeeklyReset",
+		"hash": 1986932861,
+		"index": 0,
+		"redacted": false
+	},
+	"2902063273": {
+		"title": "Daily Activities",
+		"identifier": "DAILY_ACTIVITIES",
+		"description": "Activities that you can complete every day for fabulous loot!",
+		"helpTitle": "",
+		"image": "",
+		"links": [
+			{
+				"title": "",
+				"url": ""
+			}
+		],
+		"parentHashes": [
+			3582600593
+		],
+		"order": 400,
+		"hasHelpContent": false,
+		"resetIdentifier": "DailyReset",
+		"hash": 2902063273,
+		"index": 0,
+		"redacted": false
+	},
+	"3390383282": {
+		"title": "Raid Activities",
+		"identifier": "RAID_ACTIVITIES",
+		"description": "Raids that you can complete every week for fabulous loot!",
+		"helpTitle": "",
+		"image": "",
+		"links": [
+			{
+				"title": "",
+				"url": ""
+			}
+		],
+		"parentHashes": [
+			3582600593
+		],
+		"order": 600,
+		"hasHelpContent": false,
+		"resetIdentifier": "WeeklyReset",
+		"hash": 3390383282,
+		"index": 0,
+		"redacted": false
+	},
+	"3582600593": {
+		"title": "Reoccurring Activities",
+		"identifier": "REOCCURRING_ACTIVITIES",
+		"description": "",
+		"helpTitle": "What are <strong>Reoccurring Activities</strong>?",
+		"image": "",
+		"links": [
+			{
+				"title": "",
+				"url": ""
+			}
+		],
+		"parentHashes": [],
+		"order": 200,
+		"hasHelpContent": true,
+		"resetIdentifier": "",
+		"hash": 3582600593,
+		"index": 0,
+		"redacted": false
+	}
+}

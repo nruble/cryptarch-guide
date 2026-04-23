@@ -1,0 +1,104 @@
+.site-head {
+    background-color: $color-header-gold;
+    color: $color-white;
+    display: flex;
+    justify-content: space-between;
+    padding-inline:$padding-inline-desktop;
+    height:52px;
+    position: relative;
+    a{
+        color: $color-white;
+        text-decoration: none;
+        text-transform: uppercase;
+    }
+    .site-logo-link {
+        display: flex;
+        flex-direction: row;
+        padding-top: 8px;
+        .site-logo-icon {
+            width:50px;
+            height:50px;
+        }
+        .site-logo-text {
+            font-size: 1.375rem;
+            font-weight:$font-bold;
+            line-height: 1.375rem;
+            padding-top:7px;
+            margin-left: 12px;
+            letter-spacing: 0.02rem;
+            .site-logo-text-2nd {
+                font-weight:$font-xlight;
+                letter-spacing: 0.03rem;
+            }
+        }
+    }
+    .site-header-mobile-nav-btn {
+        display:none;
+        width:48px;
+        height:36px;
+        color:$color-white;
+        background-color: $color-header-gold;
+        border:1px solid rgba($color-black,0.35);
+        border-radius:6px;
+        padding:0;
+        margin-top:8px;
+        svg {
+            height:18px;
+            width:18px;
+        }
+        @media screen and (max-width:768px) {
+            display: block;
+        }
+    }
+    .site-header-nav {
+        display: flex;
+        align-items: center;
+        height:100%;
+        background-color: $color-header-gold;
+        .head-nav-link {
+            display: flex;
+            align-items: center;
+            font-weight:$font-light;
+            font-size:0.875rem;
+            letter-spacing: 0.1rem;
+            text-shadow: 0 2px 0 rgba($color-black,0.25);
+            padding-inline:$padding-inline-mobile;
+            height: 100%;
+            box-shadow: none;
+            &.active {
+                box-shadow: 0 5px 0 0 rgba($color-white,0.5);
+            }
+        }
+        @media screen and (max-width:768px) {
+            display:none;
+            position: absolute;
+            top:100%;
+            right:$padding-inline-mobile;
+            flex-direction: column;
+            height: auto;
+            background-color: rgba($color-box-gray, 0.0);
+            gap:4px;
+            &.open {
+                display:flex;
+            }
+            .head-nav-link {
+                height:44px;
+                padding-inline:$padding-inline-desktop;
+                width: 100%;
+                justify-content: center;
+                box-shadow: none;
+                color:rgba($color-white, 0.8);
+                @include glass-box;
+                text-shadow: none;
+                &.active {
+                    box-shadow:none;
+                    background-color: rgba($color-box-gray, 0.8);
+                    color:rgba($color-white, 1.0);
+                }
+            }
+        }
+    }
+    @media screen and (max-width:768px) {
+        padding-inline:$padding-inline-mobile;
+    }
+}

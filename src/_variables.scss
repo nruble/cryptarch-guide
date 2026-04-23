@@ -1,0 +1,31 @@
+$color-white: #FFFFFF;
+$color-black: #000000;
+$color-header-gold: #6A591D;
+$color-box-gray: #8C8C8F;
+
+$gradient-major-bg:linear-gradient(#665D5F 0%, #444044 28%, #303238 70%, #384044 100%);
+$gradient-major-intro:linear-gradient(0deg,#5B555B 0%, #8A7E82 90%);
+
+$font-family-display:'neue-haas-grotesk-display', Arial, Helvetica, sans-serif;
+// $font-family-text:'neue-haas-grotesk-text', Arial, Helvetica, sans-serif;
+
+$font-ultrathin:100;
+$font-thin:200;
+$font-xlight:300;
+$font-light:400;
+$font-normal:500;
+$font-medium:600;
+$font-bold:700;
+
+$padding-inline-desktop:32px;
+$padding-inline-mobile:16px;
+
+$glass-blur: blur(16px);
+
+
+@mixin glass-box {
+  background-color: rgba($color-box-gray, 0.4);
+  border:1px solid rgba($color-white, 0.4);
+  backdrop-filter: $glass-blur;
+  -webkit-backdrop-filter: $glass-blur;
+}

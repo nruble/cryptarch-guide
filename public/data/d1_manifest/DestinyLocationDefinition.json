@@ -1,0 +1,3795 @@
+{
+	"95055142": {
+		"locationHash": 95055142,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393213630,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 95055142,
+		"index": 83,
+		"contentIdentifier": "r1_s4_locations_activities_strikes.cosmo2_omnigul",
+		"redacted": false
+	},
+	"139616712": {
+		"locationHash": 139616712,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3705523133,
+				"activityHash": 0,
+				"directorBookHash": 499756083,
+				"activityGraphHash": 3591974821,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 139616712,
+		"index": 25,
+		"contentIdentifier": "r1_s4_locations_activities_story.darksnow",
+		"redacted": false
+	},
+	"147340697": {
+		"locationHash": 147340697,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2468353467,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 147340697,
+		"index": 148,
+		"contentIdentifier": "d15.fall.strikes.oath",
+		"redacted": false
+	},
+	"162670049": {
+		"locationHash": 162670049,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 518553403,
+				"activityHash": 0,
+				"directorBookHash": 2043310511,
+				"activityGraphHash": 2043310511,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 162670049,
+		"index": 78,
+		"contentIdentifier": "r1_s4_locations_activities_story.venus5",
+		"redacted": false
+	},
+	"162670050": {
+		"locationHash": 162670050,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 518553403,
+				"activityHash": 0,
+				"directorBookHash": 2043310511,
+				"activityGraphHash": 2043310511,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 162670050,
+		"index": 79,
+		"contentIdentifier": "r1_s4_locations_activities_story.venus6",
+		"redacted": false
+	},
+	"162670051": {
+		"locationHash": 162670051,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 518553403,
+				"activityHash": 0,
+				"directorBookHash": 2043310511,
+				"activityGraphHash": 2043310511,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 162670051,
+		"index": 80,
+		"contentIdentifier": "r1_s4_locations_activities_story.venus7",
+		"redacted": false
+	},
+	"162670053": {
+		"locationHash": 162670053,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 518553403,
+				"activityHash": 0,
+				"directorBookHash": 2043310511,
+				"activityGraphHash": 2043310511,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 162670053,
+		"index": 75,
+		"contentIdentifier": "r1_s4_locations_activities_story.venus1",
+		"redacted": false
+	},
+	"162670054": {
+		"locationHash": 162670054,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 518553403,
+				"activityHash": 0,
+				"directorBookHash": 2043310511,
+				"activityGraphHash": 2043310511,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 162670054,
+		"index": 77,
+		"contentIdentifier": "r1_s4_locations_activities_story.venus2",
+		"redacted": false
+	},
+	"242962837": {
+		"locationHash": 242962837,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2468353467,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 242962837,
+		"index": 149,
+		"contentIdentifier": "d15.fall.raids.raid_promise",
+		"redacted": false
+	},
+	"271011502": {
+		"locationHash": 271011502,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393213630,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 271011502,
+		"index": 73,
+		"contentIdentifier": "r1_s4_locations_activities_story.turing",
+		"redacted": false
+	},
+	"283559867": {
+		"locationHash": 283559867,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4233735899,
+				"activityHash": 0,
+				"directorBookHash": 986601339,
+				"activityGraphHash": 986601339,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 283559867,
+		"index": 52,
+		"contentIdentifier": "r1_s4_locations_activities_story.nightcrawler",
+		"redacted": false
+	},
+	"309032079": {
+		"locationHash": 309032079,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4233735899,
+				"activityHash": 0,
+				"directorBookHash": 986601339,
+				"activityGraphHash": 986601339,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 309032079,
+		"index": 103,
+		"contentIdentifier": "r1_s4_locations_activities_strikes.vampire",
+		"redacted": false
+	},
+	"407059678": {
+		"locationHash": 407059678,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2612139675,
+				"activityHash": 0,
+				"directorBookHash": 473350382,
+				"activityGraphHash": 1277472245,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 407059678,
+		"index": 108,
+		"contentIdentifier": "r1_s4_locations_npcs.banshee_gunsmith",
+		"redacted": false
+	},
+	"486813480": {
+		"locationHash": 486813480,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3705523133,
+				"activityHash": 0,
+				"directorBookHash": 499756083,
+				"activityGraphHash": 3591974821,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 486813480,
+		"index": 43,
+		"contentIdentifier": "r1_s4_locations_activities_story.microwave",
+		"redacted": false
+	},
+	"505629878": {
+		"locationHash": 505629878,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4072959335,
+				"activityHash": 0,
+				"directorBookHash": 499756083,
+				"activityGraphHash": 3591974821,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 505629878,
+		"index": 88,
+		"contentIdentifier": "r1_s4_locations_activities_strikes.mars3_undying_mind_redux_malice",
+		"redacted": false
+	},
+	"508984830": {
+		"locationHash": 508984830,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 518553403,
+				"activityHash": 0,
+				"directorBookHash": 2043310511,
+				"activityGraphHash": 2043310511,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 508984830,
+		"index": 62,
+		"contentIdentifier": "r1_s4_locations_activities_story.rock",
+		"redacted": false
+	},
+	"515014417": {
+		"locationHash": 515014417,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4072959335,
+				"activityHash": 0,
+				"directorBookHash": 499756083,
+				"activityGraphHash": 3591974821,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 515014417,
+		"index": 55,
+		"contentIdentifier": "r1_s4_locations_activities_story.oxygen",
+		"redacted": false
+	},
+	"517897942": {
+		"locationHash": 517897942,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2612139675,
+				"activityHash": 0,
+				"directorBookHash": 473350382,
+				"activityGraphHash": 1277472245,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 517897942,
+		"index": 20,
+		"contentIdentifier": "r1_s4_locations_activities_story.cosmo0_outro",
+		"redacted": false
+	},
+	"568241908": {
+		"locationHash": 568241908,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2897855902,
+				"activityHash": 0,
+				"directorBookHash": 2149902399,
+				"activityGraphHash": 2149902399,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 568241908,
+		"index": 93,
+		"contentIdentifier": "r1_s4_locations_activities_strikes.pandora",
+		"redacted": false
+	},
+	"634289880": {
+		"locationHash": 634289880,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4072959335,
+				"activityHash": 0,
+				"directorBookHash": 499756083,
+				"activityGraphHash": 3591974821,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 634289880,
+		"index": 40,
+		"contentIdentifier": "r1_s4_locations_activities_story.mars6",
+		"redacted": false
+	},
+	"634289881": {
+		"locationHash": 634289881,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4072959335,
+				"activityHash": 0,
+				"directorBookHash": 499756083,
+				"activityGraphHash": 3591974821,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 634289881,
+		"index": 41,
+		"contentIdentifier": "r1_s4_locations_activities_story.mars7",
+		"redacted": false
+	},
+	"634289883": {
+		"locationHash": 634289883,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4072959335,
+				"activityHash": 0,
+				"directorBookHash": 499756083,
+				"activityGraphHash": 3591974821,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 634289883,
+		"index": 39,
+		"contentIdentifier": "r1_s4_locations_activities_story.mars5",
+		"redacted": false
+	},
+	"634289885": {
+		"locationHash": 634289885,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4072959335,
+				"activityHash": 0,
+				"directorBookHash": 499756083,
+				"activityGraphHash": 3591974821,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 634289885,
+		"index": 38,
+		"contentIdentifier": "r1_s4_locations_activities_story.mars3",
+		"redacted": false
+	},
+	"634289887": {
+		"locationHash": 634289887,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4072959335,
+				"activityHash": 0,
+				"directorBookHash": 499756083,
+				"activityGraphHash": 3591974821,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 634289887,
+		"index": 37,
+		"contentIdentifier": "r1_s4_locations_activities_story.mars1",
+		"redacted": false
+	},
+	"725797690": {
+		"locationHash": 725797690,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2468353467,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 725797690,
+		"index": 141,
+		"contentIdentifier": "d15.fall.activities_story.mission_fireworks",
+		"redacted": false
+	},
+	"749321752": {
+		"locationHash": 749321752,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4072959335,
+				"activityHash": 0,
+				"directorBookHash": 499756083,
+				"activityGraphHash": 3591974821,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 749321752,
+		"index": 135,
+		"contentIdentifier": "d15.fall.activities_story.mission_pitbull",
+		"redacted": false
+	},
+	"912174309": {
+		"locationHash": 912174309,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 518553403,
+				"activityHash": 0,
+				"directorBookHash": 2043310511,
+				"activityGraphHash": 2043310511,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 912174309,
+		"index": 60,
+		"contentIdentifier": "r1_s4_locations_activities_story.pursuit",
+		"redacted": false
+	},
+	"933645693": {
+		"locationHash": 933645693,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2612139675,
+				"activityHash": 0,
+				"directorBookHash": 473350382,
+				"activityGraphHash": 1277472245,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 933645693,
+		"index": 124,
+		"contentIdentifier": "r1_s4_locations_npcs.speaker",
+		"redacted": false
+	},
+	"1013345609": {
+		"locationHash": 1013345609,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4072959335,
+				"activityHash": 0,
+				"directorBookHash": 499756083,
+				"activityGraphHash": 3591974821,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1013345609,
+		"index": 87,
+		"contentIdentifier": "r1_s4_locations_activities_strikes.mars3_undying_mind",
+		"redacted": false
+	},
+	"1031122626": {
+		"locationHash": 1031122626,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393213630,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1031122626,
+		"index": 32,
+		"contentIdentifier": "r1_s4_locations_activities_story.infidel",
+		"redacted": false
+	},
+	"1091044951": {
+		"locationHash": 1091044951,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2897855902,
+				"activityHash": 0,
+				"directorBookHash": 2149902399,
+				"activityGraphHash": 2149902399,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1091044951,
+		"index": 94,
+		"contentIdentifier": "r1_s4_locations_activities_strikes.pandora_partnership0",
+		"redacted": false
+	},
+	"1103632721": {
+		"locationHash": 1103632721,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 518553403,
+				"activityHash": 0,
+				"directorBookHash": 2043310511,
+				"activityGraphHash": 2043310511,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1103632721,
+		"index": 105,
+		"contentIdentifier": "r1_s4_locations_activities_strikes.venus2_winters_run",
+		"redacted": false
+	},
+	"1104308180": {
+		"locationHash": 1104308180,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2612139675,
+				"activityHash": 0,
+				"directorBookHash": 473350382,
+				"activityGraphHash": 1277472245,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1104308180,
+		"index": 122,
+		"contentIdentifier": "r1_s4_locations_npcs.saladin",
+		"redacted": false
+	},
+	"1202731664": {
+		"locationHash": 1202731664,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 518553403,
+				"activityHash": 0,
+				"directorBookHash": 2043310511,
+				"activityGraphHash": 2043310511,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1202731664,
+		"index": 64,
+		"contentIdentifier": "r1_s4_locations_activities_story.scissors",
+		"redacted": false
+	},
+	"1214404280": {
+		"locationHash": 1214404280,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 518553403,
+				"activityHash": 0,
+				"directorBookHash": 2043310511,
+				"activityGraphHash": 2043310511,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1214404280,
+		"index": 72,
+		"contentIdentifier": "r1_s4_locations_activities_story.traitor",
+		"redacted": false
+	},
+	"1248644798": {
+		"locationHash": 1248644798,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2897855902,
+				"activityHash": 0,
+				"directorBookHash": 2149902399,
+				"activityGraphHash": 2149902399,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1248644798,
+		"index": 16,
+		"contentIdentifier": "r1_s4_locations_activities_story.cinematic_of_fathers_and_sons",
+		"redacted": false
+	},
+	"1263931043": {
+		"locationHash": 1263931043,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 0,
+				"activityHash": 2369296916,
+				"directorBookHash": 0,
+				"activityGraphHash": 0,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1263931043,
+		"index": 18,
+		"contentIdentifier": "r1_s4_locations_activities_story.cinematic_starmap",
+		"redacted": false
+	},
+	"1272108369": {
+		"locationHash": 1272108369,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4072959335,
+				"activityHash": 0,
+				"directorBookHash": 499756083,
+				"activityGraphHash": 3591974821,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1272108369,
+		"index": 36,
+		"contentIdentifier": "r1_s4_locations_activities_story.marathon_warlock",
+		"redacted": false
+	},
+	"1302779831": {
+		"locationHash": 1302779831,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4072959335,
+				"activityHash": 0,
+				"directorBookHash": 499756083,
+				"activityGraphHash": 3591974821,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1302779831,
+		"index": 33,
+		"contentIdentifier": "r1_s4_locations_activities_story.lithium",
+		"redacted": false
+	},
+	"1327599914": {
+		"locationHash": 1327599914,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3706424348,
+				"activityHash": 0,
+				"directorBookHash": 3295618674,
+				"activityGraphHash": 3295618674,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1327599914,
+		"index": 131,
+		"contentIdentifier": "d15.spring.activities_strikes.prison_of_elders_angelfish",
+		"redacted": false
+	},
+	"1330873793": {
+		"locationHash": 1330873793,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4072959335,
+				"activityHash": 0,
+				"directorBookHash": 499756083,
+				"activityGraphHash": 3591974821,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1330873793,
+		"index": 31,
+		"contentIdentifier": "r1_s4_locations_activities_story.hydrogen",
+		"redacted": false
+	},
+	"1342565488": {
+		"locationHash": 1342565488,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4233735899,
+				"activityHash": 0,
+				"directorBookHash": 986601339,
+				"activityGraphHash": 986601339,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1342565488,
+		"index": 89,
+		"contentIdentifier": "r1_s4_locations_activities_strikes.moon1_summoning_pits",
+		"redacted": false
+	},
+	"1402248845": {
+		"locationHash": 1402248845,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393905939,
+				"activityHash": 0,
+				"directorBookHash": 3295618674,
+				"activityGraphHash": 3295618674,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1402248845,
+		"index": 76,
+		"contentIdentifier": "r1_s4_locations_activities_story.venus1_outro",
+		"redacted": false
+	},
+	"1438636527": {
+		"locationHash": 1438636527,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2172408844,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 2172408845,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 2172408846,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				},
+				"destinationHash": 3393905939,
+				"activityHash": 0,
+				"directorBookHash": 3295618674,
+				"activityGraphHash": 3295618674,
+				"activityGraphNodeHash": 0
+			},
+			{
+				"activeUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2172408844,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 2172408845,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 2172408846,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 2172408844,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 2172408845,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 2172408846,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 3,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 3,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				},
+				"destinationHash": 2612139675,
+				"activityHash": 0,
+				"directorBookHash": 473350382,
+				"activityGraphHash": 1277472245,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1438636527,
+		"index": 127,
+		"contentIdentifier": "r1_s4_locations_npcs.xur",
+		"redacted": false
+	},
+	"1440786028": {
+		"locationHash": 1440786028,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2897855902,
+				"activityHash": 0,
+				"directorBookHash": 2149902399,
+				"activityGraphHash": 2149902399,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1440786028,
+		"index": 70,
+		"contentIdentifier": "r1_s4_locations_activities_story.topknot",
+		"redacted": false
+	},
+	"1477270997": {
+		"locationHash": 1477270997,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393905939,
+				"activityHash": 0,
+				"directorBookHash": 3295618674,
+				"activityGraphHash": 3295618674,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1477270997,
+		"index": 113,
+		"contentIdentifier": "r1_s4_locations_npcs.cryptarch_apprentice_reef",
+		"redacted": false
+	},
+	"1486418712": {
+		"locationHash": 1486418712,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393213630,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1486418712,
+		"index": 24,
+		"contentIdentifier": "r1_s4_locations_activities_story.cosmo6",
+		"redacted": false
+	},
+	"1486418714": {
+		"locationHash": 1486418714,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393213630,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1486418714,
+		"index": 23,
+		"contentIdentifier": "r1_s4_locations_activities_story.cosmo4",
+		"redacted": false
+	},
+	"1486418716": {
+		"locationHash": 1486418716,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393213630,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1486418716,
+		"index": 22,
+		"contentIdentifier": "r1_s4_locations_activities_story.cosmo2",
+		"redacted": false
+	},
+	"1486418718": {
+		"locationHash": 1486418718,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393213630,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1486418718,
+		"index": 19,
+		"contentIdentifier": "r1_s4_locations_activities_story.cosmo0",
+		"redacted": false
+	},
+	"1486418719": {
+		"locationHash": 1486418719,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393213630,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1486418719,
+		"index": 21,
+		"contentIdentifier": "r1_s4_locations_activities_story.cosmo1",
+		"redacted": false
+	},
+	"1498303279": {
+		"locationHash": 1498303279,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2897855902,
+				"activityHash": 0,
+				"directorBookHash": 2149902399,
+				"activityGraphHash": 2149902399,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1498303279,
+		"index": 68,
+		"contentIdentifier": "r1_s4_locations_activities_story.toaster",
+		"redacted": false
+	},
+	"1506163200": {
+		"locationHash": 1506163200,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2468353467,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1506163200,
+		"index": 133,
+		"contentIdentifier": "d15.fall.activities_story.mission_pug",
+		"redacted": false
+	},
+	"1507898074": {
+		"locationHash": 1507898074,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393213630,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1507898074,
+		"index": 74,
+		"contentIdentifier": "r1_s4_locations_activities_story.turing_malice",
+		"redacted": false
+	},
+	"1542787397": {
+		"locationHash": 1542787397,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393213630,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1542787397,
+		"index": 61,
+		"contentIdentifier": "r1_s4_locations_activities_story.radium",
+		"redacted": false
+	},
+	"1546878685": {
+		"locationHash": 1546878685,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3705523133,
+				"activityHash": 0,
+				"directorBookHash": 499756083,
+				"activityGraphHash": 3591974821,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1546878685,
+		"index": 45,
+		"contentIdentifier": "r1_s4_locations_activities_story.microwave_time_trial",
+		"redacted": false
+	},
+	"1585829322": {
+		"locationHash": 1585829322,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2468353467,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1585829322,
+		"index": 137,
+		"contentIdentifier": "d15.fall.activities_story.mission_mutt",
+		"redacted": false
+	},
+	"1596478396": {
+		"locationHash": 1596478396,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 518553403,
+				"activityHash": 0,
+				"directorBookHash": 2043310511,
+				"activityGraphHash": 2043310511,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1596478396,
+		"index": 14,
+		"contentIdentifier": "r1_s4_locations_activities_story.catalyst",
+		"redacted": false
+	},
+	"1624092568": {
+		"locationHash": 1624092568,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2897855902,
+				"activityHash": 0,
+				"directorBookHash": 2149902399,
+				"activityGraphHash": 2149902399,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1624092568,
+		"index": 92,
+		"contentIdentifier": "r1_s4_locations_activities_strikes.overlord_time_trials",
+		"redacted": false
+	},
+	"1718456585": {
+		"locationHash": 1718456585,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4072959335,
+				"activityHash": 0,
+				"directorBookHash": 499756083,
+				"activityGraphHash": 3591974821,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1718456585,
+		"index": 2,
+		"contentIdentifier": "r1_s4_locations_activities_patrols.mars1",
+		"redacted": false
+	},
+	"1719340516": {
+		"locationHash": 1719340516,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2612139675,
+				"activityHash": 0,
+				"directorBookHash": 473350382,
+				"activityGraphHash": 1277472245,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1719340516,
+		"index": 116,
+		"contentIdentifier": "r1_s4_locations_npcs.executor_hideo_new_monarchy",
+		"redacted": false
+	},
+	"1736870827": {
+		"locationHash": 1736870827,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393213630,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1736870827,
+		"index": 29,
+		"contentIdentifier": "r1_s4_locations_activities_story.elevator",
+		"redacted": false
+	},
+	"1774867883": {
+		"locationHash": 1774867883,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4233735899,
+				"activityHash": 0,
+				"directorBookHash": 986601339,
+				"activityGraphHash": 986601339,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1774867883,
+		"index": 65,
+		"contentIdentifier": "r1_s4_locations_activities_story.screw",
+		"redacted": false
+	},
+	"1810631363": {
+		"locationHash": 1810631363,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 518553403,
+				"activityHash": 0,
+				"directorBookHash": 2043310511,
+				"activityGraphHash": 2043310511,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1810631363,
+		"index": 104,
+		"contentIdentifier": "r1_s4_locations_activities_strikes.venus1_nexus",
+		"redacted": false
+	},
+	"1822888667": {
+		"locationHash": 1822888667,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2612139675,
+				"activityHash": 0,
+				"directorBookHash": 473350382,
+				"activityGraphHash": 1277472245,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1822888667,
+		"index": 114,
+		"contentIdentifier": "r1_s4_locations_npcs.eris",
+		"redacted": false
+	},
+	"1835052740": {
+		"locationHash": 1835052740,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 518553403,
+				"activityHash": 0,
+				"directorBookHash": 2043310511,
+				"activityGraphHash": 2043310511,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1835052740,
+		"index": 58,
+		"contentIdentifier": "r1_s4_locations_activities_story.paradox",
+		"redacted": false
+	},
+	"1856015358": {
+		"locationHash": 1856015358,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2897855902,
+				"activityHash": 0,
+				"directorBookHash": 2149902399,
+				"activityGraphHash": 2149902399,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1856015358,
+		"index": 95,
+		"contentIdentifier": "r1_s4_locations_activities_strikes.pandora_sword",
+		"redacted": false
+	},
+	"1892951860": {
+		"locationHash": 1892951860,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2897855902,
+				"activityHash": 0,
+				"directorBookHash": 2149902399,
+				"activityGraphHash": 2149902399,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1892951860,
+		"index": 91,
+		"contentIdentifier": "r1_s4_locations_activities_strikes.overlord_chaperone",
+		"redacted": false
+	},
+	"1959758008": {
+		"locationHash": 1959758008,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2897855902,
+				"activityHash": 0,
+				"directorBookHash": 2149902399,
+				"activityGraphHash": 2149902399,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 1959758008,
+		"index": 28,
+		"contentIdentifier": "r1_s4_locations_activities_story.destroyer",
+		"redacted": false
+	},
+	"2020175599": {
+		"locationHash": 2020175599,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4233735899,
+				"activityHash": 0,
+				"directorBookHash": 986601339,
+				"activityGraphHash": 986601339,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2020175599,
+		"index": 27,
+		"contentIdentifier": "r1_s4_locations_activities_story.deja",
+		"redacted": false
+	},
+	"2026691050": {
+		"locationHash": 2026691050,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393905939,
+				"activityHash": 0,
+				"directorBookHash": 3295618674,
+				"activityGraphHash": 3295618674,
+				"activityGraphNodeHash": 0
+			},
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2612139675,
+				"activityHash": 0,
+				"directorBookHash": 473350382,
+				"activityGraphHash": 1277472245,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2026691050,
+		"index": 121,
+		"contentIdentifier": "r1_s4_locations_npcs.postmaster",
+		"redacted": false
+	},
+	"2181119109": {
+		"locationHash": 2181119109,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4072959335,
+				"activityHash": 0,
+				"directorBookHash": 499756083,
+				"activityGraphHash": 3591974821,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2181119109,
+		"index": 86,
+		"contentIdentifier": "r1_s4_locations_activities_strikes.mars2_cerberus_vae",
+		"redacted": false
+	},
+	"2183856946": {
+		"locationHash": 2183856946,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4233735899,
+				"activityHash": 0,
+				"directorBookHash": 986601339,
+				"activityGraphHash": 986601339,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2183856946,
+		"index": 67,
+		"contentIdentifier": "r1_s4_locations_activities_story.souvenir",
+		"redacted": false
+	},
+	"2199235865": {
+		"locationHash": 2199235865,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4233735899,
+				"activityHash": 0,
+				"directorBookHash": 986601339,
+				"activityGraphHash": 986601339,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2199235865,
+		"index": 47,
+		"contentIdentifier": "r1_s4_locations_activities_story.moon3",
+		"redacted": false
+	},
+	"2199235867": {
+		"locationHash": 2199235867,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4233735899,
+				"activityHash": 0,
+				"directorBookHash": 986601339,
+				"activityGraphHash": 986601339,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2199235867,
+		"index": 46,
+		"contentIdentifier": "r1_s4_locations_activities_story.moon1",
+		"redacted": false
+	},
+	"2199235868": {
+		"locationHash": 2199235868,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4233735899,
+				"activityHash": 0,
+				"directorBookHash": 986601339,
+				"activityGraphHash": 986601339,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2199235868,
+		"index": 50,
+		"contentIdentifier": "r1_s4_locations_activities_story.moon6",
+		"redacted": false
+	},
+	"2199235869": {
+		"locationHash": 2199235869,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4233735899,
+				"activityHash": 0,
+				"directorBookHash": 986601339,
+				"activityGraphHash": 986601339,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2199235869,
+		"index": 51,
+		"contentIdentifier": "r1_s4_locations_activities_story.moon7",
+		"redacted": false
+	},
+	"2199235870": {
+		"locationHash": 2199235870,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4233735899,
+				"activityHash": 0,
+				"directorBookHash": 986601339,
+				"activityGraphHash": 986601339,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2199235870,
+		"index": 48,
+		"contentIdentifier": "r1_s4_locations_activities_story.moon4",
+		"redacted": false
+	},
+	"2199235871": {
+		"locationHash": 2199235871,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4233735899,
+				"activityHash": 0,
+				"directorBookHash": 986601339,
+				"activityGraphHash": 986601339,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2199235871,
+		"index": 49,
+		"contentIdentifier": "r1_s4_locations_activities_story.moon5",
+		"redacted": false
+	},
+	"2208947578": {
+		"locationHash": 2208947578,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3706424348,
+				"activityHash": 0,
+				"directorBookHash": 3295618674,
+				"activityGraphHash": 3295618674,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2208947578,
+		"index": 132,
+		"contentIdentifier": "d15.spring.activities_strikes.prison_of_elders",
+		"redacted": false
+	},
+	"2226605708": {
+		"locationHash": 2226605708,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2512542997,
+				"activityHash": 0,
+				"directorBookHash": 473350382,
+				"activityGraphHash": 0,
+				"activityGraphNodeHash": 0
+			},
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2512542997,
+				"activityHash": 0,
+				"directorBookHash": 1648658521,
+				"activityGraphHash": 1648658521,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2226605708,
+		"index": 84,
+		"contentIdentifier": "r1_s4_locations_activities_strikes.playlist_heroic",
+		"redacted": false
+	},
+	"2233938337": {
+		"locationHash": 2233938337,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2612139675,
+				"activityHash": 0,
+				"directorBookHash": 473350382,
+				"activityGraphHash": 1277472245,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2233938337,
+		"index": 118,
+		"contentIdentifier": "r1_s4_locations_npcs.lakshmi_future_war_cult",
+		"redacted": false
+	},
+	"2261171502": {
+		"locationHash": 2261171502,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393213630,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2261171502,
+		"index": 66,
+		"contentIdentifier": "r1_s4_locations_activities_story.sightline",
+		"redacted": false
+	},
+	"2280144974": {
+		"locationHash": 2280144974,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2468353467,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2280144974,
+		"index": 134,
+		"contentIdentifier": "d15.fall.activities_story.mission_beagle",
+		"redacted": false
+	},
+	"2332639016": {
+		"locationHash": 2332639016,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4072959335,
+				"activityHash": 0,
+				"directorBookHash": 499756083,
+				"activityGraphHash": 3591974821,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2332639016,
+		"index": 11,
+		"contentIdentifier": "r1_s4_locations_activities_story.apollo",
+		"redacted": false
+	},
+	"2455462411": {
+		"locationHash": 2455462411,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4233735899,
+				"activityHash": 0,
+				"directorBookHash": 986601339,
+				"activityGraphHash": 986601339,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2455462411,
+		"index": 130,
+		"contentIdentifier": "d15.spring.activities_strikes.kingpin",
+		"redacted": false
+	},
+	"2473509043": {
+		"locationHash": 2473509043,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2612139675,
+				"activityHash": 0,
+				"directorBookHash": 473350382,
+				"activityGraphHash": 1277472245,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2473509043,
+		"index": 107,
+		"contentIdentifier": "r1_s4_locations_npcs.arach_jalaal_dead_orbit",
+		"redacted": false
+	},
+	"2474773641": {
+		"locationHash": 2474773641,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2468353467,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2474773641,
+		"index": 139,
+		"contentIdentifier": "d15.fall.activities_story.mission_memory",
+		"redacted": false
+	},
+	"2539592105": {
+		"locationHash": 2539592105,
+		"uiLocationType": "NULL",
+		"locationReleases": [],
+		"hash": 2539592105,
+		"index": 42,
+		"contentIdentifier": "r1_s4_locations_activities_story.mars7_outro",
+		"redacted": false
+	},
+	"2552739233": {
+		"locationHash": 2552739233,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4233735899,
+				"activityHash": 0,
+				"directorBookHash": 986601339,
+				"activityGraphHash": 986601339,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2552739233,
+		"index": 3,
+		"contentIdentifier": "r1_s4_locations_activities_patrols.moon1",
+		"redacted": false
+	},
+	"2570643456": {
+		"locationHash": 2570643456,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393905939,
+				"activityHash": 0,
+				"directorBookHash": 3295618674,
+				"activityGraphHash": 3295618674,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2570643456,
+		"index": 119,
+		"contentIdentifier": "r1_s4_locations_npcs.osiris_brother_vance",
+		"redacted": false
+	},
+	"2579694131": {
+		"locationHash": 2579694131,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393905939,
+				"activityHash": 0,
+				"directorBookHash": 3295618674,
+				"activityGraphHash": 3295618674,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2579694131,
+		"index": 81,
+		"contentIdentifier": "r1_s4_locations_activities_story.venus7_outro",
+		"redacted": false
+	},
+	"2601511623": {
+		"locationHash": 2601511623,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 518553403,
+				"activityHash": 0,
+				"directorBookHash": 2043310511,
+				"activityGraphHash": 2043310511,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2601511623,
+		"index": 4,
+		"contentIdentifier": "r1_s4_locations_activities_patrols.venus1",
+		"redacted": false
+	},
+	"2611648855": {
+		"locationHash": 2611648855,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393213630,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2611648855,
+		"index": 30,
+		"contentIdentifier": "r1_s4_locations_activities_story.helium",
+		"redacted": false
+	},
+	"2626669797": {
+		"locationHash": 2626669797,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4072959335,
+				"activityHash": 0,
+				"directorBookHash": 499756083,
+				"activityGraphHash": 3591974821,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2626669797,
+		"index": 57,
+		"contentIdentifier": "r1_s4_locations_activities_story.paper",
+		"redacted": false
+	},
+	"2662736059": {
+		"locationHash": 2662736059,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393213630,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2662736059,
+		"index": 101,
+		"contentIdentifier": "r1_s4_locations_activities_strikes.reliquary_time_trials",
+		"redacted": false
+	},
+	"2681509024": {
+		"locationHash": 2681509024,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 10,
+							"flagHash": 0,
+							"valueHash": 408185636,
+							"value": 0
+						},
+						{
+							"stepOperator": 11,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 1
+						},
+						{
+							"stepOperator": 21,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 12,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 3197532640,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 3054678575,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 3,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 3,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				},
+				"destinationHash": 2468353467,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			},
+			{
+				"activeUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3197532640,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 3054678575,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 10,
+							"flagHash": 0,
+							"valueHash": 408185636,
+							"value": 0
+						},
+						{
+							"stepOperator": 11,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 1
+						},
+						{
+							"stepOperator": 21,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 8,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				},
+				"destinationHash": 2468353467,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2681509024,
+		"index": 144,
+		"contentIdentifier": "d15.fall.npcs.lord_saladin",
+		"redacted": false
+	},
+	"2690006881": {
+		"locationHash": 2690006881,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2468353467,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2690006881,
+		"index": 142,
+		"contentIdentifier": "d15.fall.activities_story.mission_strike_intro",
+		"redacted": false
+	},
+	"2714678434": {
+		"locationHash": 2714678434,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2612139675,
+				"activityHash": 0,
+				"directorBookHash": 473350382,
+				"activityGraphHash": 1277472245,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2714678434,
+		"index": 110,
+		"contentIdentifier": "r1_s4_locations_npcs.cayde",
+		"redacted": false
+	},
+	"2718489424": {
+		"locationHash": 2718489424,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3669933163,
+				"activityHash": 0,
+				"directorBookHash": 473350382,
+				"activityGraphHash": 2043310511,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2718489424,
+		"index": 35,
+		"contentIdentifier": "r1_s4_locations_activities_story.marathon_titan",
+		"redacted": false
+	},
+	"2743193648": {
+		"locationHash": 2743193648,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4233735899,
+				"activityHash": 0,
+				"directorBookHash": 986601339,
+				"activityGraphHash": 986601339,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2743193648,
+		"index": 6,
+		"contentIdentifier": "r1_s4_locations_activities_raid.crotas_end",
+		"redacted": false
+	},
+	"2784818374": {
+		"locationHash": 2784818374,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2617018872,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				},
+				"destinationHash": 2897855902,
+				"activityHash": 0,
+				"directorBookHash": 2149902399,
+				"activityGraphHash": 2149902399,
+				"activityGraphNodeHash": 0
+			},
+			{
+				"activeUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 2617018872,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				},
+				"destinationHash": 2897855902,
+				"activityHash": 0,
+				"directorBookHash": 473350382,
+				"activityGraphHash": 473350382,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2784818374,
+		"index": 71,
+		"contentIdentifier": "r1_s4_locations_activities_story.touchdown",
+		"redacted": false
+	},
+	"2810181116": {
+		"locationHash": 2810181116,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393905939,
+				"activityHash": 0,
+				"directorBookHash": 3295618674,
+				"activityGraphHash": 3295618674,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2810181116,
+		"index": 126,
+		"contentIdentifier": "r1_s4_locations_npcs.variks",
+		"redacted": false
+	},
+	"2824124891": {
+		"locationHash": 2824124891,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4072959335,
+				"activityHash": 0,
+				"directorBookHash": 499756083,
+				"activityGraphHash": 3591974821,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2824124891,
+		"index": 85,
+		"contentIdentifier": "r1_s4_locations_activities_strikes.mars1_dust_palace",
+		"redacted": false
+	},
+	"2829207092": {
+		"locationHash": 2829207092,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2897855902,
+				"activityHash": 0,
+				"directorBookHash": 2149902399,
+				"activityGraphHash": 2149902399,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2829207092,
+		"index": 54,
+		"contentIdentifier": "r1_s4_locations_activities_story.omen",
+		"redacted": false
+	},
+	"2839694664": {
+		"locationHash": 2839694664,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2897855902,
+				"activityHash": 0,
+				"directorBookHash": 2149902399,
+				"activityGraphHash": 2149902399,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2839694664,
+		"index": 1,
+		"contentIdentifier": "r1_s4_locations_activities_patrols.hiveship1",
+		"redacted": false
+	},
+	"2845672031": {
+		"locationHash": 2845672031,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 0,
+				"activityHash": 2819394450,
+				"directorBookHash": 0,
+				"activityGraphHash": 0,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2845672031,
+		"index": 96,
+		"contentIdentifier": "r1_s4_locations_activities_strikes.playlist_d14",
+		"redacted": false
+	},
+	"2900616643": {
+		"locationHash": 2900616643,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393213630,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2900616643,
+		"index": 99,
+		"contentIdentifier": "r1_s4_locations_activities_strikes.reliquary",
+		"redacted": false
+	},
+	"2982340962": {
+		"locationHash": 2982340962,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2897855902,
+				"activityHash": 0,
+				"directorBookHash": 2149902399,
+				"activityGraphHash": 2149902399,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 2982340962,
+		"index": 7,
+		"contentIdentifier": "r1_s4_locations_activities_raid.epiphany",
+		"redacted": false
+	},
+	"3009029458": {
+		"locationHash": 3009029458,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2612139675,
+				"activityHash": 0,
+				"directorBookHash": 473350382,
+				"activityGraphHash": 1277472245,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3009029458,
+		"index": 112,
+		"contentIdentifier": "r1_s4_locations_npcs.cryptarch",
+		"redacted": false
+	},
+	"3028684324": {
+		"locationHash": 3028684324,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 539284216,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				},
+				"destinationHash": 3393213630,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			},
+			{
+				"activeUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 539284216,
+							"valueHash": 0,
+							"value": 0
+						}
+					]
+				},
+				"destinationHash": 3393213630,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3028684324,
+		"index": 82,
+		"contentIdentifier": "r1_s4_locations_activities_strikes.cosmo1_devils_lair",
+		"redacted": false
+	},
+	"3059902832": {
+		"locationHash": 3059902832,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3705523133,
+				"activityHash": 0,
+				"directorBookHash": 499756083,
+				"activityGraphHash": 3591974821,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3059902832,
+		"index": 44,
+		"contentIdentifier": "r1_s4_locations_activities_story.microwave_malice",
+		"redacted": false
+	},
+	"3072787094": {
+		"locationHash": 3072787094,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2612139675,
+				"activityHash": 0,
+				"directorBookHash": 473350382,
+				"activityGraphHash": 1277472245,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3072787094,
+		"index": 15,
+		"contentIdentifier": "r1_s4_locations_activities_story.cinematic_hangar",
+		"redacted": false
+	},
+	"3088891288": {
+		"locationHash": 3088891288,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 10,
+							"flagHash": 0,
+							"valueHash": 408185636,
+							"value": 0
+						},
+						{
+							"stepOperator": 11,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 1
+						},
+						{
+							"stepOperator": 21,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 12,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 3197532640,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 3054678575,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 3,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 3,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				},
+				"destinationHash": 2468353467,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			},
+			{
+				"activeUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3197532640,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 3054678575,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 10,
+							"flagHash": 0,
+							"valueHash": 408185636,
+							"value": 0
+						},
+						{
+							"stepOperator": 11,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 1
+						},
+						{
+							"stepOperator": 21,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 8,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				},
+				"destinationHash": 2468353467,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3088891288,
+		"index": 145,
+		"contentIdentifier": "d15.fall.npcs.shiro_4",
+		"redacted": false
+	},
+	"3122562238": {
+		"locationHash": 3122562238,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 10,
+							"flagHash": 0,
+							"valueHash": 408185636,
+							"value": 0
+						},
+						{
+							"stepOperator": 11,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 1
+						},
+						{
+							"stepOperator": 21,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 12,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 3197532640,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 3054678575,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 3,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 3,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				},
+				"destinationHash": 2468353467,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			},
+			{
+				"activeUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3197532640,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 3054678575,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 10,
+							"flagHash": 0,
+							"valueHash": 408185636,
+							"value": 0
+						},
+						{
+							"stepOperator": 11,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 1
+						},
+						{
+							"stepOperator": 21,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 8,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				},
+				"destinationHash": 2468353467,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3122562238,
+		"index": 147,
+		"contentIdentifier": "d15.fall.npcs.efrideet",
+		"redacted": false
+	},
+	"3133837922": {
+		"locationHash": 3133837922,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2897855902,
+				"activityHash": 0,
+				"directorBookHash": 2149902399,
+				"activityGraphHash": 2149902399,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3133837922,
+		"index": 26,
+		"contentIdentifier": "r1_s4_locations_activities_story.deadflower",
+		"redacted": false
+	},
+	"3155644950": {
+		"locationHash": 3155644950,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 10,
+							"flagHash": 0,
+							"valueHash": 408185636,
+							"value": 0
+						},
+						{
+							"stepOperator": 11,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 1
+						},
+						{
+							"stepOperator": 21,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 12,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 3197532640,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 3054678575,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 3,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 3,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				},
+				"destinationHash": 2468353467,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			},
+			{
+				"activeUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3197532640,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 3054678575,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 10,
+							"flagHash": 0,
+							"valueHash": 408185636,
+							"value": 0
+						},
+						{
+							"stepOperator": 11,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 1
+						},
+						{
+							"stepOperator": 21,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 8,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				},
+				"destinationHash": 2468353467,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3155644950,
+		"index": 138,
+		"contentIdentifier": "d15.fall.activities_story.iron_observatory",
+		"redacted": false
+	},
+	"3176422977": {
+		"locationHash": 3176422977,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2612139675,
+				"activityHash": 0,
+				"directorBookHash": 473350382,
+				"activityGraphHash": 1277472245,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3176422977,
+		"index": 106,
+		"contentIdentifier": "r1_s4_locations_npcs.amanda_holiday",
+		"redacted": false
+	},
+	"3180904991": {
+		"locationHash": 3180904991,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 10,
+							"flagHash": 0,
+							"valueHash": 408185636,
+							"value": 0
+						},
+						{
+							"stepOperator": 11,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 1
+						},
+						{
+							"stepOperator": 21,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 12,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 3197532640,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 3054678575,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 3,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 3,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				},
+				"destinationHash": 2468353467,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			},
+			{
+				"activeUnlockExpression": {
+					"steps": [
+						{
+							"stepOperator": 1,
+							"flagHash": 3197532640,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 1,
+							"flagHash": 3054678575,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 2,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 10,
+							"flagHash": 0,
+							"valueHash": 408185636,
+							"value": 0
+						},
+						{
+							"stepOperator": 11,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 1
+						},
+						{
+							"stepOperator": 21,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": 0
+						},
+						{
+							"stepOperator": 8,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						},
+						{
+							"stepOperator": 4,
+							"flagHash": 0,
+							"valueHash": 0,
+							"value": -1
+						}
+					]
+				},
+				"destinationHash": 2468353467,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3180904991,
+		"index": 146,
+		"contentIdentifier": "d15.fall.npcs.tyra_karn",
+		"redacted": false
+	},
+	"3199431330": {
+		"locationHash": 3199431330,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393905939,
+				"activityHash": 0,
+				"directorBookHash": 3295618674,
+				"activityGraphHash": 3295618674,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3199431330,
+		"index": 120,
+		"contentIdentifier": "r1_s4_locations_npcs.petra",
+		"redacted": false
+	},
+	"3229696164": {
+		"locationHash": 3229696164,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2612139675,
+				"activityHash": 0,
+				"directorBookHash": 473350382,
+				"activityGraphHash": 1277472245,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3229696164,
+		"index": 123,
+		"contentIdentifier": "r1_s4_locations_npcs.shaxx",
+		"redacted": false
+	},
+	"3235854882": {
+		"locationHash": 3235854882,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2777041980,
+				"activityHash": 0,
+				"directorBookHash": 3667195314,
+				"activityGraphHash": 3667195314,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3235854882,
+		"index": 5,
+		"contentIdentifier": "r1_s4_locations_activities_pvp.crucible_subscreen",
+		"redacted": false
+	},
+	"3265059713": {
+		"locationHash": 3265059713,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 518553403,
+				"activityHash": 0,
+				"directorBookHash": 2043310511,
+				"activityGraphHash": 2043310511,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3265059713,
+		"index": 63,
+		"contentIdentifier": "r1_s4_locations_activities_story.safari",
+		"redacted": false
+	},
+	"3371115512": {
+		"locationHash": 3371115512,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2612139675,
+				"activityHash": 0,
+				"directorBookHash": 473350382,
+				"activityGraphHash": 1277472245,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3371115512,
+		"index": 115,
+		"contentIdentifier": "r1_s4_locations_npcs.eva_lavante",
+		"redacted": false
+	},
+	"3390178387": {
+		"locationHash": 3390178387,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393213630,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3390178387,
+		"index": 59,
+		"contentIdentifier": "r1_s4_locations_activities_story.peekaboo",
+		"redacted": false
+	},
+	"3391323901": {
+		"locationHash": 3391323901,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2612139675,
+				"activityHash": 0,
+				"directorBookHash": 473350382,
+				"activityGraphHash": 1277472245,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3391323901,
+		"index": 125,
+		"contentIdentifier": "r1_s4_locations_npcs.tess",
+		"redacted": false
+	},
+	"3425859940": {
+		"locationHash": 3425859940,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2897855902,
+				"activityHash": 0,
+				"directorBookHash": 2149902399,
+				"activityGraphHash": 2149902399,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3425859940,
+		"index": 90,
+		"contentIdentifier": "r1_s4_locations_activities_strikes.overlord",
+		"redacted": false
+	},
+	"3439364180": {
+		"locationHash": 3439364180,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 0,
+				"activityHash": 2401705359,
+				"directorBookHash": 1648658521,
+				"activityGraphHash": 0,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3439364180,
+		"index": 97,
+		"contentIdentifier": "r1_s4_locations_activities_strikes.playlist_marmoset",
+		"redacted": false
+	},
+	"3460828452": {
+		"locationHash": 3460828452,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2897855902,
+				"activityHash": 0,
+				"directorBookHash": 2149902399,
+				"activityGraphHash": 2149902399,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3460828452,
+		"index": 69,
+		"contentIdentifier": "r1_s4_locations_activities_story.toaster_time_trial",
+		"redacted": false
+	},
+	"3461916062": {
+		"locationHash": 3461916062,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2612139675,
+				"activityHash": 0,
+				"directorBookHash": 473350382,
+				"activityGraphHash": 1277472245,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3461916062,
+		"index": 117,
+		"contentIdentifier": "r1_s4_locations_npcs.ikora",
+		"redacted": false
+	},
+	"3510165352": {
+		"locationHash": 3510165352,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2897855902,
+				"activityHash": 3700036317,
+				"directorBookHash": 473350382,
+				"activityGraphHash": 0,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3510165352,
+		"index": 17,
+		"contentIdentifier": "r1_s4_locations_activities_story.cinematic_oryx_tease",
+		"redacted": false
+	},
+	"3548190405": {
+		"locationHash": 3548190405,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2468353467,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3548190405,
+		"index": 143,
+		"contentIdentifier": "d15.fall.activities_patrol.patrol_plaguelands",
+		"redacted": false
+	},
+	"3570194109": {
+		"locationHash": 3570194109,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 0,
+				"activityHash": 1749151224,
+				"directorBookHash": 473350382,
+				"activityGraphHash": 0,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3570194109,
+		"index": 98,
+		"contentIdentifier": "r1_s4_locations_activities_strikes.playlist_nightfall",
+		"redacted": false
+	},
+	"3612099719": {
+		"locationHash": 3612099719,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4072959335,
+				"activityHash": 0,
+				"directorBookHash": 499756083,
+				"activityGraphHash": 3591974821,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3612099719,
+		"index": 53,
+		"contentIdentifier": "r1_s4_locations_activities_story.nitrogen",
+		"redacted": false
+	},
+	"3636679430": {
+		"locationHash": 3636679430,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2468353467,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3636679430,
+		"index": 136,
+		"contentIdentifier": "d15.fall.activities_story.mission_hound",
+		"redacted": false
+	},
+	"3640814533": {
+		"locationHash": 3640814533,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393213630,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3640814533,
+		"index": 0,
+		"contentIdentifier": "r1_s4_locations_activities_patrols.cosmo1",
+		"redacted": false
+	},
+	"3647826407": {
+		"locationHash": 3647826407,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2612139675,
+				"activityHash": 0,
+				"directorBookHash": 473350382,
+				"activityGraphHash": 1277472245,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3647826407,
+		"index": 128,
+		"contentIdentifier": "r1_s4_locations_npcs.zavala",
+		"redacted": false
+	},
+	"3690110201": {
+		"locationHash": 3690110201,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 518553403,
+				"activityHash": 0,
+				"directorBookHash": 2043310511,
+				"activityGraphHash": 2043310511,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3690110201,
+		"index": 102,
+		"contentIdentifier": "r1_s4_locations_activities_strikes.tracker",
+		"redacted": false
+	},
+	"3724205027": {
+		"locationHash": 3724205027,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393213630,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3724205027,
+		"index": 12,
+		"contentIdentifier": "r1_s4_locations_activities_story.bonzo",
+		"redacted": false
+	},
+	"3739911313": {
+		"locationHash": 3739911313,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393905939,
+				"activityHash": 0,
+				"directorBookHash": 3295618674,
+				"activityGraphHash": 3295618674,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3739911313,
+		"index": 9,
+		"contentIdentifier": "r1_s4_locations_activities_social.reef",
+		"redacted": false
+	},
+	"3748456165": {
+		"locationHash": 3748456165,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393213630,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3748456165,
+		"index": 56,
+		"contentIdentifier": "r1_s4_locations_activities_story.pact",
+		"redacted": false
+	},
+	"3822142973": {
+		"locationHash": 3822142973,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2612139675,
+				"activityHash": 0,
+				"directorBookHash": 473350382,
+				"activityGraphHash": 1277472245,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3822142973,
+		"index": 111,
+		"contentIdentifier": "r1_s4_locations_npcs.crucible_quartermaster_arcite",
+		"redacted": false
+	},
+	"3834231039": {
+		"locationHash": 3834231039,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2468353467,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3834231039,
+		"index": 140,
+		"contentIdentifier": "d15.fall.activities_story.mission_research",
+		"redacted": false
+	},
+	"3847730618": {
+		"locationHash": 3847730618,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2337585795,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3847730618,
+		"index": 13,
+		"contentIdentifier": "r1_s4_locations_activities_story.carbon",
+		"redacted": false
+	},
+	"3936381822": {
+		"locationHash": 3936381822,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2612139675,
+				"activityHash": 0,
+				"directorBookHash": 473350382,
+				"activityGraphHash": 1277472245,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3936381822,
+		"index": 10,
+		"contentIdentifier": "r1_s4_locations_activities_social.tower",
+		"redacted": false
+	},
+	"3960292555": {
+		"locationHash": 3960292555,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2612139675,
+				"activityHash": 0,
+				"directorBookHash": 473350382,
+				"activityGraphHash": 1277472245,
+				"activityGraphNodeHash": 0
+			},
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393905939,
+				"activityHash": 0,
+				"directorBookHash": 3295618674,
+				"activityGraphHash": 3295618674,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 3960292555,
+		"index": 109,
+		"contentIdentifier": "r1_s4_locations_npcs.bounty_vendor_any",
+		"redacted": false
+	},
+	"4003353564": {
+		"locationHash": 4003353564,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 3393213630,
+				"activityHash": 0,
+				"directorBookHash": 2707330101,
+				"activityGraphHash": 1325457571,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 4003353564,
+		"index": 100,
+		"contentIdentifier": "r1_s4_locations_activities_strikes.reliquary_epl5",
+		"redacted": false
+	},
+	"4111351037": {
+		"locationHash": 4111351037,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 518553403,
+				"activityHash": 0,
+				"directorBookHash": 2043310511,
+				"activityGraphHash": 2043310511,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 4111351037,
+		"index": 8,
+		"contentIdentifier": "r1_s4_locations_activities_raid.vault_of_glass",
+		"redacted": false
+	},
+	"4164661204": {
+		"locationHash": 4164661204,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 4072959335,
+				"activityHash": 0,
+				"directorBookHash": 499756083,
+				"activityGraphHash": 3591974821,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 4164661204,
+		"index": 34,
+		"contentIdentifier": "r1_s4_locations_activities_story.marathon_hunter",
+		"redacted": false
+	},
+	"4243480294": {
+		"locationHash": 4243480294,
+		"uiLocationType": "NULL",
+		"locationReleases": [
+			{
+				"activeUnlockExpression": {
+					"steps": []
+				},
+				"destinationHash": 2897855902,
+				"activityHash": 0,
+				"directorBookHash": 2149902399,
+				"activityGraphHash": 2149902399,
+				"activityGraphNodeHash": 0
+			}
+		],
+		"hash": 4243480294,
+		"index": 129,
+		"contentIdentifier": "d15.spring.activities_story.rook",
+		"redacted": false
+	}
+}

@@ -1,0 +1,5706 @@
+{
+	"18715720": {
+		"bundleHash": 18715720,
+		"activityName": "King of the Mountain",
+		"activityDescription": "Lord Saladin has called you to defend an abandoned mountaintop observatory from a Fallen assault.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2468353467,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1299744814,
+		"activityHashes": [
+			18715720
+		],
+		"hash": 18715720,
+		"index": 0,
+		"redacted": false
+	},
+	"24471896": {
+		"bundleHash": 24471896,
+		"activityName": "Mars and Venus",
+		"activityDescription": "When Destiny called, you answered.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 1568309094,
+		"placeHash": 3605772915,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			24471899,
+			24471896,
+			389785553,
+			1117274478,
+			425614025
+		],
+		"hash": 24471896,
+		"index": 0,
+		"redacted": false
+	},
+	"24471899": {
+		"bundleHash": 24471899,
+		"activityName": "Earth and Moon",
+		"activityDescription": "Every legend has a beginning...",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 1568309094,
+		"placeHash": 3605772915,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			24471899,
+			24471896,
+			389785553,
+			1117274478,
+			425614025
+		],
+		"hash": 24471899,
+		"index": 0,
+		"redacted": false
+	},
+	"34327100": {
+		"bundleHash": 34327100,
+		"activityName": "Fallen S.A.B.E.R.",
+		"activityDescription": "Rush to the aid of the AI Warmind Rasputin as he broadcasts a plea for help across the system.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 4110605575,
+		"activityHashes": [
+			34327100,
+			287505866
+		],
+		"hash": 34327100,
+		"index": 0,
+		"redacted": false
+	},
+	"51311972": {
+		"bundleHash": 51311972,
+		"activityName": "The Undying Mind",
+		"activityDescription": "An ancient Mind, feared by the Vex themselves, hides among the channels of the Black Garden. Find this machine and end its existence.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/1291f27f41da0019b85a022a93e0f6f8.png",
+		"releaseTime": 0,
+		"destinationHash": 4072959335,
+		"placeHash": 2809578934,
+		"activityTypeHash": 4110605575,
+		"activityHashes": [
+			51311972,
+			165850035
+		],
+		"hash": 51311972,
+		"index": 0,
+		"redacted": false
+	},
+	"51311973": {
+		"bundleHash": 51311973,
+		"activityName": "Cerberus Vae III",
+		"activityDescription": "Just beyond their warbase, Valus Ta'aurc, Fleet Commander of the Cabal Siege Dancers, hides in an Imperial Land Tank. Fight through his guard and stop this terror before he destroys all of Freehold.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 4072959335,
+		"placeHash": 2809578934,
+		"activityTypeHash": 4110605575,
+		"activityHashes": [
+			51311973,
+			3941998864
+		],
+		"hash": 51311973,
+		"index": 0,
+		"redacted": false
+	},
+	"51311974": {
+		"bundleHash": 51311974,
+		"activityName": "Dust Palace",
+		"activityDescription": "A new Cabal force has unleashed powerful Psion Flayers to seize control of the old Martian Warmind. Face this new threat and secure what remains of the ancient network.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 4072959335,
+		"placeHash": 2809578934,
+		"activityTypeHash": 4110605575,
+		"activityHashes": [
+			51311974,
+			3394418729
+		],
+		"hash": 51311974,
+		"index": 0,
+		"redacted": false
+	},
+	"64371922": {
+		"bundleHash": 64371922,
+		"activityName": "Rumble Supremacy",
+		"activityDescription": "\"A Guardian's Crest is her honor. Claim them from opponents, and protect your own.\" —Lord Shaxx\n\nBattle on your own. Defeat your opponents, and take their Crests.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3832998222,
+		"activityHashes": [
+			64371922
+		],
+		"hash": 64371922,
+		"index": 0,
+		"redacted": false
+	},
+	"86749741": {
+		"bundleHash": 86749741,
+		"activityName": "Iron Banner Control",
+		"activityDescription": "\"It's a tactical exercise in reinforcing and defending acquired territory. Should the Vanguard ever decide to expand past the walls of the City, the Guardians will be ready.\" —Lord Shaxx \n\nAll-out team warfare. Destroy the enemy. Impress the Lords of Iron.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 1337970376,
+		"activityHashes": [
+			86749741
+		],
+		"hash": 86749741,
+		"index": 0,
+		"redacted": false
+	},
+	"95021281": {
+		"bundleHash": 95021281,
+		"activityName": "Lost to Light",
+		"activityDescription": "Return to the Chamber of Night and steal a shard of the crystal that once held Crota's soul.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 4233735899,
+		"placeHash": 3128647858,
+		"activityTypeHash": 1299744814,
+		"activityHashes": [
+			95021281
+		],
+		"hash": 95021281,
+		"index": 0,
+		"redacted": false
+	},
+	"96237246": {
+		"bundleHash": 96237246,
+		"activityName": "Classic 6v6",
+		"activityDescription": "\"There's a rousing demand—from participants and spectators—for Legacy match types and arenas in the Crucible. I give them gladly.\" —Lord Shaxx \n\nA mix of 6v6 modes on classic maps.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3852968078,
+		"activityHashes": [
+			96237246
+		],
+		"hash": 96237246,
+		"index": 0,
+		"redacted": false
+	},
+	"98710471": {
+		"bundleHash": 98710471,
+		"activityName": "Rumble",
+		"activityDescription": "\"Pure combat. Your only job is to make sure you're still standing when the dust settles.\" —Lord Shaxx \n\nKill everything. Watch your back.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			98710471
+		],
+		"hash": 98710471,
+		"index": 0,
+		"redacted": false
+	},
+	"123999179": {
+		"bundleHash": 123999179,
+		"activityName": "Shadows at Twilight",
+		"activityDescription": "Explore the Twilight Gap and survive the shadow that hangs above it.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2337585795,
+		"placeHash": 3747705955,
+		"activityTypeHash": 2881466965,
+		"activityHashes": [
+			123999179
+		],
+		"hash": 123999179,
+		"index": 0,
+		"redacted": false
+	},
+	"130631058": {
+		"bundleHash": 130631058,
+		"activityName": "Classic 3v3",
+		"activityDescription": "\"There's a rousing demand—from participants and spectators—for Legacy match types and arenas in the Crucible. I give them gladly.\" —Lord Shaxx  \n\nA mix of 3v3 modes on classic maps.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3887258850,
+		"activityHashes": [
+			130631058
+		],
+		"hash": 130631058,
+		"index": 0,
+		"redacted": false
+	},
+	"149381097": {
+		"bundleHash": 149381097,
+		"activityName": "Patrol the Moon",
+		"activityDescription": "Survive the shattered surface of Earth's Moon and aid the City in their efforts.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 4233735899,
+		"placeHash": 3128647858,
+		"activityTypeHash": 3497767639,
+		"activityHashes": [
+			149381097
+		],
+		"hash": 149381097,
+		"index": 0,
+		"redacted": false
+	},
+	"157336261": {
+		"bundleHash": 157336261,
+		"activityName": "Inferno Supremacy",
+		"activityDescription": "\"A Guardian's Crest is her honor. Claim them from opponents, and protect your own.\" —Lord Shaxx\n\nDefeat your opponents and take their Crests. No trackers.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 126790154,
+		"activityHashes": [
+			157336261
+		],
+		"hash": 157336261,
+		"index": 0,
+		"redacted": false
+	},
+	"157980450": {
+		"bundleHash": 157980450,
+		"activityName": "The Iron Tomb",
+		"activityDescription": "Descend to the SIVA replication chamber, and end the threat once and for all.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2468353467,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			157980450,
+			430914016
+		],
+		"hash": 157980450,
+		"index": 0,
+		"redacted": false
+	},
+	"167419252": {
+		"bundleHash": 167419252,
+		"activityName": "Patrol the Cosmodrome",
+		"activityDescription": "Scour the Old Russian stronghold on Earth to protect the City's interests.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 3497767639,
+		"activityHashes": [
+			167419252
+		],
+		"hash": 167419252,
+		"index": 0,
+		"redacted": false
+	},
+	"211678003": {
+		"bundleHash": 211678003,
+		"activityName": "Iron Banner Rift",
+		"activityDescription": "\"This all started as a Warlock focus drill. The things I've seen them do with Rifts would be...very useful on a battlefield.\" —Lord Shaxx \n\nCollect the Spark and ignite the enemy's Rift with it. Impress the Lords of Iron.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 308891298,
+		"activityHashes": [
+			211678003
+		],
+		"hash": 211678003,
+		"index": 0,
+		"redacted": false
+	},
+	"212088538": {
+		"bundleHash": 212088538,
+		"activityName": "The Summoning Pits",
+		"activityDescription": "Deep within the Hellmouth, the Hive are breeding powerful abominations to unleash upon Earth. Find the pit where they live and stop any new horrors from rising.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 4233735899,
+		"placeHash": 3128647858,
+		"activityTypeHash": 4110605575,
+		"activityHashes": [
+			212088538,
+			3392709953
+		],
+		"hash": 212088538,
+		"index": 0,
+		"redacted": false
+	},
+	"252347595": {
+		"bundleHash": 252347595,
+		"activityName": "Hangar Stakes",
+		"activityDescription": "Cayde and Amanda Holliday fit a stealth drive to Eris Morn's ship.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2612139675,
+		"placeHash": 3747705955,
+		"activityTypeHash": 2201105581,
+		"activityHashes": [
+			252347595
+		],
+		"hash": 252347595,
+		"index": 0,
+		"redacted": false
+	},
+	"260615043": {
+		"bundleHash": 260615043,
+		"activityName": "Rumble",
+		"activityDescription": "\"Pure combat. Your only job is to make sure you're still standing when the dust settles.\" —Lord Shaxx \n\nKill everything. Watch your back.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			260615043
+		],
+		"hash": 260615043,
+		"index": 0,
+		"redacted": false
+	},
+	"260765522": {
+		"bundleHash": 260765522,
+		"activityName": "Wrath of the Machine",
+		"activityDescription": "Where the Light ends, evolution begins.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2468353467,
+		"placeHash": 3747705955,
+		"activityTypeHash": 2043403989,
+		"activityHashes": [
+			260765522,
+			1387993552,
+			3356249023
+		],
+		"hash": 260765522,
+		"index": 0,
+		"redacted": false
+	},
+	"284635225": {
+		"bundleHash": 284635225,
+		"activityName": "The Burning Shrine",
+		"activityDescription": "Fields of Glass, Mercury",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			284635225
+		],
+		"hash": 284635225,
+		"index": 0,
+		"redacted": false
+	},
+	"308091854": {
+		"bundleHash": 308091854,
+		"activityName": "Weekly Heroic Strike",
+		"activityDescription": "The Hive gather the Darkness around them as they raise abominations from their pits within the Moon.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 4233735899,
+		"placeHash": 3128647858,
+		"activityTypeHash": 4164571395,
+		"activityHashes": [
+			4175179544,
+			1398976307,
+			1398976306,
+			1398976305,
+			308091854,
+			3125074505,
+			2270968444,
+			1031478183,
+			1031478182,
+			1031478181,
+			403726674,
+			1657401677,
+			706472064,
+			4175179545,
+			308091855,
+			3125074504,
+			2270968445,
+			403726675,
+			1657401676,
+			706472065,
+			4175179546,
+			308091852,
+			3125074507,
+			2270968446,
+			403726672,
+			1657401679,
+			706472066
+		],
+		"hash": 308091854,
+		"index": 0,
+		"redacted": false
+	},
+	"351673577": {
+		"bundleHash": 351673577,
+		"activityName": "Classic Free-For-All",
+		"activityDescription": "\"There's a rousing demand—from participants and spectators—for Legacy match types and arenas in the Crucible. I give them gladly.\" —Lord Shaxx \n\nRumble on classic maps.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3597531865,
+		"activityHashes": [
+			351673577
+		],
+		"hash": 351673577,
+		"index": 0,
+		"redacted": false
+	},
+	"355605844": {
+		"bundleHash": 355605844,
+		"activityName": "Patrol the Plaguelands",
+		"activityDescription": "Explore beyond the Cosmodrome's ancient walls.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2468353467,
+		"placeHash": 3747705955,
+		"activityTypeHash": 3497767639,
+		"activityHashes": [
+			355605844
+		],
+		"hash": 355605844,
+		"index": 0,
+		"redacted": false
+	},
+	"389785553": {
+		"bundleHash": 389785553,
+		"activityName": "Dark Champions",
+		"activityDescription": "The Eater of Hope and a would-be Kell of Kells challenge the safety of humanity.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 1568309094,
+		"placeHash": 3605772915,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			24471899,
+			24471896,
+			389785553,
+			1117274478,
+			425614025
+		],
+		"hash": 389785553,
+		"index": 0,
+		"redacted": false
+	},
+	"403726674": {
+		"bundleHash": 403726674,
+		"activityName": "Weekly Heroic Strike",
+		"activityDescription": "The Darkness gathers around Sepiks Prime as it absorbs the essence of everything the Fallen can steal.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 4164571395,
+		"activityHashes": [
+			4175179544,
+			1398976307,
+			1398976306,
+			1398976305,
+			308091854,
+			3125074505,
+			2270968444,
+			1031478183,
+			1031478182,
+			1031478181,
+			403726674,
+			1657401677,
+			706472064,
+			4175179545,
+			308091855,
+			3125074504,
+			2270968445,
+			403726675,
+			1657401676,
+			706472065,
+			4175179546,
+			308091852,
+			3125074507,
+			2270968446,
+			403726672,
+			1657401679,
+			706472066
+		],
+		"hash": 403726674,
+		"index": 0,
+		"redacted": false
+	},
+	"425614025": {
+		"bundleHash": 425614025,
+		"activityName": "The Iron Lords",
+		"activityDescription": "The Iron Lords are gone. It is up to you to finish their final mission.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 1568309094,
+		"placeHash": 3605772915,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			24471899,
+			24471896,
+			389785553,
+			1117274478,
+			425614025
+		],
+		"hash": 425614025,
+		"index": 0,
+		"redacted": false
+	},
+	"428290721": {
+		"bundleHash": 428290721,
+		"activityName": "Patrol Mars",
+		"activityDescription": "Fight through the shifting dunes and aid the City in their exploration efforts.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 4072959335,
+		"placeHash": 2809578934,
+		"activityTypeHash": 3497767639,
+		"activityHashes": [
+			428290721
+		],
+		"hash": 428290721,
+		"index": 0,
+		"redacted": false
+	},
+	"431759746": {
+		"bundleHash": 431759746,
+		"activityName": "Salvage",
+		"activityDescription": "\"Treasures and forgotten tech lie waiting in the wake of the Golden Age's collapse. One must be swift and fierce to claim them.\" —Lord Shaxx \n\nRace the other team to capture and hold relics.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 2127351241,
+		"activityHashes": [
+			431759746
+		],
+		"hash": 431759746,
+		"index": 0,
+		"redacted": false
+	},
+	"443057682": {
+		"bundleHash": 443057682,
+		"activityName": "Skyshock",
+		"activityDescription": "Old Russia, Earth",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			443057682
+		],
+		"hash": 443057682,
+		"index": 0,
+		"redacted": false
+	},
+	"468325937": {
+		"bundleHash": 468325937,
+		"activityName": "Combined Arms",
+		"activityDescription": "\"Crush your enemies with a hundred tons of plated hull and munitions fire.\" —Lord Shaxx\n\nAll-out team warfare with vehicles. Destroy the enemy.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3409618559,
+		"activityHashes": [
+			468325937
+		],
+		"hash": 468325937,
+		"index": 0,
+		"redacted": false
+	},
+	"469270447": {
+		"bundleHash": 469270447,
+		"activityName": "Memento",
+		"activityDescription": "European Dead Zone, Earth",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			469270447
+		],
+		"hash": 469270447,
+		"index": 0,
+		"redacted": false
+	},
+	"492319725": {
+		"bundleHash": 492319725,
+		"activityName": "Mayhem Rumble",
+		"activityDescription": "\"How will you handle a battle like this, I wonder?\" —Lord Shaxx\n\nEmbrace the chaos. Greatly increased ability recharge rates. Faster Special Weapon and Heavy Ammo spawns. No respawn delay. Scoring values multiplied by 10.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 976536573,
+		"activityHashes": [
+			492319725
+		],
+		"hash": 492319725,
+		"index": 0,
+		"redacted": false
+	},
+	"496237130": {
+		"bundleHash": 496237130,
+		"activityName": "Sparrow Racing",
+		"activityDescription": "\"Speed is a weapon. Learn to wield it or be left behind.\" —Lord Shaxx\n\nYour Sparrow is your life. Cross the finish before your opponents do.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 1066759414,
+		"activityHashes": [
+			496237130
+		],
+		"hash": 496237130,
+		"index": 0,
+		"redacted": false
+	},
+	"504512661": {
+		"bundleHash": 504512661,
+		"activityName": "Vestian Outpost",
+		"activityDescription": "Join forces with the Queen's Guard and hunt down their enemies.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 3393905939,
+		"placeHash": 2512485647,
+		"activityTypeHash": 1589650888,
+		"activityHashes": [
+			504512661
+		],
+		"hash": 504512661,
+		"index": 0,
+		"redacted": false
+	},
+	"509411569": {
+		"bundleHash": 509411569,
+		"activityName": "Bad Blood",
+		"activityDescription": "Investigate the Hive uprising in the Plaguelands.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2468353467,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1801258597,
+		"activityHashes": [
+			509411569
+		],
+		"hash": 509411569,
+		"index": 0,
+		"redacted": false
+	},
+	"547981568": {
+		"bundleHash": 547981568,
+		"activityName": "Iron Banner Supremacy",
+		"activityDescription": "\"A Guardian's Crest is her honor. Claim them from opponents, and protect your own.\" —Lord Shaxx\n\nDefeat your opponents, and take their Crests.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 295266492,
+		"activityHashes": [
+			547981568
+		],
+		"hash": 547981568,
+		"index": 0,
+		"redacted": false
+	},
+	"579949585": {
+		"bundleHash": 579949585,
+		"activityName": "The Silent Fang",
+		"activityDescription": "Stop Skolas's elite assassins before they tear through the Cosmodrome.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/257fe24206deba4fe3a4e688bc18f03e.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			579949585,
+			2473173917
+		],
+		"hash": 579949585,
+		"index": 0,
+		"redacted": false
+	},
+	"581858107": {
+		"bundleHash": 581858107,
+		"activityName": "The Dawning",
+		"activityDescription": "Ghost reflects on the Dawning and the return of SRL.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2612139675,
+		"placeHash": 3747705955,
+		"activityTypeHash": 2201105581,
+		"activityHashes": [
+			581858107
+		],
+		"hash": 581858107,
+		"index": 0,
+		"redacted": false
+	},
+	"614791010": {
+		"bundleHash": 614791010,
+		"activityName": "Supremacy",
+		"activityDescription": "\"A Guardian's Crest is her honor. Claim them from opponents, and protect your own.\" —Lord Shaxx\n\nDefeat your opponents, and take their Crests.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 1860850614,
+		"activityHashes": [
+			614791010
+		],
+		"hash": 614791010,
+		"index": 0,
+		"redacted": false
+	},
+	"632771975": {
+		"bundleHash": 632771975,
+		"activityName": "Pretender to the Throne",
+		"activityDescription": "A new Taken power rises on the Dreadnaught.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2897855902,
+		"placeHash": 596872852,
+		"activityTypeHash": 1801258597,
+		"activityHashes": [
+			632771975
+		],
+		"hash": 632771975,
+		"index": 0,
+		"redacted": false
+	},
+	"637046772": {
+		"bundleHash": 637046772,
+		"activityName": "Thieves' Den",
+		"activityDescription": "Ishtar Sink, Venus",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			637046772
+		],
+		"hash": 637046772,
+		"index": 0,
+		"redacted": false
+	},
+	"696672649": {
+		"bundleHash": 696672649,
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2468353467,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1299744814,
+		"activityHashes": [
+			696672649
+		],
+		"hash": 696672649,
+		"index": 0,
+		"redacted": false
+	},
+	"706472064": {
+		"bundleHash": 706472064,
+		"activityName": "Weekly Heroic Strike",
+		"activityDescription": "The Darkness gathers as the Fallen prepare the return of one of their mighty Archon Priests.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 518553403,
+		"placeHash": 3871070152,
+		"activityTypeHash": 4164571395,
+		"activityHashes": [
+			4175179544,
+			1398976307,
+			1398976306,
+			1398976305,
+			308091854,
+			3125074505,
+			2270968444,
+			1031478183,
+			1031478182,
+			1031478181,
+			403726674,
+			1657401677,
+			706472064,
+			4175179545,
+			308091855,
+			3125074504,
+			2270968445,
+			403726675,
+			1657401676,
+			706472065,
+			4175179546,
+			308091852,
+			3125074507,
+			2270968446,
+			403726672,
+			1657401679,
+			706472066
+		],
+		"hash": 706472064,
+		"index": 0,
+		"redacted": false
+	},
+	"711826167": {
+		"bundleHash": 711826167,
+		"activityName": "Inferno Clash",
+		"activityDescription": "\"No mercy. No hesitation. It'll take nothing less to defeat the Darkness.\" —Lord Shaxx \n\nAll-out team warfare. Destroy the enemy. No trackers and simplified scoring.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 1526862764,
+		"activityHashes": [
+			711826167
+		],
+		"hash": 711826167,
+		"index": 0,
+		"redacted": false
+	},
+	"746864299": {
+		"bundleHash": 746864299,
+		"activityName": "Inferno Doubles",
+		"activityDescription": "\"Leave no ally behind and no enemy standing.\" —Lord Shaxx \n\nSmall-team tactics. Kill the enemy. Revive teammates. No trackers and simplified scoring.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3433065842,
+		"activityHashes": [
+			746864299
+		],
+		"hash": 746864299,
+		"index": 0,
+		"redacted": false
+	},
+	"757275024": {
+		"bundleHash": 757275024,
+		"activityName": "Fallen S.A.B.E.R.",
+		"activityDescription": "Rush to the aid of the AI Warmind Rasputin as he broadcasts a plea for help across the system.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 4110605575,
+		"activityHashes": [
+			757275024
+		],
+		"hash": 757275024,
+		"index": 0,
+		"redacted": false
+	},
+	"782611196": {
+		"bundleHash": 782611196,
+		"activityName": "Inferno Skirmish",
+		"activityDescription": "\"Leave no ally behind and no enemy standing.\" —Lord Shaxx \n\nSmall-team tactics. Kill the enemy. Revive teammates. No trackers and simplified scoring.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 1646825171,
+		"activityHashes": [
+			782611196
+		],
+		"hash": 782611196,
+		"index": 0,
+		"redacted": false
+	},
+	"832576952": {
+		"bundleHash": 832576952,
+		"activityName": "Fallen S.A.B.E.R.",
+		"activityDescription": "Enter Bunker WAR-4 and find another piece of the puzzle.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 4110605575,
+		"activityHashes": [
+			832576952
+		],
+		"hash": 832576952,
+		"index": 0,
+		"redacted": false
+	},
+	"860566204": {
+		"bundleHash": 860566204,
+		"activityName": "The Lighthouse",
+		"activityDescription": "Only true champions of the Crucible dare set foot in these fabled halls.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 3669933163,
+		"placeHash": 1259908504,
+		"activityTypeHash": 1589650888,
+		"activityHashes": [
+			860566204
+		],
+		"hash": 860566204,
+		"index": 0,
+		"redacted": false
+	},
+	"870614351": {
+		"bundleHash": 870614351,
+		"activityName": "SIVA Crisis Heroic",
+		"activityDescription": "Launch a random SIVA Crisis Heroic Strike.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2512542997,
+		"placeHash": 3605772915,
+		"activityTypeHash": 2374845592,
+		"activityHashes": [
+			870614351
+		],
+		"hash": 870614351,
+		"index": 0,
+		"redacted": false
+	},
+	"888190220": {
+		"bundleHash": 888190220,
+		"activityName": "Inferno Rumble",
+		"activityDescription": "\"Pure combat. Your only job is to make sure you're still standing when the dust settles.\" —Lord Shaxx \n\nKill everything. Watch your back. No trackers. Only kills earn points.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 55476966,
+		"activityHashes": [
+			888190220
+		],
+		"hash": 888190220,
+		"index": 0,
+		"redacted": false
+	},
+	"892266083": {
+		"bundleHash": 892266083,
+		"activityName": "Tower",
+		"activityDescription": "Home of the Guardians, where you can regroup, rearm, and form new alliances before venturing beyond.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2612139675,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1589650888,
+		"activityHashes": [
+			892266083
+		],
+		"hash": 892266083,
+		"index": 0,
+		"redacted": false
+	},
+	"981644933": {
+		"bundleHash": 981644933,
+		"activityName": "Bound by Fire",
+		"activityDescription": "Seek the remaining Sunbreakers at the Burning Forge on Mercury.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 3669933163,
+		"placeHash": 1259908504,
+		"activityTypeHash": 2881466965,
+		"activityHashes": [
+			981644933
+		],
+		"hash": 981644933,
+		"index": 0,
+		"redacted": false
+	},
+	"989535795": {
+		"bundleHash": 989535795,
+		"activityName": "Inferno Zone Control",
+		"activityDescription": "Capture and hold zones to win. No trackers.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 1132662376,
+		"activityHashes": [
+			989535795
+		],
+		"hash": 989535795,
+		"index": 0,
+		"redacted": false
+	},
+	"1005705920": {
+		"bundleHash": 1005705920,
+		"activityName": "The First Firewall",
+		"activityDescription": "Investigate Vault RAS-2 and investigate the source of the strange signal.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1801258597,
+		"activityHashes": [
+			1005705920
+		],
+		"hash": 1005705920,
+		"index": 0,
+		"redacted": false
+	},
+	"1019616175": {
+		"bundleHash": 1019616175,
+		"activityName": "Inferno Rumble",
+		"activityDescription": "\"Pure combat. Your only job is to make sure you're still standing when the dust settles.\" —Lord Shaxx \n\nKill everything. Watch your back. No trackers. Only kills earn points.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 55476966,
+		"activityHashes": [
+			1019616175
+		],
+		"hash": 1019616175,
+		"index": 0,
+		"redacted": false
+	},
+	"1031478181": {
+		"bundleHash": 1031478181,
+		"activityName": "Weekly Heroic Strike",
+		"activityDescription": "Omnigul, the mastermind of Crota's armies, nests in the Cosmodrome. Eliminate this horror and purge its spawn.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/1291f27f41da0019b85a022a93e0f6f8.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 4164571395,
+		"activityHashes": [
+			4175179544,
+			1398976307,
+			1398976306,
+			1398976305,
+			308091854,
+			3125074505,
+			2270968444,
+			1031478183,
+			1031478182,
+			1031478181,
+			403726674,
+			1657401677,
+			706472064,
+			4175179545,
+			308091855,
+			3125074504,
+			2270968445,
+			403726675,
+			1657401676,
+			706472065,
+			4175179546,
+			308091852,
+			3125074507,
+			2270968446,
+			403726672,
+			1657401679,
+			706472066
+		],
+		"hash": 1031478181,
+		"index": 0,
+		"redacted": false
+	},
+	"1031478182": {
+		"bundleHash": 1031478182,
+		"activityName": "Weekly Heroic Strike",
+		"activityDescription": "Omnigul, the mastermind of Crota's armies, nests in the Cosmodrome. Eliminate this horror and purge its spawn.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/1291f27f41da0019b85a022a93e0f6f8.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 4164571395,
+		"activityHashes": [
+			4175179544,
+			1398976307,
+			1398976306,
+			1398976305,
+			308091854,
+			3125074505,
+			2270968444,
+			1031478183,
+			1031478182,
+			1031478181,
+			403726674,
+			1657401677,
+			706472064,
+			4175179545,
+			308091855,
+			3125074504,
+			2270968445,
+			403726675,
+			1657401676,
+			706472065,
+			4175179546,
+			308091852,
+			3125074507,
+			2270968446,
+			403726672,
+			1657401679,
+			706472066
+		],
+		"hash": 1031478182,
+		"index": 0,
+		"redacted": false
+	},
+	"1031478183": {
+		"bundleHash": 1031478183,
+		"activityName": "Weekly Heroic Strike",
+		"activityDescription": "Omnigul, the mastermind of Crota's armies, nests in the Cosmodrome. Eliminate this horror and purge its spawn.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/1291f27f41da0019b85a022a93e0f6f8.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 4164571395,
+		"activityHashes": [
+			4175179544,
+			1398976307,
+			1398976306,
+			1398976305,
+			308091854,
+			3125074505,
+			2270968444,
+			1031478183,
+			1031478182,
+			1031478181,
+			403726674,
+			1657401677,
+			706472064,
+			4175179545,
+			308091855,
+			3125074504,
+			2270968445,
+			403726675,
+			1657401676,
+			706472065,
+			4175179546,
+			308091852,
+			3125074507,
+			2270968446,
+			403726672,
+			1657401679,
+			706472066
+		],
+		"hash": 1031478183,
+		"index": 0,
+		"redacted": false
+	},
+	"1045828271": {
+		"bundleHash": 1045828271,
+		"activityName": "Clash",
+		"activityDescription": "\"No mercy. No hesitation. It'll take nothing less to defeat the Darkness.\" —Lord Shaxx \n\nAll-out team warfare. Destroy the enemy.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3614615911,
+		"activityHashes": [
+			1045828271
+		],
+		"hash": 1045828271,
+		"index": 0,
+		"redacted": false
+	},
+	"1068261034": {
+		"bundleHash": 1068261034,
+		"activityName": "Blood in the Garden",
+		"activityDescription": "Enter the Black Garden, draw out the Groundskeeper, and destroy it.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 4072959335,
+		"placeHash": 2809578934,
+		"activityTypeHash": 1801258597,
+		"activityHashes": [
+			1068261034
+		],
+		"hash": 1068261034,
+		"index": 0,
+		"redacted": false
+	},
+	"1075348150": {
+		"bundleHash": 1075348150,
+		"activityName": "Age of Triumph",
+		"activityDescription": "The Speaker reflects on your legend.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2612139675,
+		"placeHash": 3747705955,
+		"activityTypeHash": 2201105581,
+		"activityHashes": [
+			1075348150
+		],
+		"hash": 1075348150,
+		"index": 0,
+		"redacted": false
+	},
+	"1084620606": {
+		"bundleHash": 1084620606,
+		"activityName": "The Sunless Cell",
+		"activityDescription": "Assault a prison deep in the heart of the Dreadnaught and put an end to a Hive champion.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2897855902,
+		"placeHash": 596872852,
+		"activityTypeHash": 4110605575,
+		"activityHashes": [
+			1084620606
+		],
+		"hash": 1084620606,
+		"index": 0,
+		"redacted": false
+	},
+	"1087052691": {
+		"bundleHash": 1087052691,
+		"activityName": "Clash",
+		"activityDescription": "\"No mercy. No hesitation. It'll take nothing less to defeat the Darkness.\" —Lord Shaxx \n\nAll-out team warfare. Destroy the enemy.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3614615911,
+		"activityHashes": [
+			1087052691
+		],
+		"hash": 1087052691,
+		"index": 0,
+		"redacted": false
+	},
+	"1117274478": {
+		"bundleHash": 1117274478,
+		"activityName": "The Taken War",
+		"activityDescription": "Oryx seeks vengeance for his lost son.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 1568309094,
+		"placeHash": 3605772915,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			24471899,
+			24471896,
+			389785553,
+			1117274478,
+			425614025
+		],
+		"hash": 1117274478,
+		"index": 0,
+		"redacted": false
+	},
+	"1126759626": {
+		"bundleHash": 1126759626,
+		"activityName": "Echo Chamber",
+		"activityDescription": "Guardians destroyed the Nexus on Venus. Now, a powerful Vex mind seeks to sunder time and space and undo what was done.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 518553403,
+		"placeHash": 3871070152,
+		"activityTypeHash": 4110605575,
+		"activityHashes": [
+			1126759626,
+			123652644
+		],
+		"hash": 1126759626,
+		"index": 0,
+		"redacted": false
+	},
+	"1194342366": {
+		"bundleHash": 1194342366,
+		"activityName": "Inferno Salvage",
+		"activityDescription": "\"Treasures and forgotten tech lie waiting in the wake of the Golden Age's collapse. One must be swift and fierce to claim them.\" —Lord Shaxx \n\nRace the other team to capture and hold relics. No trackers and simplified scoring.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3923114990,
+		"activityHashes": [
+			1194342366
+		],
+		"hash": 1194342366,
+		"index": 0,
+		"redacted": false
+	},
+	"1208087916": {
+		"bundleHash": 1208087916,
+		"activityName": "Machine Wrath",
+		"activityDescription": "Archon Servants have raised their own corrupted Servitor-god, Kaliks Reborn. Defeat it and be rewarded.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/257fe24206deba4fe3a4e688bc18f03e.png",
+		"releaseTime": 0,
+		"destinationHash": 3393905939,
+		"placeHash": 2512485647,
+		"activityTypeHash": 3705723572,
+		"activityHashes": [
+			1208087916
+		],
+		"hash": 1208087916,
+		"index": 0,
+		"redacted": false
+	},
+	"1208087919": {
+		"bundleHash": 1208087919,
+		"activityName": "Machine Wrath",
+		"activityDescription": "Archon Servants have raised their own corrupted Servitor-god, Kaliks Reborn. Defeat it and be rewarded.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/257fe24206deba4fe3a4e688bc18f03e.png",
+		"releaseTime": 0,
+		"destinationHash": 3393905939,
+		"placeHash": 2512485647,
+		"activityTypeHash": 3705723572,
+		"activityHashes": [
+			1208087919
+		],
+		"hash": 1208087919,
+		"index": 0,
+		"redacted": false
+	},
+	"1234230734": {
+		"bundleHash": 1234230734,
+		"activityName": "Patrol the Moon",
+		"activityDescription": "Brave the shattered surface of Earth's Moon and aid the City in its efforts.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 4233735899,
+		"placeHash": 3128647858,
+		"activityTypeHash": 3497767639,
+		"activityHashes": [
+			1234230734
+		],
+		"hash": 1234230734,
+		"index": 0,
+		"redacted": false
+	},
+	"1288347893": {
+		"bundleHash": 1288347893,
+		"activityName": "Rumble Supremacy",
+		"activityDescription": "\"A Guardian's Crest is her honor. Claim them from opponents, and protect your own.\" —Lord Shaxx\n\nBattle on your own. Defeat your opponents, and take their Crests.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3832998222,
+		"activityHashes": [
+			1288347893
+		],
+		"hash": 1288347893,
+		"index": 0,
+		"redacted": false
+	},
+	"1291023759": {
+		"bundleHash": 1291023759,
+		"activityName": "Inferno Skirmish",
+		"activityDescription": "\"Leave no ally behind and no enemy standing.\" —Lord Shaxx \n\nSmall-team tactics. Kill the enemy. Revive teammates. No trackers and simplified scoring.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 1646825171,
+		"activityHashes": [
+			1291023759
+		],
+		"hash": 1291023759,
+		"index": 0,
+		"redacted": false
+	},
+	"1322792020": {
+		"bundleHash": 1322792020,
+		"activityName": "Inferno Rift",
+		"activityDescription": "Collect the Spark, and ignite the enemy's Rift with it. No trackers.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3229030169,
+		"activityHashes": [
+			1322792020
+		],
+		"hash": 1322792020,
+		"index": 0,
+		"redacted": false
+	},
+	"1378194100": {
+		"bundleHash": 1378194100,
+		"activityName": "The Lighthouse",
+		"activityDescription": "Only true champions of the Crucible dare set foot in these fabled halls.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 3669933163,
+		"placeHash": 1259908504,
+		"activityTypeHash": 1589650888,
+		"activityHashes": [
+			1378194100
+		],
+		"hash": 1378194100,
+		"index": 0,
+		"redacted": false
+	},
+	"1378430574": {
+		"bundleHash": 1378430574,
+		"activityName": "Inferno Elimination",
+		"activityDescription": "Small-team tactics. Bring down the entire opposing team to claim victory.  No trackers.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 1765876615,
+		"activityHashes": [
+			1378430574
+		],
+		"hash": 1378430574,
+		"index": 0,
+		"redacted": false
+	},
+	"1387993552": {
+		"bundleHash": 1387993552,
+		"activityName": "Wrath of the Machine",
+		"activityDescription": "Where the Light ends, evolution begins.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2468353467,
+		"placeHash": 3747705955,
+		"activityTypeHash": 2043403989,
+		"activityHashes": [
+			260765522,
+			1387993552,
+			3356249023
+		],
+		"hash": 1387993552,
+		"index": 0,
+		"redacted": false
+	},
+	"1390160729": {
+		"bundleHash": 1390160729,
+		"activityName": "Vestian Outpost",
+		"activityDescription": "Join forces with the Queen's Guard and hunt down their enemies.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 3393905939,
+		"placeHash": 2512485647,
+		"activityTypeHash": 1589650888,
+		"activityHashes": [
+			1390160729
+		],
+		"hash": 1390160729,
+		"index": 0,
+		"redacted": false
+	},
+	"1398976305": {
+		"bundleHash": 1398976305,
+		"activityName": "Weekly Heroic Strike",
+		"activityDescription": "Omnigul, the mastermind of Crota's armies, nests in the Cosmodrome. Eliminate this horror and purge its spawn.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/1291f27f41da0019b85a022a93e0f6f8.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 4164571395,
+		"activityHashes": [
+			4175179544,
+			1398976307,
+			1398976306,
+			1398976305,
+			308091854,
+			3125074505,
+			2270968444,
+			1031478183,
+			1031478182,
+			1031478181,
+			403726674,
+			1657401677,
+			706472064,
+			4175179545,
+			308091855,
+			3125074504,
+			2270968445,
+			403726675,
+			1657401676,
+			706472065,
+			4175179546,
+			308091852,
+			3125074507,
+			2270968446,
+			403726672,
+			1657401679,
+			706472066
+		],
+		"hash": 1398976305,
+		"index": 0,
+		"redacted": false
+	},
+	"1398976306": {
+		"bundleHash": 1398976306,
+		"activityName": "Weekly Heroic Strike",
+		"activityDescription": "Omnigul, the mastermind of Crota's armies, nests in the Cosmodrome. Eliminate this horror and purge its spawn.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/1291f27f41da0019b85a022a93e0f6f8.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 4164571395,
+		"activityHashes": [
+			4175179544,
+			1398976307,
+			1398976306,
+			1398976305,
+			308091854,
+			3125074505,
+			2270968444,
+			1031478183,
+			1031478182,
+			1031478181,
+			403726674,
+			1657401677,
+			706472064,
+			4175179545,
+			308091855,
+			3125074504,
+			2270968445,
+			403726675,
+			1657401676,
+			706472065,
+			4175179546,
+			308091852,
+			3125074507,
+			2270968446,
+			403726672,
+			1657401679,
+			706472066
+		],
+		"hash": 1398976306,
+		"index": 0,
+		"redacted": false
+	},
+	"1398976307": {
+		"bundleHash": 1398976307,
+		"activityName": "Weekly Heroic Strike",
+		"activityDescription": "Omnigul, the mastermind of Crota's armies, nests in the Cosmodrome. Eliminate this horror and purge its spawn.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/1291f27f41da0019b85a022a93e0f6f8.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 4164571395,
+		"activityHashes": [
+			4175179544,
+			1398976307,
+			1398976306,
+			1398976305,
+			308091854,
+			3125074505,
+			2270968444,
+			1031478183,
+			1031478182,
+			1031478181,
+			403726674,
+			1657401677,
+			706472064,
+			4175179545,
+			308091855,
+			3125074504,
+			2270968445,
+			403726675,
+			1657401676,
+			706472065,
+			4175179546,
+			308091852,
+			3125074507,
+			2270968446,
+			403726672,
+			1657401679,
+			706472066
+		],
+		"hash": 1398976307,
+		"index": 0,
+		"redacted": false
+	},
+	"1400727968": {
+		"bundleHash": 1400727968,
+		"activityName": "Rift",
+		"activityDescription": "\"This all started as a Warlock focus drill. The things I've seen them do with Rifts would be...very useful on a battlefield.\" —Lord Shaxx \n\nCollect the Spark and ignite the enemy's Rift with it.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 2833173037,
+		"activityHashes": [
+			1400727968
+		],
+		"hash": 1400727968,
+		"index": 0,
+		"redacted": false
+	},
+	"1403880576": {
+		"bundleHash": 1403880576,
+		"activityName": "The Garden's Spire",
+		"activityDescription": "Seize control of the Black Garden Spire held behind the wall of the Cabal Warbase and wake the Gate Lord's Eye.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 4072959335,
+		"placeHash": 2809578934,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			1403880576,
+			2641355370
+		],
+		"hash": 1403880576,
+		"index": 0,
+		"redacted": false
+	},
+	"1403880578": {
+		"bundleHash": 1403880578,
+		"activityName": "The Black Garden",
+		"activityDescription": "Fight through the Gate and enter the Black Garden to destroy its heart.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 4072959335,
+		"placeHash": 2809578934,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			1403880578,
+			2853745856
+		],
+		"hash": 1403880578,
+		"index": 0,
+		"redacted": false
+	},
+	"1403880579": {
+		"bundleHash": 1403880579,
+		"activityName": "A Rising Tide",
+		"activityDescription": "Find and destroy the source of the Vex surging to protect the Black Garden.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 4072959335,
+		"placeHash": 2809578934,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			1403880579,
+			3056582947
+		],
+		"hash": 1403880579,
+		"index": 0,
+		"redacted": false
+	},
+	"1403880580": {
+		"bundleHash": 1403880580,
+		"activityName": "Exclusion Zone",
+		"activityDescription": "Survive the military power of the Cabal and find the Gate to the Black Garden.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 4072959335,
+		"placeHash": 2809578934,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			1403880580,
+			1940432142
+		],
+		"hash": 1403880580,
+		"index": 0,
+		"redacted": false
+	},
+	"1403880582": {
+		"bundleHash": 1403880582,
+		"activityName": "The Buried City",
+		"activityDescription": "Clear out the Cabal occupying the lost city of Freehold and explore what remains.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 4072959335,
+		"placeHash": 2809578934,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			1403880582,
+			574483028
+		],
+		"hash": 1403880582,
+		"index": 0,
+		"redacted": false
+	},
+	"1404620600": {
+		"bundleHash": 1404620600,
+		"activityName": "Prison of Elders",
+		"activityDescription": "Beneath the Reef, the Queen's deadliest foes lurk deep in the ancient arena known as the Prison of Elders. Gather two teammates and brace yourselves for the onslaught of ruthless enemies!",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 3393905939,
+		"placeHash": 2512485647,
+		"activityTypeHash": 680256650,
+		"activityHashes": [
+			1404620600
+		],
+		"hash": 1404620600,
+		"index": 0,
+		"redacted": false
+	},
+	"1415179315": {
+		"bundleHash": 1415179315,
+		"activityName": "Elimination",
+		"activityDescription": "\"Your allies are your lifeblood. No second chances except the ones you give.\" —Lord Shaxx \n\nSmall-team tactics. Revive teammates to keep fighting. Bring down the entire opposing team to claim victory.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 39921727,
+		"activityHashes": [
+			1415179315
+		],
+		"hash": 1415179315,
+		"index": 0,
+		"redacted": false
+	},
+	"1419457477": {
+		"bundleHash": 1419457477,
+		"activityName": "A Ranger Lost",
+		"activityDescription": "Look for signs of Cayde's missing friend among the Vex ruins on Venus.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 518553403,
+		"placeHash": 3871070152,
+		"activityTypeHash": 2881466965,
+		"activityHashes": [
+			1419457477
+		],
+		"hash": 1419457477,
+		"index": 0,
+		"redacted": false
+	},
+	"1427585666": {
+		"bundleHash": 1427585666,
+		"activityName": "A Hero's Return",
+		"activityDescription": "",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2612139675,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1299744814,
+		"activityHashes": [
+			3635588435,
+			1427585666
+		],
+		"hash": 1427585666,
+		"index": 0,
+		"redacted": false
+	},
+	"1441430564": {
+		"bundleHash": 1441430564,
+		"activityName": "Urrox's Grudge",
+		"activityDescription": "The Flame Prince Urrox vows to burn the Light until all that remains is Darkness and bone.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/257fe24206deba4fe3a4e688bc18f03e.png",
+		"releaseTime": 0,
+		"destinationHash": 3393905939,
+		"placeHash": 2512485647,
+		"activityTypeHash": 3705723572,
+		"activityHashes": [
+			1441430564
+		],
+		"hash": 1441430564,
+		"index": 0,
+		"redacted": false
+	},
+	"1441430567": {
+		"bundleHash": 1441430567,
+		"activityName": "Urrox's Grudge",
+		"activityDescription": "The Flame Prince Urrox vows to burn the Light until all that remains is Darkness and bone.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/257fe24206deba4fe3a4e688bc18f03e.png",
+		"releaseTime": 0,
+		"destinationHash": 3393905939,
+		"placeHash": 2512485647,
+		"activityTypeHash": 3705723572,
+		"activityHashes": [
+			1441430567
+		],
+		"hash": 1441430567,
+		"index": 0,
+		"redacted": false
+	},
+	"1443271657": {
+		"bundleHash": 1443271657,
+		"activityName": "Crimson Doubles",
+		"activityDescription": "\"With proper tactics and proper execution, a Fireteam of two Guardians can fight indefinitely. We revel in this during the Crimson Days.\" —Lord Shaxx \n\nElimination with a partner. Revive your teammate to keep fighting. Last living members on a Fireteam fight harder to avenge their partners.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3828541881,
+		"activityHashes": [
+			1443271657
+		],
+		"hash": 1443271657,
+		"index": 0,
+		"redacted": false
+	},
+	"1443570903": {
+		"bundleHash": 1443570903,
+		"activityName": "Iron Banner Mayhem Clash",
+		"activityDescription": "\"Enjoy yourselves, Guardians.\" —Lord Shaxx\n\nEmbrace the chaos. Greatly increased ability recharge rates. Faster Special and Heavy Ammo spawns. No respawn delay. Scoring values multiplied by 10. Impress the Iron Lords.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3632591350,
+		"activityHashes": [
+			1443570903
+		],
+		"hash": 1443570903,
+		"index": 0,
+		"redacted": false
+	},
+	"1448094960": {
+		"bundleHash": 1448094960,
+		"activityName": "The Dungeons",
+		"activityDescription": "Dreadnaught, Rings of Saturn",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			1448094960
+		],
+		"hash": 1448094960,
+		"index": 0,
+		"redacted": false
+	},
+	"1478347980": {
+		"bundleHash": 1478347980,
+		"activityName": "Campus Martius",
+		"activityDescription": "Meridian Bay, Mars",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			1478347980
+		],
+		"hash": 1478347980,
+		"index": 0,
+		"redacted": false
+	},
+	"1516701147": {
+		"bundleHash": 1516701147,
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1299744814,
+		"activityHashes": [
+			1516701147
+		],
+		"hash": 1516701147,
+		"index": 0,
+		"redacted": false
+	},
+	"1517679997": {
+		"bundleHash": 1517679997,
+		"activityName": "SIVA Crisis",
+		"activityDescription": "Launch a random SIVA Crisis Strike.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2512542997,
+		"placeHash": 3605772915,
+		"activityTypeHash": 2374845592,
+		"activityHashes": [
+			1517679997
+		],
+		"hash": 1517679997,
+		"index": 0,
+		"redacted": false
+	},
+	"1522220810": {
+		"bundleHash": 1522220810,
+		"activityName": "Tower",
+		"activityDescription": "Home of the Guardians, where you can regroup, rearm, and form new alliances before venturing beyond.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2612139675,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1589650888,
+		"activityHashes": [
+			1522220810
+		],
+		"hash": 1522220810,
+		"index": 0,
+		"redacted": false
+	},
+	"1572749251": {
+		"bundleHash": 1572749251,
+		"activityName": "Zone Control",
+		"activityDescription": "\"It's a tactical exercise in reinforcing and defending acquired territory. Should the Vanguard ever decide to expand past the walls of the City, the Guardians will be ready.\" —Lord Shaxx\n\nCapture zones and hold the zones to win.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 579151588,
+		"activityHashes": [
+			1572749251
+		],
+		"hash": 1572749251,
+		"index": 0,
+		"redacted": false
+	},
+	"1584566734": {
+		"bundleHash": 1584566734,
+		"activityName": "Inferno 6v6",
+		"activityDescription": "\"Training for a variety of combat scenarios. A Guardian can never be too ready.\"—Lord Shaxx \n\nA mix of Inferno Control and Inferno Clash.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3582414910,
+		"activityHashes": [
+			1584566734
+		],
+		"hash": 1584566734,
+		"index": 0,
+		"redacted": false
+	},
+	"1604535501": {
+		"bundleHash": 1604535501,
+		"activityName": "Sparrow Racing",
+		"activityDescription": "\"Speed is a weapon. Learn to wield it or be left behind.\" —Lord Shaxx\n\nYour Sparrow is your life. Cross the finish before your opponents do.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 1066759414,
+		"activityHashes": [
+			1604535501
+		],
+		"hash": 1604535501,
+		"index": 0,
+		"redacted": false
+	},
+	"1609488702": {
+		"bundleHash": 1609488702,
+		"activityName": "Doubles",
+		"activityDescription": "\"Leave no ally behind, and no enemy standing.\" —Lord Shaxx \n\nSmall-team tactics. Kill the enemy. Revive teammates.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3957072814,
+		"activityHashes": [
+			1609488702
+		],
+		"hash": 1609488702,
+		"index": 0,
+		"redacted": false
+	},
+	"1614355423": {
+		"bundleHash": 1614355423,
+		"activityName": "Queen's Ransom",
+		"activityDescription": "Follow Skolas into Vex territory to aid in his capture for the Queen.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/257fe24206deba4fe3a4e688bc18f03e.png",
+		"releaseTime": 0,
+		"destinationHash": 518553403,
+		"placeHash": 3871070152,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			1614355423,
+			3543525727
+		],
+		"hash": 1614355423,
+		"index": 0,
+		"redacted": false
+	},
+	"1618960674": {
+		"bundleHash": 1618960674,
+		"activityName": "Inferno 3v3",
+		"activityDescription": "\"Training for a variety of combat scenarios. A Guardian can never be too ready.\" —Lord Shaxx \n\nA mix of Inferno Skirmish, Inferno Salvage and Inferno Elimination.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3616808722,
+		"activityHashes": [
+			1618960674
+		],
+		"hash": 1618960674,
+		"index": 0,
+		"redacted": false
+	},
+	"1624947721": {
+		"bundleHash": 1624947721,
+		"activityName": "Shield Brothers",
+		"activityDescription": "Travel deep into the heart of the Dreadnaught in pursuit of a Cabal assault team. Stop it from detonating the Hive ship's core.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2897855902,
+		"placeHash": 596872852,
+		"activityTypeHash": 4110605575,
+		"activityHashes": [
+			1624947721
+		],
+		"hash": 1624947721,
+		"index": 0,
+		"redacted": false
+	},
+	"1628212868": {
+		"bundleHash": 1628212868,
+		"activityName": "Weekly Heroic Strike",
+		"activityDescription": "The Darkness gathers as the Fallen prepare the return of one of their Archon Priests.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 518553403,
+		"placeHash": 3871070152,
+		"activityTypeHash": 575572995,
+		"activityHashes": [
+			1628212869,
+			1628212868,
+			1628212871
+		],
+		"hash": 1628212868,
+		"index": 0,
+		"redacted": false
+	},
+	"1628212869": {
+		"bundleHash": 1628212869,
+		"activityName": "Weekly Heroic Strike",
+		"activityDescription": "The Darkness gathers as the Fallen prepare the return of one of their Archon Priests.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 518553403,
+		"placeHash": 3871070152,
+		"activityTypeHash": 575572995,
+		"activityHashes": [
+			1628212869,
+			1628212868,
+			1628212871
+		],
+		"hash": 1628212869,
+		"index": 0,
+		"redacted": false
+	},
+	"1628212871": {
+		"bundleHash": 1628212871,
+		"activityName": "Weekly Heroic Strike",
+		"activityDescription": "The Darkness gathers as the Fallen prepare the return of one of their Archon Priests.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 518553403,
+		"placeHash": 3871070152,
+		"activityTypeHash": 575572995,
+		"activityHashes": [
+			1628212869,
+			1628212868,
+			1628212871
+		],
+		"hash": 1628212871,
+		"index": 0,
+		"redacted": false
+	},
+	"1650930548": {
+		"bundleHash": 1650930548,
+		"activityName": "Sparrow Racing",
+		"activityDescription": "\"Speed is a weapon. Learn to wield it or be left behind.\" —Lord Shaxx\n\nYour Sparrow is your life. Cross the finish before your opponents do.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 1066759414,
+		"activityHashes": [
+			1650930548
+		],
+		"hash": 1650930548,
+		"index": 0,
+		"redacted": false
+	},
+	"1657401677": {
+		"bundleHash": 1657401677,
+		"activityName": "Weekly Heroic Strike",
+		"activityDescription": "Confront Valus Ta'aurc, Fleet Commander of the Cabal Siege Dancers, before he destroys all of Freehold.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 4072959335,
+		"placeHash": 2809578934,
+		"activityTypeHash": 4164571395,
+		"activityHashes": [
+			4175179544,
+			1398976307,
+			1398976306,
+			1398976305,
+			308091854,
+			3125074505,
+			2270968444,
+			1031478183,
+			1031478182,
+			1031478181,
+			403726674,
+			1657401677,
+			706472064,
+			4175179545,
+			308091855,
+			3125074504,
+			2270968445,
+			403726675,
+			1657401676,
+			706472065,
+			4175179546,
+			308091852,
+			3125074507,
+			2270968446,
+			403726672,
+			1657401679,
+			706472066
+		],
+		"hash": 1657401677,
+		"index": 0,
+		"redacted": false
+	},
+	"1665631320": {
+		"bundleHash": 1665631320,
+		"activityName": "Rumble",
+		"activityDescription": "\"Pure combat. Your only job is to make sure you're still standing when the dust settles.\" —Lord Shaxx \n\nKill everything. Watch your back.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			1665631320
+		],
+		"hash": 1665631320,
+		"index": 0,
+		"redacted": false
+	},
+	"1673931290": {
+		"bundleHash": 1673931290,
+		"activityName": "Challenge of the Elders",
+		"activityDescription": "Holders of the Elders' Sigil may join with two other Guardians to face Challenge of the Elders.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 3393905939,
+		"placeHash": 2512485647,
+		"activityTypeHash": 3705723572,
+		"activityHashes": [
+			1673931290
+		],
+		"hash": 1673931290,
+		"index": 0,
+		"redacted": false
+	},
+	"1685214122": {
+		"bundleHash": 1685214122,
+		"activityName": "Mayhem Supremacy",
+		"activityDescription": "\"A Guardian's Crest is her honor. Claim them from opponents, and protect your own.\" —Lord Shaxx\n\nEmbrace the chaos. Greatly increased ability recharge rates. Faster Special and Heavy Ammo spawns. No respawn delay. Scoring values multiplied by 10.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3547232662,
+		"activityHashes": [
+			1685214122
+		],
+		"hash": 1685214122,
+		"index": 0,
+		"redacted": false
+	},
+	"1686326716": {
+		"bundleHash": 1686326716,
+		"activityName": "A New Den",
+		"activityDescription": "Track the House of Wolves across the surface of Mars.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 4072959335,
+		"placeHash": 2809578934,
+		"activityTypeHash": 1801258597,
+		"activityHashes": [
+			1686326716,
+			575304694
+		],
+		"hash": 1686326716,
+		"index": 0,
+		"redacted": false
+	},
+	"1686679946": {
+		"bundleHash": 1686679946,
+		"activityName": "Clash",
+		"activityDescription": "\"No mercy. No hesitation. It'll take nothing less to defeat the Darkness.\" —Lord Shaxx \n\nAll-out team warfare. Destroy the enemy.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3614615911,
+		"activityHashes": [
+			1686679946
+		],
+		"hash": 1686679946,
+		"index": 0,
+		"redacted": false
+	},
+	"1709749894": {
+		"bundleHash": 1709749894,
+		"activityName": "Skyline",
+		"activityDescription": "Meridian Bay, Mars",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			1709749894
+		],
+		"hash": 1709749894,
+		"index": 0,
+		"redacted": false
+	},
+	"1714839224": {
+		"bundleHash": 1714839224,
+		"activityName": "Ritual of Sacrifice",
+		"activityDescription": "Descend into the Hellmouth and find the sacrificial chambers.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/1291f27f41da0019b85a022a93e0f6f8.png",
+		"releaseTime": 0,
+		"destinationHash": 4233735899,
+		"placeHash": 3128647858,
+		"activityTypeHash": 1801258597,
+		"activityHashes": [
+			1714839224
+		],
+		"hash": 1714839224,
+		"index": 0,
+		"redacted": false
+	},
+	"1719392441": {
+		"bundleHash": 1719392441,
+		"activityName": "Crossroads",
+		"activityDescription": "The Lost Oasis, Mars",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			1719392441
+		],
+		"hash": 1719392441,
+		"index": 0,
+		"redacted": false
+	},
+	"1733556769": {
+		"bundleHash": 1733556769,
+		"activityName": "King's Fall",
+		"activityDescription": "Long live the King.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2897855902,
+		"placeHash": 596872852,
+		"activityTypeHash": 2043403989,
+		"activityHashes": [
+			1733556769,
+			3534581229,
+			1016659723,
+			3978884648
+		],
+		"hash": 1733556769,
+		"index": 0,
+		"redacted": false
+	},
+	"1771902734": {
+		"bundleHash": 1771902734,
+		"activityName": "Inferno Clash",
+		"activityDescription": "\"No mercy. No hesitation. It'll take nothing less to defeat the Darkness.\" —Lord Shaxx \n\nAll-out team warfare. Destroy the enemy. No trackers and simplified scoring.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 1526862764,
+		"activityHashes": [
+			1771902734
+		],
+		"hash": 1771902734,
+		"index": 0,
+		"redacted": false
+	},
+	"1772839913": {
+		"bundleHash": 1772839913,
+		"activityName": "Tenebrous Tunnels",
+		"activityDescription": "Seek out the source of the Taken blight on Mars.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 4072959335,
+		"placeHash": 2809578934,
+		"activityTypeHash": 1801258597,
+		"activityHashes": [
+			1772839913
+		],
+		"hash": 1772839913,
+		"index": 0,
+		"redacted": false
+	},
+	"1783047867": {
+		"bundleHash": 1783047867,
+		"activityName": "Inferno Control",
+		"activityDescription": "\"It's a tactical exercise in reinforcing and defending acquired territory. Should the Vanguard ever decide to expand past the walls of the City, the Guardians will be ready.\" —Lord Shaxx\n\nAll-out team warfare. Destroy the enemy. No trackers and simplified scoring.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 2691931425,
+		"activityHashes": [
+			1783047867
+		],
+		"hash": 1783047867,
+		"index": 0,
+		"redacted": false
+	},
+	"1783107168": {
+		"bundleHash": 1783107168,
+		"activityName": "Download Complete",
+		"activityDescription": "Open the forgotten archives at Clovis Bray, and search for a way to defend against SIVA.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 4072959335,
+		"placeHash": 2809578934,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			1783107168,
+			3778091466
+		],
+		"hash": 1783107168,
+		"index": 0,
+		"redacted": false
+	},
+	"1794499705": {
+		"bundleHash": 1794499705,
+		"activityName": "Rise of Iron: Prelude",
+		"activityDescription": "An ancient foe returns to threaten humanity. Face the challenge that defeated the Iron Lords.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2468353467,
+		"placeHash": 3747705955,
+		"activityTypeHash": 2201105581,
+		"activityHashes": [
+			1794499705
+		],
+		"hash": 1794499705,
+		"index": 0,
+		"redacted": false
+	},
+	"1815860968": {
+		"bundleHash": 1815860968,
+		"activityName": "Zone Control",
+		"activityDescription": "\"It's a tactical exercise in reinforcing and defending acquired territory. Should the Vanguard ever decide to expand past the walls of the City, the Guardians will be ready.\" —Lord Shaxx\n\nCapture zones and hold the zones to win.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 579151588,
+		"activityHashes": [
+			1815860968
+		],
+		"hash": 1815860968,
+		"index": 0,
+		"redacted": false
+	},
+	"1836141626": {
+		"bundleHash": 1836141626,
+		"activityName": "Elimination",
+		"activityDescription": "\"Your allies are your lifeblood. No second chances except the ones you give.\" —Lord Shaxx \n\nSmall-team tactics. Revive teammates to keep fighting. Bring down the entire opposing team to claim victory.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 39921727,
+		"activityHashes": [
+			1836141626
+		],
+		"hash": 1836141626,
+		"index": 0,
+		"redacted": false
+	},
+	"1836893116": {
+		"bundleHash": 1836893116,
+		"activityName": "Crota's End",
+		"activityDescription": "He waits in the dark below.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/1291f27f41da0019b85a022a93e0f6f8.png",
+		"releaseTime": 0,
+		"destinationHash": 4233735899,
+		"placeHash": 3128647858,
+		"activityTypeHash": 837773392,
+		"activityHashes": [
+			1836893116,
+			1836893119,
+			2324706853,
+			4000873610
+		],
+		"hash": 1836893116,
+		"index": 0,
+		"redacted": false
+	},
+	"1846390409": {
+		"bundleHash": 1846390409,
+		"activityName": "A Guardian Rises",
+		"activityDescription": "Rise in the Light of the Traveler and join the battle against the Darkness.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			1846390409
+		],
+		"hash": 1846390409,
+		"index": 0,
+		"redacted": false
+	},
+	"1851417512": {
+		"bundleHash": 1851417512,
+		"activityName": "The Drifter",
+		"activityDescription": "Foundling's Gyre, The Reef",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			1851417512
+		],
+		"hash": 1851417512,
+		"index": 0,
+		"redacted": false
+	},
+	"1856964953": {
+		"bundleHash": 1856964953,
+		"activityName": "A Guardian Rises",
+		"activityDescription": "Rise in the Light of the Traveler and join the battle against the Darkness.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1299744814,
+		"activityHashes": [
+			1856964953
+		],
+		"hash": 1856964953,
+		"index": 0,
+		"redacted": false
+	},
+	"2008529245": {
+		"bundleHash": 2008529245,
+		"activityName": "Kings of Decay",
+		"activityDescription": "Hunt the source of the Taken blight across the Cosmodrome.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1801258597,
+		"activityHashes": [
+			2008529245,
+			2197680969
+		],
+		"hash": 2008529245,
+		"index": 0,
+		"redacted": false
+	},
+	"2010056644": {
+		"bundleHash": 2010056644,
+		"activityName": "Haakon Precipice",
+		"activityDescription": "Old Russia",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			2010056644
+		],
+		"hash": 2010056644,
+		"index": 0,
+		"redacted": false
+	},
+	"2022189692": {
+		"bundleHash": 2022189692,
+		"activityName": "Blighted Chalice",
+		"activityDescription": "A blight of Taken now roosts In the Hellmouth. Unchecked, they could refocus the Darkness within and descend on the City.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 4233735899,
+		"placeHash": 3128647858,
+		"activityTypeHash": 4110605575,
+		"activityHashes": [
+			2022189692,
+			2245079334
+		],
+		"hash": 2022189692,
+		"index": 0,
+		"redacted": false
+	},
+	"2037022373": {
+		"bundleHash": 2037022373,
+		"activityName": "Vertigo",
+		"activityDescription": "Caloris Basin, Mercury",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			2037022373
+		],
+		"hash": 2037022373,
+		"index": 0,
+		"redacted": false
+	},
+	"2045385030": {
+		"bundleHash": 2045385030,
+		"activityName": "Patrol Venus",
+		"activityDescription": "Keep watch in the Ishtar Sink to aid the City in its efforts.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 518553403,
+		"placeHash": 3871070152,
+		"activityTypeHash": 3497767639,
+		"activityHashes": [
+			2045385030
+		],
+		"hash": 2045385030,
+		"index": 0,
+		"redacted": false
+	},
+	"2061368111": {
+		"bundleHash": 2061368111,
+		"activityName": "Mayhem Supremacy",
+		"activityDescription": "\"A Guardian's Crest is her honor. Claim them from opponents, and protect your own.\" —Lord Shaxx\n\nEmbrace the chaos. Greatly increased ability recharge rates. Faster Special and Heavy Ammo spawns. No respawn delay. Scoring values multiplied by 10.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3547232662,
+		"activityHashes": [
+			2061368111
+		],
+		"hash": 2061368111,
+		"index": 0,
+		"redacted": false
+	},
+	"2063852581": {
+		"bundleHash": 2063852581,
+		"activityName": "Mayhem Clash",
+		"activityDescription": "\"Enjoy yourselves, Guardians.\" —Lord Shaxx\n\nEmbrace the chaos. Greatly increased ability recharge rates. Faster Special and Heavy Ammo spawns. No respawn delay. Scoring values multiplied by 10.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3323301749,
+		"activityHashes": [
+			2063852581
+		],
+		"hash": 2063852581,
+		"index": 0,
+		"redacted": false
+	},
+	"2074618692": {
+		"bundleHash": 2074618692,
+		"activityName": "The Forever Eater",
+		"activityDescription": "Qodron, a Vex chronovore, sees only one outcome: your demise. Prove it wrong.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/257fe24206deba4fe3a4e688bc18f03e.png",
+		"releaseTime": 0,
+		"destinationHash": 3393905939,
+		"placeHash": 2512485647,
+		"activityTypeHash": 3705723572,
+		"activityHashes": [
+			2074618692
+		],
+		"hash": 2074618692,
+		"index": 0,
+		"redacted": false
+	},
+	"2074618695": {
+		"bundleHash": 2074618695,
+		"activityName": "The Forever Eater",
+		"activityDescription": "Qodron, a Vex chronovore, sees only one outcome: your demise. Prove it wrong.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/257fe24206deba4fe3a4e688bc18f03e.png",
+		"releaseTime": 0,
+		"destinationHash": 3393905939,
+		"placeHash": 2512485647,
+		"activityTypeHash": 3705723572,
+		"activityHashes": [
+			2074618695
+		],
+		"hash": 2074618695,
+		"index": 0,
+		"redacted": false
+	},
+	"2082069870": {
+		"bundleHash": 2082069870,
+		"activityName": "The Anomaly",
+		"activityDescription": "Mare Cognitum, Moon",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			2082069870
+		],
+		"hash": 2082069870,
+		"index": 0,
+		"redacted": false
+	},
+	"2084307227": {
+		"bundleHash": 2084307227,
+		"activityName": "Dread Patrol",
+		"activityDescription": "Establish patrol routes and beacon sites on the Hive Dreadnaught for the Vanguard.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2897855902,
+		"placeHash": 596872852,
+		"activityTypeHash": 1801258597,
+		"activityHashes": [
+			2084307227
+		],
+		"hash": 2084307227,
+		"index": 0,
+		"redacted": false
+	},
+	"2151413729": {
+		"bundleHash": 2151413729,
+		"activityName": "Tower",
+		"activityDescription": "Home of the Guardians, where you can regroup, rearm, and form new alliances before venturing beyond.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2612139675,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1589650888,
+		"activityHashes": [
+			2151413729
+		],
+		"hash": 2151413729,
+		"index": 0,
+		"redacted": false
+	},
+	"2190039885": {
+		"bundleHash": 2190039885,
+		"activityName": "Classic Free-For-All",
+		"activityDescription": "\"There's a rousing demand—from participants and spectators—for Legacy match types and arenas in the Crucible. I give them gladly.\" —Lord Shaxx \n\nRumble on classic maps.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3597531865,
+		"activityHashes": [
+			2190039885
+		],
+		"hash": 2190039885,
+		"index": 0,
+		"redacted": false
+	},
+	"2198347919": {
+		"bundleHash": 2198347919,
+		"activityName": "Tower",
+		"activityDescription": "Home of the Guardians, where you can regroup, rearm, and form new alliances before venturing beyond.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2612139675,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1589650888,
+		"activityHashes": [
+			2198347919
+		],
+		"hash": 2198347919,
+		"index": 0,
+		"redacted": false
+	},
+	"2217862439": {
+		"bundleHash": 2217862439,
+		"activityName": "Control",
+		"activityDescription": "\"It's a tactical exercise in reinforcing and defending acquired territory. Should the Vanguard ever decide to expand past the walls of the City, the Guardians will be ready.\" —Lord Shaxx\n\nCapture zones to increase points for every kill.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3846426416,
+		"activityHashes": [
+			2217862439
+		],
+		"hash": 2217862439,
+		"index": 0,
+		"redacted": false
+	},
+	"2234107290": {
+		"bundleHash": 2234107290,
+		"activityName": "The Sunless Cell",
+		"activityDescription": "Enter the Sunless Cell and destroy Thracu, Warden of Oryx.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2897855902,
+		"placeHash": 596872852,
+		"activityTypeHash": 4110605575,
+		"activityHashes": [
+			2234107290
+		],
+		"hash": 2234107290,
+		"index": 0,
+		"redacted": false
+	},
+	"2243240710": {
+		"bundleHash": 2243240710,
+		"activityName": "Infinite Descent",
+		"activityDescription": "Maat Mons, Venus",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			2243240710
+		],
+		"hash": 2243240710,
+		"index": 0,
+		"redacted": false
+	},
+	"2244550959": {
+		"bundleHash": 2244550959,
+		"activityName": "Tower",
+		"activityDescription": "Home of the Guardians, where you can regroup, rearm, and form new alliances before venturing beyond.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2612139675,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1589650888,
+		"activityHashes": [
+			2244550959
+		],
+		"hash": 2244550959,
+		"index": 0,
+		"redacted": false
+	},
+	"2244943676": {
+		"bundleHash": 2244943676,
+		"activityName": "A Khvostov Rising",
+		"activityDescription": "Return to familiar ground, and complete your new rifle.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2468353467,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1801258597,
+		"activityHashes": [
+			2244943676
+		],
+		"hash": 2244943676,
+		"index": 0,
+		"redacted": false
+	},
+	"2263964303": {
+		"bundleHash": 2263964303,
+		"activityName": "Elimination",
+		"activityDescription": "\"Your allies are your lifeblood. No second chances except the ones you give.\" —Lord Shaxx \n\nSmall-team tactics. Revive teammates to keep fighting. Bring down the entire opposing team to claim victory.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 39921727,
+		"activityHashes": [
+			2263964303
+		],
+		"hash": 2263964303,
+		"index": 0,
+		"redacted": false
+	},
+	"2270968444": {
+		"bundleHash": 2270968444,
+		"activityName": "Weekly Heroic Strike",
+		"activityDescription": "Board the Fallen Ketch above the Moon and defeat the notorious Taniks, the Scarred.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/257fe24206deba4fe3a4e688bc18f03e.png",
+		"releaseTime": 0,
+		"destinationHash": 4233735899,
+		"placeHash": 3128647858,
+		"activityTypeHash": 4164571395,
+		"activityHashes": [
+			4175179544,
+			1398976307,
+			1398976306,
+			1398976305,
+			308091854,
+			3125074505,
+			2270968444,
+			1031478183,
+			1031478182,
+			1031478181,
+			403726674,
+			1657401677,
+			706472064,
+			4175179545,
+			308091855,
+			3125074504,
+			2270968445,
+			403726675,
+			1657401676,
+			706472065,
+			4175179546,
+			308091852,
+			3125074507,
+			2270968446,
+			403726672,
+			1657401679,
+			706472066
+		],
+		"hash": 2270968444,
+		"index": 0,
+		"redacted": false
+	},
+	"2316484115": {
+		"bundleHash": 2316484115,
+		"activityName": "The Lighthouse",
+		"activityDescription": "Only true champions of the Crucible dare set foot in these fabled halls.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 3669933163,
+		"placeHash": 1259908504,
+		"activityTypeHash": 1589650888,
+		"activityHashes": [
+			2316484115
+		],
+		"hash": 2316484115,
+		"index": 0,
+		"redacted": false
+	},
+	"2326253031": {
+		"bundleHash": 2326253031,
+		"activityName": "Skolas's Revenge",
+		"activityDescription": "Skolas and his crew challenge the Guardians who captured him. Face him with a Fireteam of three. End him.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/257fe24206deba4fe3a4e688bc18f03e.png",
+		"releaseTime": 0,
+		"destinationHash": 3393905939,
+		"placeHash": 2512485647,
+		"activityTypeHash": 3705723572,
+		"activityHashes": [
+			2326253031
+		],
+		"hash": 2326253031,
+		"index": 0,
+		"redacted": false
+	},
+	"2330516073": {
+		"bundleHash": 2330516073,
+		"activityName": "Tower",
+		"activityDescription": "Home of the Guardians, where you can regroup, rearm, and form new alliances before venturing beyond.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2612139675,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1589650888,
+		"activityHashes": [
+			2330516073
+		],
+		"hash": 2330516073,
+		"index": 0,
+		"redacted": false
+	},
+	"2332037858": {
+		"bundleHash": 2332037858,
+		"activityName": "Widow's Court",
+		"activityDescription": "European Dead Zone, Earth",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			2332037858
+		],
+		"hash": 2332037858,
+		"index": 0,
+		"redacted": false
+	},
+	"2333767699": {
+		"bundleHash": 2333767699,
+		"activityName": "Fear's Embrace",
+		"activityDescription": "Return to the base on Phobos. Destroy the blighted source on Mars.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 3705523133,
+		"placeHash": 3114284952,
+		"activityTypeHash": 1801258597,
+		"activityHashes": [
+			2333767699
+		],
+		"hash": 2333767699,
+		"index": 0,
+		"redacted": false
+	},
+	"2369296916": {
+		"bundleHash": 2369296916,
+		"activityName": "The Coming War",
+		"activityDescription": "Travel to Phobos and investigate the Cabal distress signal.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 3705523133,
+		"placeHash": 3114284952,
+		"activityTypeHash": 1299744814,
+		"activityHashes": [
+			2369296916
+		],
+		"hash": 2369296916,
+		"index": 0,
+		"redacted": false
+	},
+	"2374186202": {
+		"bundleHash": 2374186202,
+		"activityName": "Inferno Control",
+		"activityDescription": "\"It's a tactical exercise in reinforcing and defending acquired territory. Should the Vanguard ever decide to expand past the walls of the City, the Guardians will be ready.\" —Lord Shaxx\n\nAll-out team warfare. Destroy the enemy. No trackers and simplified scoring.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 2691931425,
+		"activityHashes": [
+			2374186202
+		],
+		"hash": 2374186202,
+		"index": 0,
+		"redacted": false
+	},
+	"2388860485": {
+		"bundleHash": 2388860485,
+		"activityName": "Rift",
+		"activityDescription": "\"This all started as a Warlock focus drill. The things I've seen them do with Rifts would be...very useful on a battlefield.\" —Lord Shaxx \n\nCollect the Spark and ignite the enemy's Rift with it.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 2833173037,
+		"activityHashes": [
+			2388860485
+		],
+		"hash": 2388860485,
+		"index": 0,
+		"redacted": false
+	},
+	"2398459666": {
+		"bundleHash": 2398459666,
+		"activityName": "Patrol Mars",
+		"activityDescription": "Fight through the shifting Martian dunes to protect the City's interests.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 4072959335,
+		"placeHash": 2809578934,
+		"activityTypeHash": 3497767639,
+		"activityHashes": [
+			2398459666
+		],
+		"hash": 2398459666,
+		"index": 0,
+		"redacted": false
+	},
+	"2401705359": {
+		"bundleHash": 2401705359,
+		"activityName": "Taken War",
+		"activityDescription": "Launch a random Taken War Strike.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2512542997,
+		"placeHash": 3605772915,
+		"activityTypeHash": 2889152536,
+		"activityHashes": [
+			2401705359
+		],
+		"hash": 2401705359,
+		"index": 0,
+		"redacted": false
+	},
+	"2430076725": {
+		"bundleHash": 2430076725,
+		"activityName": "Blind Watch",
+		"activityDescription": "Meridian Bay, Mars",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			2430076725
+		],
+		"hash": 2430076725,
+		"index": 0,
+		"redacted": false
+	},
+	"2445476122": {
+		"bundleHash": 2445476122,
+		"activityName": "Classic 6v6",
+		"activityDescription": "\"There's a rousing demand—from participants and spectators—for Legacy match types and arenas in the Crucible. I give them gladly.\" —Lord Shaxx \n\nA mix of 6v6 modes on classic maps.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3852968078,
+		"activityHashes": [
+			2445476122
+		],
+		"hash": 2445476122,
+		"index": 0,
+		"redacted": false
+	},
+	"2446491566": {
+		"bundleHash": 2446491566,
+		"activityName": "The Plaguelands",
+		"activityDescription": "Clear the way to the heart of the SIVA threat, and open a new front on this war for other Guardians.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2468353467,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			2446491566,
+			218006092
+		],
+		"hash": 2446491566,
+		"index": 0,
+		"redacted": false
+	},
+	"2450352219": {
+		"bundleHash": 2450352219,
+		"activityName": "The Sunless Cell",
+		"activityDescription": "Assault a prison deep in the heart of the Dreadnaught and put an end to a Hive champion.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2897855902,
+		"placeHash": 596872852,
+		"activityTypeHash": 4110605575,
+		"activityHashes": [
+			2450352219,
+			351460287
+		],
+		"hash": 2450352219,
+		"index": 0,
+		"redacted": false
+	},
+	"2474598319": {
+		"bundleHash": 2474598319,
+		"activityName": "Patrol Venus",
+		"activityDescription": "Explore the Ishtar Sink and aid the City in their efforts.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 518553403,
+		"placeHash": 3871070152,
+		"activityTypeHash": 3497767639,
+		"activityHashes": [
+			2474598319
+		],
+		"hash": 2474598319,
+		"index": 0,
+		"redacted": false
+	},
+	"2488292787": {
+		"bundleHash": 2488292787,
+		"activityName": "Freelance 3v3",
+		"activityDescription": "\"Sometimes your allies are a necessity rather than a choice. Don't let that stop you from taking your team to glory.\" —Lord Shaxx \n\nSolo queue only. A mix of Skirmish, Salvage and Elimination.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 4013076195,
+		"activityHashes": [
+			2488292787
+		],
+		"hash": 2488292787,
+		"index": 0,
+		"redacted": false
+	},
+	"2503808507": {
+		"bundleHash": 2503808507,
+		"activityName": "Last Rites",
+		"activityDescription": "Using the stealth code, travel deep into the heart of the Hellmouth and slip away with a sliver of Crota's soul.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 4233735899,
+		"placeHash": 3128647858,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			2503808507,
+			1017714251
+		],
+		"hash": 2503808507,
+		"index": 0,
+		"redacted": false
+	},
+	"2507231345": {
+		"bundleHash": 2507231345,
+		"activityName": "Frontier",
+		"activityDescription": "City Perimeter, Earth",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			2507231345
+		],
+		"hash": 2507231345,
+		"index": 0,
+		"redacted": false
+	},
+	"2522686639": {
+		"bundleHash": 2522686639,
+		"activityName": "Freelance 6v6",
+		"activityDescription": "\"Sometimes your allies are a necessity rather than a choice. Don't let that stop you from taking your team to glory.\" —Lord Shaxx \n\nSolo queue only. A mix of Control, Clash and Rift.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 4047366879,
+		"activityHashes": [
+			2522686639
+		],
+		"hash": 2522686639,
+		"index": 0,
+		"redacted": false
+	},
+	"2577060487": {
+		"bundleHash": 2577060487,
+		"activityName": "Paradox",
+		"activityDescription": "Investigate the signal coming from the Vault of Glass.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 518553403,
+		"placeHash": 3871070152,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			2577060487,
+			2286628407
+		],
+		"hash": 2577060487,
+		"index": 0,
+		"redacted": false
+	},
+	"2586575560": {
+		"bundleHash": 2586575560,
+		"activityName": "Mayhem Rumble",
+		"activityDescription": "\"How will you handle a battle like this, I wonder?\" —Lord Shaxx\n\nEmbrace the chaos. Greatly increased ability recharge rates. Faster Special Weapon and Heavy Ammo spawns. No respawn delay. Scoring values multiplied by 10.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 976536573,
+		"activityHashes": [
+			2586575560
+		],
+		"hash": 2586575560,
+		"index": 0,
+		"redacted": false
+	},
+	"2591739000": {
+		"bundleHash": 2591739000,
+		"activityName": "The Awoken",
+		"activityDescription": "Travel to the home of the Awoken and find what they know about the Black Garden.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 3393905939,
+		"placeHash": 2512485647,
+		"activityTypeHash": 1299744814,
+		"activityHashes": [
+			2591739000
+		],
+		"hash": 2591739000,
+		"index": 0,
+		"redacted": false
+	},
+	"2616429373": {
+		"bundleHash": 2616429373,
+		"activityName": "Fear's Embrace",
+		"activityDescription": "Return to the base on Phobos. Destroy the blighted source on Mars.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 3705523133,
+		"placeHash": 3114284952,
+		"activityTypeHash": 1801258597,
+		"activityHashes": [
+			2616429373
+		],
+		"hash": 2616429373,
+		"index": 0,
+		"redacted": false
+	},
+	"2626477216": {
+		"bundleHash": 2626477216,
+		"activityName": "Outbound Signal",
+		"activityDescription": "Track a signal from the crashed Cabal ship. Board the Dreadnaught and put an end to this transmission to the stars.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2897855902,
+		"placeHash": 596872852,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			2626477216
+		],
+		"hash": 2626477216,
+		"index": 0,
+		"redacted": false
+	},
+	"2638978649": {
+		"bundleHash": 2638978649,
+		"activityName": "",
+		"activityDescription": "",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			2638978649
+		],
+		"hash": 2638978649,
+		"index": 0,
+		"redacted": false
+	},
+	"2643956095": {
+		"bundleHash": 2643956095,
+		"activityName": "Freelance 3v3",
+		"activityDescription": "\"Sometimes your allies are a necessity rather than a choice. Don't let that stop you from taking your team to glory.\" —Lord Shaxx \n\nSolo queue only. A mix of Skirmish, Salvage and Elimination.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 4013076195,
+		"activityHashes": [
+			2643956095
+		],
+		"hash": 2643956095,
+		"index": 0,
+		"redacted": false
+	},
+	"2659248071": {
+		"bundleHash": 2659248071,
+		"activityName": "Vault of Glass",
+		"activityDescription": "Beneath Venus, evil stirs.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 518553403,
+		"placeHash": 3871070152,
+		"activityTypeHash": 2043403989,
+		"activityHashes": [
+			2659248071,
+			2659248068,
+			4038697181,
+			856898338
+		],
+		"hash": 2659248071,
+		"index": 0,
+		"redacted": false
+	},
+	"2662709104": {
+		"bundleHash": 2662709104,
+		"activityName": "Bottle the Arc",
+		"activityDescription": "Fight the Vex in an Arc storm on Mars. Learn to walk the Stormcaller's path.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 4072959335,
+		"placeHash": 2809578934,
+		"activityTypeHash": 2881466965,
+		"activityHashes": [
+			2662709104
+		],
+		"hash": 2662709104,
+		"index": 0,
+		"redacted": false
+	},
+	"2680821721": {
+		"bundleHash": 2680821721,
+		"activityName": "The Cauldron",
+		"activityDescription": "Ocean of Storms, Moon",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			2680821721
+		],
+		"hash": 2680821721,
+		"index": 0,
+		"redacted": false
+	},
+	"2693077237": {
+		"bundleHash": 2693077237,
+		"activityName": "Vanguard Nightfall",
+		"activityDescription": "Launches a random Nightfall strike.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2512542997,
+		"placeHash": 3605772915,
+		"activityTypeHash": 344644403,
+		"activityHashes": [
+			2693077237
+		],
+		"hash": 2693077237,
+		"index": 0,
+		"redacted": false
+	},
+	"2697160954": {
+		"bundleHash": 2697160954,
+		"activityName": "Age of Triumph",
+		"activityDescription": "The Speaker reflects on your legend.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2612139675,
+		"placeHash": 3747705955,
+		"activityTypeHash": 2201105581,
+		"activityHashes": [
+			2697160954
+		],
+		"hash": 2697160954,
+		"index": 0,
+		"redacted": false
+	},
+	"2708547287": {
+		"bundleHash": 2708547287,
+		"activityName": "A March of Fire",
+		"activityDescription": "Head to Venus in search of the Sunbreakers, a mercenary clan of Titans.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 518553403,
+		"placeHash": 3871070152,
+		"activityTypeHash": 2881466965,
+		"activityHashes": [
+			2708547287
+		],
+		"hash": 2708547287,
+		"index": 0,
+		"redacted": false
+	},
+	"2737751857": {
+		"bundleHash": 2737751857,
+		"activityName": "Beauty in Delivery",
+		"activityDescription": "Assault a Fallen stronghold. Forge your Gjallarhorn.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2468353467,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1801258597,
+		"activityHashes": [
+			2737751857
+		],
+		"hash": 2737751857,
+		"index": 0,
+		"redacted": false
+	},
+	"2739987894": {
+		"bundleHash": 2739987894,
+		"activityName": "A Symbol of Honor",
+		"activityDescription": "Explore the past for hints to forge a new Gjallarhorn.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2468353467,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1801258597,
+		"activityHashes": [
+			2739987894
+		],
+		"hash": 2739987894,
+		"index": 0,
+		"redacted": false
+	},
+	"2747031950": {
+		"bundleHash": 2747031950,
+		"activityName": "Classic 3v3",
+		"activityDescription": "\"There's a rousing demand—from participants and spectators—for Legacy match types and arenas in the Crucible. I give them gladly.\" —Lord Shaxx  \n\nA mix of 3v3 modes on classic maps.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3887258850,
+		"activityHashes": [
+			2747031950
+		],
+		"hash": 2747031950,
+		"index": 0,
+		"redacted": false
+	},
+	"2790114296": {
+		"bundleHash": 2790114296,
+		"activityName": "The Ruling House",
+		"activityDescription": "Scour the Cosmodrome for Skolas and the invading Wolves.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/257fe24206deba4fe3a4e688bc18f03e.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			2790114296,
+			1783564050
+		],
+		"hash": 2790114296,
+		"index": 0,
+		"redacted": false
+	},
+	"2795444912": {
+		"bundleHash": 2795444912,
+		"activityName": "Skirmish",
+		"activityDescription": "\"Leave no ally behind, and no enemy standing.\" —Lord Shaxx \n\nSmall-team tactics. Kill the enemy. Revive teammates.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3990775146,
+		"activityHashes": [
+			2795444912
+		],
+		"hash": 2795444912,
+		"index": 0,
+		"redacted": false
+	},
+	"2819394450": {
+		"bundleHash": 2819394450,
+		"activityName": "Vanguard Legacy",
+		"activityDescription": "Launches a random Legacy strike.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2512542997,
+		"placeHash": 3605772915,
+		"activityTypeHash": 2889152536,
+		"activityHashes": [
+			2819394450
+		],
+		"hash": 2819394450,
+		"index": 0,
+		"redacted": false
+	},
+	"2828456290": {
+		"bundleHash": 2828456290,
+		"activityName": "Shining Sands",
+		"activityDescription": "Languid Sea, Mercury",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			2828456290
+		],
+		"hash": 2828456290,
+		"index": 0,
+		"redacted": false
+	},
+	"2839046506": {
+		"bundleHash": 2839046506,
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2468353467,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1299744814,
+		"activityHashes": [
+			2839046506
+		],
+		"hash": 2839046506,
+		"index": 0,
+		"redacted": false
+	},
+	"2877811433": {
+		"bundleHash": 2877811433,
+		"activityName": "Mayhem Rumble",
+		"activityDescription": "\"How will you handle a battle like this, I wonder?\" —Lord Shaxx\n\nEmbrace the chaos. Greatly increased ability recharge rates. Faster Special Weapon and Heavy Ammo spawns. No respawn delay. Scoring values multiplied by 10.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 976536573,
+		"activityHashes": [
+			2877811433
+		],
+		"hash": 2877811433,
+		"index": 0,
+		"redacted": false
+	},
+	"2918909691": {
+		"bundleHash": 2918909691,
+		"activityName": "Summoner's Circle",
+		"activityDescription": "Stop a coven within the heart of the dreadnaught from creating a powerful Taken warbeast.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2897855902,
+		"placeHash": 596872852,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			2918909691
+		],
+		"hash": 2918909691,
+		"index": 0,
+		"redacted": false
+	},
+	"2926133958": {
+		"bundleHash": 2926133958,
+		"activityName": "Arsenal",
+		"activityDescription": "\"It takes improvisation to win with what you find on the battlefield.\" —Lord Shaxx\n\nTake the Armament and destroy your foes.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 1030667770,
+		"activityHashes": [
+			2926133958
+		],
+		"hash": 2926133958,
+		"index": 0,
+		"redacted": false
+	},
+	"2931947534": {
+		"bundleHash": 2931947534,
+		"activityName": "A Kell Rising",
+		"activityDescription": "Head off the House of Wolves on Venus before their Kell, Skolas, can wrest control of the House of Winter.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/257fe24206deba4fe3a4e688bc18f03e.png",
+		"releaseTime": 0,
+		"destinationHash": 518553403,
+		"placeHash": 3871070152,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			2931947534,
+			91984044
+		],
+		"hash": 2931947534,
+		"index": 0,
+		"redacted": false
+	},
+	"2945511915": {
+		"bundleHash": 2945511915,
+		"activityName": "Freelance 6v6",
+		"activityDescription": "\"Sometimes your allies are a necessity rather than a choice. Don't let that stop you from taking your team to glory.\" —Lord Shaxx \n\nSolo queue only. A mix of Control, Clash and Rift.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 4047366879,
+		"activityHashes": [
+			2945511915
+		],
+		"hash": 2945511915,
+		"index": 0,
+		"redacted": false
+	},
+	"2947742498": {
+		"bundleHash": 2947742498,
+		"activityName": "Inferno Doubles",
+		"activityDescription": "\"Leave no ally behind and no enemy standing.\" —Lord Shaxx \n\nSmall-team tactics. Kill the enemy. Revive teammates. No trackers and simplified scoring.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3433065842,
+		"activityHashes": [
+			2947742498
+		],
+		"hash": 2947742498,
+		"index": 0,
+		"redacted": false
+	},
+	"3025411906": {
+		"bundleHash": 3025411906,
+		"activityName": "The Archon-Slayer",
+		"activityDescription": "This renegade Wolf was dangerous enough before he murdered one of his own Archons.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/257fe24206deba4fe3a4e688bc18f03e.png",
+		"releaseTime": 0,
+		"destinationHash": 4233735899,
+		"placeHash": 3128647858,
+		"activityTypeHash": 1801258597,
+		"activityHashes": [
+			3025411906
+		],
+		"hash": 3025411906,
+		"index": 0,
+		"redacted": false
+	},
+	"3053288711": {
+		"bundleHash": 3053288711,
+		"activityName": "Floating Gardens",
+		"activityDescription": "Pomona Mons, Venus",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			3053288711
+		],
+		"hash": 3053288711,
+		"index": 0,
+		"redacted": false
+	},
+	"3097191720": {
+		"bundleHash": 3097191720,
+		"activityName": "The Shadow Thief",
+		"activityDescription": "A ruthless Fallen mercenary commanding the Wolfship Kaliks-Syn has been spotted near the Moon. Board the Ketch and end the reign of Taniks, the Scarred.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/257fe24206deba4fe3a4e688bc18f03e.png",
+		"releaseTime": 0,
+		"destinationHash": 4233735899,
+		"placeHash": 3128647858,
+		"activityTypeHash": 4110605575,
+		"activityHashes": [
+			3097191720,
+			3044479892
+		],
+		"hash": 3097191720,
+		"index": 0,
+		"redacted": false
+	},
+	"3101475152": {
+		"bundleHash": 3101475152,
+		"activityName": "Firebase Delphi",
+		"activityDescription": "Eos Chasma, Mars",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			3101475152
+		],
+		"hash": 3101475152,
+		"index": 0,
+		"redacted": false
+	},
+	"3101766066": {
+		"bundleHash": 3101766066,
+		"activityName": "The Wretched Eye",
+		"activityDescription": "A Fallen high priest is warping an ancient science to his own twisted ends. Fight to the heart of a Hive nest to find the priest and end his atrocities.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2468353467,
+		"placeHash": 3747705955,
+		"activityTypeHash": 4110605575,
+		"activityHashes": [
+			3101766066,
+			4101329072
+		],
+		"hash": 3101766066,
+		"index": 0,
+		"redacted": false
+	},
+	"3102291176": {
+		"bundleHash": 3102291176,
+		"activityName": "The Prime's Path",
+		"activityDescription": "Hunt the Prime Servitor that has brought together the broken House of Wolves.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 4072959335,
+		"placeHash": 2809578934,
+		"activityTypeHash": 1801258597,
+		"activityHashes": [
+			3102291176,
+			2364610626
+		],
+		"hash": 3102291176,
+		"index": 0,
+		"redacted": false
+	},
+	"3102295231": {
+		"bundleHash": 3102295231,
+		"activityName": "Salvage",
+		"activityDescription": "\"Treasures and forgotten tech lie waiting in the wake of the Golden Age's collapse. One must be swift and fierce to claim them.\" —Lord Shaxx \n\nRace the other team to capture and hold relics.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 2127351241,
+		"activityHashes": [
+			3102295231
+		],
+		"hash": 3102295231,
+		"index": 0,
+		"redacted": false
+	},
+	"3120351937": {
+		"bundleHash": 3120351937,
+		"activityName": "The Warmind",
+		"activityDescription": "Break the House of Devils' grasp on the Cosmodrome and secure a vital link to the Golden Age.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			3120351937,
+			1723226893
+		],
+		"hash": 3120351937,
+		"index": 0,
+		"redacted": false
+	},
+	"3120351938": {
+		"bundleHash": 3120351938,
+		"activityName": "The Dark Within",
+		"activityDescription": "Investigate reports of a hidden power trapped in the Cosmodrome Array stations.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			3120351938,
+			2129294976
+		],
+		"hash": 3120351938,
+		"index": 0,
+		"redacted": false
+	},
+	"3120351939": {
+		"bundleHash": 3120351939,
+		"activityName": "Restoration",
+		"activityDescription": "Return to Fallen territory and hunt for parts to restore your ship's ability for interplanetary travel.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			3120351939
+		],
+		"hash": 3120351939,
+		"index": 0,
+		"redacted": false
+	},
+	"3120351941": {
+		"bundleHash": 3120351941,
+		"activityName": "Siege of the Warmind",
+		"activityDescription": "Find Rasputin's bunker. Defend it against the Hive attack.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/1291f27f41da0019b85a022a93e0f6f8.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			3120351941,
+			3549856929
+		],
+		"hash": 3120351941,
+		"index": 0,
+		"redacted": false
+	},
+	"3120351943": {
+		"bundleHash": 3120351943,
+		"activityName": "The Last Array",
+		"activityDescription": "Track down codes to raise an ancient Array and connect it to long-lost colonies throughout the solar system.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			3120351943,
+			1973631991
+		],
+		"hash": 3120351943,
+		"index": 0,
+		"redacted": false
+	},
+	"3125074505": {
+		"bundleHash": 3125074505,
+		"activityName": "Weekly Heroic Strike",
+		"activityDescription": "Pierce the Vex labyrinth and defeat the mind responsible for the transformation of Venus.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 518553403,
+		"placeHash": 3871070152,
+		"activityTypeHash": 4164571395,
+		"activityHashes": [
+			4175179544,
+			1398976307,
+			1398976306,
+			1398976305,
+			308091854,
+			3125074505,
+			2270968444,
+			1031478183,
+			1031478182,
+			1031478181,
+			403726674,
+			1657401677,
+			706472064,
+			4175179545,
+			308091855,
+			3125074504,
+			2270968445,
+			403726675,
+			1657401676,
+			706472065,
+			4175179546,
+			308091852,
+			3125074507,
+			2270968446,
+			403726672,
+			1657401679,
+			706472066
+		],
+		"hash": 3125074505,
+		"index": 0,
+		"redacted": false
+	},
+	"3156370656": {
+		"bundleHash": 3156370656,
+		"activityName": "Sector 618",
+		"activityDescription": "Cosmodrome Wall, Old Russia",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			3156370656
+		],
+		"hash": 3156370656,
+		"index": 0,
+		"redacted": false
+	},
+	"3183184449": {
+		"bundleHash": 3183184449,
+		"activityName": "Shield Brothers",
+		"activityDescription": "Travel deep into the heart of the Dreadnaught in pursuit of a Cabal assault team. Stop it from detonating the Hive ship's core.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2897855902,
+		"placeHash": 596872852,
+		"activityTypeHash": 4110605575,
+		"activityHashes": [
+			3183184449,
+			2840876929
+		],
+		"hash": 3183184449,
+		"index": 0,
+		"redacted": false
+	},
+	"3190434637": {
+		"bundleHash": 3190434637,
+		"activityName": "The Dreadnaught",
+		"activityDescription": "Survive the Dreadnaught's superweapon and establish a beachhead for the Vanguard.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2897855902,
+		"placeHash": 596872852,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			3190434637,
+			3349918649
+		],
+		"hash": 3190434637,
+		"index": 0,
+		"redacted": false
+	},
+	"3210106079": {
+		"bundleHash": 3210106079,
+		"activityName": "Patrol the Dreadnaught",
+		"activityDescription": "Board the Taken King's Dreadnaught. Prove the Vanguard's dominance over the Hive and Taken.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2897855902,
+		"placeHash": 596872852,
+		"activityTypeHash": 3497767639,
+		"activityHashes": [
+			3210106079
+		],
+		"hash": 3210106079,
+		"index": 0,
+		"redacted": false
+	},
+	"3220294246": {
+		"bundleHash": 3220294246,
+		"activityName": "The Walls Come Down",
+		"activityDescription": "The Cosmodrome has been transformed by an ancient threat. Find the source of the corruption.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2468353467,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			3220294246,
+			2553967924
+		],
+		"hash": 3220294246,
+		"index": 0,
+		"redacted": false
+	},
+	"3234259779": {
+		"bundleHash": 3234259779,
+		"activityName": "Trials of Osiris",
+		"activityDescription": "Only those who have proven their worth may enter the Trials.\n\nA string of victories will earn great rewards, but lose too many matches and your access will be denied.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 736189348,
+		"activityHashes": [
+			3234259779
+		],
+		"hash": 3234259779,
+		"index": 0,
+		"redacted": false
+	},
+	"3252534714": {
+		"bundleHash": 3252534714,
+		"activityName": "Doubles",
+		"activityDescription": "\"Leave no ally behind, and no enemy standing.\" —Lord Shaxx \n\nSmall-team tactics. Kill the enemy. Revive teammates.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3957072814,
+		"activityHashes": [
+			3252534714
+		],
+		"hash": 3252534714,
+		"index": 0,
+		"redacted": false
+	},
+	"3263216023": {
+		"bundleHash": 3263216023,
+		"activityName": "Regicide",
+		"activityDescription": "Using the power of ascendance, pass through the rupture and put an end to the Taken King.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2897855902,
+		"placeHash": 596872852,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			3263216023,
+			3674885127
+		],
+		"hash": 3263216023,
+		"index": 0,
+		"redacted": false
+	},
+	"3277621970": {
+		"bundleHash": 3277621970,
+		"activityName": "The Timekeeper",
+		"activityDescription": "Meridian Bay, Mars",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			3277621970
+		],
+		"hash": 3277621970,
+		"index": 0,
+		"redacted": false
+	},
+	"3292305209": {
+		"bundleHash": 3292305209,
+		"activityName": "Winter's Run",
+		"activityDescription": "As the Vex march to claim the Ishtar Sink, the Fallen House of Winter is raising a powerful Archon, stolen from the Prison of Elders in the Reef. Find the Archon before they fully restore his soul.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 518553403,
+		"placeHash": 3871070152,
+		"activityTypeHash": 4110605575,
+		"activityHashes": [
+			3292305209,
+			3398752148
+		],
+		"hash": 3292305209,
+		"index": 0,
+		"redacted": false
+	},
+	"3292305210": {
+		"bundleHash": 3292305210,
+		"activityName": "The Nexus",
+		"activityDescription": "The Golden Age legends tell of ancient tunnels below the Academy, where a Vex machine once ate away at the planet. Descend into the old dig sites and find this Nexus before it churns again.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 518553403,
+		"placeHash": 3871070152,
+		"activityTypeHash": 4110605575,
+		"activityHashes": [
+			3292305210,
+			3415949693
+		],
+		"hash": 3292305210,
+		"index": 0,
+		"redacted": false
+	},
+	"3292667877": {
+		"bundleHash": 3292667877,
+		"activityName": "Asylum",
+		"activityDescription": "Ishtar Sink, Venus",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			3292667877
+		],
+		"hash": 3292667877,
+		"index": 0,
+		"redacted": false
+	},
+	"3315158082": {
+		"bundleHash": 3315158082,
+		"activityName": "A Spark in Shadow",
+		"activityDescription": "Head to the tunnels under Freehold on Mars and face down the Conductive Mind for your own source of Arc.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 4072959335,
+		"placeHash": 2809578934,
+		"activityTypeHash": 2881466965,
+		"activityHashes": [
+			3315158082
+		],
+		"hash": 3315158082,
+		"index": 0,
+		"redacted": false
+	},
+	"3322717977": {
+		"bundleHash": 3322717977,
+		"activityName": "Iron Banner Control",
+		"activityDescription": "\"It's a tactical exercise in reinforcing and defending acquired territory. Should the Vanguard ever decide to expand past the walls of the City, the Guardians will be ready.\" —Lord Shaxx \n\nAll-out team warfare. Destroy the enemy. Impress the Lords of Iron.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 1337970376,
+		"activityHashes": [
+			3322717977
+		],
+		"hash": 3322717977,
+		"index": 0,
+		"redacted": false
+	},
+	"3335571405": {
+		"bundleHash": 3335571405,
+		"activityName": "Supremacy",
+		"activityDescription": "\"A Guardian's Crest is her honor. Claim them from opponents, and protect your own.\" —Lord Shaxx\n\nDefeat your opponents, and take their Crests.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 1860850614,
+		"activityHashes": [
+			3335571405
+		],
+		"hash": 3335571405,
+		"index": 0,
+		"redacted": false
+	},
+	"3343284688": {
+		"bundleHash": 3343284688,
+		"activityName": "Outbound Signal",
+		"activityDescription": "Track a signal from the crashed Cabal ship. Board the Dreadnaught and put an end to this transmission to the stars.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2897855902,
+		"placeHash": 596872852,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			3343284688,
+			2507671226
+		],
+		"hash": 3343284688,
+		"index": 0,
+		"redacted": false
+	},
+	"3346215145": {
+		"bundleHash": 3346215145,
+		"activityName": "The Lighthouse",
+		"activityDescription": "Only true champions of the Crucible dare set foot in these fabled halls.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 3669933163,
+		"placeHash": 1259908504,
+		"activityTypeHash": 1589650888,
+		"activityHashes": [
+			3346215145
+		],
+		"hash": 3346215145,
+		"index": 0,
+		"redacted": false
+	},
+	"3393673804": {
+		"bundleHash": 3393673804,
+		"activityName": "Prison of Elders",
+		"activityDescription": "Glory and treasure await those who survive.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/257fe24206deba4fe3a4e688bc18f03e.png",
+		"releaseTime": 0,
+		"destinationHash": 3393905939,
+		"placeHash": 2512485647,
+		"activityTypeHash": 680256650,
+		"activityHashes": [
+			3393673804
+		],
+		"hash": 3393673804,
+		"index": 0,
+		"redacted": false
+	},
+	"3399843400": {
+		"bundleHash": 3399843400,
+		"activityName": "A Stranger's Call",
+		"activityDescription": "Follow the Stranger's coordinates to a legendary colony lost in the jungles of Venus.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 518553403,
+		"placeHash": 3871070152,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			3399843400,
+			2321224098
+		],
+		"hash": 3399843400,
+		"index": 0,
+		"redacted": false
+	},
+	"3399843403": {
+		"bundleHash": 3399843403,
+		"activityName": "Ishtar Collective",
+		"activityDescription": "Unravel the secrets of the Vex by reviving an ancient research station of the Ishtar Collective.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 518553403,
+		"placeHash": 3871070152,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			3399843403,
+			2213151771
+		],
+		"hash": 3399843403,
+		"index": 0,
+		"redacted": false
+	},
+	"3399843404": {
+		"bundleHash": 3399843404,
+		"activityName": "The Archive",
+		"activityDescription": "Find the Collective's lost Archive, sealed for centuries, in a vault deep beneath the Ishtar Academy.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 518553403,
+		"placeHash": 3871070152,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			3399843404,
+			3784570118
+		],
+		"hash": 3399843404,
+		"index": 0,
+		"redacted": false
+	},
+	"3399843406": {
+		"bundleHash": 3399843406,
+		"activityName": "Eye of a Gate Lord",
+		"activityDescription": "Lure out the Vex Gate Lord that protects the Endless Steps and bring its head back to the Awoken.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 518553403,
+		"placeHash": 3871070152,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			3399843406,
+			1030188908
+		],
+		"hash": 3399843406,
+		"index": 0,
+		"redacted": false
+	},
+	"3399843407": {
+		"bundleHash": 3399843407,
+		"activityName": "Scourge of Winter",
+		"activityDescription": "Hunt and kill Draksis, the House of Winter's Kell, hiding deep in the caves of the Ishtar Sink.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 518553403,
+		"placeHash": 3871070152,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			3399843407,
+			1080191247
+		],
+		"hash": 3399843407,
+		"index": 0,
+		"redacted": false
+	},
+	"3412406993": {
+		"bundleHash": 3412406993,
+		"activityName": "Cathedral of Dusk",
+		"activityDescription": "Dreadnaught, Rings of Saturn",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			3412406993
+		],
+		"hash": 3412406993,
+		"index": 0,
+		"redacted": false
+	},
+	"3422924470": {
+		"bundleHash": 3422924470,
+		"activityName": "Blighted Coven",
+		"activityDescription": "Investigate the rumors of a Taken coven in the Cosmodrome.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1801258597,
+		"activityHashes": [
+			3422924470,
+			2624694148
+		],
+		"hash": 3422924470,
+		"index": 0,
+		"redacted": false
+	},
+	"3428378490": {
+		"bundleHash": 3428378490,
+		"activityName": "Mayhem Clash",
+		"activityDescription": "\"Enjoy yourselves, Guardians.\" —Lord Shaxx\n\nEmbrace the chaos. Greatly increased ability recharge rates. Faster Special and Heavy Ammo spawns. No respawn delay. Scoring values multiplied by 10.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3323301749,
+		"activityHashes": [
+			3428378490
+		],
+		"hash": 3428378490,
+		"index": 0,
+		"redacted": false
+	},
+	"3473815980": {
+		"bundleHash": 3473815980,
+		"activityName": "Fist of Crota",
+		"activityDescription": "Face the Fist of Crota leading the Spawn on Earth.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/1291f27f41da0019b85a022a93e0f6f8.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			3473815980,
+			2701768038
+		],
+		"hash": 3473815980,
+		"index": 0,
+		"redacted": false
+	},
+	"3476387771": {
+		"bundleHash": 3476387771,
+		"activityName": "Taken War Heroic",
+		"activityDescription": "Launch a random Taken War Heroic Strike.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2512542997,
+		"placeHash": 3605772915,
+		"activityTypeHash": 2889152536,
+		"activityHashes": [
+			3476387771
+		],
+		"hash": 3476387771,
+		"index": 0,
+		"redacted": false
+	},
+	"3492173922": {
+		"bundleHash": 3492173922,
+		"activityName": "Vestian Outpost",
+		"activityDescription": "Join forces with the Queen's Guard and hunt down their enemies.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 3393905939,
+		"placeHash": 2512485647,
+		"activityTypeHash": 1589650888,
+		"activityHashes": [
+			3492173922
+		],
+		"hash": 3492173922,
+		"index": 0,
+		"redacted": false
+	},
+	"3493774909": {
+		"bundleHash": 3493774909,
+		"activityName": "The Taken King: Prelude",
+		"activityDescription": "The death of Crota was a beacon, a signal cast across the stars. The night has answered.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2897855902,
+		"placeHash": 596872852,
+		"activityTypeHash": 2201105581,
+		"activityHashes": [
+			3493774909
+		],
+		"hash": 3493774909,
+		"index": 0,
+		"redacted": false
+	},
+	"3508129769": {
+		"bundleHash": 3508129769,
+		"activityName": "Cult of the Worm",
+		"activityDescription": "Gulrot, Unclean has been summoned by the Worm Keepers. Don't let the beast's filth spread beyond the prison.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/257fe24206deba4fe3a4e688bc18f03e.png",
+		"releaseTime": 0,
+		"destinationHash": 3393905939,
+		"placeHash": 2512485647,
+		"activityTypeHash": 3705723572,
+		"activityHashes": [
+			3508129769
+		],
+		"hash": 3508129769,
+		"index": 0,
+		"redacted": false
+	},
+	"3508129770": {
+		"bundleHash": 3508129770,
+		"activityName": "Cult of the Worm",
+		"activityDescription": "Gulrot, Unclean has been summoned by the Worm Keepers. Don't let the beast's filth spread beyond the prison.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/257fe24206deba4fe3a4e688bc18f03e.png",
+		"releaseTime": 0,
+		"destinationHash": 3393905939,
+		"placeHash": 2512485647,
+		"activityTypeHash": 3705723572,
+		"activityHashes": [
+			3508129770
+		],
+		"hash": 3508129770,
+		"index": 0,
+		"redacted": false
+	},
+	"3509128672": {
+		"bundleHash": 3509128672,
+		"activityName": "Iron Temple",
+		"activityDescription": "The ancient fortress of the Iron Lords is alive with activity once more.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2468353467,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1589650888,
+		"activityHashes": [
+			3509128672
+		],
+		"hash": 3509128672,
+		"index": 0,
+		"redacted": false
+	},
+	"3527709396": {
+		"bundleHash": 3527709396,
+		"activityName": "Skirmish",
+		"activityDescription": "\"Leave no ally behind, and no enemy standing.\" —Lord Shaxx \n\nSmall-team tactics. Kill the enemy. Revive teammates.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3990775146,
+		"activityHashes": [
+			3527709396
+		],
+		"hash": 3527709396,
+		"index": 0,
+		"redacted": false
+	},
+	"3534581229": {
+		"bundleHash": 3534581229,
+		"activityName": "King's Fall",
+		"activityDescription": "Long live the King.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2897855902,
+		"placeHash": 596872852,
+		"activityTypeHash": 2043403989,
+		"activityHashes": [
+			1733556769,
+			3534581229,
+			1016659723,
+			3978884648
+		],
+		"hash": 3534581229,
+		"index": 0,
+		"redacted": false
+	},
+	"3565777280": {
+		"bundleHash": 3565777280,
+		"activityName": "Knock Knock",
+		"activityDescription": "Hold the line against a brutal assault by the broken House of Wolves.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 4072959335,
+		"placeHash": 2809578934,
+		"activityTypeHash": 1801258597,
+		"activityHashes": [
+			3565777280
+		],
+		"hash": 3565777280,
+		"index": 0,
+		"redacted": false
+	},
+	"3575520714": {
+		"bundleHash": 3575520714,
+		"activityName": "Shield Brothers",
+		"activityDescription": "Travel deep into the heart of the Dreadnaught in pursuit of a Cabal assault team. Stop it from detonating the Hive ship's core.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2897855902,
+		"placeHash": 596872852,
+		"activityTypeHash": 4110605575,
+		"activityHashes": [
+			3575520714
+		],
+		"hash": 3575520714,
+		"index": 0,
+		"redacted": false
+	},
+	"3575840788": {
+		"bundleHash": 3575840788,
+		"activityName": "Wolves' Gambit",
+		"activityDescription": "Track Skolas and his crew of Wolves along the Ishtar Cliffs.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/257fe24206deba4fe3a4e688bc18f03e.png",
+		"releaseTime": 0,
+		"destinationHash": 518553403,
+		"placeHash": 3871070152,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			3575840788,
+			1309514270
+		],
+		"hash": 3575840788,
+		"index": 0,
+		"redacted": false
+	},
+	"3593950004": {
+		"bundleHash": 3593950004,
+		"activityName": "Destiny Credits",
+		"activityDescription": "Plays cinematic credits",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 159602672,
+		"placeHash": 3747705955,
+		"activityTypeHash": 2201105581,
+		"activityHashes": [
+			3593950004
+		],
+		"hash": 3593950004,
+		"index": 0,
+		"redacted": false
+	},
+	"3602734434": {
+		"bundleHash": 3602734434,
+		"activityName": "Bannerfall",
+		"activityDescription": "The Last City, Earth",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			3602734434
+		],
+		"hash": 3602734434,
+		"index": 0,
+		"redacted": false
+	},
+	"3609927430": {
+		"bundleHash": 3609927430,
+		"activityName": "Inferno Supremacy",
+		"activityDescription": "\"A Guardian's Crest is her honor. Claim them from opponents, and protect your own.\" —Lord Shaxx\n\nDefeat your opponents and take their Crests. No trackers.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 126790154,
+		"activityHashes": [
+			3609927430
+		],
+		"hash": 3609927430,
+		"index": 0,
+		"redacted": false
+	},
+	"3619606113": {
+		"bundleHash": 3619606113,
+		"activityName": "Mayhem Clash",
+		"activityDescription": "\"Enjoy yourselves, Guardians.\" —Lord Shaxx\n\nEmbrace the chaos. Greatly increased ability recharge rates. Faster Special and Heavy Ammo spawns. No respawn delay. Scoring values multiplied by 10.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3323301749,
+		"activityHashes": [
+			3619606113
+		],
+		"hash": 3619606113,
+		"index": 0,
+		"redacted": false
+	},
+	"3621292155": {
+		"bundleHash": 3621292155,
+		"activityName": "Salvage",
+		"activityDescription": "\"Treasures and forgotten tech lie waiting in the wake of the Golden Age's collapse. One must be swift and fierce to claim them.\" —Lord Shaxx \n\nRace the other team to capture and hold relics.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 2127351241,
+		"activityHashes": [
+			3621292155
+		],
+		"hash": 3621292155,
+		"index": 0,
+		"redacted": false
+	},
+	"3635588435": {
+		"bundleHash": 3635588435,
+		"activityName": "The Speaker",
+		"activityDescription": "The Hive are on Earth, and the Speaker will need your assistance in meeting the threat.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2612139675,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1299744814,
+		"activityHashes": [
+			3635588435,
+			1427585666
+		],
+		"hash": 3635588435,
+		"index": 0,
+		"redacted": false
+	},
+	"3645675142": {
+		"bundleHash": 3645675142,
+		"activityName": "Control",
+		"activityDescription": "\"It's a tactical exercise in reinforcing and defending acquired territory. Should the Vanguard ever decide to expand past the walls of the City, the Guardians will be ready.\" —Lord Shaxx\n\nCapture zones to increase points for every kill.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3846426416,
+		"activityHashes": [
+			3645675142
+		],
+		"hash": 3645675142,
+		"index": 0,
+		"redacted": false
+	},
+	"3645919501": {
+		"bundleHash": 3645919501,
+		"activityName": "Patrol Cosmodrome",
+		"activityDescription": "Scour the Old Russian launch port and aid the City in their exploration efforts.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 3497767639,
+		"activityHashes": [
+			3645919501
+		],
+		"hash": 3645919501,
+		"index": 0,
+		"redacted": false
+	},
+	"3670262295": {
+		"bundleHash": 3670262295,
+		"activityName": "Trials of Osiris",
+		"activityDescription": "Only those who have proven their worth may enter the Trials.\n\nA string of victories will earn great rewards, but lose too many matches and your access will be denied.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 736189348,
+		"activityHashes": [
+			3670262295
+		],
+		"hash": 3670262295,
+		"index": 0,
+		"redacted": false
+	},
+	"3700036317": {
+		"bundleHash": 3700036317,
+		"activityName": "Oryx Triumphant",
+		"activityDescription": "The Taken King revels in his triumph over the Cabal on Phobos.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2897855902,
+		"placeHash": 596872852,
+		"activityTypeHash": 1299744814,
+		"activityHashes": [
+			3700036317
+		],
+		"hash": 3700036317,
+		"index": 0,
+		"redacted": false
+	},
+	"3705341715": {
+		"bundleHash": 3705341715,
+		"activityName": "A Ranger Found",
+		"activityDescription": "Hold the line against the Vex of the Black Garden and save the Nightstalker Tevis.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 4072959335,
+		"placeHash": 2809578934,
+		"activityTypeHash": 2881466965,
+		"activityHashes": [
+			3705341715
+		],
+		"hash": 3705341715,
+		"index": 0,
+		"redacted": false
+	},
+	"3708806801": {
+		"bundleHash": 3708806801,
+		"activityName": "Entropy's Pinnacle",
+		"activityDescription": "Scale the Vex Citadel and hunt down the source of Venus's blight.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 518553403,
+		"placeHash": 3871070152,
+		"activityTypeHash": 1801258597,
+		"activityHashes": [
+			3708806801,
+			2393458461
+		],
+		"hash": 3708806801,
+		"index": 0,
+		"redacted": false
+	},
+	"3711414560": {
+		"bundleHash": 3711414560,
+		"activityName": "Chamber of Night",
+		"activityDescription": "Scour the Hive Fortress for a chamber where the Speaker believes a dark ritual is silencing the Traveler.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 4233735899,
+		"placeHash": 3128647858,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			3711414560,
+			2327910410
+		],
+		"hash": 3711414560,
+		"index": 0,
+		"redacted": false
+	},
+	"3711414561": {
+		"bundleHash": 3711414561,
+		"activityName": "The Sword of Crota",
+		"activityDescription": "Infiltrate the Hive Fortress and destroy the legendary Sword of Crota, a weapon once used to slay thousands of Guardians.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 4233735899,
+		"placeHash": 3128647858,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			3711414561,
+			28695277
+		],
+		"hash": 3711414561,
+		"index": 0,
+		"redacted": false
+	},
+	"3711414562": {
+		"bundleHash": 3711414562,
+		"activityName": "The Wakening",
+		"activityDescription": "Go to the Temple of Crota and destroy Crota's soul.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/1291f27f41da0019b85a022a93e0f6f8.png",
+		"releaseTime": 0,
+		"destinationHash": 4233735899,
+		"placeHash": 3128647858,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			3711414562,
+			455063520
+		],
+		"hash": 3711414562,
+		"index": 0,
+		"redacted": false
+	},
+	"3711414563": {
+		"bundleHash": 3711414563,
+		"activityName": "Shrine of Oryx",
+		"activityDescription": "Search the darkest corners of the Hellmouth for the fabled Shrine and destroy it.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 4233735899,
+		"placeHash": 3128647858,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			3711414563,
+			3464398659
+		],
+		"hash": 3711414563,
+		"index": 0,
+		"redacted": false
+	},
+	"3711414564": {
+		"bundleHash": 3711414564,
+		"activityName": "The Dark Beyond",
+		"activityDescription": "Follow the trail of a Guardian who went dark searching for a way into the Hive Fortress.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 4233735899,
+		"placeHash": 3128647858,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			3711414564,
+			2051444910
+		],
+		"hash": 3711414564,
+		"index": 0,
+		"redacted": false
+	},
+	"3711414566": {
+		"bundleHash": 3711414566,
+		"activityName": "The World's Grave",
+		"activityDescription": "Descend into the Hellmouth to a Hive library which holds ancient secrets they have ripped from Earth.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 4233735899,
+		"placeHash": 3128647858,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			3711414566,
+			982298740
+		],
+		"hash": 3711414566,
+		"index": 0,
+		"redacted": false
+	},
+	"3715085142": {
+		"bundleHash": 3715085142,
+		"activityName": "Shadow Call",
+		"activityDescription": "Ascend the Devil's Spire and outrace the Darkness that follows close behind.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 2881466965,
+		"activityHashes": [
+			3715085142
+		],
+		"hash": 3715085142,
+		"index": 0,
+		"redacted": false
+	},
+	"3743955707": {
+		"bundleHash": 3743955707,
+		"activityName": "Tower",
+		"activityDescription": "Home of the Guardians, where you can regroup, rearm, and form new alliances before venturing beyond.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2612139675,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1589650888,
+		"activityHashes": [
+			3743955707
+		],
+		"hash": 3743955707,
+		"index": 0,
+		"redacted": false
+	},
+	"3817155567": {
+		"bundleHash": 3817155567,
+		"activityName": "Twilight Gap",
+		"activityDescription": "City Perimeter, Earth",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			3817155567
+		],
+		"hash": 3817155567,
+		"index": 0,
+		"redacted": false
+	},
+	"3848655103": {
+		"bundleHash": 3848655103,
+		"activityName": "Black Shield",
+		"activityDescription": "Firebase Thuria, Phobos",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			3848655103
+		],
+		"hash": 3848655103,
+		"index": 0,
+		"redacted": false
+	},
+	"3856604751": {
+		"bundleHash": 3856604751,
+		"activityName": "First Light",
+		"activityDescription": "Mare Cognitum, Moon",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			3856604751
+		],
+		"hash": 3856604751,
+		"index": 0,
+		"redacted": false
+	},
+	"3878867172": {
+		"bundleHash": 3878867172,
+		"activityName": "Zone Control",
+		"activityDescription": "\"It's a tactical exercise in reinforcing and defending acquired territory. Should the Vanguard ever decide to expand past the walls of the City, the Guardians will be ready.\" —Lord Shaxx\n\nCapture zones and hold the zones to win.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 579151588,
+		"activityHashes": [
+			3878867172
+		],
+		"hash": 3878867172,
+		"index": 0,
+		"redacted": false
+	},
+	"3910288239": {
+		"bundleHash": 3910288239,
+		"activityName": "Iron Banner Rift",
+		"activityDescription": "\"This all started as a Warlock focus drill. The things I've seen them do with Rifts would be...very useful on a battlefield.\" —Lord Shaxx \n\nCollect the Spark and ignite the enemy's Rift with it. Impress the Lords of Iron.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 308891298,
+		"activityHashes": [
+			3910288239
+		],
+		"hash": 3910288239,
+		"index": 0,
+		"redacted": false
+	},
+	"3918359338": {
+		"bundleHash": 3918359338,
+		"activityName": "Icarus",
+		"activityDescription": "Languid Sea, Mercury",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			3918359338
+		],
+		"hash": 3918359338,
+		"index": 0,
+		"redacted": false
+	},
+	"3936153046": {
+		"bundleHash": 3936153046,
+		"activityName": "Inferno 3v3",
+		"activityDescription": "\"Training for a variety of combat scenarios. A Guardian can never be too ready.\" —Lord Shaxx \n\nA mix of Inferno Skirmish, Inferno Salvage and Inferno Elimination.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3616808722,
+		"activityHashes": [
+			3936153046
+		],
+		"hash": 3936153046,
+		"index": 0,
+		"redacted": false
+	},
+	"3974631085": {
+		"bundleHash": 3974631085,
+		"activityName": "Enemy of My Enemy",
+		"activityDescription": "Assault the Cabal ship crashed on the Dreadnaught. Learn what they know about Oryx and his defenses.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2897855902,
+		"placeHash": 596872852,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			3974631085,
+			3200293401
+		],
+		"hash": 3974631085,
+		"index": 0,
+		"redacted": false
+	},
+	"4046346128": {
+		"bundleHash": 4046346128,
+		"activityName": "Fear's Embrace",
+		"activityDescription": "Return to the base on Phobos. Kill the Wizard and claim the Essence of the Feast.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 3705523133,
+		"placeHash": 3114284952,
+		"activityTypeHash": 1801258597,
+		"activityHashes": [
+			4046346128
+		],
+		"hash": 4046346128,
+		"index": 0,
+		"redacted": false
+	},
+	"4055903037": {
+		"bundleHash": 4055903037,
+		"activityName": "Rift",
+		"activityDescription": "\"This all started as a Warlock focus drill. The things I've seen them do with Rifts would be...very useful on a battlefield.\" —Lord Shaxx \n\nCollect the Spark and ignite the enemy's Rift with it.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 2833173037,
+		"activityHashes": [
+			4055903037
+		],
+		"hash": 4055903037,
+		"index": 0,
+		"redacted": false
+	},
+	"4056264559": {
+		"bundleHash": 4056264559,
+		"activityName": "Destiny 2 Pre-Order",
+		"activityDescription": "Select for Pre-Order Options",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/4ddc8e30857912a18b22116bccfd0baf.png",
+		"releaseTime": 0,
+		"destinationHash": 159602672,
+		"placeHash": 3747705955,
+		"activityTypeHash": 2201105581,
+		"activityHashes": [
+			4056264559
+		],
+		"hash": 4056264559,
+		"index": 0,
+		"redacted": false
+	},
+	"4060895971": {
+		"bundleHash": 4060895971,
+		"activityName": "Tower",
+		"activityDescription": "Home of the Guardians, where you can regroup, rearm, and form new alliances before venturing beyond.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2612139675,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1589650888,
+		"activityHashes": [
+			4060895971
+		],
+		"hash": 4060895971,
+		"index": 0,
+		"redacted": false
+	},
+	"4079642013": {
+		"bundleHash": 4079642013,
+		"activityName": "Broken Legion",
+		"activityDescription": "Valus Trau'ug seeks to prove his might by crushing all who challenge him.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/257fe24206deba4fe3a4e688bc18f03e.png",
+		"releaseTime": 0,
+		"destinationHash": 3393905939,
+		"placeHash": 2512485647,
+		"activityTypeHash": 3705723572,
+		"activityHashes": [
+			4079642013
+		],
+		"hash": 4079642013,
+		"index": 0,
+		"redacted": false
+	},
+	"4079642014": {
+		"bundleHash": 4079642014,
+		"activityName": "Broken Legion",
+		"activityDescription": "Valus Trau'ug seeks to prove his might by crushing all who challenge him.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/257fe24206deba4fe3a4e688bc18f03e.png",
+		"releaseTime": 0,
+		"destinationHash": 3393905939,
+		"placeHash": 2512485647,
+		"activityTypeHash": 3705723572,
+		"activityHashes": [
+			4079642014
+		],
+		"hash": 4079642014,
+		"index": 0,
+		"redacted": false
+	},
+	"4087776066": {
+		"bundleHash": 4087776066,
+		"activityName": "Cayde's Stash",
+		"activityDescription": "Ascend a colony ship in the Cosmodrome in search of Cayde's lost cache.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			4087776066,
+			1226857472
+		],
+		"hash": 4087776066,
+		"index": 0,
+		"redacted": false
+	},
+	"4105918304": {
+		"bundleHash": 4105918304,
+		"activityName": "Last Exit",
+		"activityDescription": "Ishtar Sink, Venus",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			4105918304
+		],
+		"hash": 4105918304,
+		"index": 0,
+		"redacted": false
+	},
+	"4107311671": {
+		"bundleHash": 4107311671,
+		"activityName": "Rusted Lands",
+		"activityDescription": "Eastern Flood Zone, Earth",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			4107311671
+		],
+		"hash": 4107311671,
+		"index": 0,
+		"redacted": false
+	},
+	"4129878327": {
+		"bundleHash": 4129878327,
+		"activityName": "Inferno Salvage",
+		"activityDescription": "\"Treasures and forgotten tech lie waiting in the wake of the Golden Age's collapse. One must be swift and fierce to claim them.\" —Lord Shaxx \n\nRace the other team to capture and hold relics. No trackers and simplified scoring.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3923114990,
+		"activityHashes": [
+			4129878327
+		],
+		"hash": 4129878327,
+		"index": 0,
+		"redacted": false
+	},
+	"4153423016": {
+		"bundleHash": 4153423016,
+		"activityName": "Challenge of the Elders",
+		"activityDescription": "Holders of the Elders' Sigil may join with two other Guardians to face Challenge of the Elders.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 3393905939,
+		"placeHash": 2512485647,
+		"activityTypeHash": 3705723572,
+		"activityHashes": [
+			4153423016
+		],
+		"hash": 4153423016,
+		"index": 0,
+		"redacted": false
+	},
+	"4163254808": {
+		"bundleHash": 4163254808,
+		"activityName": "Shores of Time",
+		"activityDescription": "Maat Mons, Venus",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			4163254808
+		],
+		"hash": 4163254808,
+		"index": 0,
+		"redacted": false
+	},
+	"4168247421": {
+		"bundleHash": 4168247421,
+		"activityName": "Iron Banner Clash",
+		"activityDescription": "\"No mercy. No hesitation. It'll take nothing less to defeat the Darkness.\" —Lord Shaxx \n\nAll-out team warfare. Destroy the enemy. Impress the Lords of Iron.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3432675002,
+		"activityHashes": [
+			4168247421
+		],
+		"hash": 4168247421,
+		"index": 0,
+		"redacted": false
+	},
+	"4171584130": {
+		"bundleHash": 4171584130,
+		"activityName": "Inferno 6v6",
+		"activityDescription": "\"Training for a variety of combat scenarios. A Guardian can never be too ready.\"—Lord Shaxx \n\nA mix of Inferno Control and Inferno Clash.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3582414910,
+		"activityHashes": [
+			4171584130
+		],
+		"hash": 4171584130,
+		"index": 0,
+		"redacted": false
+	},
+	"4175179544": {
+		"bundleHash": 4175179544,
+		"activityName": "Weekly Heroic Strike",
+		"activityDescription": "Board the Fallen Ketch above the Moon and defeat the notorious Taniks, the Scarred.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/257fe24206deba4fe3a4e688bc18f03e.png",
+		"releaseTime": 0,
+		"destinationHash": 4233735899,
+		"placeHash": 3128647858,
+		"activityTypeHash": 4164571395,
+		"activityHashes": [
+			4175179544,
+			1398976307,
+			1398976306,
+			1398976305,
+			308091854,
+			3125074505,
+			2270968444,
+			1031478183,
+			1031478182,
+			1031478181,
+			403726674,
+			1657401677,
+			706472064,
+			4175179545,
+			308091855,
+			3125074504,
+			2270968445,
+			403726675,
+			1657401676,
+			706472065,
+			4175179546,
+			308091852,
+			3125074507,
+			2270968446,
+			403726672,
+			1657401679,
+			706472066
+		],
+		"hash": 4175179544,
+		"index": 0,
+		"redacted": false
+	},
+	"4187524452": {
+		"bundleHash": 4187524452,
+		"activityName": "The Undying Mind",
+		"activityDescription": "Enter the Black Garden and claim the Essence of the Feast.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 4072959335,
+		"placeHash": 2809578934,
+		"activityTypeHash": 4110605575,
+		"activityHashes": [
+			4187524452
+		],
+		"hash": 4187524452,
+		"index": 0,
+		"redacted": false
+	},
+	"4196724507": {
+		"bundleHash": 4196724507,
+		"activityName": "Inferno Rumble",
+		"activityDescription": "\"Pure combat. Your only job is to make sure you're still standing when the dust settles.\" —Lord Shaxx \n\nKill everything. Watch your back. No trackers. Only kills earn points.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 55476966,
+		"activityHashes": [
+			4196724507
+		],
+		"hash": 4196724507,
+		"index": 0,
+		"redacted": false
+	},
+	"4200263342": {
+		"bundleHash": 4200263342,
+		"activityName": "Bastion",
+		"activityDescription": "Meridian Bay, Mars",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			4200263342
+		],
+		"hash": 4200263342,
+		"index": 0,
+		"redacted": false
+	},
+	"4203094490": {
+		"bundleHash": 4203094490,
+		"activityName": "Iron Temple",
+		"activityDescription": "The ancient fortress of the Iron Lords is alive with activity once more.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2468353467,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1589650888,
+		"activityHashes": [
+			4203094490
+		],
+		"hash": 4203094490,
+		"index": 0,
+		"redacted": false
+	},
+	"4217181091": {
+		"bundleHash": 4217181091,
+		"activityName": "Skirmish",
+		"activityDescription": "\"Leave no ally behind, and no enemy standing.\" —Lord Shaxx \n\nSmall-team tactics. Kill the enemy. Revive teammates.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3990775146,
+		"activityHashes": [
+			4217181091
+		],
+		"hash": 4217181091,
+		"index": 0,
+		"redacted": false
+	},
+	"4222208550": {
+		"bundleHash": 4222208550,
+		"activityName": "Sparrow Racing",
+		"activityDescription": "\"Speed is a weapon. Learn to wield it or be left behind.\" —Lord Shaxx\n\nYour Sparrow is your life. Cross the finish before your opponents do.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 1066759414,
+		"activityHashes": [
+			4222208550
+		],
+		"hash": 4222208550,
+		"index": 0,
+		"redacted": false
+	},
+	"4227723344": {
+		"bundleHash": 4227723344,
+		"activityName": "The Devils' Lair",
+		"activityDescription": "The Fallen House of Devils in the Cosmodrome sustains its strength through a single Servitor known as Sepiks Prime. Find where this keeper of souls lies and destroy him.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 4110605575,
+		"activityHashes": [
+			4227723344,
+			2391040454
+		],
+		"hash": 4227723344,
+		"index": 0,
+		"redacted": false
+	},
+	"4227723347": {
+		"bundleHash": 4227723347,
+		"activityName": "The Will of Crota",
+		"activityDescription": "Omnigul, the mastermind of Crota's armies, nests in the Cosmodrome. Eliminate this horror and purge its spawn.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/1291f27f41da0019b85a022a93e0f6f8.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 4110605575,
+		"activityHashes": [
+			4227723347,
+			3799336128
+		],
+		"hash": 4227723347,
+		"index": 0,
+		"redacted": false
+	},
+	"4239017990": {
+		"bundleHash": 4239017990,
+		"activityName": "A Key Awaits",
+		"activityDescription": "Present the Gate Lord's head to the Queen for entrance into the Black Garden.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 3393905939,
+		"placeHash": 2512485647,
+		"activityTypeHash": 1299744814,
+		"activityHashes": [
+			4239017990
+		],
+		"hash": 4239017990,
+		"index": 0,
+		"redacted": false
+	},
+	"4240750267": {
+		"bundleHash": 4240750267,
+		"activityName": "The Promethean Code",
+		"activityDescription": "Slip past Rasputin's defenses and download stealth code protocols from his Golden Age database.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 3393213630,
+		"placeHash": 3747705955,
+		"activityTypeHash": 1686739444,
+		"activityHashes": [
+			4240750267,
+			1727851403
+		],
+		"hash": 4240750267,
+		"index": 0,
+		"redacted": false
+	},
+	"4242282035": {
+		"bundleHash": 4242282035,
+		"activityName": "Control",
+		"activityDescription": "\"It's a tactical exercise in reinforcing and defending acquired territory. Should the Vanguard ever decide to expand past the walls of the City, the Guardians will be ready.\" —Lord Shaxx\n\nCapture zones to increase points for every kill.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/833cabd43e2d0d6a8e507689f1caf36a.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3846426416,
+		"activityHashes": [
+			4242282035
+		],
+		"hash": 4242282035,
+		"index": 0,
+		"redacted": false
+	},
+	"4260139097": {
+		"bundleHash": 4260139097,
+		"activityName": "Pantheon",
+		"activityDescription": "Black Garden, Mars",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			4260139097
+		],
+		"hash": 4260139097,
+		"index": 0,
+		"redacted": false
+	},
+	"4277539497": {
+		"bundleHash": 4277539497,
+		"activityName": "Iron Banner Clash",
+		"activityDescription": "\"No mercy. No hesitation. It'll take nothing less to defeat the Darkness.\" —Lord Shaxx \n\nAll-out team warfare. Destroy the enemy. Impress the Lords of Iron.",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/common/destiny_content/icons/69d33a7620565be3698d5e4e916842f1.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3432675002,
+		"activityHashes": [
+			4277539497
+		],
+		"hash": 4277539497,
+		"index": 0,
+		"redacted": false
+	},
+	"4287936726": {
+		"bundleHash": 4287936726,
+		"activityName": "Exodus Blue",
+		"activityDescription": "Cosmodrome, Earth",
+		"icon": "/img/misc/missing_icon.png",
+		"releaseIcon": "/img/misc/missing_icon.png",
+		"releaseTime": 0,
+		"destinationHash": 2777041980,
+		"placeHash": 4088006058,
+		"activityTypeHash": 3695721985,
+		"activityHashes": [
+			4287936726
+		],
+		"hash": 4287936726,
+		"index": 0,
+		"redacted": false
+	}
+}

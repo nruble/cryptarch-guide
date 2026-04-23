@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: $font-family-display;
+  font-weight: $font-light;
+  color:$color-white;
+  margin:0;
+  background:$gradient-major-bg;
+  min-height: 100vh;
+  .site-wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height:100vh;
+  }
+}
+main {
+  width:100%;
+  // max-width:1600px;
+  margin:0 auto;
+  display: flex;
+  flex-direction: column;
+  // background:$gradient-major-intro;
+  flex-grow: 1;
+}
