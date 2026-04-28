@@ -9,6 +9,7 @@ body {
   margin:0;
   background:$gradient-major-bg;
   min-height: 100vh;
+  min-width:320px;
   .site-wrapper {
     display: flex;
     flex-direction: column;

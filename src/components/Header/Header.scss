@@ -6,7 +6,7 @@
     padding-inline:$padding-inline-desktop;
     height:52px;
     position: relative;
-    a{
+    a {
         color: $color-white;
         text-decoration: none;
         text-transform: uppercase;
@@ -29,6 +29,9 @@
             .site-logo-text-2nd {
                 font-weight:$font-xlight;
                 letter-spacing: 0.03rem;
+                @media screen and (max-width:400px) {
+                    display: none;
+                }
             }
         }
     }

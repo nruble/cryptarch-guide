@@ -1,11 +1,5 @@
 .directory-heading {
-    display: flex;
-    flex-direction: row;
-    width:100%;
-    padding-block:40px;
-    background:url('../../assets/cryptarch_logo_vector-01.svg') center center / 340px no-repeat, $gradient-major-intro;
-    height: fit-content;
-    box-shadow: 0 6px 80px 0 rgba($color-black, 0.35), 0 4px 10px 0 rgba($color-black, 0.15);
+    @include common-page-head;
     .directory-contents {
         width:100%;
         max-width:1600px;
@@ -17,6 +11,9 @@
             letter-spacing: 0.04em;
             font-size:3.438rem;
             margin: 0;
+            @media screen and (max-width:768px){
+                font-size:1.875rem;
+            }
         }
     }
 }

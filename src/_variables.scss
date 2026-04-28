@@ -2,6 +2,11 @@ $color-white: #FFFFFF;
 $color-black: #000000;
 $color-header-gold: #6A591D;
 $color-box-gray: #8C8C8F;
+$color-exotic-gold: #CEAE33;
+$color-exotic-gold-light: #FFE57B;
+$color-legend-purple-light: #DD94FF;
+$color-positive-green: #7AC673;
+$color-negative-red: #FF4D4D;
 
 $gradient-major-bg:linear-gradient(#665D5F 0%, #444044 28%, #303238 70%, #384044 100%);
 $gradient-major-intro:linear-gradient(0deg,#5B555B 0%, #8A7E82 90%);
@@ -22,10 +27,26 @@ $padding-inline-mobile:16px;
 
 $glass-blur: blur(16px);
 
+$text-shadow-standard: 1.5px 1.5px 0 rgba($color-black, 0.2);
+
 
 @mixin glass-box {
+  background-color: $color-box-gray;
   background-color: rgba($color-box-gray, 0.4);
   border:1px solid rgba($color-white, 0.4);
   backdrop-filter: $glass-blur;
   -webkit-backdrop-filter: $glass-blur;
+}
+
+@mixin common-page-head {
+  display: flex;
+    flex-direction: row;
+    width:100%;
+    padding-block:40px;
+    background:url('./assets/cryptarch_logo_vector-01.svg') center center / 340px no-repeat, $gradient-major-intro;
+    height: fit-content;
+    box-shadow: 0 6px 80px 0 rgba($color-black, 0.35), 0 4px 10px 0 rgba($color-black, 0.15);
+    @media screen and (max-width:768px) {
+        background-size: 50%;
+    }
 }

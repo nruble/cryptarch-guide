@@ -1,0 +1,200 @@
+.resultslist-filter-menu {
+  width:325px;
+  flex-shrink: 0;
+  border-right:1px solid rgba($color-white, 0.4);
+  margin-block:0;
+  margin-right:24px;
+  padding-inline:0 24px;
+	@media screen and (max-width:1200px){
+		width:240px;
+		margin-right:16px;
+  	padding-inline:0 16px;
+	}
+  .results-filter-section {
+    &:not(:last-child) {
+      border-bottom:1px solid rgba($color-white, 0.4);
+      padding-bottom:16px;
+      margin-bottom:32px;
+    }
+    .results-filter-section-heading {
+      margin:0 0 18px;
+      font-weight:$font-bold;
+      font-size:20px;
+      line-height:1;
+      text-transform: uppercase;
+      letter-spacing: 0.05rem;
+    }
+    
+    .results-filter-item-expandable {
+      .results-filter-tree-btn {
+        display: flex;
+        align-items: center;
+        width:100%;
+        padding:6px 0;
+        cursor: pointer;
+        color:$color-white;
+        background:none;
+        border:none;
+        .results-filter-tree-checkbox {
+            border:solid 1px $color-white;
+            color:$color-white;
+            width:18px;
+            height:18px;
+            margin-inline:4px;
+            display:flex;
+            align-items: center;
+            justify-content: center;
+            svg {
+              display: block;
+              width:0px;
+              height:0px;
+              transition: width 0.1s ease-in-out, height 0.1s ease-in-out;
+            }
+        }
+        .results-filter-tree-chevron {
+          width:22px;
+          height:22px;
+          transition: transform 0.1s ease-in-out;
+        }
+        .results-filter-tree-btn-text {
+          display: block;
+          font-size: 1rem;
+          font-weight:$font-normal;
+          text-transform: uppercase;
+          letter-spacing: 0.04rem;
+          position:relative;
+          top:1px;
+          margin-left:6px;
+          flex-grow: 1;
+          text-align: left;
+        }
+      }
+      &[data-selected]{
+        .results-filter-tree-checkbox {
+          svg {
+            width:24px;
+            height:24px;
+          }
+        }
+      }
+      &[data-expanded]{
+        .results-filter-tree-btn {
+          .results-filter-tree-chevron {
+            transform: rotate(90deg);
+          }
+        }
+      }
+    }
+		.subfilter-set {
+			border:none;
+			padding:0;
+			padding-block:16px;
+			margin-inline:0;
+			display:grid;
+			gap:12px 6px;
+			&:not(:last-child){
+				border-bottom:1px solid rgba($color-white, 0.4);
+			}
+			&.button-style {
+				grid-template-columns: repeat(3, 1fr);
+				label {
+					@include glass-box;
+					font-size:0.875rem;
+					text-transform: uppercase;
+					text-align: center;
+					padding: 6px;
+					&[data-selected="true"] {
+						border-color: rgba($color-white, 1.0);
+						background-color: rgba($color-white, 0.3);
+					}
+				}
+				@media screen and (max-width:1200px) {
+					grid-template-columns: 1fr;
+					row-gap:6px;
+				}
+			}
+			&.list-style {
+				grid-template-columns: 1fr;
+				label {
+					width:100%;
+					display:flex;
+					flex-direction: row;
+					justify-content: space-between;
+					align-items: center;
+					cursor: pointer;
+					letter-spacing: 0.04rem;
+					.ruler {
+						flex-grow: 1;
+						margin-inline:6px;
+						opacity: 0.4;
+						border-bottom:1px solid rgba($color-white, 0.2);
+					}
+					.results-subfilter-checkbox {
+						border:solid 1px $color-white;
+						color:$color-white;
+						width:18px;
+						height:18px;
+						margin-inline:4px;
+						display:flex;
+						align-items: center;
+						justify-content: center;
+						svg {
+							display: block;
+							width:0px;
+							height:0px;
+							transition: width 0.1s ease-in-out, height 0.1s ease-in-out;
+						}
+					}
+					&[data-selected="true"]{
+						color:$color-exotic-gold-light;
+						.results-subfilter-checkbox {
+							svg {
+								
+								width:24px;
+            		height:24px;
+							}
+						}
+					}
+					&:hover{
+						text-decoration: underline;
+					}
+				}
+			}
+			label {
+				.input-hider {
+					border: 0px; 
+					clip: rect(0px, 0px, 0px, 0px); 
+					clip-path: inset(50%); 
+					height: 1px; 
+					margin: -1px; 
+					overflow: hidden; 
+					padding: 0px; 
+					position: absolute; 
+					width: 1px; 
+					white-space: nowrap;
+				}
+			}
+		}
+		.subfilter-select {
+			display:flex;
+			flex-direction: column;
+			gap:6px;
+			margin-block:0 16px;
+			label {
+				text-transform: uppercase;
+				font-weight:$font-light;
+				letter-spacing: 0.04rem;
+			}
+			select {
+				padding:6px 2px;
+				color:$color-black;
+				font-size:0.75rem;
+			}
+		}
+		.react-aria-Tree {
+			.subfilter-set {
+				margin-inline:30px 0;
+			}
+		}
+  }
+}
