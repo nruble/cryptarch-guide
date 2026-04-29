@@ -1,7 +1,7 @@
 import { Fragment } from 'react'
 import { useParams, useLoaderData } from 'react-router-dom'
 import type { DestinyInventoryItem, statsObject} from '../../types'
-import { WEAPON_STAT_ORDER, WEAPON_STAT_TEXTADDONS } from './StatDescriptors'
+import { WEAPON_STAT_ORDER, WEAPON_STAT_TEXTADDONS, ARMOR_STAT_ORDER, ARMOR_STAT_TEXTADDONS } from './StatDescriptors'
 
 interface statPackage {
     "statHash": number,
@@ -11,6 +11,7 @@ interface statPackage {
     "minimum": number,
     "maximum": number
 }
+interface statAddons {"statName":string, "statDescription":string}
 
 const elementMatches = ['', 'kinetic', 'arc', 'thermal', 'void']
 
@@ -19,22 +20,31 @@ export default function ItemRobustStatPackage() {
     const { items, talentGrid, perks }  = useLoaderData()
     const itemData:DestinyInventoryItem = items[itemHash]
     const itemType:number = itemData.itemType ?? 0
-
+    const statOrder:string[] = ( 
+        itemType === 3 ? WEAPON_STAT_ORDER
+        : itemType === 2 ? ARMOR_STAT_ORDER
+        : []
+    )
+    const statAddonProvider:{[key:string]:statAddons} = ( 
+        itemType === 3 ? WEAPON_STAT_TEXTADDONS
+        : itemType === 2 ? ARMOR_STAT_TEXTADDONS
+        : {}
+    )
     const power:statsObject = (itemData.stats ?? {})['368428387'] ?? (itemData.stats ?? {})['3897883278'] ?? {} //368428387 = atk, 3897883278 = defense
     const light:statsObject = (itemData.stats ?? {})['2391494160'] ?? {}
     const element:string =  elementMatches[
         itemData.damageTypes ? itemData.damageTypes[0] : 0
     ]
-    
+    const hasValidStats:boolean = Object.keys(statAddonProvider).some((statId:string):boolean => Object.keys(itemData.stats ?? {}).includes(statId))
     const filteredStats:statsObject[] = Object.values(itemData.stats ?? {}).filter((stat:statsObject):boolean => {
-        return Object.keys(WEAPON_STAT_TEXTADDONS).some((statId:string):boolean => stat.statHash === parseInt(statId))
+        return Object.keys(statAddonProvider).some((statId:string):boolean => stat.statHash === parseInt(statId))
     })
     const rebuiltStats:statPackage[] = filteredStats.map((stat:statsObject):statPackage => {
         const statHashKey:string = stat.statHash.toString()
-        return {...WEAPON_STAT_TEXTADDONS[statHashKey], ...stat}
+        return {...statAddonProvider[statHashKey], ...stat}
     })
     const sortedStats:statPackage[] = rebuiltStats.toSorted((a:statPackage, b:statPackage) => {
-        return WEAPON_STAT_ORDER.indexOf(a.statName) - WEAPON_STAT_ORDER.indexOf(b.statName)
+        return statOrder.indexOf(a.statName) - statOrder.indexOf(b.statName)
     })
 
     const statDescriptiveDisplayElements = () => {
@@ -98,7 +108,16 @@ export default function ItemRobustStatPackage() {
                     <dd>{light.value}</dd>
                 </dl>
             </div>
+            {
+            itemType === 2 && hasValidStats && (power.value <= 3 || power.maximum <= 3) && 
+            <div className='itemdetail-statless-notice'>
+                <h3>Notice:</h3>
+                <p>Stats for this item will be randomly generated upon first Infusion. These stats do not appear to be influenced by the dismantled item.</p>
+            </div>
+            }
             {/* mass stat table/display */}
+            {
+            hasValidStats &&
             <dl className="itemdetail-weapon-stat-detailed">
                 <dd aria-hidden></dd>
                 <dd aria-hidden></dd>
@@ -111,6 +130,7 @@ export default function ItemRobustStatPackage() {
                 {statDescriptiveDisplayElements()}
                 
             </dl>
+            }
         </>
     )
 }

@@ -50,7 +50,6 @@ export default function ItemsFiltering() {
                 next.delete('category')
                 TOP_LEVEL_CATEGORIES.forEach(key => clearSubParams(next, key))
                 newExpanded.forEach(key => next.append('category', key as string))
-                // setExpandedKeys(new Set(newExpanded))
             } else {
                 newCollapsed.forEach(key => {
                     const remaining = next.getAll('category').filter(value => value !== key)
@@ -58,7 +57,6 @@ export default function ItemsFiltering() {
                     remaining.forEach(value => next.append('category', value))
                     clearSubParams(next, key as string)
                 })
-                // setExpandedKeys(keys)
             }
             return next
         })

@@ -126,3 +126,66 @@ export type DestinyInventoryItem = {
     "index"?: number,
     "redacted"?: boolean
 }
+
+export type talentGridNodeStep = {
+    "stepIndex": number,
+    "nodeStepHash": number,
+    "nodeStepName": string,
+    "nodeStepDescription": string,
+    "interactionDescription": string,
+    "icon": string,
+    "damageType": number,
+    "damageTypeHash": number,
+    "activationRequirement": {
+        "gridLevel": number,
+        "materialRequirementHashes": number[],
+        "exclusiveSetRequiredHash": number
+    },
+    "canActivateNextStep": boolean,
+    "nextStepIndex": number,
+    "isNextStepRandom": boolean,
+    "perkHashes": number[],
+    "startProgressionBarAtProgress": number,
+    "statHashes": number[],
+    "affectsQuality": boolean,
+    "trueStepIndex": number,
+    "truePropertyIndex": number,
+    "socketReplacements": {"socketTypeHash": number, "plugItemHash": number}[],
+    "affectsLevel": boolean
+}
+
+export type talentGridNode = {
+    "nodeIndex": number,
+    "nodeHash": number,
+    "row": number,
+    "column": number,
+    "prerequisiteNodeIndexes": number[],
+    "binaryPairNodeIndex": number,
+    "autoUnlocks": boolean,
+    "lastStepRepeats": boolean,
+    "isRandom": boolean,
+    "isRandomRepurchasable": boolean,
+    "steps": talentGridNodeStep[],
+    "exlusiveWithNodes": number[],
+    "randomStartProgressionBarAtProgression": number,
+    "originalNodeHash": number,
+    "talentNodeTypes": number,
+    "exclusiveSetHash": number,
+    "isRealStepSelectionRandom": boolean
+}
+
+export type DestinyTalentGrid = {
+		"gridHash": number,
+		"maxGridLevel": number,
+		"gridLevelPerColumn": number,
+		"progressionHash": number,
+		"nodes": talentGridNode[],
+		"calcMaxGridLevel": number,
+		"calcProgressToMaxLevel": number,
+		"exclusiveSets": {"nodeIndexes": number[]}[],
+		"independentNodeIndexes": number[],
+		"maximumRandomMaterialRequirements": number,
+		"hash": number,
+		"index": number,
+		"redacted": boolean
+	}

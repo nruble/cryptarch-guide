@@ -1,0 +1,61 @@
+$talent-node-size:48px;
+
+.clickable-talent-btn {
+    background:none;
+    padding:0;
+    width:fit-content;
+    line-height:0;
+    border:none;
+    position:relative;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    &[aria-expanded="true"]{
+        &:after {
+            content:'';
+            display:block;
+            width:calc($talent-node-size + ($talent-node-size / 2)); // calc($talent-node-size + ($talent-node-size / 2)
+            height:calc($talent-node-size + ($talent-node-size / 2));
+            border-radius:100%;
+            outline:3px solid $color-exotic-gold-light;
+            outline-offset:-3px;
+            position:absolute;
+        }
+    }
+    .clickable-talent-icon {
+        width:$talent-node-size;
+        height:$talent-node-size;
+    }
+}
+
+.clickable-talent-popover {
+    max-width:360px;
+    @include glass-blur;
+    .clickable-talent-title {
+        display:flex;
+        align-items: center;
+        gap:13px;
+        background-color: rgba($color-box-black, 0.9);
+        padding:13px 18px 15px;
+        .popover-talent-icon {
+            width:48px;
+            height:48px;
+        }
+        h3 {
+            margin:0;
+            font-size:1.375rem;
+            font-weight:$font-medium;
+            letter-spacing: 0.04em;
+        }
+    }
+    .clickable-talent-body {
+        background-color:rgba($color-box-dark-gray, 0.8);
+        padding:14px 18px 22px;
+        p {
+            margin:0;
+            font-size:18px;
+            letter-spacing: 0.04em;
+        }
+    }
+}

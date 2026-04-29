@@ -47,7 +47,7 @@
         .resultslist-container {
             display:grid;
             grid-template-columns: repeat(3, 1fr);
-            grid-template-rows: repeat(auto, 1fr);
+            // grid-template-rows: repeat(auto, 1fr);
             gap:16px;
             @media screen and (max-width:1200px){
                 grid-template-columns: repeat(2, 1fr);
@@ -88,6 +88,7 @@
             margin:32px auto 0;
             .resultslist-pagination {
                 display:flex;
+                justify-content: center;
                 list-style-type: none;
                 gap:5px;
                 padding: 0;

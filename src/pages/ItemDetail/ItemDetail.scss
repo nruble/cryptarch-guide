@@ -13,6 +13,7 @@
             height:96px;
             border:1px solid rgba($color-white, 0.4);
             overflow: hidden;
+            flex-shrink: 0;
             .itemDetail-head-icon {
                 width:96px;
                 height:96px;
@@ -47,16 +48,21 @@
 .itemdetail-weapon {
     width:100%;
     padding-inline:$padding-inline-desktop;
-    display:grid;
-    grid-template-columns: max-content 1fr;
+    // display:grid;
+    // grid-template-columns: max-content 1fr;
+    display:flex;
+    flex-wrap:wrap;
+    gap: 32px;
     margin-block:32px 40px;
     .itemdetail-weapon-stat-container {
+        flex-grow:1;
         padding-right:32px;
         border-right:2px solid rgba($color-white, 0.6);
         .itemdetail-weapon-stat-priority {
             display: flex;
             margin-bottom:24px;
             gap:32px;
+            justify-content: flex-end;
             dl {
                 margin:0;
                 dd {
@@ -79,6 +85,7 @@
                     font-weight:$font-bold;
                     display:flex;
                     align-items: center;
+                    justify-content: flex-end;
                     margin-bottom:-10px;
                 }
                 .itemdetail-weapon-element {
@@ -86,7 +93,7 @@
                 }
             }
             .itemdetail-weapon-atk {
-                flex-grow: 1;
+                //flex-grow: 1;
                 align-content: flex-end;
                 text-align: right;
                 display:grid;
@@ -128,8 +135,10 @@
         .itemdetail-weapon-stat-detailed {
             display:grid;
             grid-template-columns: max-content auto 30px 1px 30px 1px 30px;
+            grid-template-columns: max-content clamp(106px, 50vw, 206px) 30px 1px 30px 1px 30px;
             column-gap: 6px;
             align-items: flex-end;
+            justify-content: flex-end;
             margin-block:30px 0;
             dt, dd {
                 margin:0;
@@ -171,6 +180,7 @@
                 margin-right:6px;
                 height:18px;
                 background-color:rgba($color-box-gray, 0.4);
+                overflow:hidden;
                 span {
                     display: block;
                     height:18px;
@@ -191,10 +201,36 @@
             
             
         }
+        .itemdetail-statless-notice {
+            min-width:200px;
+            max-width:390px;
+            width:max-content;
+            text-align: center;
+            margin:0 auto;
+            @include glass-box;
+            padding:12px 24px;
+            text-shadow:$text-shadow-standard;
+            h3 {
+                margin:0 0 6px;;
+                font-size:1.25rem;
+                font-weight:$font-medium;
+                text-transform: uppercase;
+                letter-spacing: 0.04em;
+            }
+            p {
+                margin:0;
+                font-size:0.875rem;
+                font-weight:$font-light;
+                letter-spacing: 0.06rem;
+                line-height:1.2;
+
+            }
+        }
     }
 
-    .itemdetail-weapon-perk-container {
-        width:100%;
-        padding-left:32px;
+    .itemdetail-weapon-feature-container {
+        flex-grow: 100;
+        flex-shrink:0;
+        flex-basis:0%;
     }
 }

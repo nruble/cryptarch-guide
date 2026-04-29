@@ -88,7 +88,9 @@ export const WEAPON_STAT_TEXTADDONS:{[key:string]:statAddons} = {
 		"statDescription": "Damage when striking a target's weak points.",
     },
 }
-export const ARMOR_STAT_TEXTADDONS = {
+export const ARMOR_STAT_ORDER:string[] = ["Intellect", "Discipline", "Strength"]
+
+export const ARMOR_STAT_TEXTADDONS:{[key:string]:statAddons} = {
     "144602215": {
         "statName": "Intellect",
 		"statDescription": "",
@@ -102,7 +104,7 @@ export const ARMOR_STAT_TEXTADDONS = {
 		"statDescription": "",
     }
 }
-export const SPARROW_STAT_TEXTADDONS = {
+export const SPARROW_STAT_TEXTADDONS:{[key:string]:statAddons} = {
     // "1501155019": "Speed",
     "3017642079": {
         "statName": "Boost",

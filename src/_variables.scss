@@ -2,6 +2,8 @@ $color-white: #FFFFFF;
 $color-black: #000000;
 $color-header-gold: #6A591D;
 $color-box-gray: #8C8C8F;
+$color-box-black: #1A1A1A;
+$color-box-dark-gray:#272727;
 $color-exotic-gold: #CEAE33;
 $color-exotic-gold-light: #FFE57B;
 $color-legend-purple-light: #DD94FF;
@@ -29,14 +31,19 @@ $glass-blur: blur(16px);
 
 $text-shadow-standard: 1.5px 1.5px 0 rgba($color-black, 0.2);
 
-
-@mixin glass-box {
-  background-color: $color-box-gray;
-  background-color: rgba($color-box-gray, 0.4);
-  border:1px solid rgba($color-white, 0.4);
+@mixin glass-blur {
   backdrop-filter: $glass-blur;
   -webkit-backdrop-filter: $glass-blur;
 }
+
+@mixin glass-box {
+  color:$color-white;
+  background-color: $color-box-gray;
+  background-color: rgba($color-box-gray, 0.4);
+  border:1px solid rgba($color-white, 0.4);
+  @include glass-blur;
+}
+
 
 @mixin common-page-head {
   display: flex;
@@ -49,4 +56,12 @@ $text-shadow-standard: 1.5px 1.5px 0 rgba($color-black, 0.2);
     @media screen and (max-width:768px) {
         background-size: 50%;
     }
+}
+
+@mixin itempage-section-heading {
+  margin:0;
+  font-size:1.375rem;
+  font-weight: $font-normal;
+  letter-spacing: 0.05em;
+  color:rgba($color-white, 0.8);
 }

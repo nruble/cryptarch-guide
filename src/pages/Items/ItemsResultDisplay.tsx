@@ -1,12 +1,15 @@
+// See if you can use combined state (to drive render) and URLSearchParams (to preserve navigation) for filters, to see if you can speed up the render like with pagination
+// Underlying bulk preloaded item data isn't changing, just the cascading result of sanitization, filtration, and sorting
+// Can I somehow have the filters set state here in the results before setting the param, to drive rendering faster? Context? State in Items parent, pass the set function down? Or how?
+
 import './ItemsResultDisplay.scss'
 import { useEffect, useState, useMemo } from 'react'
 import { useSearchParams, Link, useLoaderData } from 'react-router-dom'
-import ResponsivePagination from 'react-responsive-pagination'
 import type { DestinyInventoryItem } from '../../types'
-import { RiArrowRightSFill, RiArrowLeftSFill } from "react-icons/ri"
 import ItemResultsPerPage from './ItemResultsPerPage'
 import ItemResultsMobileFilterModal from './ItemResultsMobileFilterModal'
 import { useMediaQuery } from 'react-responsive'
+import PaginatedItems from './PaginatedItems'
 
 
 const categoryExclusions = [15, 16, 17, 24, 25, 26, 32, 34, 36, 37, 44, 50, 53, 55]
@@ -14,38 +17,24 @@ const excludedNames = ["###Destiny.CLASSIFIED_v260_NAME###", "Reforge Weapon", "
 
 
 export default function ItemsResultDisplay(){
-    // const [dataManifest, setDataManifest] = useState<{}>({})
     const dataManifest = useLoaderData()
-    // const [dataError, setDataError] = useState(null)
-    // const [dataLoading, setDataLoading] = useState<boolean>(true)
     const [searchParams, setSearchParams] = useSearchParams()
     const isAboveTablet = useMediaQuery({ query: '(min-width: 769px)'})
-    
-    // useEffect(()=>{
-    //     fetch('/data/d1_manifest/DestinyInventoryItemDefinition.json')
-    //         .then(result => {
-    //             if(!result.ok) throw new Error('Failed to fetch Inventory Item Definitions')
-    //             return result.json()
-    //         })
-    //         .then(data => {
-    //             setDataManifest(data)
-    //         })
-    //         .catch(err => {
-    //             setDataError(err.message)
-    //         })
-    //         .finally(() => {
-    //             setDataLoading(false)
-    //         })
-    // }, [])
+
+    const cleanParamsKey:string = useMemo(() => {
+        const cleanParams = new URLSearchParams(searchParams)
+        cleanParams.delete('page')
+        cleanParams.delete('display')
+        return cleanParams.toString()
+    }, [searchParams])
     
     const itemArray:DestinyInventoryItem[] = useMemo(()=> {
         return Object.values(dataManifest)
     },[dataManifest])
 
     const itemsPerPage:number = useMemo(():number =>{
-        return searchParams.getAll("display").map((entry:string):number => parseInt(entry))[0]
-    },[searchParams])
-
+        return parseInt(searchParams.get('display') ?? '30')
+    },[cleanParamsKey])
 
     const sanitizedItemsData:DestinyInventoryItem[] = useMemo(():DestinyInventoryItem[] => {
         const searchCategories:number[] = searchParams.getAll("category").map((entry:string):number => parseInt(entry))
@@ -79,95 +68,27 @@ export default function ItemsResultDisplay(){
             })
         )
 
-    }, [itemArray, searchParams, excludedNames, categoryExclusions])
+    }, [itemArray, cleanParamsKey, excludedNames, categoryExclusions])
+
+
+    const sortedItemsData:DestinyInventoryItem[] = useMemo(()=>{
+       return sanitizedItemsData.toSorted((a:DestinyInventoryItem, b:DestinyInventoryItem) => {
+            const sortCategory0:number = (a.itemCategoryHashes && b.itemCategoryHashes) ? a.itemCategoryHashes[0] - b.itemCategoryHashes[0] : 0
+            const sortTierType:number = (b.tierType ?? 0) - (a.tierType ?? 0)
+            const sortCategory1:number = (a.itemCategoryHashes && b.itemCategoryHashes) ? a.itemCategoryHashes[1] - b.itemCategoryHashes[1] : 0
+            const sortCategory2:number = (a.itemCategoryHashes && b.itemCategoryHashes) ? a.itemCategoryHashes[2] - b.itemCategoryHashes[2] : 0
+            const sortItemName:number = (a.itemName ?? '').localeCompare(b.itemName ?? '')
     
+            return (
+                sortCategory0
+                || sortTierType
+                || sortCategory1
+                || sortCategory2
+                || sortItemName
+            )
+        })
 
-    // if (dataLoading) return (
-    //     <>
-    //         <h2>Loading…</h2>
-    //     </>
-    // )
-    // if (dataError) return (
-    //     <>
-    //         <h2>{dataError}</h2>
-    //     </>
-    // )
-
-
-    const sortedItemsData:DestinyInventoryItem[] = sanitizedItemsData.toSorted((a:DestinyInventoryItem, b:DestinyInventoryItem) => {
-        const sortCategory0:number = (a.itemCategoryHashes && b.itemCategoryHashes) ? a.itemCategoryHashes[0] - b.itemCategoryHashes[0] : 0
-        const sortTierType:number = (b.tierType ?? 0) - (a.tierType ?? 0)
-        const sortCategory1:number = (a.itemCategoryHashes && b.itemCategoryHashes) ? a.itemCategoryHashes[1] - b.itemCategoryHashes[1] : 0
-        const sortCategory2:number = (a.itemCategoryHashes && b.itemCategoryHashes) ? a.itemCategoryHashes[2] - b.itemCategoryHashes[2] : 0
-        const sortItemName:number = (a.itemName ?? '').localeCompare(b.itemName ?? '')
-
-        return (
-            sortCategory0
-            || sortTierType
-            || sortCategory1
-            || sortCategory2
-            || sortItemName
-        )
-    })
-
-    function Items({ currentItems }:{currentItems:DestinyInventoryItem[]}) {
-        return (
-            <div className='resultslist-container'>
-            {currentItems && currentItems.map((item: DestinyInventoryItem) => (
-                <Link to={`/item/${item.itemHash}`} className='resultslist-item' key={`${item.itemHash}`}>
-                    <img src={`/data/d1_icons${item.icon}`} alt={`${item.itemName} Icon`} className='resultslist-item-icon' />
-                    <h3>{item.itemName}</h3>
-                </Link>
-            ))}
-            </div>
-        )
-    }
-
-    function PaginatedItems({ itemsPerPage }:{itemsPerPage: number}) {
-        const [itemOffset, setItemOffset] = useState<number>(0)
-        const [currentPage, setCurrentPage] = useState<number>(1)
-        const pageCount:number = useMemo(()=> {
-            return Math.ceil(sortedItemsData.length / itemsPerPage)
-        },[sortedItemsData.length, itemsPerPage])
-        const currentItems:DestinyInventoryItem[] = useMemo(()=>{
-            const endOffset:number = itemOffset + itemsPerPage
-            return [...sortedItemsData.slice(itemOffset, endOffset)]
-        },[sortedItemsData, itemOffset, itemsPerPage])
-
-
-        function handlePageChange(page:number) {
-            const newOffset = (page * itemsPerPage) - itemsPerPage
-            setItemOffset(newOffset)
-            setCurrentPage(page)
-        }
-
-        return (
-            <>
-                <Items currentItems={ currentItems } />
-                <div className='resultslist-pagination-wrapper'>   
-                    <ResponsivePagination 
-                        current={ currentPage }
-                        total={ pageCount }
-                        onPageChange={(page) => handlePageChange(page)}
-                        className="resultslist-pagination"
-                        nextLabel={<RiArrowRightSFill />}
-                        previousLabel={<RiArrowLeftSFill />}
-                        activeItemClassName='active'
-                        disabledItemClassName='disabled'
-                        nextClassName='next-btn'
-                        previousClassName='prev-btn'
-                        breakLabel={
-                            <>
-                                <span className='resultslist-pagination-break'></span>
-                                <span className='resultslist-pagination-break'></span>
-                                <span className='resultslist-pagination-break'></span>
-                            </>
-                        }
-                        />
-                </div>
-            </>
-        )
-    }
+    },[sanitizedItemsData])
 
     return (
         <section className='resultslist'>
@@ -185,7 +106,7 @@ export default function ItemsResultDisplay(){
                     {value:96},
                 ]}/>
             </div>
-            <PaginatedItems itemsPerPage={itemsPerPage ?? 30} />
+            <PaginatedItems itemsPerPage={itemsPerPage ?? 30} sortedItemsData={sortedItemsData} />
         </section>
     )
 }
