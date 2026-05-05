@@ -21,12 +21,12 @@ import {
 import './ItemsFiltering.scss'
 
 
-const TOP_LEVEL_CATEGORIES = new Set(['1', '20', '52']) // 1 = weapons, 20 = armor, 52 = inventory
+const TOP_LEVEL_CATEGORIES = new Set(['1', '20', '52', '0']) // 1 = weapons, 20 = armor, 52 = inventory
 
 const CATEGORY_SUBPARAMS: Record<string, string[]> = {
     '1' : ['slot', 'type'],
     '20' : ['class', 'type'],
-    '52' : ['type']
+    '52' : ['type'],
 }
 
 export default function ItemsFiltering() {
@@ -137,6 +137,19 @@ export default function ItemsFiltering() {
                             </TreeItemContent>
                         </TreeItem>
                     </TreeItem>
+{/* 
+                    <TreeItem id='0' textValue="Inventory" className='results-filter-item results-filter-item-expandable'>
+                        <TreeItemContent>
+                            <Checkbox slot='selection'/>
+                            <Button slot="chevron" className='results-filter-tree-btn'>
+                                <RiArrowRightSLine className='results-filter-tree-chevron'/>
+                                <span className='results-filter-tree-btn-text'>Other</span>
+                                <span className='results-filter-tree-checkbox'>
+                                    <RiCheckFill />
+                                </span>
+                            </Button>
+                        </TreeItemContent>
+                    </TreeItem> */}
                 </Tree>
             </section>
 

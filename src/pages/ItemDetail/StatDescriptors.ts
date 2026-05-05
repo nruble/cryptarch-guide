@@ -12,7 +12,7 @@ export const WEAPON_STAT_TEXTADDONS:{[key:string]:statAddons} = {
         "statDescription": "Rate at which the weapon charges.",
     },
     "4284893193": {
-        "statName": "RPM",
+        "statName": "Rate of Fire",
         "statDescription": "The number of shots per minute this weapon can fire.",
     },
     "4043523819": {

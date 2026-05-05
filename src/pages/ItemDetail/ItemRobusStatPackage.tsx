@@ -112,7 +112,7 @@ export default function ItemRobustStatPackage() {
             itemType === 2 && hasValidStats && (power.value <= 3 || power.maximum <= 3) && 
             <div className='itemdetail-statless-notice'>
                 <h3>Notice:</h3>
-                <p>Stats for this item will be randomly generated upon first Infusion. These stats do not appear to be influenced by the dismantled item.</p>
+                <p>Stats for this item are either made visible or rolled when Infused to a higher level. Tools like DIM cannot provide the underlying quality (% of total possible stat value) until then.</p>
             </div>
             }
             {/* mass stat table/display */}

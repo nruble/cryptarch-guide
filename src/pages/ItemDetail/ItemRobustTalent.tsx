@@ -68,6 +68,13 @@ export default function ItemRobustTalent({itemTalentHash = 0, itemType = 0}:{ite
     function renderTalentGrid(nodeArray:talentGridNode[]){
        const columnElements = nodeColumnCount.map(col => {
             const columnNodes = nodeArray.filter(node => node.column === col)
+            function isColumnAllSingletons():boolean{
+                const filterCheck:boolean[] = columnNodes.map(node => {
+                    if(node.steps.length <= 1){return true}
+                    return false
+                })
+                return filterCheck.every(value => value === true)
+            }
             const nodeRowCount =  [...new Set(columnNodes.map(node => node.row))]
             const columnRowElements = nodeRowCount.map(row => {
                 const rowNodes = [...columnNodes.filter(node => node.row === row)]
@@ -77,8 +84,9 @@ export default function ItemRobustTalent({itemTalentHash = 0, itemType = 0}:{ite
                     })
                 })
 
+
                 return (
-                    <div className='talent-grid-col-row' key={`${col}-${row}`}>
+                    <div className={`talent-grid-col-row ${isColumnAllSingletons() && 'singleton'}`} key={`${col}-${row}`}>
                         {rowStepElements}
                     </div>
                 )

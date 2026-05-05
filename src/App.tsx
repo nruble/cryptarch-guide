@@ -4,7 +4,8 @@ import Layout from './components/Layout.tsx'
 import './App.css'
 import Items from './pages/Items/Items.tsx'
 import ItemDetail from './pages/ItemDetail/ItemDetail.tsx'
-import { inventoryLoader, fullItemDataLoader } from './utilities/Inventory.loader.ts'
+import Vendor from './pages/Vendor/Vendor.tsx'
+import { inventoryLoader, fullItemDataLoader, vendorAndItemLoader } from './utilities/Inventory.loader.ts'
 
 const customRouter = createBrowserRouter([
   {
@@ -34,6 +35,11 @@ const customRouter = createBrowserRouter([
         path:"item/:itemHash",
         element:<ItemDetail />,
         loader: fullItemDataLoader
+      },
+      {
+        path:"vendor/:vendorTag",
+        element:<Vendor />,
+        loader: vendorAndItemLoader
       }
     ]
   }

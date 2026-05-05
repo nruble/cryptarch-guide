@@ -6,7 +6,9 @@ import { DialogTrigger, Popover, Button, OverlayArrow } from 'react-aria-compone
 
 export default function ClickableTalentNode({step}:{step:talentGridNodeStep}) {
     const [isOpen, setIsOpen] = useState(false)
+    const [isHoverOpen, setIsHoverOpen] = useState(false)
     const justClosedRef = useRef(false)
+    const containerRef = useRef<HTMLDivElement>(null)
 
     useEffect(() => {
         if (!isOpen) return
@@ -21,31 +23,40 @@ export default function ClickableTalentNode({step}:{step:talentGridNodeStep}) {
         return () => document.removeEventListener('mousedown', handler, {capture:true})
     }, [isOpen])
 
+    const handleBlur = (e: React.FocusEvent<HTMLDivElement>) => {
+        if (containerRef.current?.contains(e.relatedTarget as Node)) return
+        setIsOpen(false)
+    }
+
     return (
-        <DialogTrigger isOpen={isOpen} onOpenChange={() => {}}>
-            <Button 
-                aria-label={`${step.nodeStepName}, click for detail`} 
-                className="clickable-talent-btn"
-                onPress={() => {if(!justClosedRef.current) setIsOpen(true)}}    
-            >
-                <img src={`https://bungie.net${step.icon}`} alt={step.nodeStepName} className='clickable-talent-icon' />
-            </Button>
-            <Popover
-                placement='right top'
-                shouldFlip={true}
-                offset={32}
-                isNonModal={true}
-                    >
-                <div className='clickable-talent-popover'>
-                    <section className='clickable-talent-title'>
-                        <img src={`https://bungie.net${step.icon}`} className='popover-talent-icon' />
-                        <h3>{step.nodeStepName}</h3>
-                    </section>
-                    <section className='clickable-talent-body'>
-                        <p>{step.nodeStepDescription}</p>
-                    </section>
-                </div>
-            </Popover>
-        </DialogTrigger>
+        <div ref={containerRef} onBlur={handleBlur}>
+            <DialogTrigger isOpen={isOpen || isHoverOpen} onOpenChange={() => {}}>
+                <Button 
+                    aria-label={`${step.nodeStepName}, click for detail`} 
+                    className="clickable-talent-btn"
+                    onPress={() => {if(!justClosedRef.current) setIsOpen(prev => !prev)}}
+                    onMouseEnter={() => {if(!justClosedRef.current) setIsHoverOpen(prev => !prev)}}
+                    onMouseLeave={() => {if(!justClosedRef.current) setIsHoverOpen(prev => !prev)}}
+                >
+                    <img src={`/data/d1_icons${step.icon}`} alt={step.nodeStepName} className='clickable-talent-icon' />
+                </Button>
+                <Popover
+                    placement='right top'
+                    shouldFlip={true}
+                    offset={32}
+                    isNonModal={true}
+                        >
+                    <div className='clickable-talent-popover'>
+                        <section className='clickable-talent-title'>
+                            <img src={`/data/d1_icons${step.icon}`} className='popover-talent-icon' />
+                            <h3>{step.nodeStepName}</h3>
+                        </section>
+                        <section className='clickable-talent-body'>
+                            <p>{step.nodeStepDescription}</p>
+                        </section>
+                    </div>
+                </Popover>
+            </DialogTrigger>
+        </div>
     )
 }

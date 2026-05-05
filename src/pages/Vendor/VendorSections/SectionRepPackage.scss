@@ -1,0 +1,123 @@
+$icon-size: 96px;
+.vendor-section { 
+    &.rep-package {
+        
+    }
+    .rep-package-container {
+        .rep-package-wrapper {
+            .rep-package-wrapper-btn {
+                font-family: $font-family-display;
+                display: flex;
+                flex-wrap: nowrap;
+                width:100%;
+                background:none;
+                color:$color-white;
+                border:none;
+                align-items: center;
+                gap:16px;
+                padding-inline:0;
+                padding-block:16px;
+                .rep-package-wrapper-btn-icon{
+                    @include glass-box;
+                    width:$icon-size;
+                    height:$icon-size;
+                    width:calc($icon-size/4 * 3);
+                    height:calc($icon-size/4 * 3);
+                }
+                .rep-package-wrapper-btn-title{
+                    display:flex;
+                    flex-direction: column;
+                    align-items: flex-start;
+                    flex-grow:1;
+                    .rep-package-wrapper-btn-name{
+                        text-transform: uppercase;
+                        font-size:1.125rem;
+                        letter-spacing: 0.04em;
+                        font-weight:$font-normal;
+                    }  
+                    .rep-package-wrapper-typeline{
+                        font-size:1rem;
+                        font-weight:$font-xlight;
+                        letter-spacing: 0.06em;
+                    }
+
+                }
+                svg {
+                    width:27px;
+                    height:27px;
+                    transition: transform 0.2s ease-in-out;
+                }
+            }
+            .rep-package-items-container {
+                border-bottom:1px solid rgba($color-white, 0.4);
+                height:var(--disclosure-panel-height);
+                transition: height 0.2s ease-in-out;
+                overflow:hidden;
+                .rep-package-items-bucket {
+                    display: flex;
+                    align-items: center;
+                    gap:16px;
+                    border-top:1px solid rgba($color-white, 0.4);
+                    padding-block:16px;
+                    .rep-package-items-bucket-label {
+                        width:40px;
+                        background:rgba($color-box-dark-gray, 0.8);
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: center;
+                        align-items: center;
+                        align-self:stretch;
+                        span {
+                            writing-mode: vertical-lr;
+                            transform: rotate(180deg);
+                            text-transform: uppercase;
+                            font-size:0.875rem;
+                            letter-spacing: 0.125rem;
+                            font-weight:$font-normal;
+                            color:rgba($color-white, 0.8);
+                        }
+                    }
+                    .rep-package-items {
+                        // display:flex;
+                        // flex-wrap:wrap;
+                        display:grid;
+                        grid-template-columns: repeat(3, 1fr);
+                        gap:16px;
+                        width:100%;
+                        .rep-package-item {
+                            display:flex;
+                            @include glass-box;
+                            .rep-package-item-icon {
+                                width:calc($icon-size/4 * 3);
+                                height:calc($icon-size/4 * 3);
+                                width:$icon-size;
+                                height:$icon-size;
+                            }
+                            .rep-package-item-name {
+                                margin:0;
+                                font-size:1rem;
+                                font-weight:$font-light;
+                                letter-spacing: 0.05em;
+                                padding:18px 16px;
+                            }
+
+                        }
+                    }
+                    &:not(:last-child){
+                        
+                    }
+                }
+            }
+            &[data-expanded="true"] {
+                .rep-package-wrapper-btn {
+                    svg {
+                        transform:rotate(-180deg);
+                    }
+                }
+                .multicol-column-items-container {
+                    padding-top:16px;
+                }
+            }
+        }
+    }
+} 

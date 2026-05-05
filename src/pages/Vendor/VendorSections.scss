@@ -1,0 +1,29 @@
+.vendor-section{
+    padding-inline: $padding-inline-desktop;
+    @include max-page-cap;
+    display:flex;
+    flex-direction: column;
+    gap:24px;
+    margin-bottom:32px;
+    .vendor-section-heading {
+        .vendor-section-heading-title{
+            text-transform: uppercase;
+            font-size:1.375rem;
+            letter-spacing: 0.05em;
+            font-weight:$font-light;
+            line-height: 1;
+            padding-bottom:2px;
+            margin-block:0;
+            color:rgba($color-white, 0.8);
+            border-bottom:2px solid rgba($color-white, 0.4);
+        }
+        .vendor-section-heading-desc{
+            text-shadow: $text-shadow-standard;
+            white-space: pre-line;
+            font-size:1rem;
+            font-weight:$font-xlight;
+            letter-spacing: 0.05em;
+            margin-block:16px 0;
+        }
+    }
+}

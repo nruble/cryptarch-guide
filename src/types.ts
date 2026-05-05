@@ -189,3 +189,104 @@ export type DestinyTalentGrid = {
 		"index": number,
 		"redacted": boolean
 	}
+
+export type CustomVendorPageSaleItem = {
+        "itemHash": string,
+        "showName":boolean,
+        "nameOverride": boolean,
+        "name": string,
+        "linkOverride": boolean,
+        "link": string
+    }
+
+export type CustomVendorPageSale = {
+    "saleSection": number,
+    "saleTitle": string,
+    "saleItems": CustomVendorPageSaleItem[],
+    "saleFootnote": string
+    }
+
+export type CustomVendorSpecialInfo = {
+    "icon"?: string,
+    "title": string,
+    "description": string,
+    "items": CustomVendorPageSaleItem[]
+}
+
+export type CustomVendorPageData = {
+    "vendorName": string,
+    "icon": string,
+    "vendorTitle": string,
+    "vendorDescription": string,
+    "repFaction"?: {
+        "repName": string,
+        "repIcon": string,
+        "repDescription": string,
+        "rankLevels"?: { "label": string, "cost": string }[]
+    },
+    "secondRepFaction"?: {
+        "repName": string,
+        "repIcon": string,
+        "repDescription": string
+    },
+    "specialInformation"?: CustomVendorSpecialInfo,
+    "sales"?: CustomVendorPageSale[],
+    "sections": (CustomVendorSectionRepPackage 
+        | CustomVendorSectionEventBanner 
+        | CustomVendorSectionItemDisplay
+        | CustomVendorSectionMulticolumnDisplay
+        | CustomVendorSectionFieldTest)[]
+}
+
+export type CustomVendorSectionRepPackage = {
+        "sectionTitle": string,
+        "sectionQuote"?: string,
+        "sectionDescription": string,
+        "sectionType": string,
+        "reputationPackages"?: string[]
+    }
+
+export type CustomVendorSectionEventBanner = {
+        "sectionTitle":string,
+        "sectionDescription": string,
+        "backgroundPath"?: string,
+        "sectionType": string
+    }
+
+export type CustomVendorSectionItemDisplay = {
+        "sectionTitle":string,
+        "sectionDescription": string,
+        "sectionType": string,
+        "items"?: string[]
+    }
+
+export type CustomVendorSectionMulticolumnDisplay = {
+        "sectionTitle":string,
+        "sectionDescription": string,
+        "sectionType": string,
+        "columns"?: { "columnName": string, "columnItems": string[] }[]
+    }
+
+export type CustomVendorSectionFieldTest = {
+    "sectionTitle": string,
+    "sectionDescription": string,
+    "sectionType": string,
+    "foundries"?: 
+        {
+            "foundryName": string,
+            "foundryItems": string[],
+            "descriptionTrim": string,
+            "trailingTrim": string
+        }[]
+}
+
+export type ReputationPackageBucket = {
+        "bucketLabel": string,
+        "bucketItems": string[]
+    }
+
+export type ReputationPackage = {
+    "icon": string,
+    "packageName": string,
+    "buckets": ReputationPackageBucket[]
+}

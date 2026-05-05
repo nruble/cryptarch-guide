@@ -36,6 +36,7 @@ function shouldExcludeDirectly(node:talentGridNode) {
         && step.statHashes.length === 0 
         && step.nodeStepName !== "Upgrade Damage" 
         && step.nodeStepName !== "Upgrade Defense"
+        && step.nodeStepName !== "Reforge Ready"
     )) return true
 
     // Should remove weapon damage type nodes from older weapons. Clunky, but finite list of possibilities so it's probably okay

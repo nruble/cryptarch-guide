@@ -15,3 +15,15 @@ export async function fullItemDataLoader() {
     ])
     return { items, talentGrid, perks }
 }
+
+export async function vendorAndItemLoader() {
+    const [items, vendors, repPackages] = await Promise.all([
+        fetch('/data/d1_manifest/DestinyInventoryItemDefinition.json')
+            .then(res => res.json()),
+        fetch('/data/vendorPageData.json')
+            .then(res => res.json()),
+        fetch('/data/vendorRepPackages.json')
+            .then(res => res.json())
+    ])
+    return { items, vendors, repPackages }
+}

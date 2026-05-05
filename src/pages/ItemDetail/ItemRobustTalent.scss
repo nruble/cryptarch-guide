@@ -51,12 +51,18 @@ $grid-spacing:16px;
                     &:not(:last-child){
                         padding-bottom:$grid-spacing;
                     }
-                    &:has(> :only-child){
+                    &.singleton {
                         border-top:none;
                         &:not(:last-child){
                             padding-bottom:0;
                         }
                     }
+                    // &:has(> :only-child){
+                    //     border-top:none;
+                    //     &:not(:last-child){
+                    //         padding-bottom:0;
+                    //     }
+                    // }
                     p { 
                         margin:0;
                     }

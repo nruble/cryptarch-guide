@@ -7,6 +7,7 @@
         align-items: center;
         gap:24px;
         width:100%;
+        @include max-page-cap;
         .itemdetail-icon-wrapper {
             display: block;
             width:96px;
@@ -45,16 +46,62 @@
     }
 }
 
-.itemdetail-weapon {
+.itemdetail-robust {
     width:100%;
     padding-inline:$padding-inline-desktop;
-    // display:grid;
-    // grid-template-columns: max-content 1fr;
     display:flex;
     flex-wrap:wrap;
     gap: 32px;
     margin-block:32px 40px;
-    .itemdetail-weapon-stat-container {
+    @include max-page-cap;
+    @media screen and (max-width:768px){
+        padding-inline:$padding-inline-mobile;
+    }
+    .itemdetail-robust-emblem {
+        display:flex;
+        flex-direction: column;
+        gap:12px;
+        h2 {
+            @include itempage-section-heading;
+        }
+        .emblem-preview-wrapper {
+            $emblem-icon-size:96px;
+            height:$emblem-icon-size;
+            position:relative;
+            width:100%;
+            max-width: 474px;
+            .emblem-preview-background {
+                width:100%;
+                height:auto;
+            }
+            .emblem-preview-icon {
+                width:20.25316456%;
+                height:auto;
+                position:absolute;
+                left:0;
+                top:0;
+            }
+            @media screen and (max-width:768px) {
+                width:100%;
+                max-width: 474px;
+            }    
+        }
+        .emblem-external-link {
+            display:flex;
+            align-items: center;
+            gap:6px;
+            color:$color-white;
+            font-size:1rem;
+            letter-spacing: 0.05em;
+            margin-top:5px;
+            font-weight:$font-xlight;
+            svg {
+                width:18px;
+                height:18px;
+            }
+        }
+    }
+    .itemdetail-robust-stat-container {
         flex-grow:1;
         padding-right:32px;
         border-right:2px solid rgba($color-white, 0.6);
@@ -228,7 +275,7 @@
         }
     }
 
-    .itemdetail-weapon-feature-container {
+    .itemdetail-robust-feature-container {
         flex-grow: 100;
         flex-shrink:0;
         flex-basis:0%;

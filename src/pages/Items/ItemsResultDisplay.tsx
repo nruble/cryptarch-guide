@@ -12,7 +12,7 @@ import { useMediaQuery } from 'react-responsive'
 import PaginatedItems from './PaginatedItems'
 
 
-const categoryExclusions = [15, 16, 17, 24, 25, 26, 32, 34, 36, 37, 44, 50, 53, 55]
+const categoryExclusions = [15, 16, 17, 24, 25, 26, 32, 36, 37, 44, 50, 53, 55] //34 engrams
 const excludedNames = ["###Destiny.CLASSIFIED_v260_NAME###", "Reforge Weapon", "Bank TEST"]
 
 
@@ -34,7 +34,7 @@ export default function ItemsResultDisplay(){
 
     const itemsPerPage:number = useMemo(():number =>{
         return parseInt(searchParams.get('display') ?? '30')
-    },[cleanParamsKey])
+    },[searchParams])
 
     const sanitizedItemsData:DestinyInventoryItem[] = useMemo(():DestinyInventoryItem[] => {
         const searchCategories:number[] = searchParams.getAll("category").map((entry:string):number => parseInt(entry))
@@ -47,7 +47,8 @@ export default function ItemsResultDisplay(){
         
         return (
             itemArray.filter((item: DestinyInventoryItem) => {
-                const itemHashes:number[] = (item.itemCategoryHashes ?? []).map(Number)
+                const itemHashes:number[] = (item.itemCategoryHashes && item.itemCategoryHashes.length > 0 ? item.itemCategoryHashes ?? [] : []).map(Number)
+                // const itemHashes:number[] = (item.itemCategoryHashes && item.itemCategoryHashes.length > 0 ? item.itemCategoryHashes ?? [] : [0]).map(Number)
                 const itemSources:number[] = (item.sourceHashes ?? []).map(Number)
                 const matchesCategory:boolean = searchCategories.length === 0 || searchCategories.every((category:number):boolean => itemHashes.includes(category))
                 const matchesSlot:boolean = searchSlots.length === 0 || searchSlots.some((category:number):boolean => itemHashes.includes(category))
@@ -82,9 +83,9 @@ export default function ItemsResultDisplay(){
             return (
                 sortCategory0
                 || sortTierType
+                || sortItemName
                 || sortCategory1
                 || sortCategory2
-                || sortItemName
             )
         })
 
