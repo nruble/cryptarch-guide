@@ -137,19 +137,6 @@ export default function ItemsFiltering() {
                             </TreeItemContent>
                         </TreeItem>
                     </TreeItem>
-{/* 
-                    <TreeItem id='0' textValue="Inventory" className='results-filter-item results-filter-item-expandable'>
-                        <TreeItemContent>
-                            <Checkbox slot='selection'/>
-                            <Button slot="chevron" className='results-filter-tree-btn'>
-                                <RiArrowRightSLine className='results-filter-tree-chevron'/>
-                                <span className='results-filter-tree-btn-text'>Other</span>
-                                <span className='results-filter-tree-checkbox'>
-                                    <RiCheckFill />
-                                </span>
-                            </Button>
-                        </TreeItemContent>
-                    </TreeItem> */}
                 </Tree>
             </section>
 
@@ -158,7 +145,12 @@ export default function ItemsFiltering() {
                 <ItemsSubSelector legend="Rarity" paramKey="rarity" options={ITEM_RARITY_OPTIONS} />
                 <ItemsSubSelector legend="Activity Sources" paramKey="asrc" options={ACTIVITY_SOURCE_OPTIONS} />
                 <ItemsSubSelector legend="Vendor Sources" paramKey="vsrc" options={VENDOR_SOURCE_OPTIONS} />
-            </section>    
+            </section>
+
+            {/* <section className='results-filter-section'>
+                <h3 className='results-filter-section-heading'>Name Search</h3>
+                
+            </section> */}
         </menu>
     )
 }

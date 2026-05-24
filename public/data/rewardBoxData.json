@@ -1,0 +1,3292 @@
+{
+    "": {
+        "pageIcon": "",
+        "headline": "",
+        "subtitle": "",
+        "flavorText": "",
+        "sections": [
+            {
+                "sectionTitle": "",
+                "textBlock": "",
+                "wideItemDisplay": {
+                    "falseItemLinks": [
+                        {
+                            "iconUrl": "",
+                            "labelText": "",
+                            "labelSubtitle": "",
+                            "linkUrl": ""
+                        }
+                    ],
+                    "sets": [
+                        {
+                            "setLabel": "",
+                            "setSubtitle": "",
+                            "setItems": [
+                                "",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ]
+                        }
+                    ],
+                    "items": [
+                        "",
+                        ""
+                    ]
+                },
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "",
+                        "falseItemLinks": [
+                            {
+                                "iconUrl": "",
+                                "labelText": "",
+                                "labelSubtitle": "",
+                                "linkUrl": ""
+                            }
+                        ],
+                        "sets": [
+                            {
+                                "setLabel": "",
+                                "setSubtitle": "",
+                                "setItems": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            }
+                        ],
+                        "items": [
+                            "",
+                            ""
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "strike-hoard-chest": {
+        "pageIcon": "/common/destiny_content/icons/e46e4be4bd868f3ce3a8b9d27d37ce49.jpg",
+        "headline": "Strike Hoard Chest",
+        "subtitle": "Reward Chest",
+        "flavorText": "A special chest that appears at the end of difficult Strikes, containing exclusive rewards.",
+        "sections": [
+            {
+                "sectionTitle": "Strike-Specific Loot",
+                "textBlock": "Strike Hoard Chest can be found at the end of SIVA Crisis, Heroic SIVA Crisis and Nightfall Strikes, as well as Director-node Strikes set to the higher 320 Light difficulty. They require a Skeleton Key to open, which is consumed upon use, and reward one of that strike’s Strike-Specific Loot as well as a chance for an Artifact or a reprised Class Item."
+            },
+            {
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "Blighted Chalice",
+                        "items": [
+                            "3872841536"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Cerberus Vae III",
+                        "items": [
+                            "4049432596"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Dust Palace",
+                        "items": [
+                            "2620256215",
+                            "2620256212",
+                            "2620256213",
+                            "4049432596"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Echo Chamber",
+                        "items": [
+                            "3052681344",
+                            "790630350"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Fallen S.A.B.E.R.",
+                        "items": [
+                            "3556663880",
+                            "2843928135"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Sepiks Perfected",
+                        "items": [
+                            "1387145760",
+                            "2440643321"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Shield Brothers",
+                        "items": [
+                            "4049432596",
+                            "2862544759"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "The Abomination Heist",
+                        "items": [
+                            "1387145760",
+                            "1207988981"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "The Nexus",
+                        "items": [
+                            "2405148796"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "The Shadow Thief",
+                        "items": [
+                            "4118379255",
+                            "3556663880",
+                            "2620256214"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "The Sunless Cell",
+                        "items": [
+                            "1865744636",
+                            "3848584870"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "The Undying Mind",
+                        "items": [
+                            "3052681344",
+                            "1242830876"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "The Will of Crota",
+                        "items": [
+                            "4068577415",
+                            "290931251"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Winter's Run",
+                        "items": [
+                            "1994742696"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Wretched Eye",
+                        "items": [
+                            "1387145760",
+                            "149060560",
+                            "3872841536"
+                        ]
+                    }
+                ]
+            },
+            {
+                "sectionTitle": "Possible Additions",
+                "textBlock": "In addition to Strike-Specific Loot, you may receive either a Reprise Class Item or one of the Artifacts that can drop from Strikes. The lists provided below are those items with Strikes as a source, as an exhaustive confirmation does not appear to exist but anecdotes and observations align with most of these items being possible drops. As a result there is a non-zero chance you may receive an item not listed here, or that an item listed here may prove unobtainable from this source."
+            },
+            {
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "Hunter",
+                        "items": [
+                            "2021783916",
+                            "2038561482",
+                            "1937895863",
+                            "2021783915",
+                            "2038561483",
+                            "2038561472",
+                            "1954673443",
+                            "2038561475",
+                            "2055339189",
+                            "1954673441",
+                            "2026036814",
+                            "2026036808",
+                            "2026036812",
+                            "2026036809",
+                            "2026036815",
+                            "2026036813"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Titan",
+                        "items": [
+                            "3636271402",
+                            "3653048983",
+                            "3585938540",
+                            "3535605652",
+                            "3585938538",
+                            "3535605649",
+                            "3535605656",
+                            "3585938539",
+                            "3653048981",
+                            "3585938543",
+                            "4275796005",
+                            "4275796007",
+                            "4275796003",
+                            "4275796002",
+                            "4275796006",
+                            "4275796004"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Warlock",
+                        "items": [
+                            "3741354742",
+                            "3741354740",
+                            "3758132324",
+                            "3724577054",
+                            "3691021872",
+                            "3741354741",
+                            "3741354739",
+                            "3774909904",
+                            "3691021883",
+                            "2899003100",
+                            "392830824",
+                            "392830830",
+                            "392830825",
+                            "392830828",
+                            "392830831",
+                            "392830829"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "dusty-iron-engram": {
+        "pageIcon": "/common/destiny_content/icons/dbd6163d8c8bfaf91f39e9cc173ebcf2.jpg",
+        "headline": "Dusty Iron Engram",
+        "subtitle": "Bright Dust Engram",
+        "flavorText": "Contains an Iron Banner armor piece.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "These Engrams can be purchased for 5 Silver Dust from either the Silver Dust Kiosk or from Iron Lord Saladin at the Iron Temple. They contain reissued versions of Iron Banner armor from Year 1, excluding class items, which can be Infused to the 400 Defense cap. \n\nArmor will initially have a Defense stat of 3, and other stat values are not observed until the piece has been Infused to a higher level. Stat perk nodes may or may not correlate to which stats will be present. As a result, you cannot know the stat roll or quality of a piece until you Infuse. \n\nDismantling this armor will refund you 1 Silver Dust, regardless of any upgrading or infusing performed on the piece prior."
+            },
+            {
+                "sectionTitle": "Possible Contents",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "The Taken King",
+                        "sets": [
+                            {
+                                "setLabel": "Iron Companion",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "180906762",
+                                    "186571091",
+                                    "1654587773",
+                                    "3791931813",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Iron Camelot",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "180906763",
+                                    "186571090",
+                                    "0",
+                                    "0",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Iron Companion",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "911980350",
+                                    "181849967",
+                                    "3935182281",
+                                    "756453265",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Iron Camelot",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "911980351",
+                                    "181849966",
+                                    "0",
+                                    "0",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Iron Companion",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "4007770295",
+                                    "3081284414",
+                                    "927953138",
+                                    "3500666776",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Iron Camelot",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "4007770294",
+                                    "3081284415",
+                                    "0",
+                                    "0",
+                                    "0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "divisionLabel": "House of Wolves",
+                        "sets": [
+                            {
+                                "setLabel": "Iron Breed",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "4260440588",
+                                    "618035965",
+                                    "480802661",
+                                    "3915931143",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Iron Breed",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "3238812334",
+                                    "1057400375",
+                                    "607837435",
+                                    "2269782673",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Iron Breed",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "2314184411",
+                                    "214912034",
+                                    "2558490476",
+                                    "2601925972",
+                                    "0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Destiny",
+                        "sets": [
+                            {
+                                "setLabel": "Iron Regalia",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "4260440589",
+                                    "618035964",
+                                    "480802660",
+                                    "3915931142",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Iron Regalia",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "3238812335",
+                                    "1057400374",
+                                    "607837434",
+                                    "2269782672",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Iron Regalia",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "2314184410",
+                                    "214912035",
+                                    "2558490477",
+                                    "2601925973",
+                                    "0"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "triad-engram": {
+        "pageIcon": "/common/destiny_content/icons/8e8d7f7e20a98c9e0f699e773852c770.jpg",
+        "headline": "Triad Engram",
+        "subtitle": "Bright Dust Engram",
+        "flavorText": "Contains a Vanguard armor piece.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "These Engrams can be purchased for 5 Silver Dust from either the Silver Dust Kiosk or your Vanguard Mentor, after obtaining Rank 3 with the Vanguard faction. They contain reissued versions of select Vanguard armor sets from Year 1 & 2, excluding class items, which can be Infused to the 400 Defense cap.\n\nArmor will initially have a Defense stat of 3, and other stat values are not observed until the piece has been Infused to a higher level. Stat perk nodes may or may not correlate to which stats will be present. As a result, you cannot know the stat roll or quality of a piece until you Infuse.\n\nDismantling this armor will refund you 1 Silver Dust, regardless of any upgrading or infusing performed on the piece prior."
+            },
+            {
+                "sectionTitle": "Possible Contents",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "The Taken King",
+                        "sets": [
+                            {
+                                "setLabel": "Bog Wild 1.0",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "289027696",
+                                    "2077001473",
+                                    "3676927717",
+                                    "4162724031",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Murvaux Type 0",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "2234021108",
+                                    "1307432061",
+                                    "2292777009",
+                                    "2151375067",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Samsara I",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "1040220691",
+                                    "796324578",
+                                    "3748657972",
+                                    "2291273168",
+                                    "0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "divisionLabel": "House of Wolves",
+                        "sets": [
+                            {
+                                "setLabel": "Sanction Six",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "289027697",
+                                    "2077001472",
+                                    "3676927716",
+                                    "4162724030",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Commando Type 0",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "2234021109",
+                                    "1307432060",
+                                    "2292777008",
+                                    "2151375066",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Apex Harmonic",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "1040220690",
+                                    "796324579",
+                                    "3748657973",
+                                    "2291273169",
+                                    "0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Destiny",
+                        "sets": [
+                            {
+                                "setLabel": "Dustwalker",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "289027699",
+                                    "2077001474",
+                                    "3676927718",
+                                    "4162724028",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Ghost Angel",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "289027698",
+                                    "2077001475",
+                                    "3676927719",
+                                    "4162724029",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Armada Type 3",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "2234021110",
+                                    "1307432063",
+                                    "2292777011",
+                                    "2151375065",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Monitor Type 2",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "2234021111",
+                                    "1307432062",
+                                    "2292777010",
+                                    "2151375064",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Eclipse Maw VI",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "1040220689",
+                                    "796324576",
+                                    "3748657974",
+                                    "2291273170",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Nerigal Savant III",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "1040220688",
+                                    "796324577",
+                                    "3748657975",
+                                    "2291273171",
+                                    "0"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "arena-engram": {
+        "pageIcon": "/common/destiny_content/icons/87392c2afbd69c128a54a02df0a0a4ea.jpg",
+        "headline": "Arena Engram",
+        "subtitle": "Bright Dust Engram",
+        "flavorText": "Contains a Crucible armor piece.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "These Engrams can be purchased for 5 Silver Dust from either the Silver Dust Kiosk or the Crucible Handler, after obtaining Rank 3 with the Crucible faction. They contain reissued versions of select Crucible armor sets from Year 1 & 2, excluding class items, which can be Infused to the 400 Defense cap.\n\nArmor will initially have a Defense stat of 3, and other stat values are not observed until the piece has been Infused to a higher level. Stat perk nodes may or may not correlate to which stats will be present. As a result, you cannot know the stat roll or quality of a piece until you Infuse.\n\nDismantling this armor will refund you 1 Silver Dust, regardless of any upgrading or infusing performed on the piece prior."
+            },
+            {
+                "sectionTitle": "Possible Contents",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "The Taken King",
+                        "sets": [
+                            {
+                                "setLabel": "Aspriet 1.0",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "815933797",
+                                    "4083284276",
+                                    "4183644034",
+                                    "1172394202",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Pandion Type 0",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "3187065161",
+                                    "3234203024",
+                                    "3968557758",
+                                    "2969157094",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Haliaetus I",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "1159125950",
+                                    "3916625199",
+                                    "3110270583",
+                                    "691847509",
+                                    "0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "divisionLabel": "House of Wolves",
+                        "sets": [
+                            {
+                                "setLabel": "Sanction Custom",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "815933796",
+                                    "4083284277",
+                                    "4183644035",
+                                    "1172394203",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Commando Custom",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "3187065160",
+                                    "3234203025",
+                                    "3968557759",
+                                    "2969157095",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Extropy Morph",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "1159125951",
+                                    "3916625198",
+                                    "3110270582",
+                                    "691847508",
+                                    "0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Destiny",
+                        "sets": [
+                            {
+                                "setLabel": "AOS#Cryptid",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "815933798",
+                                    "4083284279",
+                                    "4183644033",
+                                    "1172394201",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "H_LD Starwinder",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "815933799",
+                                    "4083284278",
+                                    "4183644032",
+                                    "1172394200",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "DURGA-GNT Type 0",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "3187065163",
+                                    "3234203026",
+                                    "3968557756",
+                                    "2969157092",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Raku Crucible Type",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "3187065162",
+                                    "3234203027",
+                                    "3968557757",
+                                    "2969157093",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "ISTANU-GNT Razor",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "1159125948",
+                                    "3916625197",
+                                    "3110270581",
+                                    "691847511",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Vanth Orcus 0A0X",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "1159125949",
+                                    "3916625196",
+                                    "3110270580",
+                                    "691847510",
+                                    "0"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "exodus-engram": {
+        "pageIcon": "/common/destiny_content/icons/7abb141223a6a1eefc37beb71a85bf51.jpg",
+        "headline": "Exodus Engram",
+        "subtitle": "Bright Dust Engram",
+        "flavorText": "Contains a Dead Orbit armor piece.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "These Engrams can be purchased for 5 Silver Dust from either the Silver Dust Kiosk or the Dead Orbit Vendor, only if you are currently pledged to Dead Orbit. They contain reissued versions of select faction armor sets from Year 1 & 2, excluding class items, which can be Infused to the 400 Defense cap.\n\nArmor will initially have a Defense stat of 3, and other stat values are not observed until the piece has been Infused to a higher level. Stat perk nodes may or may not correlate to which stats will be present. As a result, you cannot know the stat roll or quality of a piece until you Infuse.\n\nDismantling this armor will refund you 1 Silver Dust, regardless of any upgrading or infusing performed on the piece prior."
+            },
+            {
+                "sectionTitle": "Possible Contents",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "The Taken King",
+                        "sets": [
+                            {
+                                "setLabel": "Heliopause",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "4112450589",
+                                    "4273171882",
+                                    "3382423372",
+                                    "3956923634",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Heliopause",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "3152865849",
+                                    "1095273216",
+                                    "1450102478",
+                                    "3440607414",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Heliopause",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "1085385170",
+                                    "4038480811",
+                                    "1620141091",
+                                    "378921729",
+                                    "0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "divisionLabel": "House of Wolves",
+                        "sets": [
+                            {
+                                "setLabel": "Dead Light",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "4112450588",
+                                    "3382423373",
+                                    "4273171883",
+                                    "3956923635",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Dead Light",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "3152865848",
+                                    "1095273217",
+                                    "1450102479",
+                                    "3440607415",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Dead Light",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "1085385171",
+                                    "4038480810",
+                                    "1620141090",
+                                    "378921728",
+                                    "0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Destiny",
+                        "sets": [
+                            {
+                                "setLabel": "Exodus",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "4112450591",
+                                    "3382423374",
+                                    "4273171880",
+                                    "3956923632",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Sojourn",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "4112450590",
+                                    "3382423375",
+                                    "4273171881",
+                                    "3956923633",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Exodus",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "3152865851",
+                                    "1095273218",
+                                    "1450102476",
+                                    "3440607412",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Oblivion",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "3152865850",
+                                    "1095273219",
+                                    "1450102477",
+                                    "3440607413",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Exodus",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "1085385168",
+                                    "4038480809",
+                                    "1620141089",
+                                    "378921731",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Fatekiller",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "1085385169",
+                                    "4038480808",
+                                    "1620141088",
+                                    "378921730",
+                                    "0"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "warpath-engram": {
+        "pageIcon": "/common/destiny_content/icons/d73e08944d1c953f1699f0167de9f833.jpg",
+        "headline": "Warpath Engram",
+        "subtitle": "Bright Dust Engram",
+        "flavorText": "Contains a Future War Cult armor piece.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "These Engrams can be purchased for 5 Silver Dust from either the Silver Dust Kiosk or the Future War Cult Vendor, only if you are currently pledged to Future War Cult. They contain reissued versions of select faction armor sets from Year 1 & 2, excluding class items, which can be Infused to the 400 Defense cap.\n\nArmor will initially have a Defense stat of 3, and other stat values are not observed until the piece has been Infused to a higher level. Stat perk nodes may or may not correlate to which stats will be present. As a result, you cannot know the stat roll or quality of a piece until you Infuse.\n\nDismantling this armor will refund you 1 Silver Dust, regardless of any upgrading or infusing performed on the piece prior."
+            },
+            {
+                "sectionTitle": "Possible Contents",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "The Taken King",
+                        "sets": [
+                            {
+                                "setLabel": "Infinite Lines",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "220859954",
+                                    "3132481931",
+                                    "4124544131",
+                                    "4233821281",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Infinite Lines",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "473591718",
+                                    "1212691831",
+                                    "3009546639",
+                                    "1500430461",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Infinite Lines",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "837120227",
+                                    "2739634354",
+                                    "539678948",
+                                    "2570887168",
+                                    "0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "divisionLabel": "House of Wolves",
+                        "sets": [
+                            {
+                                "setLabel": "Immanent War",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "220859955",
+                                    "3132481930",
+                                    "4124544130",
+                                    "4233821280",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Immanent War",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "473591719",
+                                    "1212691830",
+                                    "3009546638",
+                                    "1500430460",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Immanent War",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "837120226",
+                                    "2739634355",
+                                    "539678949",
+                                    "2570887169",
+                                    "0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Destiny",
+                        "sets": [
+                            {
+                                "setLabel": "Astrolord",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "220859952",
+                                    "3132481929",
+                                    "4124544129",
+                                    "4233821283",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "No Tomorrow",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "220859953",
+                                    "3132481928",
+                                    "4124544128",
+                                    "4233821282",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Astrolord",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "473591716",
+                                    "1212691829",
+                                    "3009546637",
+                                    "1500430463",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "No Tomorrow",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "473591717",
+                                    "1212691828",
+                                    "3009546636",
+                                    "1500430462",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Astrolord",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "837120225",
+                                    "2739634352",
+                                    "539678950",
+                                    "2570887170",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "No Tomorrow",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "837120224",
+                                    "2739634353",
+                                    "539678951",
+                                    "2570887171",
+                                    "0"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "unity-engram": {
+        "pageIcon": "/common/destiny_content/icons/09c2d0f1b24fa1a36a1443f8052049d0.jpg",
+        "headline": "Unity Engram",
+        "subtitle": "Bright Dust Engram",
+        "flavorText": "Contains a New Monarchy armor piece.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "These Engrams can be purchased for 5 Silver Dust from either the Silver Dust Kiosk or the New Monarchy Vendor, only if you are currently pledged to New Monarchy. They contain reissued versions of select faction armor sets from Year 1 & 2, excluding class items, which can be Infused to the 400 Defense cap.\n\nArmor will initially have a Defense stat of 3, and other stat values are not observed until the piece has been Infused to a higher level. Stat perk nodes may or may not correlate to which stats will be present. As a result, you cannot know the stat roll or quality of a piece until you Infuse.\n\nDismantling this armor will refund you 1 Silver Dust, regardless of any upgrading or infusing performed on the piece prior."
+            },
+            {
+                "sectionTitle": "Possible Contents",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "The Taken King",
+                        "sets": [
+                            {
+                                "setLabel": "Kallipolis",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "4192141289",
+                                    "3773244976",
+                                    "124062046",
+                                    "3508095750",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Kallipolis",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "2588898325",
+                                    "3792991972",
+                                    "1497060626",
+                                    "2545797674",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Kallipolis",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "654872210",
+                                    "3566391147",
+                                    "995903459",
+                                    "372763073",
+                                    "0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "divisionLabel": "House of Wolves",
+                        "sets": [
+                            {
+                                "setLabel": "Elector",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "4192141288",
+                                    "3773244977",
+                                    "124062047",
+                                    "3508095751",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Elector",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "2588898324",
+                                    "3792991973",
+                                    "1497060627",
+                                    "2545797675",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Elector",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "654872211",
+                                    "3566391146",
+                                    "995903458",
+                                    "372763072",
+                                    "0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Destiny",
+                        "sets": [
+                            {
+                                "setLabel": "Justicar",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "4192141290",
+                                    "3773244979",
+                                    "124062045",
+                                    "3508095749",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Order",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "4192141291",
+                                    "3773244978",
+                                    "124062044",
+                                    "3508095748",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Justicar",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "2588898326",
+                                    "3792991975",
+                                    "1497060625",
+                                    "2545797673",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Order",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "2588898327",
+                                    "3792991974",
+                                    "1497060624",
+                                    "2545797672",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Justicar",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "654872209",
+                                    "3566391144",
+                                    "995903456",
+                                    "372763074",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Order",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "654872208",
+                                    "3566391145",
+                                    "995903457",
+                                    "372763075",
+                                    "0"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "sterling-engram": {
+        "pageIcon": "/common/destiny_content/icons/7d029520cbac56730912d5ea16f7bc48.jpg",
+        "headline": "Sterling Engram",
+        "subtitle": "Bright Dust Engram",
+        "flavorText": "Contains a Spektar armor piece.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "These Engrams can be purchased for 5 Silver Dust from the Silver Dust Kiosk. They contain the original Spektar armor sets introduced during the Challenge of Elders update, including the class items, which can be Infused to the 400 Defense cap.\n\nArmor will initially have a Defense stat of 3, and other stat values are not observed until the piece has been Infused to a higher level. Stat perk nodes may or may not correlate to which stats will be present. As a result, you cannot know the stat roll or quality of a piece until you Infuse.\n\nDismantling this armor will provide you with a single random color Chroma consumable, rather than any Silver Dust. This armor may also be obtained via Treasure of Ages."
+            },
+            {
+                "sectionTitle": "Possible Contents",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "The Taken King: April Update",
+                        "sets": [
+                            {
+                                "setLabel": "Spektar",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "3847828216",
+                                    "16664393",
+                                    "3809851983",
+                                    "308606235",
+                                    "1186397662"
+                                ]
+                            },
+                            {
+                                "setLabel": "Spektar",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "2928398154",
+                                    "2975536019",
+                                    "2804968637",
+                                    "2710490085",
+                                    "13565936"
+                                ]
+                            },
+                            {
+                                "setLabel": "Spektar",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "3689370931",
+                                    "1648308418",
+                                    "233474726",
+                                    "3692454268",
+                                    "975923471"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "icy-engram": {
+        "pageIcon": "/common/destiny_content/icons/54af77e531d13b812675e875c5b157fe.jpg",
+        "headline": "Icy Engram",
+        "subtitle": "Bright Dust Engram",
+        "flavorText": "Contains a Dawning Chroma armor piece.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "These Engrams can be purchased for 10 Silver Dust from the Silver Dust Kiosk. They contain the Chroma-enabled armor sets introduced during The Dawning's second Sparrow Racing League, which can be Infused to the 400 Defense cap.\n\nArmor will initially have a Defense stat of 3, and other stat values are not observed until the piece has been Infused to a higher level. Stat perk nodes may or may not correlate to which stats will be present. As a result, you cannot know the stat roll or quality of a piece until you Infuse.\n\nDismantling this armor will refund you 5 Silver Dust, regardless of any upgrading or infusing performed on the piece prior. This armor may also be obtained via Treasure of Ages."
+            },
+            {
+                "sectionTitle": "Possible Contents",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "The Dawning",
+                        "sets": [
+                            {
+                                "setLabel": "Scarlight",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "2970247930",
+                                    "446517955",
+                                    "1943318157",
+                                    "2833532021",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Lamentation",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "3677095941",
+                                    "3241409756",
+                                    "1475011170",
+                                    "1270491518",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Rimed",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "2564277895",
+                                    "510876942",
+                                    "2515984674",
+                                    "3018515720",
+                                    "0"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "exotic-helmet-engram": {
+        "pageIcon": "/common/destiny_content/icons/c258450c38d0aaaea7f6d2e4b6310509.jpg",
+        "headline": "Helmet",
+        "subtitle": "Exotic Engram",
+        "flavorText": "An engram with remarkable encoding markers. A cryptarch would be thrilled to decode it into a piece of armor.",
+        "sections": [
+            {
+                "sectionTitle": "Potential Contents",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "Hunter",
+                        "items": [
+                            "1520434776",
+                            "1520434778",
+                            "1520434781",
+                            "1054763959",
+                            "1520434777",
+                            "1520434779",
+                            "1054763958"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Titan",
+                        "items": [
+                            "941890989",
+                            "591060260",
+                            "941890987",
+                            "941890990",
+                            "941890991",
+                            "941890988",
+                            "591060261"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Warlock",
+                        "items": [
+                            "1519376145",
+                            "2778128366",
+                            "1519376146",
+                            "1519376147",
+                            "1519376144",
+                            "1519376148",
+                            "2778128367"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "exotic-guantlets-engram": {
+        "pageIcon": "/common/destiny_content/icons/12678ee97f73b11f2039470a191ddb0b.jpg",
+        "headline": "Guantlets",
+        "subtitle": "Exotic Engram",
+        "flavorText": "An engram with remarkable encoding markers. A cryptarch would be thrilled to decode it into a piece of armor.",
+        "sections": [
+            {
+                "sectionTitle": "Potential Contents",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "Hunter",
+                        "items": [
+                            "1458254033",
+                            "1458254034",
+                            "2217280775",
+                            "2217280774",
+                            "1458254032"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Titan",
+                        "items": [
+                            "3055446324",
+                            "155374077",
+                            "3055446326",
+                            "3055446327",
+                            "155374076"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Warlock",
+                        "items": [
+                            "1275480032",
+                            "1275480035",
+                            "1062853751",
+                            "1275480033",
+                            "1062853750"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "exotic-chest-engram": {
+        "pageIcon": "/common/destiny_content/icons/13cb009869c797cefec8f2d7647089bb.jpg",
+        "headline": "Chest Armor",
+        "subtitle": "Exotic Engram",
+        "flavorText": "An engram with remarkable encoding markers. A cryptarch would be thrilled to decode it into a piece of armor.",
+        "sections": [
+            {
+                "sectionTitle": "Potential Contents",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "Hunter",
+                        "items": [
+                            "105485105",
+                            "2882684152",
+                            "2882684153"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Titan",
+                        "items": [
+                            "2661471738",
+                            "2661471739",
+                            "3921595523"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Warlock",
+                        "items": [
+                            "2898542650",
+                            "3574778423",
+                            "3574778420",
+                            "3574778421",
+                            "3574778422"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "exotic-leg-engram": {
+        "pageIcon": "/common/destiny_content/icons/2a2dfa268fc2df09b6c995c5e1d7fdbe.jpg",
+        "headline": "Leg Armor",
+        "subtitle": "Exotic Engram",
+        "flavorText": "An engram with remarkable encoding markers. A cryptarch would be thrilled to decode it into a piece of armor.",
+        "sections": [
+            {
+                "sectionTitle": "Potential Contents",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "Hunter",
+                        "items": [
+                            "1775312683",
+                            "1394543945",
+                            "1775312682"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Titan",
+                        "items": [
+                            "2479526175",
+                            "4267828624",
+                            "4267828625"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Warlock",
+                        "items": [
+                            "2275132880"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "exotic-class-item-engram": {
+        "pageIcon": "/common/destiny_content/icons/bddcb2c4342a66c996689449a737fea0.jpg",
+        "headline": "Class Item",
+        "subtitle": "Exotic Engram",
+        "flavorText": "An engram with remarkable encoding markers. A cryptarch would be thrilled to decode it into a piece of armor.",
+        "sections": [
+            {
+                "sectionTitle": "Wait, what?",
+                "textBlock": "Yes, Exotic Class Item Engrams exist in the data. In fact there are 11 different instances of them. They were never available in the game, and there is no indication or way to know what, if anything, they could decrypt into. As there are so many of them, the best guess is that they were created by default alongside each iteration of Engrams either automatically or as a precaution."
+            }
+        ]
+    },
+    "exotic-primary-engram": {
+        "pageIcon": "/common/destiny_content/icons/231aa5a20819c7ea9a4799b68575fbef.jpg",
+        "headline": "Primary Weapon",
+        "subtitle": "Exotic Engram",
+        "flavorText": "An engram with remarkable encoding markers. A cryptarch would be thrilled to decode it into a weapon.",
+        "sections": [
+            {
+                "sectionTitle": "Potential Contents",
+                "wideItemDisplay": {
+                    "items": [
+                        "2055601060",
+                        "2055601062",
+                        "2055601061",
+                        "255654879",
+                        "2447423792",
+                        "2447423793",
+                        "1177550374",
+                        "1177550375",
+                        "1346849289",
+                        "3688594190",
+                        "3835813881",
+                        "99462853"
+                    ]
+                }
+            }
+        ]
+    },
+    "exotic-special-engram": {
+        "pageIcon": "/common/destiny_content/icons/0aa5afa62726d40a09aaf4312e340247.jpg",
+        "headline": "Special Weapon",
+        "subtitle": "Exotic Engram",
+        "flavorText": "An engram with remarkable encoding markers. A cryptarch would be thrilled to decode it into a weapon.",
+        "sections": [
+            {
+                "sectionTitle": "Potential Contents",
+                "wideItemDisplay": {
+                    "items": [
+                        "3078564839",
+                        "3012398148",
+                        "3227022823",
+                        "3835813880",
+                        "310074617",
+                        "99462852",
+                        "99462854",
+                        "3938709034"
+                    ]
+                }
+            }
+        ]
+    },
+    "exotic-heavy-engram": {
+        "pageIcon": "/common/destiny_content/icons/392e71f20b13ec3b7bc7ecb83eb6a570.jpg",
+        "headline": "Heavy Weapon",
+        "subtitle": "Exotic Engram",
+        "flavorText": "An engram with remarkable encoding markers. A cryptarch would be thrilled to decode it into a weapon.",
+        "sections": [
+            {
+                "sectionTitle": "Potential Contents",
+                "wideItemDisplay": {
+                    "items": [
+                        "3851373522",
+                        "57660786",
+                        "57660787",
+                        "2808364179",
+                        "2808364178"
+                    ]
+                }
+            }
+        ]
+    },
+    "legendary-helmet-engram": {
+        "pageIcon": "/common/destiny_content/icons/5921eaa820b91cbaff4997d537fbb341.jpg",
+        "headline": "Helmet",
+        "subtitle": "Legendary Engram",
+        "flavorText": "A matter engram of remarkable potency. The Cryptarch can decrypt this into a piece of armor.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "The exact list of potential rewards from decrypting an Engram are not defined within publicly visible data. The following list of potential contents is based on observation, anecdotal evidence, and inference. As a result, there is a non-zero possibility you will receive an item not listed here, or that an item on this list may prove to be unobtainable from this source.\n\nRewards from the low possibility of decrypting an item of increased rarity are not listed here. Faction items may require allegiance."
+            },
+            {
+                "sectionTitle": "Potential Contents",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "Hunter",
+                        "items": [
+                            "651489503",
+                            "137348250",
+                            "1574664",
+                            "2787614116",
+                            "1832828137"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Titan",
+                        "items": [
+                            "2422913685",
+                            "3286946040",
+                            "26270742",
+                            "1562792106",
+                            "281287035"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Warlock",
+                        "items": [
+                            "1028749962",
+                            "1001933999",
+                            "658188837",
+                            "3059595499",
+                            "1913382536"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "legendary-guantlets-engram": {
+        "pageIcon": "/common/destiny_content/icons/719610848b8d837b4fdb5eafc51d9d6e.jpg",
+        "headline": "Guantlets",
+        "subtitle": "Legendary Engram",
+        "flavorText": "A matter engram of remarkable potency. The Cryptarch can decrypt this into a piece of armor.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "The exact list of potential rewards from decrypting an Engram are not defined within publicly visible data. The following list of potential contents is based on observation, anecdotal evidence, and inference. As a result, there is a non-zero possibility you will receive an item not listed here, or that an item on this list may prove to be unobtainable from this source.\n\nRewards from the low possibility of decrypting an item of increased rarity are not listed here. Faction items may require allegiance."
+            },
+            {
+                "sectionTitle": "Potential Contents",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "Hunter",
+                        "items": [
+                            "626933542",
+                            "2374619875",
+                            "3643876249",
+                            "2351927933",
+                            "3536323680"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Titan",
+                        "items": [
+                            "1098756964",
+                            "3750749513",
+                            "1230364391",
+                            "1568353267",
+                            "1740465450"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Warlock",
+                        "items": [
+                            "1034414291",
+                            "3115489334",
+                            "1397288948",
+                            "1381852634",
+                            "1260716825"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "legendary-chest-engram": {
+        "pageIcon": "/common/destiny_content/icons/1bac1aa931ee1719f1f19a3e8fa74756.jpg",
+        "headline": "Chest Armor",
+        "subtitle": "Legendary Engram",
+        "flavorText": "A matter engram of remarkable potency. The Cryptarch can decrypt this into a piece of armor.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "The exact list of potential rewards from decrypting an Engram are not defined within publicly visible data. The following list of potential contents is based on observation, anecdotal evidence, and inference. As a result, there is a non-zero possibility you will receive an item not listed here, or that an item on this list may prove to be unobtainable from this source.\n\nRewards from the low possibility of decrypting an item of increased rarity are not listed here. Faction items may require allegiance."
+            },
+            {
+                "sectionTitle": "Potential Contents",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "Hunter",
+                        "items": [
+                            "288017098",
+                            "3282867245",
+                            "3750335743",
+                            "2222052867",
+                            "3055891368"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Titan",
+                        "items": [
+                            "3044825948",
+                            "1112634447",
+                            "3845262609",
+                            "2150656797",
+                            "899885918"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Warlock",
+                        "items": [
+                            "1885497341",
+                            "1089000186",
+                            "2240258316",
+                            "1110163246",
+                            "3262278527"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "legendary-leg-engram": {
+        "pageIcon": "/common/destiny_content/icons/dbc9d70494acda4717516bbd7189afa1.jpg",
+        "headline": "Leg Armor",
+        "subtitle": "Legendary Engram",
+        "flavorText": "A matter engram of remarkable potency. The Cryptarch can decrypt this into a piece of armor.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "The exact list of potential rewards from decrypting an Engram are not defined within publicly visible data. The following list of potential contents is based on observation, anecdotal evidence, and inference. As a result, there is a non-zero possibility you will receive an item not listed here, or that an item on this list may prove to be unobtainable from this source.\n\nRewards from the low possibility of decrypting an item of increased rarity are not listed here. Faction items may require allegiance."
+            },
+            {
+                "sectionTitle": "Potential Contents",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "Hunter",
+                        "items": [
+                            "144386080",
+                            "632341",
+                            "2240991371",
+                            "381112735",
+                            "2189686554"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Titan",
+                        "items": [
+                            "2604842254",
+                            "4042691355",
+                            "4278137385",
+                            "1303307205",
+                            "396796612"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Warlock",
+                        "items": [
+                            "344807717",
+                            "32904336",
+                            "1685027582",
+                            "2638324500",
+                            "4152799243"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "legendary-class-engram": {
+        "pageIcon": "/common/destiny_content/icons/df3e5c3707bf247d25b829dbc8883d16.jpg",
+        "headline": "Class Item",
+        "subtitle": "Legendary Engram",
+        "flavorText": "A matter engram of remarkable potency. The Cryptarch can decrypt this into a piece of armor.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "The exact list of potential rewards from decrypting an Engram are not defined within publicly visible data. The following list of potential contents is based on observation, anecdotal evidence, and inference. As a result, there is a non-zero possibility you will receive an item not listed here, or that an item on this list may prove to be unobtainable from this source.\n\nRewards from the low possibility of decrypting an item of increased rarity are not listed here. Faction items may require allegiance."
+            },
+            {
+                "sectionTitle": "Potential Contents",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "Hunter",
+                        "items": [
+                            "458800603",
+                            "1396778528",
+                            "1126881294",
+                            "1120875898",
+                            "463021445",
+                            "2021783917",
+                            "500381830",
+                            "2021783910",
+                            "2038561479",
+                            "2038561478",
+                            "500381831",
+                            "500381837",
+                            "2021783913",
+                            "2021783911",
+                            "500381828",
+                            "2021783919",
+                            "500381827",
+                            "500381824",
+                            "500381829"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Titan",
+                        "items": [
+                            "35692241",
+                            "2784147422",
+                            "1745725228",
+                            "3612644688",
+                            "271089767",
+                            "1981740518",
+                            "3585938537",
+                            "1981740523",
+                            "3535605653",
+                            "1981740515",
+                            "3535605655",
+                            "1981740517",
+                            "3535605650",
+                            "3585938529",
+                            "3636271397",
+                            "1981740512",
+                            "3585938528",
+                            "1981740514",
+                            "3636271403",
+                            "1981740516",
+                            "3552383235"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Warlock",
+                        "items": [
+                            "3347485232",
+                            "737453515",
+                            "178015297",
+                            "1428257783",
+                            "638824078",
+                            "3741354745",
+                            "2899003096",
+                            "2899003098",
+                            "2899003101",
+                            "2899003099",
+                            "3741354737",
+                            "3691021885",
+                            "3691021886",
+                            "2899003088",
+                            "3691021880",
+                            "3691021873",
+                            "2899003097",
+                            "2899003102",
+                            "3758132326",
+                            "3691021882"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "legendary-primary-engram": {
+        "pageIcon": "/common/destiny_content/icons/a618c2ad9bd3c67b33f7698eda1ab361.jpg",
+        "headline": "Primary Weapon",
+        "subtitle": "Legendary Engram",
+        "flavorText": "A matter engram of remarkable potency. The Cryptarch can decrypt this into a weapon.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "The exact list of potential rewards from decrypting an Engram are not defined within publicly visible data. The following list of potential contents is based on observation, anecdotal evidence, and inference. As a result, there is a non-zero possibility you will receive an item not listed here, or that an item on this list may prove to be unobtainable from this source.\n\nRewards from the low possibility of decrypting an item of increased rarity are not listed here. Faction items may require allegiance."
+            },
+            {
+                "sectionTitle": "Potential Contents",
+                "wideItemDisplay": {
+                    "items": [
+                        "2996643611",
+                        "1007765106",
+                        "3698057528",
+                        "128243629",
+                        "93647185",
+                        "93647184",
+                        "3582243849",
+                        "3582243848",
+                        "3507397980",
+                        "3172428255",
+                        "4254734345",
+                        "970703286",
+                        "330099586",
+                        "2279937629",
+                        "2297964387",
+                        "1760735824",
+                        "2890371726",
+                        "1329166757",
+                        "1201310194",
+                        "2341218208",
+                        "2516043259",
+                        "3247648293",
+                        "355012529",
+                        "2869186762",
+                        "76297077"
+                    ]
+                }
+            }
+        ]
+    },
+    "legendary-special-engram": {
+        "pageIcon": "/common/destiny_content/icons/6e7fa7e8c833c30b109e9836aa647198.jpg",
+        "headline": "Special Weapon",
+        "subtitle": "Legendary Engram",
+        "flavorText": "A matter engram of remarkable potency. The Cryptarch can decrypt this into a weapon.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "The exact list of potential rewards from decrypting an Engram are not defined within publicly visible data. The following list of potential contents is based on observation, anecdotal evidence, and inference. As a result, there is a non-zero possibility you will receive an item not listed here, or that an item on this list may prove to be unobtainable from this source.\n\nRewards from the low possibility of decrypting an item of increased rarity are not listed here. Faction items may require allegiance."
+            },
+            {
+                "sectionTitle": "Potential Contents",
+                "wideItemDisplay": {
+                    "items": [
+                        "2901505496",
+                        "2496861921",
+                        "2668152163",
+                        "1642033471",
+                        "2639689178",
+                        "1585718131",
+                        "2641304045",
+                        "2835863910",
+                        "897113088",
+                        "2394096755",
+                        "486279087",
+                        "3841866576",
+                        "3943268264",
+                        "1116771095",
+                        "2982280293",
+                        "192070118",
+                        "2651271602",
+                        "3863768569",
+                        "3836861003",
+                        "2203146286",
+                        "419189652",
+                        "4023897205",
+                        "1703777169",
+                        "4143953156"
+                    ]
+                }
+            }
+        ]
+    },
+    "legendary-heavy-engram": {
+        "pageIcon": "/common/destiny_content/icons/f766229e919860d4b8bdbcd9179139d7.jpg",
+        "headline": "Heavy Weapon",
+        "subtitle": "Legendary Engram",
+        "flavorText": "A matter engram of remarkable potency. The Cryptarch can decrypt this into a weapon.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "The exact list of potential rewards from decrypting an Engram are not defined within publicly visible data. The following list of potential contents is based on observation, anecdotal evidence, and inference. As a result, there is a non-zero possibility you will receive an item not listed here, or that an item on this list may prove to be unobtainable from this source.\n\nRewards from the low possibility of decrypting an item of increased rarity are not listed here. Faction items may require allegiance."
+            },
+            {
+                "sectionTitle": "Potential Contents",
+                "wideItemDisplay": {
+                    "items": [
+                        "1205039748",
+                        "378960625",
+                        "1071242718",
+                        "3322979578",
+                        "602786655",
+                        "569243866",
+                        "2620627501",
+                        "1967183431",
+                        "1439896155",
+                        "2992782156",
+                        "4217142167"
+                    ]
+                }
+            }
+        ]
+    },
+    "sublime-engrams": {
+        "pageIcon": "/common/destiny_content/icons/df3e5c3707bf247d25b829dbc8883d16.jpg",
+        "headline": "Sublime Engrams",
+        "subtitle": "Legendary Engram",
+        "flavorText": "An engram with stable manifest markers. A cryptarch can decode this into a piece of armor.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "Originally a PlayStation exclusive, these Legendary Engrams can typically drop anywhere a regular Legendary Engram might drop, at the very least from boss and other enemy kills. These are split into separate Engrams for each armor slot, but for the sake of brevity they are presented here as armor sets. Sublime Engrams are the only source for these armor pieces.\n\nTrivia: There are unreleased visual variants of the original Taken King era Sublime sets named Neuroghast 2.1, Hesperos Type 1, and Azoth Bend II."
+            },
+            {
+                "sectionTitle": "Potential Contents",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "Hunter",
+                        "sets": [
+                            {
+                                "setLabel": "Neuroghast 1.0",
+                                "setSubtitle": "",
+                                "setItems": [
+                                    "3957443386",
+                                    "1899850755",
+                                    "3572302285",
+                                    "4245184949",
+                                    "1727790272"
+                                ]
+                            },
+                            {
+                                "setLabel": "Long Tomorrow 9G",
+                                "setSubtitle": "",
+                                "setItems": [
+                                    "1765846920",
+                                    "1113181209",
+                                    "3934967423",
+                                    "4005263627",
+                                    "1311512974"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Titan",
+                        "sets": [
+                            {
+                                "setLabel": "Hesperos Type 0",
+                                "setSubtitle": "",
+                                "setItems": [
+                                    "142571568",
+                                    "4235322497",
+                                    "2184974935",
+                                    "1435200755",
+                                    "18327078"
+                                ]
+                            },
+                            {
+                                "setLabel": "Jovian Guard",
+                                "setSubtitle": "",
+                                "setItems": [
+                                    "1480335318",
+                                    "2684428967",
+                                    "2496457425",
+                                    "1861692137",
+                                    "4267429868"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Warlock",
+                        "sets": [
+                            {
+                                "setLabel": "Azoth Bend I",
+                                "setSubtitle": "",
+                                "setItems": [
+                                    "990003461",
+                                    "1770680276",
+                                    "2598567916",
+                                    "2016842206",
+                                    "1002359073"
+                                ]
+                            },
+                            {
+                                "setLabel": "Barkhan Dune",
+                                "setSubtitle": "",
+                                "setItems": [
+                                    "3808476833",
+                                    "309852344",
+                                    "861802448",
+                                    "2640087282",
+                                    "213518349"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "legacy-legendary-helmet-engram": {
+        "pageIcon": "/common/destiny_content/icons/5921eaa820b91cbaff4997d537fbb341.jpg",
+        "headline": "Legacy Helmet",
+        "subtitle": "Legendary Engram",
+        "flavorText": "A matter engram of remarkable potency. The Cryptarch can decrypt this into a piece of armor.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "The exact list of potential rewards from decrypting an Engram are not defined within publicly visible data. The following list of potential contents is based on observation, anecdotal evidence, and inference. As a result, there is a non-zero possibility you will receive an item not listed here, or that an item on this list may prove to be unobtainable from this source.\n\nRewards from the low possibility of decrypting an item of increased rarity are not listed here. Faction items may require allegiance."
+            },
+            {
+                "sectionTitle": "Potential Contents",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "Hunter",
+                        "items": [
+                            "3691267894",
+                            "3691267895",
+                            "4151831795",
+                            "4151831794",
+                            "3410875392",
+                            "4089012876",
+                            "3406567649"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Titan",
+                        "items": [
+                            "1173232538",
+                            "1173232539",
+                            "1277703934",
+                            "1277703935",
+                            "4294567508",
+                            "3013375920",
+                            "818604397"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Warlock",
+                        "items": [
+                            "3481422576",
+                            "3481422577",
+                            "491878349",
+                            "491878348",
+                            "1510677493",
+                            "3034624891",
+                            "594415800"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "legacy-legendary-guantlets-engram": {
+        "pageIcon": "/common/destiny_content/icons/719610848b8d837b4fdb5eafc51d9d6e.jpg",
+        "headline": "Legacy Guantlets",
+        "subtitle": "Legendary Engram",
+        "flavorText": "A matter engram of remarkable potency. The Cryptarch can decrypt this into a piece of armor.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "The exact list of potential rewards from decrypting an Engram are not defined within publicly visible data. The following list of potential contents is based on observation, anecdotal evidence, and inference. As a result, there is a non-zero possibility you will receive an item not listed here, or that an item on this list may prove to be unobtainable from this source.\n\nRewards from the low possibility of decrypting an item of increased rarity are not listed here. Faction items may require allegiance."
+            },
+            {
+                "sectionTitle": "Potential Contents",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "Hunter",
+                        "items": [
+                            "2764782015",
+                            "2764782014",
+                            "281640922",
+                            "281640923",
+                            "976948689",
+                            "3284887365",
+                            "4244487160"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Titan",
+                        "items": [
+                            "2632514122",
+                            "2632514123",
+                            "506100015",
+                            "506100014",
+                            "3125395949",
+                            "2811159553",
+                            "1937304284"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Warlock",
+                        "items": [
+                            "3237629505",
+                            "3237629504",
+                            "1144544188",
+                            "1144544189",
+                            "186520644",
+                            "198836010",
+                            "633658633"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "legacy-legendary-chest-engram": {
+        "pageIcon": "/common/destiny_content/icons/1bac1aa931ee1719f1f19a3e8fa74756.jpg",
+        "headline": "Legacy Chest Armor",
+        "subtitle": "Legendary Engram",
+        "flavorText": "A matter engram of remarkable potency. The Cryptarch can decrypt this into a piece of armor.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "The exact list of potential rewards from decrypting an Engram are not defined within publicly visible data. The following list of potential contents is based on observation, anecdotal evidence, and inference. As a result, there is a non-zero possibility you will receive an item not listed here, or that an item on this list may prove to be unobtainable from this source.\n\nRewards from the low possibility of decrypting an item of increased rarity are not listed here. Faction items may require allegiance."
+            },
+            {
+                "sectionTitle": "Potential Contents",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "Hunter",
+                        "items": [
+                            "79021171",
+                            "79021170",
+                            "3523581236",
+                            "3523581237",
+                            "323001479",
+                            "2016050971",
+                            "1027468304"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Titan",
+                        "items": [
+                            "1560323454",
+                            "1560323455",
+                            "2813952137",
+                            "2813952136",
+                            "449391507",
+                            "1625442519",
+                            "3710968004"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Warlock",
+                        "items": [
+                            "1321101847",
+                            "1321101846",
+                            "2966036516",
+                            "2966036517",
+                            "3077117500",
+                            "2393479518",
+                            "4106244623"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "legacy-legendary-leg-engram": {
+        "pageIcon": "/common/destiny_content/icons/dbc9d70494acda4717516bbd7189afa1.jpg",
+        "headline": "Legacy Leg Armor",
+        "subtitle": "Legendary Engram",
+        "flavorText": "A matter engram of remarkable potency. The Cryptarch can decrypt this into a piece of armor.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "The exact list of potential rewards from decrypting an Engram are not defined within publicly visible data. The following list of potential contents is based on observation, anecdotal evidence, and inference. As a result, there is a non-zero possibility you will receive an item not listed here, or that an item on this list may prove to be unobtainable from this source.\n\nRewards from the low possibility of decrypting an item of increased rarity are not listed here. Faction items may require allegiance."
+            },
+            {
+                "sectionTitle": "Potential Contents",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "Hunter",
+                        "items": [
+                            "3184164377",
+                            "3184164376",
+                            "3026648396",
+                            "3026648397",
+                            "808098467",
+                            "3632113863",
+                            "2279754802"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Titan",
+                        "items": [
+                            "1288845412",
+                            "1288845413",
+                            "656142673",
+                            "656142672",
+                            "3371737519",
+                            "11037811",
+                            "898552422"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Warlock",
+                        "items": [
+                            "13050291",
+                            "13050290",
+                            "530352838",
+                            "530352839",
+                            "2117166702",
+                            "3150134468",
+                            "884126939"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "legacy-legendary-class-engram": {
+        "pageIcon": "/common/destiny_content/icons/df3e5c3707bf247d25b829dbc8883d16.jpg",
+        "headline": "Legacy Class Item",
+        "subtitle": "Legendary Engram",
+        "flavorText": "A matter engram of remarkable potency. The Cryptarch can decrypt this into a piece of armor.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "The exact list of potential rewards from decrypting an Engram are not defined within publicly visible data. The following list of potential contents is based on observation, anecdotal evidence, and inference. As a result, there is a non-zero possibility you will receive an item not listed here, or that an item on this list may prove to be unobtainable from this source.\n\nRewards from the low possibility of decrypting an item of increased rarity are not listed here. Faction items may require allegiance."
+            },
+            {
+                "sectionTitle": "Potential Contents",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "Hunter",
+                        "items": [
+                            "715838723",
+                            "715838722",
+                            "2221175816",
+                            "2221175817",
+                            "1504430230",
+                            "372870450",
+                            "4249590861"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Titan",
+                        "items": [
+                            "889950471",
+                            "889950470",
+                            "299288133",
+                            "299288132",
+                            "3079274954",
+                            "3753761958",
+                            "625864985"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Warlock",
+                        "items": [
+                            "3449421286",
+                            "3449421287",
+                            "3709866617",
+                            "3709866616",
+                            "534017969",
+                            "1764683367",
+                            "1100012702"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "legacy-legendary-primary-engram": {
+        "pageIcon": "/common/destiny_content/icons/a618c2ad9bd3c67b33f7698eda1ab361.jpg",
+        "headline": "Legacy Primary Weapon",
+        "subtitle": "Legendary Engram",
+        "flavorText": "A matter engram of remarkable potency. The Cryptarch can decrypt this into a weapon.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "The exact list of potential rewards from decrypting an Engram are not defined within publicly visible data. The following list of potential contents is based on observation, anecdotal evidence, and inference. As a result, there is a non-zero possibility you will receive an item not listed here, or that an item on this list may prove to be unobtainable from this source.\n\nRewards from the low possibility of decrypting an item of increased rarity are not listed here. Faction items may require allegiance."
+            },
+            {
+                "sectionTitle": "Potential Contents",
+                "wideItemDisplay": {
+                    "items": [
+                        "2088899560",
+                        "1676241713",
+                        "985488305",
+                        "3193054488",
+                        "3592821730",
+                        "3378827888",
+                        "65908013",
+                        "4265265106",
+                        "88964023",
+                        "1873492565",
+                        "1550443050",
+                        "202210218"
+                    ]
+                }
+            }
+        ]
+    },
+    "legacy-legendary-special-engram": {
+        "pageIcon": "/common/destiny_content/icons/6e7fa7e8c833c30b109e9836aa647198.jpg",
+        "headline": "Legacy Special Weapon",
+        "subtitle": "Legendary Engram",
+        "flavorText": "A matter engram of remarkable potency. The Cryptarch can decrypt this into a weapon.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "The exact list of potential rewards from decrypting an Engram are not defined within publicly visible data. The following list of potential contents is based on observation, anecdotal evidence, and inference. As a result, there is a non-zero possibility you will receive an item not listed here, or that an item on this list may prove to be unobtainable from this source.\n\nRewards from the low possibility of decrypting an item of increased rarity are not listed here. Faction items may require allegiance."
+            },
+            {
+                "sectionTitle": "Potential Contents",
+                "wideItemDisplay": {
+                    "items": [
+                        "731352403",
+                        "615137338",
+                        "2614565484",
+                        "1544803791",
+                        "1325979471",
+                        "806143008",
+                        "1655860068",
+                        "3318581105",
+                        "1103394591",
+                        "4188894836"
+                    ]
+                }
+            }
+        ]
+    },
+    "legacy-legendary-heavy-engram": {
+        "pageIcon": "/common/destiny_content/icons/f766229e919860d4b8bdbcd9179139d7.jpg",
+        "headline": "Legacy Heavy Weapon",
+        "subtitle": "Legendary Engram",
+        "flavorText": "A matter engram of remarkable potency. The Cryptarch can decrypt this into a weapon.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "The exact list of potential rewards from decrypting an Engram are not defined within publicly visible data. The following list of potential contents is based on observation, anecdotal evidence, and inference. As a result, there is a non-zero possibility you will receive an item not listed here, or that an item on this list may prove to be unobtainable from this source.\n\nRewards from the low possibility of decrypting an item of increased rarity are not listed here. Faction items may require allegiance."
+            },
+            {
+                "sectionTitle": "Potential Contents",
+                "wideItemDisplay": {
+                    "items": [
+                        "3878440319",
+                        "1990440986",
+                        "1382627864",
+                        "3841705359",
+                        "3881784492",
+                        "906167852",
+                        "3420129286",
+                        "517324839"
+                    ]
+                }
+            }
+        ]
+    },
+    "legacy-exotic-helmet-engram": {
+        "pageIcon": "/common/destiny_content/icons/c258450c38d0aaaea7f6d2e4b6310509.jpg",
+        "headline": "Legacy Helmet",
+        "subtitle": "Exotic Engram",
+        "flavorText": "An engram with remarkable but familiar markers. A Cryptarch would be pleased to decode it.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "These Engrams are exclusively sold by Xûr, offering one slot type at random each weekend. They decrypt on a knock-out system, guaranteed to give you something from this slot of the Year 1 Exotic pool that you don't currently have in the Exotic Armor or Exotic Weapon Collection Kiosk. Once you have unlocked all available options, the Engram will instead decrypt randomly.\n\nDue to their high price and Year 1 power cap, these should only be purchased by dedicated collectors intent on unlocking everything with nothing better to spend their Strange Coins on. Unlocking Year 1 Exotics will make the blueprints for Year 2 or 3 versions available in the Exotic Collection kiosks, excluding weapons earned via Quests."
+            },
+            {
+                "sectionTitle": "Potential Contents",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "Hunter",
+                        "items": [
+                            "144553854",
+                            "94883184",
+                            "838933125",
+                            "144553855",
+                            "144553853"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Titan",
+                        "items": [
+                            "2994845057",
+                            "1611580929",
+                            "2994845058",
+                            "2994845059",
+                            "3577254054"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Warlock",
+                        "items": [
+                            "2771018501",
+                            "2771018502",
+                            "2771018500",
+                            "3455371673",
+                            "813361818"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "legacy-exotic-guantlets-engram": {
+        "pageIcon": "/common/destiny_content/icons/12678ee97f73b11f2039470a191ddb0b.jpg",
+        "headline": "Legacy Guantlets",
+        "subtitle": "Exotic Engram",
+        "flavorText": "An engram with remarkable but familiar markers. A Cryptarch would be pleased to decode it.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "These Engrams are exclusively sold by Xûr, offering one slot type at random each weekend. They decrypt on a knock-out system, guaranteed to give you something from this slot of the Year 1 Exotic pool that you don't currently have in the Exotic Armor or Exotic Weapon Collection Kiosk. Once you have unlocked all available options, the Engram will instead decrypt randomly.\n\nDue to their high price and Year 1 power cap, these should only be purchased by dedicated collectors intent on unlocking everything with nothing better to spend their Strange Coins on. Unlocking Year 1 Exotics will make the blueprints for Year 2 or 3 versions available in the Exotic Collection kiosks, excluding weapons earned via Quests."
+            },
+            {
+                "sectionTitle": "Potential Contents",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "Hunter",
+                        "items": [
+                            "4146057409",
+                            "1619609940",
+                            "78421062"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Titan",
+                        "items": [
+                            "2449500440",
+                            "4132383826",
+                            "2591213943"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Warlock",
+                        "items": [
+                            "2927156752",
+                            "2335332317",
+                            "3050633443"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "legacy-exotic-chest-engram": {
+        "pageIcon": "/common/destiny_content/icons/13cb009869c797cefec8f2d7647089bb.jpg",
+        "headline": "Legacy Chest Armor",
+        "subtitle": "Exotic Engram",
+        "flavorText": "An engram with remarkable but familiar markers. A Cryptarch would be pleased to decode it.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "These Engrams are exclusively sold by Xûr, offering one slot type at random each weekend. They decrypt on a knock-out system, guaranteed to give you something from this slot of the Year 1 Exotic pool that you don't currently have in the Exotic Armor or Exotic Weapon Collection Kiosk. Once you have unlocked all available options, the Engram will instead decrypt randomly.\n\nDue to their high price and Year 1 power cap, these should only be purchased by dedicated collectors intent on unlocking everything with nothing better to spend their Strange Coins on. Unlocking Year 1 Exotics will make the blueprints for Year 2 or 3 versions available in the Exotic Collection kiosks, excluding weapons earned via Quests."
+            },
+            {
+                "sectionTitle": "Potential Contents",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "Hunter",
+                        "items": [
+                            "499191786",
+                            "499191787"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Titan",
+                        "items": [
+                            "2272644374",
+                            "2272644375"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Warlock",
+                        "items": [
+                            "1398023011",
+                            "838428205",
+                            "287395896",
+                            "1398023010"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "legacy-exotic-leg-engram": {
+        "pageIcon": "/common/destiny_content/icons/2a2dfa268fc2df09b6c995c5e1d7fdbe.jpg",
+        "headline": "Legacy Leg Armor",
+        "subtitle": "Exotic Engram",
+        "flavorText": "An engram with remarkable but familiar markers. A Cryptarch would be pleased to decode it.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "These Engrams are exclusively sold by Xûr, offering one slot type at random each weekend. They decrypt on a knock-out system, guaranteed to give you something from this slot of the Year 1 Exotic pool that you don't currently have in the Exotic Armor or Exotic Weapon Collection Kiosk. Once you have unlocked all available options, the Engram will instead decrypt randomly.\n\nDue to their high price and Year 1 power cap, these should only be purchased by dedicated collectors intent on unlocking everything with nothing better to spend their Strange Coins on. Unlocking Year 1 Exotics will make the blueprints for Year 2 or 3 versions available in the Exotic Collection kiosks, excluding weapons earned via Quests."
+            },
+            {
+                "sectionTitle": "Potential Contents",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "Hunter",
+                        "items": [
+                            "1865771870",
+                            "921478195"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Titan",
+                        "items": [
+                            "104781337",
+                            "909225554"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "legacy-exotic-primary-engram": {
+        "pageIcon": "/common/destiny_content/icons/231aa5a20819c7ea9a4799b68575fbef.jpg",
+        "headline": "Legacy Primary Weapon",
+        "subtitle": "Exotic Engram",
+        "flavorText": "An engram with remarkable but familiar markers. A Cryptarch would be pleased to decode it.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "These Engrams are exclusively sold by Xûr, offering one slot type at random each weekend. They decrypt on a knock-out system, guaranteed to give you something from this slot of the Year 1 Exotic pool that you don't currently have in the Exotic Armor or Exotic Weapon Collection Kiosk. Once you have unlocked all available options, the Engram will instead decrypt randomly.\n\nDue to their high price and Year 1 power cap, these should only be purchased by dedicated collectors intent on unlocking everything with nothing better to spend their Strange Coins on. Unlocking Year 1 Exotics will make the blueprints for Year 2 or 3 versions available in the Exotic Collection kiosks, excluding weapons earned via Quests."
+            },
+            {
+                "sectionTitle": "Potential Contents",
+                "wideItemDisplay": {
+                    "items": [
+                        "119482464",
+                        "119482466",
+                        "119482465",
+                        "3164616407",
+                        "3164616405",
+                        "3164616404",
+                        "135862170",
+                        "135862171",
+                        "3490486525"
+                    ]
+                }
+            }
+        ]
+    },
+    "legacy-exotic-special-engram": {
+        "pageIcon": "/common/destiny_content/icons/0aa5afa62726d40a09aaf4312e340247.jpg",
+        "headline": "Legacy Special Weapon",
+        "subtitle": "Exotic Engram",
+        "flavorText": "An engram with remarkable but familiar markers. A Cryptarch would be pleased to decode it.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "These Engrams are exclusively sold by Xûr, offering one slot type at random each weekend. They decrypt on a knock-out system, guaranteed to give you something from this slot of the Year 1 Exotic pool that you don't currently have in the Exotic Armor or Exotic Weapon Collection Kiosk. Once you have unlocked all available options, the Engram will instead decrypt randomly.\n\nDue to their high price and Year 1 power cap, these should only be purchased by dedicated collectors intent on unlocking everything with nothing better to spend their Strange Coins on. Unlocking Year 1 Exotics will make the blueprints for Year 2 or 3 versions available in the Exotic Collection kiosks, excluding weapons earned via Quests."
+            },
+            {
+                "sectionTitle": "Potential Contents",
+                "wideItemDisplay": {
+                    "items": [
+                        "346443851",
+                        "346443850",
+                        "2612834019",
+                        "1389842216",
+                        "2344494719",
+                        "2344494718",
+                        "1389842217",
+                        "1557422751",
+                        "3118679308",
+                        "2681212685",
+                        "3118679309"
+                    ]
+                }
+            }
+        ]
+    },
+    "legacy-exotic-heavy-engram": {
+        "pageIcon": "/common/destiny_content/icons/392e71f20b13ec3b7bc7ecb83eb6a570.jpg",
+        "headline": "Legacy Heavy Weapon",
+        "subtitle": "Exotic Engram",
+        "flavorText": "An engram with remarkable but familiar markers. A Cryptarch would be pleased to decode it.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "These Engrams are exclusively sold by Xûr, offering one slot type at random each weekend. They decrypt on a knock-out system, guaranteed to give you something from this slot of the Year 1 Exotic pool that you don't currently have in the Exotic Armor or Exotic Weapon Collection Kiosk. Once you have unlocked all available options, the Engram will instead decrypt randomly.\n\nDue to their high price and Year 1 power cap, these should only be purchased by dedicated collectors intent on unlocking everything with nothing better to spend their Strange Coins on. Unlocking Year 1 Exotics will make the blueprints for Year 2 or 3 versions available in the Exotic Collection kiosks, excluding weapons earned via Quests."
+            },
+            {
+                "sectionTitle": "Potential Contents",
+                "wideItemDisplay": {
+                    "items": [
+                        "3191797830",
+                        "3191797831",
+                        "3705198528",
+                        "1274330687",
+                        "1274330686"
+                    ]
+                }
+            }
+        ]
+    },
+    "sterling-treasure": {
+        "pageIcon": "/common/destiny_content/icons/3651da8a8b0add3161e840c7104078ed.jpg",
+        "headline": "Sterling Treasure",
+        "subtitle": "Mystery Bag",
+        "flavorText": "Contains 1 Guaranteed Item and up to 4 Possible Items.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "Originally introduced in the April Update for The Taken King, these loot boxes award Spektar or Desolate armor, as well as Chroma and a few other cosmetics. They were later replaced by the Treasure of Ages, and nothing in-game suggests these are still obtainable. However you can acquire exactly 1 per account per week, via the Prison of Elders: Taken (Level 41) activity. This weekly limit value is shared with the Treasure of Ages obtained from the Weekly Story Playlist, so obtaining them is mutally exclusive; if you earn that, you cannot earn a Sterling Treasure and vice versa.\n\nNotably all rewards from the Sterling Treasure can also be obtained from the Treasure of Ages. The newer Treasure has a much larger reward pool, so Sterling Treasure could serve as a more focused way to obtain a guaranteed piece of Desolate or Spektar armor, while inversely Treasure of Ages has much more to offer. Which you should choose to obtain for the week is up to your preference."
+            },
+            {
+                "sectionTitle": "Guaranteed Item Pool",
+                "textBlock": "Each Sterling Treasure is guaranteed to drop one piece of armor from the following sets. However rewards are not guaranteed to match your current class. Both types of armor dismantle into a random color Chroma consumable.",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "Hunter",
+                        "sets": [
+                            {
+                                "setLabel": "Desolate",
+                                "setSubtitle": "",
+                                "setItems": [
+                                    "2427702745",
+                                    "3031029152",
+                                    "1652037982",
+                                    "1093781250",
+                                    "3982450455"
+                                ]
+                            },
+                            {
+                                "setLabel": "Spektar",
+                                "setSubtitle": "",
+                                "setItems": [
+                                    "3847828216",
+                                    "16664393",
+                                    "3809851983",
+                                    "308606235",
+                                    "0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Titan",
+                        "sets": [
+                            {
+                                "setLabel": "Desolate",
+                                "setSubtitle": "",
+                                "setItems": [
+                                    "1087971707",
+                                    "3005624346",
+                                    "3365509820",
+                                    "1694241348",
+                                    "3163066993"
+                                ]
+                            },
+                            {
+                                "setLabel": "Spektar",
+                                "setSubtitle": "",
+                                "setItems": [
+                                    "2928398154",
+                                    "2975536019",
+                                    "2804968637",
+                                    "2710490085",
+                                    "0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Warlock",
+                        "sets": [
+                            {
+                                "setLabel": "Desolate",
+                                "setSubtitle": "",
+                                "setItems": [
+                                    "2593583354",
+                                    "2579253651",
+                                    "3377604063",
+                                    "2747752069",
+                                    "2861334046"
+                                ]
+                            },
+                            {
+                                "setLabel": "Spektar",
+                                "setSubtitle": "",
+                                "setItems": [
+                                    "3689370931",
+                                    "1648308418",
+                                    "233474726",
+                                    "3692454268",
+                                    "0"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sectionTitle": "Possible Additions",
+                "textBlock": "",
+                "wideItemDisplay": {
+                    "falseItemLinks": [
+                        {
+                            "iconUrl": "/img/destiny_content/items/multi-chroma-icon.png",
+                            "labelText": "Chroma (Random Color)",
+                            "linkUrl": "/list/chroma"
+                        }
+                    ],
+                    "items": [
+                        "1186397662",
+                        "13565936",
+                        "975923471",
+                        "2220921114",
+                        "1500229041",
+                        "1603376703",
+                        "446962955",
+                        "446962954",
+                        "162325542"
+                    ]
+                }
+            }
+        ]
+    },
+    "treasure-of-ages": {
+        "pageIcon": "",
+        "headline": "Treasure of Ages",
+        "subtitle": "Mystery Bag",
+        "flavorText": "A box of Eververse treasures to celebrate an Age of Triumph. Highly likely to contain an item not currently owned.",
+        "sections": [
+            {
+                "sectionTitle": "Explanation",
+                "textBlock": "These Age of Triumph loot boxes can either be purchased from Eververse for Silver (premium currency purchased via microtransaction) or obtained in limited quantity from featured activities. One per account per week can be obtained from the Featured Crucible Playlist, the Weekly Story Playlist, and the SIVA Crisis Heroic Strike Playlist, for a total of 3 each week. Treasure of Ages contains 2 separate Guaranteed item pools, from which you obtain 1 result each, and an additional pool of Possible items you may gain up to 4 items from. Items new to the Treasure of Ages (not reprised from prior loot boxes) are all in the Possible pool.\n\nTreasure of Ages rewards are awarded with respect to your existing cosmetic collection unlocks, so obtained Emblems, Emotes, Masks, Shaders, Ships, Sparrows, and Sparrow Horns will not be awarded again."
+            },
+            {
+                "sectionTitle": "Guaranteed Item Pool I",
+                "dividedItemDisplay": [
+                    {
+                        "divisionLabel": "Armor of Ages",
+                        "sets": [
+                            {
+                                "setLabel": "Spektar",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "3847828216",
+                                    "16664393",
+                                    "3809851983",
+                                    "308606235",
+                                    "1186397662"
+                                ]
+                            },
+                            {
+                                "setLabel": "Scarlight",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "2970247930",
+                                    "446517955",
+                                    "1943318157",
+                                    "2833532021",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Desolate",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "2427702745",
+                                    "3031029152",
+                                    "1652037982",
+                                    "1093781250",
+                                    "3982450455"
+                                ]
+                            },
+                            {
+                                "setLabel": "Snow Angel",
+                                "setSubtitle": "Hunter",
+                                "setItems": [
+                                    "498794675",
+                                    "2752699458",
+                                    "773948710",
+                                    "501878012",
+                                    "1516397455"
+                                ]
+                            },
+                            {
+                                "setLabel": "Spektar",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "2928398154",
+                                    "2975536019",
+                                    "2804968637",
+                                    "2710490085",
+                                    "13565936"
+                                ]
+                            },
+                            {
+                                "setLabel": "Lamentation",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "3677095941",
+                                    "3241409756",
+                                    "1475011170",
+                                    "1270491518",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Desolate",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "1087971707",
+                                    "3005624346",
+                                    "3365509820",
+                                    "1694241348",
+                                    "3163066993"
+                                ]
+                            },
+                            {
+                                "setLabel": "Lantern",
+                                "setSubtitle": "Titan",
+                                "setItems": [
+                                    "1564235349",
+                                    "240078628",
+                                    "1285649692",
+                                    "2170724558",
+                                    "2996043921"
+                                ]
+                            },
+                            {
+                                "setLabel": "Spektar",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "3689370931",
+                                    "1648308418",
+                                    "233474726",
+                                    "3692454268",
+                                    "975923471"
+                                ]
+                            },
+                            {
+                                "setLabel": "Rimed",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "2564277895",
+                                    "510876942",
+                                    "2515984674",
+                                    "3018515720",
+                                    "0"
+                                ]
+                            },
+                            {
+                                "setLabel": "Desolate",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "2593583354",
+                                    "2579253651",
+                                    "3377604063",
+                                    "2747752069",
+                                    "2861334046"
+                                ]
+                            },
+                            {
+                                "setLabel": "Crystalline",
+                                "setSubtitle": "Warlock",
+                                "setItems": [
+                                    "3664122880",
+                                    "1230196177",
+                                    "3597491335",
+                                    "1061345955",
+                                    "483952790"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Emblems of Ages",
+                        "items": [
+                            "1777175504",
+                            "1777175505",
+                            "1893886834",
+                            "1893886835"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Emotes of Ages",
+                        "items": [
+                            "782291710",
+                            "1550204376",
+                            "3292693501",
+                            "346347391",
+                            "1104959223",
+                            "1065410231",
+                            "3255547903",
+                            "3459355065",
+                            "1235719490",
+                            "2322943556",
+                            "4224622064",
+                            "194954036",
+                            "3149309979",
+                            "1616093358",
+                            "1539607709",
+                            "784026952",
+                            "1675523445",
+                            "2568278759",
+                            "1430337280",
+                            "1012214691",
+                            "79752527",
+                            "4046920646",
+                            "1722390744",
+                            "3584901664",
+                            "3498570159",
+                            "3626398367",
+                            "1152828018",
+                            "1356246089",
+                            "2302075108",
+                            "1265978022",
+                            "2252720602",
+                            "1487483055",
+                            "688599630",
+                            "1050001051",
+                            "1030821803",
+                            "148425980",
+                            "59705806",
+                            "1760702612",
+                            "890991543",
+                            "3082254839",
+                            "1724707782",
+                            "1225895251",
+                            "2310248132",
+                            "2490744177",
+                            "700261092",
+                            "983106764",
+                            "231112306",
+                            "3243960382",
+                            "1949472365",
+                            "36547999",
+                            "3247240623",
+                            "2198521181",
+                            "2167064184",
+                            "2954214516",
+                            "1558973266",
+                            "1314848443",
+                            "1994978985",
+                            "2152543205",
+                            "1092311864",
+                            "166246804",
+                            "1327898613",
+                            "760982642",
+                            "1245117039",
+                            "722897797",
+                            "1501442124",
+                            "120069183",
+                            "2954214517",
+                            "69285333",
+                            "3524361603",
+                            "844248080",
+                            "1998826"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Ghosts",
+                        "items": [
+                            "603519390",
+                            "603519391"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Masks of Ages",
+                        "items": [
+                            "2652535990",
+                            "634687982",
+                            "719019280",
+                            "2136544541",
+                            "1299166026",
+                            "1350744010",
+                            "2537110886",
+                            "3542328989",
+                            "2112419343",
+                            "130349300",
+                            "3507021085",
+                            "2652799929",
+                            "2380856832",
+                            "1192176513",
+                            "2825562076",
+                            "3532502999",
+                            "2327193420",
+                            "3678707177",
+                            "571199368",
+                            "403146260",
+                            "177212690",
+                            "2140586598",
+                            "3080373384",
+                            "3786258554",
+                            "3813534254"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Shaders of Ages",
+                        "items": [
+                            "3764987314",
+                            "3764987317",
+                            "3859658560",
+                            "1814540601",
+                            "1814540592",
+                            "3764987315",
+                            "3764987319",
+                            "1814540593",
+                            "1814540600",
+                            "3764987312",
+                            "1814540607",
+                            "3764987318",
+                            "3859658562",
+                            "3764987316",
+                            "1814540606",
+                            "3859658561"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Ornaments of Ages",
+                        "items": [
+                            "1503687614",
+                            "1503687615",
+                            "4201090572",
+                            "4201090573",
+                            "3428798156",
+                            "3428798157",
+                            "2670104628",
+                            "2670104629",
+                            "2496068858",
+                            "2496068859",
+                            "3846961187",
+                            "3846961186",
+                            "1961735966",
+                            "1961735967",
+                            "3664120109",
+                            "3664120108",
+                            "2303256244",
+                            "2303256245",
+                            "3353500629",
+                            "3353500628",
+                            "1031221143",
+                            "1031221142",
+                            "1649308084",
+                            "1649308085",
+                            "1350048973",
+                            "1350048972",
+                            "937024529",
+                            "937024528",
+                            "2838906413",
+                            "2838906412"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Ships",
+                        "items": [
+                            "446962955",
+                            "446962954"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Horns of Ages",
+                        "items": [
+                            "2105124464",
+                            "3143956498",
+                            "4219537946",
+                            "2105124471",
+                            "4219537950",
+                            "2105124477",
+                            "3143956499",
+                            "3143956511",
+                            "2105124465",
+                            "2105124468",
+                            "3143956504",
+                            "2105124476",
+                            "2105124469",
+                            "4219537951",
+                            "3143956510",
+                            "2105124467",
+                            "4219537948",
+                            "4219537945",
+                            "2105124466",
+                            "3143956508",
+                            "3143956509",
+                            "2105124470",
+                            "452104881",
+                            "4219537947",
+                            "3143956507",
+                            "452104880",
+                            "3143956505"
+                        ]
+                    },
+                    {
+                        "divisionLabel": "Vehicles of Ages",
+                        "items": [
+                            "2092342454",
+                            "2092342452",
+                            "2092342453",
+                            "2092342455",
+                            "2092342450",
+                            "2092342462",
+                            "4083935130",
+                            "4083935131",
+                            "4083935128",
+                            "3453851953",
+                            "4083935129",
+                            "4083935134",
+                            "4083935135",
+                            "4083935132",
+                            "4083935133",
+                            "162325542",
+                            "978920126"
+                        ]
+                    }
+                ]
+            },
+            {
+                "sectionTitle": "Guaranteed Item Pool II",
+                "wideItemDisplay": {
+                    "falseItemLinks": [
+                        {
+                            "iconUrl": "/img/destiny_content/items/multi-chroma-icon.png",
+                            "linkLabel": "Chroma (Random Color)",
+                            "linkUrl": "/list/chroma"
+                        }
+                    ],
+                    "items": [
+                        "3345355735",
+                        "110672197",
+                        "2220921114",
+                        "1500229041",
+                        "1603376703",
+                        "3077260836",
+                        "3077260837",
+                        "1001256555",
+                        "1001256553",
+                        "1001256552",
+                        "1411992893",
+                        "1411992892",
+                        "1411992894",
+                        "179068200",
+                        "179068201"
+                    ]
+                }
+            },
+            {
+                "sectionTitle": "New Items (Possible)",
+                "wideItemDisplay": {
+                    "sets": [
+                        {
+                            "setLabel": "Armor of Triumph",
+                            "setSubtitle": "Hunter",
+                            "setItems": [
+                                "351563194",
+                                "2588937859",
+                                "4249014605",
+                                "639304757",
+                                "0"
+                            ]
+                        },
+                        {
+                            "setLabel": "Armor of Triumph",
+                            "setSubtitle": "Titan",
+                            "setItems": [
+                                "1128836046",
+                                "2154039487",
+                                "1772680569",
+                                "1075289601",
+                                "0"
+                            ]
+                        },
+                        {
+                            "setLabel": "Armor of Triumph",
+                            "setSubtitle": "Warlock",
+                            "setItems": [
+                                "3037726217",
+                                "446254464",
+                                "987198024",
+                                "3819042234",
+                                "0"
+                            ]
+                        }
+                    ],
+                    "items": [
+                        "2185888362",
+                        "1554221763",
+                        "1298850675",
+                        "1573495022",
+                        "431256617",
+                        "3536376556",
+                        "1190560887",
+                        "2191224115",
+                        "2191224114",
+                        "1050291909",
+                        "1050291908",
+                        "1536084164"
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -24,6 +24,7 @@ export default function ItemDetailHeading() {
     const { items }  = useLoaderData()
     const itemData:DestinyInventoryItem = items[itemHash]
     // const itemType:number = itemData.itemType ?? 0
+    const itemName = itemData.itemName ? itemData.itemName : 'Item Detail'
 
     const typelineInsert:string = useMemo(()=>{
         const itemHashes:number[] = (itemData.itemCategoryHashes ?? []).map(Number)
@@ -41,6 +42,8 @@ export default function ItemDetailHeading() {
     },[itemData, TYPELINE_CATEGORY_MATCHES])
     
     return (
+        <>
+        <title>{`${itemName} | Cryptarch Guide`}</title>
         <section className='itemdetail-heading'>
             <div className='itemdetail-head-wrapper'>
                 <span className='itemdetail-icon-wrapper'>
@@ -57,5 +60,6 @@ export default function ItemDetailHeading() {
                 </div>
             </div>
         </section>
+        </>
     )
 }

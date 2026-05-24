@@ -67,11 +67,12 @@ $icon-size: 96px;
                         justify-content: center;
                         align-items: center;
                         align-self:stretch;
+                        overflow: hidden;
                         span {
                             writing-mode: vertical-lr;
                             transform: rotate(180deg);
                             text-transform: uppercase;
-                            font-size:0.875rem;
+                            font-size:0.688rem;
                             letter-spacing: 0.125rem;
                             font-weight:$font-normal;
                             color:rgba($color-white, 0.8);
@@ -87,6 +88,7 @@ $icon-size: 96px;
                         .rep-package-item {
                             display:flex;
                             @include glass-box;
+                            text-decoration: none;
                             .rep-package-item-icon {
                                 width:calc($icon-size/4 * 3);
                                 height:calc($icon-size/4 * 3);

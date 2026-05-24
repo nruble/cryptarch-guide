@@ -9,6 +9,7 @@ export default function Items(){
 
     return (
         <>
+        <title>Item Database | Cryptarch Guide</title>
         <DirectoryHeading>
             <h1>Item Database</h1>
         </DirectoryHeading>

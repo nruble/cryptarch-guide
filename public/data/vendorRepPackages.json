@@ -822,21 +822,21 @@
                 ],
                 "bucketOverrides": [
                     {
-                        "bucketIndex": 0,
+                        "bucketItemHash": "2790109141",
                         "linkOverride": true,
                         "link": "#gunsmith-weapons",
                         "nameOverride": true,
                         "name": "Gunsmith Weapons"
                     },
                     {
-                        "bucketIndex": 1,
+                        "bucketItemHash": "937555249",
                         "linkOverride": false,
                         "link": "",
                         "nameOverride": true,
                         "name": "Mote of Light ×4"
                     },
                     {
-                        "bucketIndex": 2,
+                        "bucketItemHash": "1738186005",
                         "linkOverride": false,
                         "link": "",
                         "nameOverride": true,
@@ -2052,6 +2052,198 @@
                     "3056359299",
                     "566936481",
                     "566936480"
+                ]
+            }
+        ]
+    },
+    "queens-hunter-package": {
+        "icon": "/common/destiny_content/icons/88079338e4a7997006a60d5328201369.jpg",
+        "packageName": "Queen's Blessing — Hunter",
+        "buckets": [
+            {
+                "bucketLabel": "Guaranteed",
+                "bucketItems": [
+                    "4228079567",
+                    "2088244310",
+                    "2534979482",
+                    "3300523568",
+                    "1758872299"
+                ]
+            },
+            {
+                "bucketLabel": "Possible",
+                "bucketItems": [
+                    "976743008"
+                ]
+            }
+        ]
+    },
+    "queens-titan-package": {
+        "icon": "/common/destiny_content/icons/88079338e4a7997006a60d5328201369.jpg",
+        "packageName": "Queen's Blessing — Titan",
+        "buckets": [
+            {
+                "bucketLabel": "Guaranteed",
+                "bucketItems": [
+                    "599590573",
+                    "1252256284",
+                    "1482417412",
+                    "255184294",
+                    "2226144345"
+                ]
+            },
+            {
+                "bucketLabel": "Possible",
+                "bucketItems": [
+                    "976743008"
+                ]
+            }
+        ]
+    },
+    "queens-warlock-package": {
+        "icon": "/common/destiny_content/icons/88079338e4a7997006a60d5328201369.jpg",
+        "packageName": "Queen's Blessing — Warlock",
+        "buckets": [
+            {
+                "bucketLabel": "Guaranteed",
+                "bucketItems": [
+                    "1737853468",
+                    "3092730773",
+                    "1812756619",
+                    "839919863",
+                    "594033570"
+                ]
+            },
+            {
+                "bucketLabel": "Possible",
+                "bucketItems": [
+                    "976743008"
+                ]
+            }
+        ]
+    },
+    "judgment-hunter-package": {
+        "icon": "/common/destiny_content/icons/41cbc0962557e3a46e222198e475d91d.jpg",
+        "packageName": "Judgment's Tribute — Hunter",
+        "buckets": [
+            {
+                "bucketLabel": "Guaranteed",
+                "bucketItems": [
+                    "3312628685",
+                    "3312628684",
+                    "3312628687",
+                    "1988228617",
+                    "1971451039",
+                    "1988228616",
+                    "601780094",
+                    "34013769",
+                    "1205866942",
+                    "1865782061",
+                    "4011143909"
+                ]
+            },
+            {
+                "bucketLabel": "Possible",
+                "bucketItems": [
+                    "3390448402",
+                    "3390448404",
+                    "3390448405",
+                    "3390448406",
+                    "3390448407",
+                    "1429062182",
+                    "162325543",
+                    "446962952",
+                    "446962953",
+                    "446962958",
+                    "2171840885",
+                    "2171840887",
+                    "2171840886",
+                    "2171840884",
+                    "1603376703"
+                ]
+            }
+        ]
+    },
+    "judgment-titan-package": {
+        "icon": "/common/destiny_content/icons/41cbc0962557e3a46e222198e475d91d.jpg",
+        "packageName": "Judgment's Tribute — Titan",
+        "buckets": [
+            {
+                "bucketLabel": "Guaranteed",
+                "bucketItems": [
+                    "1353212259",
+                    "1353212258",
+                    "1353212257",
+                    "3619493711",
+                    "3602716117",
+                    "3619493710",
+                    "601780094",
+                    "34013769",
+                    "1205866942",
+                    "1865782061",
+                    "4011143909"
+                ]
+            },
+            {
+                "bucketLabel": "Possible",
+                "bucketItems": [
+                    "3390448402",
+                    "3390448404",
+                    "3390448405",
+                    "3390448406",
+                    "3390448407",
+                    "1429062182",
+                    "162325543",
+                    "446962952",
+                    "446962953",
+                    "446962958",
+                    "2171840885",
+                    "2171840887",
+                    "2171840886",
+                    "2171840884",
+                    "1603376703"
+                ]
+            }
+        ]
+    },
+    "judgment-warlock-package": {
+        "icon": "/common/destiny_content/icons/41cbc0962557e3a46e222198e475d91d.jpg",
+        "packageName": "Judgment's Tribute — Warlock",
+        "buckets": [
+            {
+                "bucketLabel": "Guaranteed",
+                "bucketItems": [
+                    "3085609894",
+                    "3085609895",
+                    "3085609892",
+                    "3791687498",
+                    "3808465204",
+                    "3791687499",
+                    "601780094",
+                    "34013769",
+                    "1205866942",
+                    "1865782061",
+                    "4011143909"
+                ]
+            },
+            {
+                "bucketLabel": "Possible",
+                "bucketItems": [
+                    "3390448402",
+                    "3390448404",
+                    "3390448405",
+                    "3390448406",
+                    "3390448407",
+                    "1429062182",
+                    "162325543",
+                    "446962952",
+                    "446962953",
+                    "446962958",
+                    "2171840885",
+                    "2171840887",
+                    "2171840886",
+                    "2171840884",
+                    "1603376703"
                 ]
             }
         ]

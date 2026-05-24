@@ -16,6 +16,8 @@ export default function VendorHeading() {
     
     
     return (
+        <>
+        <title>{`${vendor.vendorTitle} | Cryptarch Guide`}</title>
         <section className='itemdetail-heading'>
             <div className='itemdetail-head-wrapper'>
                 <span className='itemdetail-icon-wrapper'>
@@ -30,5 +32,6 @@ export default function VendorHeading() {
                 </div>
             </div>
         </section>
+        </>
     )
 }

@@ -106,7 +106,7 @@
             {
                 "sectionTitle":"Reputation Packages",
                 "sectionQuote": "“Your Light shines brightly against the Darkness. Burn brightly, Warlock. And be careful out there.” —Ikora Rey",
-                "sectionDescription": "Gaining new ranks above Rank 3 will present you a choice from 3 reward packages. Potential contents can be previewed in-game. The package is immediately opened when acquired, and contains 1 Guaranteed Item and may contain up to 2 Possible Items. Reputation Pacakages do not stack, so claim your rewards before continuing to increase your rank.",
+                "sectionDescription": "Gaining new ranks above will present you a choice from 3 reward packages. Potential contents can be previewed in-game. The package is immediately opened when acquired, and contains 1 Guaranteed Item, 4 Motes of Light, 4 Strange Coins, and may contain up to 2 Possible Items. Reputation Pacakages do not stack, so claim your rewards before continuing to increase your rank.",
                 "sectionType": "Reputation Package",
                 "reputationPackages": [
                     "vanguard-warlock-armor",
@@ -142,19 +142,19 @@
         },
         "sales": [
              {
-                "saleSection": 0,
-                "saleTitle": "Available Bounties",
-                "saleItems": [
-                    {
-                        "itemHash": "2712214646",
-                        "showName":true,
-                        "nameOverride": true,
-                        "name": "Weekly Elite Bounties ×3",
-                        "linkOverride": true,
-                        "link": "/list/vanguard-bounties/weekly-elite-bounties"
-                    }
-                ],
-                "saleFootnote": ""
+            "saleSection": 0,
+            "saleTitle": "Available Bounties",
+            "saleItems": [
+                {
+                    "itemHash": "2712214646",
+                    "showName":true,
+                    "nameOverride": true,
+                    "name": "Weekly Elite Bounties ×3",
+                    "linkOverride": true,
+                    "link": "/list/vanguard-weekly-elite-bounties"
+                }
+            ],
+            "saleFootnote": ""
             },
             {
                 "saleSection": 1,
@@ -238,7 +238,7 @@
             {
                 "sectionTitle":"Reputation Packages",
                 "sectionQuote": "“Titan, your efforts strengthen our position. Every blow you deal to the enemy makes the city safer. Keep up the good work.” —Commander Zavala",
-                "sectionDescription": "Gaining new ranks above Rank 3 will present you a choice from 3 reward packages. Potential contents can be previewed in-game. The package is immediately opened when acquired, and contains 1 Guaranteed Item and may contain up to 2 Possible Items. Reputation Pacakages do not stack, so claim your rewards before continuing to increase your rank.",
+                "sectionDescription": "Gaining new ranks above Rank 3 will present you a choice from 3 reward packages. Potential contents can be previewed in-game. The package is immediately opened when acquired, and contains 1 Guaranteed Item, 4 Motes of Light, 4 Strange Coins, and may contain up to 2 Possible Items. Reputation Pacakages do not stack, so claim your rewards before continuing to increase your rank.",
                 "sectionType": "Reputation Package",
                 "reputationPackages": [
                     "vanguard-titan-armor",
@@ -355,7 +355,7 @@
             {
                 "sectionTitle":"Reputation Packages",
                 "sectionQuote": "“You've been doing good work out there, Hunter. Word spreads. But hey, I'm not jealous or anything. Here, take this. Might come in handy.” —Cayde-6",
-                "sectionDescription": "Gaining new ranks above Rank 3 will present you a choice from 3 reward packages. Potential contents can be previewed in-game. The package is immediately opened when acquired, and contains 1 Guaranteed Item and may contain up to 2 Possible Items. Reputation Pacakages do not stack, so claim your rewards before continuing to increase your rank.",
+                "sectionDescription": "Gaining new ranks above Rank 3 will present you a choice from 3 reward packages. Potential contents can be previewed in-game. The package is immediately opened when acquired, and contains 1 Guaranteed Item, 4 Motes of Light, 4 Strange Coins, and may contain up to 2 Possible Items. Reputation Pacakages do not stack, so claim your rewards before continuing to increase your rank.",
                 "sectionType": "Reputation Package",
                 "reputationPackages": [
                     "vanguard-warlock-armor",
@@ -643,12 +643,12 @@
             "saleTitle": "Available Bounties",
             "saleItems": [
                 {
-                    "itemHash": "0000000",
+                    "itemHash": "1983809889",
                     "showName":true,
                     "nameOverride": true,
-                    "name": "Weekly Mode Bounties ×3",
+                    "name": "Weekly Crucible Mode Bounties ×3",
                     "linkOverride": true,
-                    "link": "/list/crucible-bounties/weekly-mode-bounties"
+                    "link": "/list/crucible-weekly-mode-bounties"
                 }
             ],
             "saleFootnote": ""
@@ -815,7 +815,7 @@
             {
                 "sectionTitle":"Reputation Packages",
                 "sectionQuote": "“Keep up the good work, Guardian. Show your fellow Guardians they can depend on you in a fight.” —Lord Shaxx",
-                "sectionDescription": "Gaining new ranks above Rank 3 will present you a choice from 3 reward packages. Potential contents can be previewed in-game. The package is immediately opened when acquired, and contains 1 Guaranteed Item and may contain up to 2 Possible Items. Reputation Pacakages do not stack, so claim your rewards before continuing to increase your rank.",
+                "sectionDescription": "Gaining new ranks above Rank 3 will present you a choice from 3 reward packages. Potential contents can be previewed in-game. The package is immediately opened when acquired, and contains 1 Guaranteed Item, 4 Motes of Light, 4 Strange Coins, and may contain up to 2 Possible Items. Reputation Pacakages do not stack, so claim your rewards before continuing to increase your rank.",
                 "sectionType": "Reputation Package",
                 "reputationPackages": [
                     "crucible-hunter-armor",
@@ -892,12 +892,12 @@
             "saleTitle": "Available Bounties",
             "saleItems": [
                 {
-                    "itemHash": "0000000",
+                    "itemHash": "1983809889",
                     "showName":true,
                     "nameOverride": true,
-                    "name": "Weekly Expert Bounties ×5",
+                    "name": "Weekly Crucible Weapon Bounties ×5",
                     "linkOverride": true,
-                    "link": "/list/crucible-bounties/weekly-expert-bounties"
+                    "link": "/list/crucible-weekly-weapon-bounties"
                 }
             ],
             "saleFootnote": ""
@@ -1774,7 +1774,7 @@
             {
                 "sectionTitle":"Reputation Packages",
                 "sectionQuote": "“Thank you, Guardian. Thanks to you, the way grows clearer.” —Arach Jalaal",
-                "sectionDescription": "Gaining new ranks above Rank 3 will present you a choice from 3 reward packages. Potential contents can be previewed in-game. The package is immediately opened when acquired, and contains 1 Guaranteed Item and may contain up to 2 Possible Items. Reputation Pacakages do not stack, so claim your rewards before continuing to increase your rank.",
+                "sectionDescription": "Gaining new ranks above Rank 3 will present you a choice from 3 reward packages. Potential contents can be previewed in-game. The package is immediately opened when acquired, and contains 1 Guaranteed Item, 4 Motes of Light, 4 Strange Coins, and may contain up to 2 Possible Items. Reputation Pacakages do not stack, so claim your rewards before continuing to increase your rank.",
                 "sectionType": "Reputation Package",
                 "reputationPackages": [
                     "do-hunter-armor",
@@ -2080,7 +2080,7 @@
             {
                 "sectionTitle":"Reputation Packages",
                 "sectionQuote": "“Your strength will secure a victorious future. We are grateful.” —Lakshmi-2",
-                "sectionDescription": "Gaining new ranks above Rank 3 will present you a choice from 3 reward packages. Potential contents can be previewed in-game. The package is immediately opened when acquired, and contains 1 Guaranteed Item and may contain up to 2 Possible Items. Reputation Pacakages do not stack, so claim your rewards before continuing to increase your rank.",
+                "sectionDescription": "Gaining new ranks above Rank 3 will present you a choice from 3 reward packages. Potential contents can be previewed in-game. The package is immediately opened when acquired, and contains 1 Guaranteed Item, 4 Motes of Light, 4 Strange Coins, and may contain up to 2 Possible Items. Reputation Pacakages do not stack, so claim your rewards before continuing to increase your rank.",
                 "sectionType": "Reputation Package",
                 "reputationPackages": [
                     "fwc-hunter-armor",
@@ -2386,7 +2386,7 @@
             {
                 "sectionTitle":"Reputation Packages",
                 "sectionQuote": "“As you support the Last City, so shall the Last City support you. Thank you, Guardian.” —Executor Hideo",
-                "sectionDescription": "Gaining new ranks above Rank 3 will present you a choice from 3 reward packages. Potential contents can be previewed in-game. The package is immediately opened when acquired, and contains 1 Guaranteed Item and may contain up to 2 Possible Items. Reputation Pacakages do not stack, so claim your rewards before continuing to increase your rank.",
+                "sectionDescription": "Gaining new ranks above Rank 3 will present you a choice from 3 reward packages. Potential contents can be previewed in-game. The package is immediately opened when acquired, and contains 1 Guaranteed Item, 4 Motes of Light, 4 Strange Coins, and may contain up to 2 Possible Items. Reputation Pacakages do not stack, so claim your rewards before continuing to increase your rank.",
                 "sectionType": "Reputation Package",
                 "reputationPackages": [
                     "nm-hunter-armor",
@@ -2825,7 +2825,7 @@
             {
                 "sectionTitle":"Reputation Package",
                 "sectionQuote": "“A Light such as yours only glows brighter in the Darkness. But our battle is far from won. Please, take this. May it strengthen you for the fight to come.” —Eris Morn",
-                "sectionDescription": "Gaining new ranks will provide a reward package. Potential contents can be previewed in-game. The package is immediately opened when acquired, providing a Guaranteed Class item or Artifact, with Possible rewards of Dreadnaught materials and Summoning Runes. Reputation Pacakages do not stack, so claim your rewards before continuing to increase your rank. \n\nThe Artifacts are Class-specific and all feature elemental Catalyst perks, providing a chance for orb generation on precision kills with their element.",
+                "sectionDescription": "Gaining new ranks will provide a reward package. Potential contents can be previewed in-game. The package is immediately opened when acquired, providing a Guaranteed Class item or Artifact, 4 Motes of Light, 4 Strange Coins, and Possible rewards of Dreadnaught materials and Summoning Runes. Reputation Pacakages do not stack, so claim your rewards before continuing to increase your rank. \n\nThe Artifacts are Class-specific and all feature elemental Catalyst perks, providing a chance for orb generation on precision kills with their element.",
                 "sectionType": "Reputation Package",
                 "reputationPackages": [
                     "crotabane-hunter-package",
@@ -3449,7 +3449,7 @@
             {
                 "sectionTitle":"Reputation Package",
                 "sectionQuote": "“Guardian, I appreciate the chance to study your findings. I hope you are not too disappointed with some of the results.” —Cryptarch Master Rahool",
-                "sectionDescription": "Gaining new ranks will provide a reward package. Potential contents can be previewed in-game. The package is immediately opened when acquired, providing 1 Guaranteed Rare or Legendary Engram (excluding Class Items), with up to 2 Possible rewards added. Reputation Pacakages do not stack, so claim your rewards before continuing to increase your rank. \n\nCryptarch Reputation packages award Engrams from the Year 3 decryption pool.",
+                "sectionDescription": "Gaining new ranks will provide a reward package. Potential contents can be previewed in-game. The package is immediately opened when acquired, providing 1 Guaranteed Rare or Legendary Engram (excluding Class Items), 4 Motes of Light, 4 Strange Coins, and up to 2 Possible rewards added. Reputation Pacakages do not stack, so claim your rewards before continuing to increase your rank. \n\nCryptarch Reputation packages award Engrams from the Year 3 decryption pool.",
                 "sectionType": "Reputation Package",
                 "reputationPackages": [
                     "cryptarch-package"
@@ -3457,7 +3457,1706 @@
             }
         ]
     },
-    "template": {
+    "cryptarch-reef": {
+        "vendorName": "Master Ives",
+        "icon": "/img/destiny_content/vendor/105096_sm.png",
+        "vendorTitle": "Vestian Outpost Cryptarch",
+        "vendorDescription": "Wherever Guardians go, Cryptarchs often find their services needed. Albeit at a safe distance.",
+        "repFaction": {
+            "repName": "Crypto-Archeology",
+            "repIcon": "/common/destiny_content/icons/69db53e8c95ce224be0a89b79b725b73.png",
+            "repDescription": "Decode Engrams to gain Reputation with this faction and earn Reputation Packages. Cryptarch Reputation packages can only be picked up from Master Rahool in the tower, but decoding Engrams at any Cryptarch contributes ro reputation equally. \n\nLegendary Engrams for sale do not require ranks to purchase.",
+            "rankLevels": [
+                {
+                    "label": "Rank 1",
+                    "cost": "1500"
+                },
+                {
+                    "label": "Rank 2",
+                    "cost": "2500"
+                },
+                {
+                    "label": "Rank 3+",
+                    "cost": "3000"
+                }
+            ]
+        },
+        "sales": [
+            {
+            "saleSection": 0,
+            "saleTitle": "Acquire Engrams",
+            "saleItems": [
+                {
+                    "itemHash": "3797169074",
+                    "showName":true,
+                    "nameOverride": true,
+                    "name": "Legendary Armor Engram",
+                    "linkOverride": true,
+                    "link": "/box/legendary-engrams"
+                },
+                {
+                    "itemHash": "2672986951",
+                    "showName":true,
+                    "nameOverride": true,
+                    "name": "Legendary Armor Engram",
+                    "linkOverride": true,
+                    "link": "/box/legendary-engrams"
+                },
+                {
+                    "itemHash": "197430987",
+                    "showName":true,
+                    "nameOverride": true,
+                    "name": "Legendary Weapon Engram",
+                    "linkOverride": true,
+                    "link": "/box/legendary-engrams"
+                },
+                {
+                    "itemHash": "2922774756",
+                    "showName":true,
+                    "nameOverride": true,
+                    "name": "Legendary Weapon Engram",
+                    "linkOverride": true,
+                    "link": "/box/legendary-engrams"
+                }
+            ],
+            "saleFootnote": "Exact engram slots for sale refresh at weekly reset."
+            },
+            {
+            "saleSection": 1,
+            "saleTitle": "Research Material Exchange",
+            "saleItems": [
+                {
+                    "itemHash": "269776572",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "3632619276",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "2904517731",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "1932910919",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                }
+            ],
+            "saleFootnote": "Any Cryptarch will accept these materials for 200 Glimmer each."
+            },
+            {
+            "saleSection": 2,
+            "saleTitle": "Royal Amethyst Exchange",
+            "saleItems": [
+                {
+                    "itemHash": "1428782718",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "51034763",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                }
+            ],
+            "saleFootnote": "Master Ives will exchange these 2 sizes of Amethyst for 2,500 and 5,000 Glimmer respectively. Only 1 of each can be held in your inventory at a time; if one is already present in your inventory, any new drop will be discarded entirely."
+            }
+        ],
+        "sections": []
+    },
+    "cryptarch-iron-temple": {
+        "vendorName": "Tyra Karn",
+        "icon": "/img/destiny_content/vendor/tyra_karn.png",
+        "vendorTitle": "Iron Archivist",
+        "vendorDescription": "Cryptarch, Warlock, and immortal observer of history, Tyra has returned to the Iron Temple to be the keeper of its artifacts.",
+        "repFaction": {
+            "repName": "Crypto-Archeology",
+            "repIcon": "/common/destiny_content/icons/69db53e8c95ce224be0a89b79b725b73.png",
+            "repDescription": "Decode Engrams to gain Reputation with this faction and earn Reputation Packages. Cryptarch Reputation packages can only be picked up from Master Rahool in the tower, but decoding Engrams at any Cryptarch contributes ro reputation equally. \n\nLegendary Engrams for sale do not require ranks to purchase.",
+            "rankLevels": [
+                {
+                    "label": "Rank 1",
+                    "cost": "1500"
+                },
+                {
+                    "label": "Rank 2",
+                    "cost": "2500"
+                },
+                {
+                    "label": "Rank 3+",
+                    "cost": "3000"
+                }
+            ]
+        },
+        "sales": [
+            {
+            "saleSection": 0,
+            "saleTitle": "Acquire Engrams",
+            "saleItems": [
+                {
+                    "itemHash": "3797169074",
+                    "showName":true,
+                    "nameOverride": true,
+                    "name": "Legendary Armor Engram",
+                    "linkOverride": true,
+                    "link": "/box/legendary-engrams"
+                },
+                {
+                    "itemHash": "2672986951",
+                    "showName":true,
+                    "nameOverride": true,
+                    "name": "Legendary Armor Engram",
+                    "linkOverride": true,
+                    "link": "/box/legendary-engrams"
+                },
+                {
+                    "itemHash": "197430987",
+                    "showName":true,
+                    "nameOverride": true,
+                    "name": "Legendary Weapon Engram",
+                    "linkOverride": true,
+                    "link": "/box/legendary-engrams"
+                },
+                {
+                    "itemHash": "2922774756",
+                    "showName":true,
+                    "nameOverride": true,
+                    "name": "Legendary Weapon Engram",
+                    "linkOverride": true,
+                    "link": "/box/legendary-engrams"
+                }
+            ],
+            "saleFootnote": "Exact engram slots for sale refresh at weekly reset."
+            },
+            {
+            "saleSection": 1,
+            "saleTitle": "Research Material Exchange",
+            "saleItems": [
+                {
+                    "itemHash": "269776572",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "3632619276",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "2904517731",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "1932910919",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                }
+            ],
+            "saleFootnote": "Any Cryptarch will accept these materials for 200 Glimmer each."
+            },
+            {
+            "saleSection": 2,
+            "saleTitle": "Iron Lord Memorial",
+            "saleItems": [
+                {
+                    "itemHash": "2672107542",
+                    "showName":true,
+                    "nameOverride": true,
+                    "name": "Iron Lord Artifact",
+                    "linkOverride": true,
+                    "link": "#iron-lord-artifacts"
+                },
+                {
+                    "itemHash": "2672107541",
+                    "showName":true,
+                    "nameOverride": true,
+                    "name": "Iron Lord Artifact",
+                    "linkOverride": true,
+                    "link": "#iron-lord-artifacts"
+                },
+                {
+                    "itemHash": "2672107539",
+                    "showName":true,
+                    "nameOverride": true,
+                    "name": "Iron Lord Artifact",
+                    "linkOverride": true,
+                    "link": "#iron-lord-artifacts"
+                }
+            ],
+            "saleFootnote": "Requires campaign completion. Memorial artifacts offered refresh at weekly reset."
+            }
+        ],
+        "sections": [
+            {
+                "sectionTitle":"Iron Lord Artifacts",
+                "sectionDescription": "After completing the Rise of Iron campaign, Tyra will offer Guardians the Champion of the Light quest. This quest can be completed once per character per week, and awards an Iron Lord's Legacy which can be exchanged for one of these unique artifacts. Each artifact memorializes an Iron Lord, and grants a unique ability often comparable to an Exotic armor perk.",
+                "sectionType": "Item Display",
+                "items": [
+                    "2672107540",
+                    "2672107551",
+                    "2672107542",
+                    "2672107537",
+                    "2672107536",
+                    "2672107541",
+                    "2672107538",
+                    "2672107539"
+                ]
+            }
+        ]
+    },
+    "disciple-of-osiris": {
+        "vendorName": "Brother Vance",
+        "icon": "/img/destiny_content/vendor/110010_sm.png",
+        "vendorTitle": "Disciple of Osiris",
+        "vendorDescription": "Osiris seeks the strongest Guardians to stem the tide of the Darkness.",
+        "specialInformation": {
+            "title": "Trials of Osiris",
+            "icon": "/common/destiny_content/icons/7d9dcc67cfd148ad6a0db36ddee14b2d.png",
+            "description": "From it's inception in House of Wolves until it's final occurence on August 14, 2017, Brother Vance oversaw the Trials of Osiris each weekend. \n\nWith the end of scheduled events, Vance can only exchange any Passage Coins you find for Motes of Light."
+        },
+        "sales": [
+            {
+            "saleSection": 0,
+            "saleTitle": "Material Exchange",
+            "saleItems": [
+                {
+                    "itemHash": "937555249",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "605475555",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                }
+            ],
+            "saleFootnote": "Motes of Light can be purchased for 3 Passage Coins. Passage Coins can be purchased for 1 Mote of Light, however doing so is not recommended as they have no other use."
+            }
+        ],
+        "sections": []
+    },
+    "queens-wrath": {
+        "vendorName": "Petra Venj",
+        "icon": "/img/destiny_content/vendor/105090_sm.png",
+        "vendorTitle": "Queen's Wrath",
+        "vendorDescription": "Petra serves the Queen of the Awoken, directing the allies of the Reef in the Queen's service.",
+        "repFaction": {
+            "repName": "Queen's Wrath",
+            "repIcon": "/common/destiny_content/icons/6fc249ceaf32cdcc4213f62db3109ed8.png",
+            "repDescription": "Annihilate the enemies of the Reef. Gain Queen's Wrath Reputation to level up your rank with this faction by completing Queen's Wrath bounties, quests, and exchanging materials. \n\nIncreasing your rank unlocks cosmetic emblems, shaders, and a ship for purchase. \n\nAchieving higher rank levels will reward you a Reputation Package.",
+            "rankLevels": [
+                {
+                    "label": "Rank 1",
+                    "cost": "1000"
+                },
+                {
+                    "label": "Rank 2",
+                    "cost": "3000"
+                },
+                {
+                    "label": "Rank 3+",
+                    "cost": "3000"
+                }
+            ]
+        },
+        "sales": [
+            {
+            "saleSection": 0,
+            "saleTitle": "Queen's Wrath Bounties",
+            "saleItems": [
+                {
+                    "itemHash": "3503303762",
+                    "showName":true,
+                    "nameOverride": true,
+                    "name": "Queen's Wrath Bounties",
+                    "linkOverride": true,
+                    "link": "/list/queens-wrath-bounties"
+                }
+            ],
+            "saleFootnote": "Bounties all refresh daily, and always include 1 WANTED target and 1 bounty to kill Taken Lieutenants. These will not always be on the same destination."
+            },
+            {
+            "saleSection": 1,
+            "saleTitle": "Rank 1",
+            "saleItems": [
+                {
+                    "itemHash": "3300361771",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "3300361770",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                }
+            ],
+            "saleFootnote": ""
+            },
+            {
+            "saleSection": 2,
+            "saleTitle": "Rank 2",
+            "saleItems": [
+                {
+                    "itemHash": "3753095826",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "3753095827",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                }
+            ],
+            "saleFootnote": ""
+            },
+            {
+            "saleSection": 3,
+            "saleTitle": "Rank 3",
+            "saleItems": [
+                {
+                    "itemHash": "1947545036",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "1947545037",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "923499578",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                }
+            ],
+            "saleFootnote": ""
+            },
+            {
+            "saleSection": 4,
+            "saleTitle": "Material Exchange",
+            "saleItems": [
+                {
+                    "itemHash": "1157325590",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                }
+            ],
+            "saleFootnote": ""
+            }
+        ],
+        "sections": [
+            {
+                "sectionTitle":"Queen's Blessing",
+                "sectionQuote": "“The Queen thanks you for your efforts against the House of Wolves.” —Petra Venj",
+                "sectionDescription": "Gaining new ranks above Rank 3 will provide you a reward package to pick up from this vendor. The package is immediately opened when acquired, and contains 1 Guaranteed Legendary piece of Queen's Wrath armor, 1 Possible ship, 4 Motes of Light, and 4 Strange Coins. Reputation Pacakages do not stack, so claim your rewards before continuing to increase your rank.",
+                "sectionType": "Reputation Package",
+                "reputationPackages": [
+                    "queens-hunter-package",
+                    "queens-titan-package",
+                    "queens-warlock-package"
+                ]
+            },
+            {
+                "sectionTitle":"The Queen's Emissary",
+                "sectionDescription": "On precisely 2 occassions, both within Year 1 of Destiny, Petra visited the Tower as the Queen's Emissary. The first of these Queen's Wrath events began September 23, 2014, and saw Guardians completing bounties and slaying Fallen story mission bosses to earn Rare and Legendary faction gear and cosmetics. The second event was the Wolf Hunt which took place for 4 days (intended as a full week, but reduced due to patch issues) immediately prior to the House of Wolves expansion, and saw Guardians eliminating Fallen traitors to the Queen as a preamble to the expansion's storyline.",
+                "backgroundPath": "/img/theme/destiny/bgs/advisors/queenswrath-emissary.jpg",
+                "sectionType": "Event Banner"
+            }
+        ]
+    },
+    "house-of-judgment": {
+        "vendorName": "Variks, the Loyal",
+        "icon": "/img/destiny_content/vendor/105085_sm.png",
+        "vendorTitle": "Prison of Elders Warden",
+        "vendorDescription": "Variks is loyal to the Queen, and has no love for the Kells who have taken command of the Fallen Houses.",
+        "repFaction": {
+            "repName": "House of Judgment",
+            "repIcon": "/common/destiny_content/icons/d0f4ba7a137b1036899eef7c8c9cc157.png",
+            "repDescription": "Defeat enemies in the Prison of Elders, complete weekly bounties, and use deprecated Tokens of Judgment or Treasure Keys to gain notoriety with the House of Judgment. \n\nRaise your standing to unlock better rewards, including a weekly Judgment's Grant materials package at Rank 2 that improves to Judgment's Honor at Rank 3. \n\nAchieving higher rank levels will reward you a Reputation Package.",
+            "rankLevels": [
+                {
+                    "label": "Rank 1",
+                    "cost": "1000"
+                },
+                {
+                    "label": "Rank 2",
+                    "cost": "3000"
+                },
+                {
+                    "label": "Rank 3+",
+                    "cost": "3000"
+                }
+            ]
+        },
+        "sales": [
+            {
+            "saleSection": 0,
+            "saleTitle": "Challenge of the Elders Entry",
+            "saleItems": [
+                {
+                    "itemHash": "3595264322",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                }
+            ],
+            "saleFootnote": "Scorecard required for participation in the Challenge of Elders. Each week this will feature a bonus score modifier for Grenade, Melee, Precision, or Super kills. Reward thresholds are set at 30,000 points in a single activity for a weapon, and 90,000 points cumulatively for armor."
+            },
+            {
+            "saleSection": 1,
+            "saleTitle": "House of Judgment Gear",
+            "saleItems": [
+                {
+                    "itemHash": "3312628685",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "3312628687",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "3312628684",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "1353212259",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "1353212257",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "1353212258",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "3085609894",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "3085609892",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "3085609895",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "2931351952",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                }
+            ],
+            "saleFootnote": "These can be viewed as a predetermined decryption, as each costs a matching slot of Legendary Engram to purchase in addition to 5000 Glimmer."
+            },
+            {
+            "saleSection": 2,
+            "saleTitle": "Consumables",
+            "saleItems": [
+                {
+                    "itemHash": "928169143",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "211861343",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                }
+            ],
+            "saleFootnote": "Ammo Synths cost 1 Ether Seed, and 100 or 150 Glimmer. Heavy Synths require Rank 1."
+            },
+            {
+            "saleSection": 0,
+            "saleTitle": "Prison of Elders Bounties",
+            "saleItems": [
+                {
+                    "itemHash": "589226878",
+                    "showName":true,
+                    "nameOverride": true,
+                    "name": "Prison of Elders Bounties ×3",
+                    "linkOverride": true,
+                    "link": "/list/prison-of-elders-bounties"
+                }
+            ],
+            "saleFootnote": "Bounties refresh at weekly reset."
+            }
+        ],
+        "sections": [
+            {
+                "sectionTitle":"Reputation Packages",
+                "sectionQuote": "“The Reef honors you for your efforts…as do I.” —Variks",
+                "sectionDescription": "Gaining new ranks above Rank 3 will provide you a reward package to pick up from this vendor. The package can be previewed in-game, and is immediately opened when acquired containing 1 Guaranteed item, up to 2 Possible items, 4 Motes of Light, and 4 Strange Coins. Reputation Pacakages do not stack, so claim your rewards before continuing to increase your rank.",
+                "sectionType": "Reputation Package",
+                "reputationPackages": [
+                    "judgment-hunter-package",
+                    "judgment-titan-package",
+                    "judgment-warlock-package"
+                ]
+            }
+        ]
+    },
+    "iron-lord": {
+        "vendorName": "Lord Saladin",
+        "icon": "/img/destiny_content/vendor/saladin.png",
+        "vendorTitle": "Iron Lord",
+        "vendorDescription": "The last of the Iron Lords, Lord Saladin has kept an eternal watch for the return of SIVA.",
+        "repFaction": {
+            "repName": "Iron Banner",
+            "repIcon": "/common/destiny_content/icons/9f191e3bfb26be64ef4baad8facf63a2.png",
+            "repDescription": "The Iron Banner summons Guardians to prove their worth in the Crucible.\n\nEvent Standing starts anew with every Iron Banner. \n\nBeginning in Rise of Iron, Lady Efrideet returned from the outer system to host the Iron Banner while Lord Saladin was preoccupied with the SIVA Crisis. The final Iron Banner event was held the week of August 1st, 2017. As a result, this faction can no longer be interacted with and any rewards still available are distributed via other means.",
+            "rankLevels": [
+                {
+                    "label": "Rank 1",
+                    "cost": "100"
+                },
+                {
+                    "label": "Rank 2",
+                    "cost": "1200"
+                },
+                {
+                    "label": "Rank 3",
+                    "cost": "2400"
+                },
+                {
+                    "label": "Rank 4",
+                    "cost": "2400"
+                },
+                {
+                    "label": "Rank 5",
+                    "cost": "2400"
+                }
+            ]
+        },
+        "sales": [
+            {
+            "saleSection": 0,
+            "saleTitle": "Emblems & Shaders",
+            "saleItems": [
+                {
+                    "itemHash": "2326927634",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "2326927635",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "165221410",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "165221411",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "3367786035",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "3367786034",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                }
+            ],
+            "saleFootnote": ""
+            },
+            {
+            "saleSection": 1,
+            "saleTitle": "Iron Camelot Armor",
+            "saleItems": [
+                {
+                    "itemHash": "1292884101",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "2073560916",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "656689057",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "3734616175",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "2019341558",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "3187552139",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "4174844898",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "3472912587",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "2642309592",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                }
+            ],
+            "saleFootnote": "Originally PlayStation exclusives, these sets do not include pieces for the chest or legs. Aesthetically, they are variations of the Iron Companion set."
+            },
+            {
+            "saleSection": 2,
+            "saleTitle": "Silver Dust Engram",
+            "saleItems": [
+                {
+                    "itemHash": "2642036107",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": true,
+                    "link": "/box/dusty-iron-engram"
+                }
+            ],
+            "saleFootnote": ""
+            }
+        ],
+        "sections": []
+    },
+    "vanguard-scout": {
+        "vendorName": "Shiro-4",
+        "icon": "/img/destiny_content/vendor/shiro_4.png",
+        "vendorTitle": "Vanguard Scout",
+        "vendorDescription": "Vanguard scout and wanderer, Shiro-4 is an expert assassin who values intel as much as artillery.",
+        "repFaction": {
+            "repName": "Vanguard",
+            "repIcon": "/common/destiny_content/icons/43ee2437af9b8082d57e804a4f88d3e3.png",
+            "repDescription": "Gain Vanguard Reputation to level up your rank with this faction by completing Vanguard Bounties, Patrol missions, Playlist Strikes and Nightfall Strikes. \n\nIncreasing your rank unlocks Legendary armor for purchase, with stat rolls and perks randomly generated at each weekly reset. \n\nAchieving higher rank levels will reward you a Reputation Package.",
+            "rankLevels": [
+                {
+                    "label": "Rank 1",
+                    "cost": "1500"
+                },
+                {
+                    "label": "Rank 2",
+                    "cost": "2000"
+                },
+                {
+                    "label": "Rank 3+",
+                    "cost": "2500"
+                }
+            ]
+        },
+        "secondRepFaction": {
+            "repName": "",
+            "repIcon": "/common/destiny_content/icons/b1179ad27d4211e0fce4d2a0a955609d.png",
+            "repDescription" : ""
+        },
+        "sales": [
+            {
+            "saleSection": 0,
+            "saleTitle": "Iron Lord Bounties",
+            "saleItems": [
+                {
+                    "itemHash": "604188141",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "Item ×4",
+                    "linkOverride": false,
+                    "link": "/list/iron-lord-bounties"
+                }
+            ],
+            "saleFootnote": ""
+            },
+            {
+            "saleSection": 1,
+            "saleTitle": "Armor",
+            "saleItems": [
+                {
+                    "itemHash": "2055339186",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "1971451024",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "3552383236",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "3602716122",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "3808465211",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "3724577049",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                }
+            ],
+            "saleFootnote": "Sells 1 option for each class, refreshing at weekly reset. Cost includes a Legendary Class Item engram."
+            },
+            {
+            "saleSection": 2,
+            "saleTitle": "Materials & Synthesis",
+            "saleItems": [
+                {
+                    "itemHash": "1898539128",
+                    "showName":true,
+                    "nameOverride": true,
+                    "name": "Weapon Parts ×5",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "1542293174",
+                    "showName":true,
+                    "nameOverride": true,
+                    "name": "Armor Materials ×5",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "928169143",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "211861343",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                }
+            ],
+            "saleFootnote": ""
+            },
+            {
+            "saleSection": 3,
+            "saleTitle": "Material Exchange",
+            "saleItems": [
+                {
+                    "itemHash": "2206724918",
+                    "showName":true,
+                    "nameOverride": true,
+                    "name": "SIVA Key Fragments ×10",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "1397099035",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "3974974481",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                }
+            ],
+            "saleFootnote": "SIVA Key Fragments can be created from a SIVA Cache Key. Age of Triumph Ornaments can be purchased for 2 Perfect Ornaments and 25 Legendary Marks."
+            }
+        ],
+        "sections": []
+    },
+    "eververse": {
+        "vendorName": "Tess Everis",
+        "icon": "/img/destiny_content/vendor/tess.png",
+        "vendorTitle": "",
+        "vendorDescription": "Tess is the proprietor of Eververse, where Guardians can purchase unique curiosities and stylish wares.",
+        "specialInformation": {
+            "title": "Eververse",
+            "icon": "/common/destiny_content/icons/b1dbb490f4ac7f758f55cc840e045138.png",
+            "description": "Eververse is the microtransaction shop of Destiny, selling wares for Silver which is exclusively acquired by purchase through console platform storefronts. \n\nWhile various loot boxes or holiday items were sold through the store, Tess now only carries the Treasure of Ages as a final consolidated item. These are identical to the Treasure of Ages which can be earned in limited quantity per account each week via Featured Activities."
+        },
+        "sales": [
+            {
+            "saleSection": 0,
+            "saleTitle": "Shader",
+            "saleItems": [
+                {
+                    "itemHash": "1050291906",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                }
+            ],
+            "saleFootnote": "This shader can only be claimed by first obtaining a complete set of Age of Triumph armor for your Class. The Age of Triumph armor set is acquired through opening Treasures of Ages."
+            },
+            {
+            "saleSection": 1,
+            "saleTitle": "Mystery Bags",
+            "saleItems": [
+                {
+                    "itemHash": "1973030628",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": true,
+                    "link": "/box/treasure-of-ages"
+                },
+                {
+                    "itemHash": "1973030628",
+                    "showName":true,
+                    "nameOverride": true,
+                    "name": "Treasure of Ages  ×3",
+                    "linkOverride": true,
+                    "link": "/box/treasure-of-ages"
+                },
+                {
+                    "itemHash": "1973030628",
+                    "showName":true,
+                    "nameOverride": true,
+                    "name": "Treasure of Ages  ×5",
+                    "linkOverride": true,
+                    "link": "/box/treasure-of-ages"
+                }
+            ],
+            "saleFootnote": ""
+            }
+        ],
+        "sections": []
+    },
+    "silver-dust-kiosk": {
+        "vendorName": "Silver Dust Kiosk",
+        "icon": "/img/destiny_content/vendor/silverDustCollection.png",
+        "vendorTitle": "Silver Dust Vendor",
+        "vendorDescription": "Purchase items from Eververse with Silver Dust.",
+        "sales": [
+            {
+            "saleSection": 0,
+            "saleTitle": "Silver Dust Engrams",
+            "saleItems": [
+                {
+                    "itemHash": "3033496214",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": true,
+                    "link": "/box/icy-engram"
+                },
+                {
+                    "itemHash": "2712265466",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": true,
+                    "link": "/box/sterling-engram"
+                },
+                {
+                    "itemHash": "1058935190",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": true,
+                    "link": "/box/triad-engram"
+                },
+                {
+                    "itemHash": "2765911489",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": true,
+                    "link": "/box/arena-engram"
+                },
+                {
+                    "itemHash": "2642036107",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": true,
+                    "link": "/box/dusty-iron-engram"
+                },
+                {
+                    "itemHash": "3481509501",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": true,
+                    "link": "/box/exodus-engram"
+                },
+                {
+                    "itemHash": "3535095894",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": true,
+                    "link": "/box/warpath-engram"
+                },
+                {
+                    "itemHash": "742748429",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": true,
+                    "link": "/box/unity-engram"
+                }
+            ],
+            "saleFootnote": ""
+            },
+            {
+            "saleSection": 7,
+            "saleTitle": "Consumables",
+            "saleItems": [
+                {
+                    "itemHash": "2220921114",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "Vanguard Reputation Booster ×3",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "1500229041",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "Crucible Reputation Booster ×3",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "1603376703",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "House of Judgment Reputation Booster ×3",
+                    "linkOverride": false,
+                    "link": ""
+                }
+            ],
+            "saleFootnote": ""
+            },
+            {
+            "saleSection": 9,
+            "saleTitle": "Shaders",
+            "saleItems": [
+                {
+                    "itemHash": "3764987314",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "1050291909",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "3764987317",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "1050291908",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "3859658560",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "1814540601",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "1814540592",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "3764987315",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "3764987319",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "1814540593",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "1814540600",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "3764987312",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "1814540607",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "3764987318",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "3859658562",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "3764987316",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "1814540606",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "1536084164",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "3859658561",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                }
+            ],
+            "saleFootnote": ""
+            },
+            {
+            "saleSection": 10,
+            "saleTitle": "Emblems",
+            "saleItems": [
+                {
+                    "itemHash": "1777175505",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "1893886835",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "1777175504",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "1893886834",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                }
+            ],
+            "saleFootnote": ""
+            },
+            {
+            "saleSection": 10,
+            "saleTitle": "Lens Artifacts",
+            "saleItems": [
+                {
+                    "itemHash": "1014403386",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "1014403387",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                },
+                {
+                    "itemHash": "1014403385",
+                    "showName":true,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                }
+            ],
+            "saleFootnote": ""
+            }
+        ],
+        "sections": [
+            {
+                "sectionTitle":"Desolate Armor",
+                "sectionDescription": "",
+                "sectionType": "Multicolumn Item Display",
+                "columns": [
+                    {
+                        "columnName": "Hunter",
+                        "columnItems": [
+                            "2427702745",
+                            "3031029152",
+                            "1652037982",
+                            "1093781250",
+                            "3982450455"
+                        ]
+                    },
+                    {
+                        "columnName": "Titan",
+                        "columnItems": [
+                            "1087971707",
+                            "3005624346",
+                            "3365509820",
+                            "1694241348",
+                            "3163066993"
+                        ]
+                    },
+                    {
+                        "columnName": "Warlock",
+                        "columnItems": [
+                            "2593583354",
+                            "2579253651",
+                            "3377604063",
+                            "2747752069",
+                            "2861334046"
+                        ]
+                    }
+                ]
+            },
+            {
+                "sectionTitle":"Dawning Armor",
+                "sectionDescription": "",
+                "sectionType": "Multicolumn Item Display",
+                "columns": [
+                    {
+                        "columnName": "Hunter",
+                        "columnItems": [
+                            "3446751352",
+                            "3432421649",
+                            "1459440733",
+                            "3600920071",
+                            "943170716"
+                        ]
+                    },
+                    {
+                        "columnName": "Titan",
+                        "columnItems": [
+                            "1900853782",
+                            "1548012399",
+                            "871374183",
+                            "3502255781",
+                            "1324815690"
+                        ]
+                    },
+                    {
+                        "columnName": "Warlock",
+                        "columnItems": [
+                            "190446371",
+                            "1228741258",
+                            "1198419284",
+                            "3563367176",
+                            "2778914861"
+                        ]
+                    }
+                ]
+            },
+            {
+                "sectionTitle":"Ornaments",
+                "sectionDescription": "",
+                "sectionType": "Item Display",
+                "items": [
+                    "1503687614",
+                    "1503687615",
+                    "4201090572",
+                    "4201090573",
+                    "2185888362",
+                    "3428798156",
+                    "3428798157",
+                    "2670104628",
+                    "2670104629",
+                    "2496068858",
+                    "2496068859",
+                    "3846961187",
+                    "3846961186",
+                    "1961735966",
+                    "1961735967",
+                    "3664120109",
+                    "3664120108",
+                    "2303256244",
+                    "2303256245",
+                    "3353500629",
+                    "3353500628",
+                    "767034156",
+                    "767034157",
+                    "1554221763",
+                    "1649308084",
+                    "1649308085",
+                    "1350048973",
+                    "1350048972",
+                    "1298850675",
+                    "1031221143",
+                    "1031221142",
+                    "937024529",
+                    "937024528",
+                    "1573495022",
+                    "2838906413",
+                    "2838906412",
+                    "1004100804",
+                    "1004100805",
+                    "431256617",
+                    "3536376556",
+                    "1190560887",
+                    "3345355735",
+                    "2341358813",
+                    "3705287265",
+                    "3705287266",
+                    "894761026",
+                    "3705287264",
+                    "894761024",
+                    "3705287267",
+                    "894761027"
+                ]
+            },
+            {
+                "sectionTitle":"Vehicles",
+                "sectionDescription": "",
+                "sectionType": "Item Display",
+                "items": [
+                    "2092342454",
+                    "2092342452",
+                    "2092342453",
+                    "2092342455",
+                    "2092342450",
+                    "2092342462",
+                    "4083935130",
+                    "4083935131",
+                    "4083935128",
+                    "3453851953",
+                    "4083935129",
+                    "4083935134",
+                    "4083935135",
+                    "4083935132",
+                    "4083935133",
+                    "201885899"
+                ]
+            },
+            {
+                "sectionTitle":"Sparrow Horns",
+                "sectionDescription": "",
+                "sectionType": "Item Display",
+                "items": [
+                    "3143956507",
+                    "3143956504",
+                    "3143956505",
+                    "3143956510",
+                    "3143956511",
+                    "3143956508",
+                    "3143956509",
+                    "3143956498",
+                    "3143956499",
+                    "452104881",
+                    "452104880",
+                    "2105124468",
+                    "2105124469",
+                    "2105124470",
+                    "2105124471",
+                    "2105124464",
+                    "2105124465",
+                    "2105124466",
+                    "2105124467",
+                    "2105124476",
+                    "2105124477",
+                    "4219537951",
+                    "4219537950",
+                    "4219537948",
+                    "4219537947",
+                    "4219537946",
+                    "4219537945"
+                ]
+            },
+            {
+                "sectionTitle":"Emotes",
+                "sectionDescription": "",
+                "sectionType": "Item Display",
+                "items": [
+                    "782291710",
+                    "1550204376",
+                    "4117524292",
+                    "1065410231",
+                    "3830276165",
+                    "3459355065",
+                    "1235719490",
+                    "3419008352",
+                    "551599328",
+                    "2101245872",
+                    "1539607709",
+                    "1995339316",
+                    "2568278759",
+                    "2398635885",
+                    "3914027663",
+                    "4148810772",
+                    "1107161193",
+                    "3860926763",
+                    "4026086478",
+                    "3239931829",
+                    "3821472318",
+                    "3324631613",
+                    "3530791991",
+                    "1487483055",
+                    "688599630",
+                    "1050001051",
+                    "3697257119",
+                    "1621381911",
+                    "59705806",
+                    "4020250093",
+                    "890991543",
+                    "3905398596",
+                    "2271714034",
+                    "1225895251",
+                    "2890030645",
+                    "2138738978",
+                    "1849251730",
+                    "983106764",
+                    "231112306",
+                    "3748711903",
+                    "2913319296",
+                    "1165318702",
+                    "1716835624",
+                    "4273914935",
+                    "2518499202",
+                    "2999300345",
+                    "2876397540",
+                    "1314848443",
+                    "1994978985",
+                    "81508954",
+                    "1092311864",
+                    "2320111599",
+                    "2971925023",
+                    "760982642",
+                    "2502362438",
+                    "926158169",
+                    "1501442124",
+                    "120069183",
+                    "2999300344",
+                    "149944960",
+                    "2179890812",
+                    "844248080",
+                    "901968438"
+                ]
+            },
+            {
+                "sectionTitle":"Festival of the Lost Masks",
+                "sectionDescription": "",
+                "sectionType": "Item Display",
+                "items": [
+                    "2136544541",
+                    "1299166026",
+                    "130349300",
+                    "2652799929",
+                    "2825562076",
+                    "571199368",
+                    "403146260",
+                    "3786258554",
+                    "3813534254",
+                    "3542328989",
+                    "177212690",
+                    "2140586598",
+                    "2380856832",
+                    "2112419343",
+                    "1350744010",
+                    "2652535990",
+                    "634687982",
+                    "719019280",
+                    "3507021085",
+                    "1192176513",
+                    "3532502999",
+                    "2327193420",
+                    "3080373384"
+                ]
+            }
+        ]
+    },
+    "": {
         "vendorName": "name",
         "icon": "/img/destiny_content/vendor/shipwright.png",
         "vendorTitle": "title",
@@ -3485,6 +5184,21 @@
             "repName": "",
             "repIcon": "/common/destiny_content/icons/b1179ad27d4211e0fce4d2a0a955609d.png",
             "repDescription" : ""
+        },
+        "specialInformation": {
+            "title": "",
+            "icon": "/common/destiny_content/icons/6d07bdc7f4f8bba7e4d2bafa780ad07b.png",
+            "description": "",
+            "items": [
+                {
+                    "itemHash": "1893498008",
+                    "showName":false,
+                    "nameOverride": false,
+                    "name": "",
+                    "linkOverride": false,
+                    "link": ""
+                }
+            ]
         },
         "sales": [
             {
@@ -3525,27 +5239,27 @@
                 "sectionType": "Multicolumn Item Display",
                 "columns": [
                     {
-                        "columnName": "Titan",
+                        "columnName": "Hunter",
                         "columnItems": [
-                            "00000000",
-                            "00000000",
-                            "00000000"
+                            "",
+                            "",
+                            ""
                         ]
                     },
                     {
-                        "columnName": "Hunter",
+                        "columnName": "Titan",
                         "columnItems": [
-                            "00000000",
-                            "00000000",
-                            "00000000"
+                            "",
+                            "",
+                            ""
                         ]
                     },
                     {
                         "columnName": "Warlock",
                         "columnItems": [
-                            "00000000",
-                            "00000000",
-                            "00000000"
+                            "",
+                            "",
+                            ""
                         ]
                     }
                 ]

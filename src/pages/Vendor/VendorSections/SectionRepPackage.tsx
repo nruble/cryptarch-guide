@@ -9,7 +9,8 @@ import type { DestinyInventoryItem,
     CustomVendorSectionMulticolumnDisplay,
     CustomVendorSectionFieldTest,
     ReputationPackage,
-    ReputationPackageBucket
+    ReputationPackageBucket,
+    ReputationPackageBucketOverride
 } from '../../../types'
 import { Link, useParams, useLocation, useLoaderData } from 'react-router-dom'
 import { Disclosure, DisclosurePanel, DisclosureGroup, Button } from 'react-aria-components'
@@ -24,10 +25,56 @@ export default function SectionRepPackage({section}:{section:CustomVendorSection
         return repItems.map((item:string)=>{
             const itemData:DestinyInventoryItem = items[item]
             return (
-                <div className='rep-package-item'>
+                <Link to={`/item/${item}`} className='rep-package-item'>
                     <img src={`/data/d1_icons${itemData.icon}`} alt="" className='rep-package-item-icon' />
                     <h2 className='rep-package-item-name'>{itemData.itemName}</h2>
-                </div>
+                </Link>
+            )
+        })
+    }
+
+    function repPackageBucketItemsOverride(repItems:string[], overrideData:ReputationPackageBucketOverride[] = [] as ReputationPackageBucketOverride[]){
+        const overrideItems:string[] = overrideData.map((item:ReputationPackageBucketOverride) => item.bucketItemHash)
+
+        return repItems.map((item:string)=>{
+            const itemData:DestinyInventoryItem = items[item]
+            const hasOverride:boolean = overrideItems.includes(item)
+
+            if(hasOverride){
+                const thisOverrideItem:ReputationPackageBucketOverride = overrideData.find(over => over.bucketItemHash === item) ?? {} as ReputationPackageBucketOverride
+                const isLinkOverride:boolean = thisOverrideItem.linkOverride
+                const isLinkHash:boolean = thisOverrideItem.link.startsWith('#')
+                const isNameOverride = thisOverrideItem.nameOverride
+
+                if(isLinkHash && isLinkOverride){
+                    return (
+                        <a href={`${thisOverrideItem.link}`} className='rep-package-item'>
+                            <img src={`/data/d1_icons${itemData.icon}`} alt="" className='rep-package-item-icon' />
+                            <h2 className='rep-package-item-name'>{isNameOverride ? thisOverrideItem.name : itemData.itemName}</h2>
+                        </a>
+                    )
+                }
+
+                return (
+                    <Link 
+                        to={
+                            isLinkOverride  
+                            ? thisOverrideItem.link
+                            : `/item/${item}`
+                        } 
+                        className='rep-package-item'
+                    >
+                        <img src={`/data/d1_icons${itemData.icon}`} alt="" className='rep-package-item-icon' />
+                        <h2 className='rep-package-item-name'>{isNameOverride ? thisOverrideItem.name : itemData.itemName}</h2>
+                    </Link>
+                )
+            }
+
+            return (
+                <Link to={`/item/${item}`} className='rep-package-item'>
+                    <img src={`/data/d1_icons${itemData.icon}`} alt="" className='rep-package-item-icon' />
+                    <h2 className='rep-package-item-name'>{itemData.itemName}</h2>
+                </Link>
             )
         })
     }
@@ -38,11 +85,11 @@ export default function SectionRepPackage({section}:{section:CustomVendorSection
 
             return (
                 <section className='rep-package-items-bucket'>
-                    {bucket.bucketLabel != "" && bucket.bucketItems.length > 3 &&
+                    {bucket.bucketLabel != "" && 
                     <div className='rep-package-items-bucket-label'><span>{bucket.bucketLabel}</span></div>
                     }
                     <div className='rep-package-items'>
-                        {repPackageBucketItems(bucketItemList)}
+                        {repPackageBucketItemsOverride(bucketItemList, bucket.bucketOverrides)}
                     </div>
                 </section>
             )

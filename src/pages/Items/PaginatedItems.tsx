@@ -10,10 +10,16 @@ function Items({ currentItems, itemsPerPage = 30 }:{currentItems:DestinyInventor
     return (
         <div className='resultslist-container' style={{gridTemplateRows:`repeat(${itemsPerPage ? (itemsPerPage / 3) : 10}, 1fr)`}}>
         {currentItems && currentItems.map((item: DestinyInventoryItem) => (
-            <Link to={`/item/${item.itemHash}`} className='resultslist-item' key={`${item.itemHash}`}>
+            // <Link to={`/item/${item.itemHash}`} className='resultslist-item' key={`${item.itemHash}`}>
+            //     <img src={`/data/d1_icons${item.icon}`} alt={`${item.itemName} Icon`} className='resultslist-item-icon' />
+            //     <h3>{item.itemName}</h3>
+            //     <p>{item.itemHash}</p>
+            // </Link>
+            <div className='resultslist-item' key={`${item.itemHash}`}>
                 <img src={`/data/d1_icons${item.icon}`} alt={`${item.itemName} Icon`} className='resultslist-item-icon' />
                 <h3>{item.itemName}</h3>
-            </Link>
+                <p>{item.itemHash}</p>
+            </div>
         ))}
         </div>
     )

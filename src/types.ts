@@ -280,13 +280,134 @@ export type CustomVendorSectionFieldTest = {
         }[]
 }
 
+export type ReputationPackageBucketOverride = {
+        "bucketItemHash": string,
+        "linkOverride": boolean,
+        "link": string,
+        "nameOverride": boolean,
+        "name": string
+    }
+
 export type ReputationPackageBucket = {
         "bucketLabel": string,
-        "bucketItems": string[]
+        "bucketItems": string[],
+        "bucketOverrides"?: ReputationPackageBucketOverride[]
     }
 
 export type ReputationPackage = {
     "icon": string,
     "packageName": string,
     "buckets": ReputationPackageBucket[]
+}
+
+export type RewardBoxPage = {
+    "pageIcon": string,
+    "headline": string,
+    "subtitle": string,
+    "flavorText": string,
+    "sections": {
+        "sectionTitle": string,
+        "textBlock": string,
+        "wideItemDisplay": {
+            "falseItemLinks": {
+                "iconItemHash": string,
+                "iconUrl": string,
+                "labelText": string,
+                "labelSubtitle": string,
+                "linkUrl": string
+            }[],
+            "sets": {
+                "setLabel": string,
+                "setSubtitle": string,
+                "setItems": string[]
+            }[],
+            "items": string[]
+        },
+        "dividedItemDisplay": {
+            "divisionLabel": string,
+            "falseItemLinks": {
+                "iconItemHash": string,
+                "iconUrl": string,
+                "labelText": string,
+                "labelSubtitle": string,
+                "linkUrl": string
+            }[],
+            "sets": {
+                "setLabel": string,
+                "setSubtitle": string,
+                "setItems": string[]
+            }[],
+            "items": string[]
+        }[]
+    }[]
+}
+
+export type ListPage = {
+    "pageIcon": string,
+    "headline": string,
+    "subtitle": string,
+    "flavorText": string,
+    "sections": {
+        "sectionTitle": string,
+        "textBlock": string,
+        "summaryRewards": {
+                "iconUrl": string,
+                "rewardText": string
+            }[],
+        "subjectCards": {
+            "columnCount": 3,
+            "subjectDetailCards": {
+                "iconUrl": string,
+                "title": string,
+                "subtitle": string,
+                "description": string,
+                "quote": string,
+                "summaryRewards": {
+                        "iconUrl": string,
+                        "rewardText": string
+                    }[]
+            }[]
+        },
+        "bountyCards": string[],
+        "activityCards": {
+                "backgroundUrl": string,
+                "title": string,
+                "subtitle": string,
+                "level": string,
+                "lightLevel": string,
+                "description": string,
+                "linkUrl": string
+            }[],
+        "wideItemDisplay": {
+            "falseItemLinks": {
+                "iconItemHash": string,
+                "iconUrl": string,
+                "labelText": string,
+                "labelSubtitle": string,
+                "linkUrl": string
+            }[],
+            "sets": {
+                "setLabel": string,
+                "setSubtitle": string,
+                "setItems": string[]
+            }[],
+            "items": string[]
+        },
+        "dividedItemDisplay": {
+            "divisionLabel": string,
+            "falseItemLinks": {
+                "iconItemHash": string,
+                "iconUrl": string,
+                "labelText": string,
+                "labelSubtitle": string,
+                "linkUrl": string
+            }[],
+            "sets": {
+                "setLabel": string,
+                "setSubtitle": string,
+                "setItems": string[]
+            }[],
+            "items": string[]
+        }[]
+    }[]
 }
