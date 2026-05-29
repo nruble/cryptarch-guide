@@ -11,6 +11,8 @@ body {
   background:$gradient-major-bg;
   min-height: 100vh;
   min-width:320px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   .site-wrapper {
     display: flex;
     flex-direction: column;
@@ -25,4 +27,5 @@ main {
   flex-direction: column;
   // background:$gradient-major-intro;
   flex-grow: 1;
+  white-space:pre-wrap;
 }

@@ -1,0 +1,117 @@
+.subject-detail-card {
+    width:100%;
+    display:flex;
+    flex-direction: row;
+    align-items: flex-start;
+    .subject-card-grim {
+        max-width:300px;
+        width:40%;
+        height:auto;
+        background-color: $color-box-black-hollow;
+    }
+    .subject-detail-card-inner {
+        @include glass-blur;
+        display: flex;
+        flex-direction: column;
+        flex-grow: 1;
+        width:70%;
+        //max-width:600px;
+        .subject-card-header {
+            background-color: $color-box-black-hollow;
+            display: flex;
+            align-items: center;
+            min-height:72px;
+            overflow: hidden;
+            .subject-card-icon {
+                width:72px;
+            }
+            .subject-card-header-inner {
+                padding-inline:18px;
+                padding-block:8px;
+                h3 {
+                    margin:0;
+                    font-size: 1.125rem;
+                    font-weight:$font-medium;
+                    text-transform: uppercase;
+                    letter-spacing: 0.065em;
+                }
+                p {
+                    margin:0;
+                    font-size:14px;
+                    text-transform: uppercase;
+                    font-weight:$font-thin;
+                    letter-spacing: 0.05rem;
+                }
+            }
+        }
+        .subject-card-content {
+            background-color: $color-box-dark-gray-hollow;
+            padding:18px 18px 24px;
+            font-size:1rem;
+            font-weight:$font-xlight;
+            letter-spacing: 0.065rem;
+            display: flex;
+            flex-direction: column;
+            flex-grow: 1;
+            .subject-card-light {
+                margin:0 0 16px;
+                color:$color-lightlevel;
+                font-weight:$font-xlight;
+                font-size:1.125rem;
+                .subject-card-light-val {
+                    font-weight:$font-bold;
+                }
+            }
+            .subject-card-description {
+                p {
+                    margin:0;
+                    font-size:1rem;
+                    strong {
+                        font-weight:$font-medium;
+                    }
+                }
+            }
+            .subject-card-quote {
+                p {
+                    margin:18px 0 0;
+                    font-size:0.875rem;
+                    font-style: italic;
+                    color:$color-fadewhite;
+                    font-weight:$font-thin;
+                    letter-spacing: 0.085rem;
+                    padding-top:18px;
+                    border-top:1px solid $color-ghostwhite;
+                }
+            }
+            .subject-card-rewards {
+                margin-top:32px;
+                flex-grow: 1;
+                align-content: flex-end;
+                &:first-child {
+                    margin-top:0;
+                    flex-grow: 0;
+                }
+                h4 {
+                    margin:0 0 8px;
+                    font-weight:$font-xlight;
+                    letter-spacing: 0.095rem;
+                    font-size:1.125rem;
+                    color:$color-fadewhite;
+                }
+                ul {
+                    list-style: none;
+                    padding:0;
+                    margin-block:0;
+                    display: flex;
+                    flex-direction: column;
+                    gap:6px;
+                    .summary-reward-entry {
+                        span {
+                            font-size:0.875rem;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

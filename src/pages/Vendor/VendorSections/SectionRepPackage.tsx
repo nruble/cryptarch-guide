@@ -36,7 +36,7 @@ export default function SectionRepPackage({section}:{section:CustomVendorSection
     function repPackageBucketItemsOverride(repItems:string[], overrideData:ReputationPackageBucketOverride[] = [] as ReputationPackageBucketOverride[]){
         const overrideItems:string[] = overrideData.map((item:ReputationPackageBucketOverride) => item.bucketItemHash)
 
-        return repItems.map((item:string)=>{
+        return repItems.map((item:string, index)=>{
             const itemData:DestinyInventoryItem = items[item]
             const hasOverride:boolean = overrideItems.includes(item)
 
@@ -48,7 +48,7 @@ export default function SectionRepPackage({section}:{section:CustomVendorSection
 
                 if(isLinkHash && isLinkOverride){
                     return (
-                        <a href={`${thisOverrideItem.link}`} className='rep-package-item'>
+                        <a href={`${thisOverrideItem.link}`} className='rep-package-item' key={index}>
                             <img src={`/data/d1_icons${itemData.icon}`} alt="" className='rep-package-item-icon' />
                             <h2 className='rep-package-item-name'>{isNameOverride ? thisOverrideItem.name : itemData.itemName}</h2>
                         </a>
@@ -63,6 +63,7 @@ export default function SectionRepPackage({section}:{section:CustomVendorSection
                             : `/item/${item}`
                         } 
                         className='rep-package-item'
+                        key={index}
                     >
                         <img src={`/data/d1_icons${itemData.icon}`} alt="" className='rep-package-item-icon' />
                         <h2 className='rep-package-item-name'>{isNameOverride ? thisOverrideItem.name : itemData.itemName}</h2>
@@ -71,7 +72,7 @@ export default function SectionRepPackage({section}:{section:CustomVendorSection
             }
 
             return (
-                <Link to={`/item/${item}`} className='rep-package-item'>
+                <Link to={`/item/${item}`} className='rep-package-item' key={index}>
                     <img src={`/data/d1_icons${itemData.icon}`} alt="" className='rep-package-item-icon' />
                     <h2 className='rep-package-item-name'>{itemData.itemName}</h2>
                 </Link>
@@ -80,11 +81,11 @@ export default function SectionRepPackage({section}:{section:CustomVendorSection
     }
 
     function repPackageBuckets(repBucketList:ReputationPackageBucket[]) {
-        return repBucketList.map((bucket:ReputationPackageBucket) => {
+        return repBucketList.map((bucket:ReputationPackageBucket, index) => {
             const bucketItemList = bucket.bucketItems
 
             return (
-                <section className='rep-package-items-bucket'>
+                <section className='rep-package-items-bucket' key={index}>
                     {bucket.bucketLabel != "" && 
                     <div className='rep-package-items-bucket-label'><span>{bucket.bucketLabel}</span></div>
                     }

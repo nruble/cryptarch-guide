@@ -1,5 +1,78 @@
 .resultslist {
         flex-grow:1;
+        .resultslist-search-bar {
+            padding-block:0 16px;
+            border-bottom: 1px solid $color-ghostwhite;
+            margin-block:0 16px;
+            display:flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap:16px;
+            .resultslist-search-form {
+                display:flex;
+                .react-aria-SearchField {
+                    display:flex;
+                    align-items: center;
+                    gap:8px;
+                    height:30px;
+                    label {
+                        text-transform: uppercase;
+                        font-weight: $font-light;
+                        letter-spacing: 0.065em;
+                        font-size:1rem;
+                    }
+                    .keyword-input {
+                        height:30px;
+                        border:1px solid $color-fadewhite;
+                    }
+                }
+                .resultslist-search-submit {
+                    font-family: $font-family-display;
+                    text-transform: uppercase;
+                    font-weight: $font-normal;
+                    letter-spacing: 0.045em;
+                    font-size:0.875rem;
+                    height:30px;
+                    display:flex;
+                    align-items: center;
+                    justify-content: center;
+                    padding:0;
+                    width:44px;
+                    @include glass-box;
+                    border-left:none;
+                    cursor: pointer;
+                    svg {
+                        color:$color-white;
+                        width:19px;
+                        height:19px;
+                    }
+                }
+            }
+            .resultslist-search-active {
+                .resultslist-search-active-clear {
+                    font-family: $font-family-display;
+                    font-weight: $font-xlight;
+                    letter-spacing: 0.065em;
+                    font-size:0.875rem;
+                    height:30px;
+                    display:flex;
+                    align-items: center;
+                    padding-block:0;
+                    padding-inline:8px 8px;
+                    @include glass-box;
+                    background-color:rgba($color-rare-blue, 0.4);
+                    border-color:$color-rare-blue;
+                    gap:8px;
+                    cursor:pointer;
+                    svg {
+                        color:$color-white;
+                        width:12px;
+                        height:12px;
+                    }
+                }
+            }
+        }
         .resultslist-header {
             display:flex;
             flex-direction: row;
@@ -12,11 +85,15 @@
             }
             h2 {
                 font-weight:$font-bold;
-                font-size:1.25rem;
+                font-size:1.125rem;
                 line-height:1;
                 margin:0;
                 text-transform: uppercase;
-                letter-spacing: 0.05rem;
+                letter-spacing: 0.05em;
+                span {
+                    text-transform: none;
+                    font-weight: $font-light;
+                }
                 @media screen and (max-width:768px){
                     width:100%;
                 }
@@ -178,9 +255,43 @@
         &[data-exiting]{
             bottom:-50vh;
         }
+        .resultslist-mobile-filter-head {
+            display:flex;
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: center;
+            h2 {
+                font-weight:$font-thin;
+                text-transform: uppercase;
+                letter-spacing: 0.075em;
+                font-size:1.375rem;
+            }
+            button {
+                background:none;
+                border:1px solid $color-fadewhite;
+                color:$color-white;
+                padding: 3px 8px 4px;
+                display:flex;
+                flex-direction: row;
+                align-items: center;
+                font-family:$font-family-display;
+                font-weight:$font-light;
+                font-size:0.875rem;
+                text-transform: uppercase;
+                letter-spacing: 0.075em;
+                line-height: 1;
+                gap:6px;
+                svg {
+                    width:17px;
+                    height:17px;
+                    color:$color-white;
+                }
+            }
+        }
         .resultslist-filter-menu {
             width:100%;
             border:none;
+            padding-inline: 0;
         }
     }
 }

@@ -9,15 +9,17 @@ import type { DestinyInventoryItem } from '../../types'
 import ItemResultsPerPage from './ItemResultsPerPage'
 import ItemResultsMobileFilterModal from './ItemResultsMobileFilterModal'
 import { useMediaQuery } from 'react-responsive'
+import { Form, SearchField, Label, Input, Button, Text, FieldError } from 'react-aria-components'
+import { RiMoreFill, RiCloseLargeFill, RiSearchLine } from "react-icons/ri"
 import PaginatedItems from './PaginatedItems'
 
 
 const categoryExclusions = [15, 16, 17, 24, 25, 26, 32, 36, 37, 50, 53] //34 engrams //44 emotes //55 masks
 const excludedNames = ["###Destiny.CLASSIFIED_v260_NAME###", "Reforge Weapon", "Bank TEST"]
 const lightStat = "2391494160"
-const attackStat= "368428387"
-const defenseStat = "3897883278"
-const intellectStat = "144602215"
+// const attackStat= "368428387"
+// const defenseStat = "3897883278"
+// const intellectStat = "144602215"
 
 
 export default function ItemsResultDisplay(){
@@ -38,6 +40,10 @@ export default function ItemsResultDisplay(){
 
     const itemsPerPage:number = useMemo(():number =>{
         return parseInt(searchParams.get('display') ?? '30')
+    },[searchParams])
+
+    const displayKeyword:string = useMemo(()=>{
+        return searchParams.get('keyword') ?? ''
     },[searchParams])
 
     const sanitizedItemsData:DestinyInventoryItem[] = useMemo(():DestinyInventoryItem[] => {
@@ -72,9 +78,9 @@ export default function ItemsResultDisplay(){
                     && itemHashes.length > 0
                     && !categoryExclusions.some((category:number):boolean => itemHashes.includes(category))
                     && matchesCategory && matchesSlot && matchesClass && matchesType && matchesRarity && matchesSource && matchesVendor && matchesKeyword
-                    && ((item.stats && item.stats[defenseStat] && item.stats[defenseStat].maximum <= 400 && item.stats[defenseStat].minimum >= 200)
-                    || (item.stats && item.stats[attackStat] && item.stats[attackStat].maximum <= 400 && item.stats[attackStat].minimum >= 200))
-                    && ((item.stats && item.stats[lightStat] && item.stats[lightStat].value > 20))
+                    // && ((item.stats && item.stats[defenseStat] && item.stats[defenseStat].maximum <= 400 && item.stats[defenseStat].minimum >= 200)
+                    // || (item.stats && item.stats[attackStat] && item.stats[attackStat].maximum <= 400 && item.stats[attackStat].minimum >= 200))
+                    // && ((item.stats && item.stats[lightStat] && item.stats[lightStat].value > 25 && item.stats[lightStat].value <= 45))
                     //&& (item.stats && Object.keys(item.stats).length == 0) //filters for only items with no stats at all aka old class items
                     //&& (item.sourceHashes && item.sourceHashes.length > 1)
                     //&& (item.actionName && item.actionName == "Scrap")
@@ -92,40 +98,91 @@ export default function ItemsResultDisplay(){
             const sortCategory1:number = (a.itemCategoryHashes && b.itemCategoryHashes) ? a.itemCategoryHashes[1] - b.itemCategoryHashes[1] : 0
             const sortCategory2:number = (a.itemCategoryHashes && b.itemCategoryHashes) ? a.itemCategoryHashes[2] - b.itemCategoryHashes[2] : 0
             const sortItemName:number = (a.itemName ? a.itemName.replace(/[^a-zA-Z0-9]/g, "") : '').localeCompare(b.itemName ? b.itemName.replace(/[^a-zA-Z0-9]/g, "") : '')
-            const sortLightMax:number = (a.stats && a.stats[intellectStat] && b.stats && b.stats[intellectStat]) ? b.stats[intellectStat].maximum - a.stats[intellectStat].maximum : 0
+            const sortLightMax:number = (a.stats && a.stats[lightStat] && b.stats && b.stats[lightStat]) ? b.stats[lightStat].maximum - a.stats[lightStat].maximum : 0
     
             return (
                 sortCategory0
                 || sortCategory1
                 || sortCategory2
                 || sortTierType
-                || sortLightMax
                 || sortItemName
-                // || sortItemName
-                // || sortCategory1
-                // || sortCategory2
+                || sortLightMax
             )
         })
 
     },[sanitizedItemsData])
 
+    const updateKeywordParam = (formData:FormData) => {
+        const newParam = formData.get('keywordsearch') as string
+        const updated = (
+            newParam 
+                ? [newParam]
+                : []
+            )
+
+        setSearchParams(prev => {
+            const next = new URLSearchParams(prev)
+            next.delete('keyword')
+            updated.forEach(v => next.append('keyword', v))
+            return next
+        })
+    }
+    const clearKeywordParam = ()=>{
+        setSearchParams(prev => {
+            const next = new URLSearchParams(prev)
+            next.delete('keyword')
+            return next
+        })
+    }
+
     return (
         <section className='resultslist'>
+            <div className="resultslist-search-bar">
+                <Form 
+                    className="resultslist-search-form" 
+                    action={updateKeywordParam}
+                    >
+                    <SearchField
+                        enterKeyHint='search'
+                        type='search'
+                        inputMode='search'
+                        autoComplete='off'
+                        >
+                        <Label>Search by Name</Label>
+                        <Input 
+                            name="keywordsearch"
+                            className="keyword-input"
+                        />
+                        {/* <Button>Clear</Button> */}
+                    </SearchField>
+                    <Button className="resultslist-search-submit" type="submit" aria-label='Search'><RiSearchLine /></Button>
+                </Form>
+                <div className='resultslist-search-active'>
+                    {displayKeyword != '' &&
+                        <button className='resultslist-search-active-clear' onClick={clearKeywordParam}><RiCloseLargeFill /> {displayKeyword}</button>
+                    }
+                </div>
+            </div>
             <div className="resultslist-header">
-                <h2>{sortedItemsData.length.toLocaleString('en-US')} Results</h2>
+                <h2>
+                    {sortedItemsData.length.toLocaleString('en-US')} Results
+                    {displayKeyword != '' &&
+                        <span> | "{displayKeyword}"</span>
+                    }
+                </h2>
                 {!isAboveTablet && 
                 <ItemResultsMobileFilterModal />
                 }
                 <ItemResultsPerPage options={[
                     {value:12},
-                    {value:24},
+                    {value:21},
                     {value:30},
                     {value:48},
                     {value:72},
                     {value:96},
                 ]}/>
             </div>
-            <PaginatedItems itemsPerPage={itemsPerPage ?? 30} sortedItemsData={sortedItemsData} />
+            <PaginatedItems itemsPerPage={itemsPerPage ?? 30} sortedItemsData={sortedItemsData} aria-live='polite' />
         </section>
     )
 }

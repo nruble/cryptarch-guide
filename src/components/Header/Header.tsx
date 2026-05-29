@@ -1,17 +1,22 @@
 import './Header.scss'
-import { useState, useRef } from 'react'
+import { useState, useRef, useEffect } from 'react'
 import { clsx } from 'clsx'
-import { Link, NavLink } from "react-router-dom"
+import { Link, NavLink, useLocation } from "react-router-dom"
 import cryptarchLogo from '../../assets/cryptarch_logo.png'
 import { RiMoreFill, RiCloseLargeFill, RiBookLine, RiBookOpenFill } from "react-icons/ri"
 
 export default function Header() {
     const [navOpen, setNavOpen] = useState(false)
     const navMenu = useRef(null)
+    const location = useLocation()
 
     function toggleMobileNav(){
         setNavOpen(prev => !prev)
     }
+    
+    useEffect(()=>{
+        setNavOpen(false)
+    },[location])
 
     return (
         <header className='site-head'>
@@ -24,11 +29,11 @@ export default function Header() {
             </button>
             <nav className={clsx(`site-header-nav`, navOpen && `open`)} ref={navMenu}>
                 <NavLink to="/acquisition" className={({isActive}) => isActive ? 'head-nav-link active' : 'head-nav-link'}>
-                    Acquisition
+                    Sources
                 </NavLink>
-                <NavLink to="/collection" className={({isActive}) => isActive ? 'head-nav-link active' : 'head-nav-link'}>
+                {/* <NavLink to="/collection" className={({isActive}) => isActive ? 'head-nav-link active' : 'head-nav-link'}>
                     Collection
-                </NavLink>
+                </NavLink> */}
                 <NavLink to="/items" className={({isActive}) => isActive ? 'head-nav-link active' : 'head-nav-link'}>
                     Items
                 </NavLink>

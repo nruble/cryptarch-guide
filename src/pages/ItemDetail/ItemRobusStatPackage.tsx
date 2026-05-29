@@ -17,7 +17,7 @@ const elementMatches = ['', 'kinetic', 'arc', 'thermal', 'void']
 
 export default function ItemRobustStatPackage() {
     const itemHash:string = useParams<string>().itemHash ?? ''
-    const { items, talentGrid, perks }  = useLoaderData()
+    const { items }  = useLoaderData()
     const itemData:DestinyInventoryItem = items[itemHash]
     const itemType:number = itemData.itemType ?? 0
     const statOrder:string[] = ( 

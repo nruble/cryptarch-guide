@@ -79,8 +79,7 @@
             right:$padding-inline-mobile;
             flex-direction: column;
             height: auto;
-            background-color: rgba($color-box-gray, 0.0);
-            gap:4px;
+            @include glass-box;
             &.open {
                 display:flex;
             }
@@ -90,13 +89,21 @@
                 width: 100%;
                 justify-content: center;
                 box-shadow: none;
-                color:rgba($color-white, 0.8);
-                @include glass-box;
+                color:$color-fadewhite;
                 text-shadow: none;
+                border-inline:3px solid transparent;
+                &:not(:first-child){
+                    border-top:1px solid $color-ghostwhite;
+                }
                 &.active {
                     box-shadow:none;
+                    border-inline:3px solid $color-ghostwhite;
                     background-color: rgba($color-box-gray, 0.8);
-                    color:rgba($color-white, 1.0);
+                    color:$color-white;
+                }
+                &:not(.active):hover, &:not(.active):focus {
+                    background-color: rgba($color-box-gray, 0.8);
+                    color:$color-white;
                 }
             }
         }

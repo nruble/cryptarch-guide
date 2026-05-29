@@ -1,0 +1,16 @@
+.summary-reward-entry {
+    display:flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap:8px;
+    .summary-reward-icon {
+        width:16px;
+        height:16px;
+    }
+    span {
+        font-size:1rem;
+        letter-spacing: 0.095em;
+        font-weight:$font-xlight;
+        line-height: 16px;
+    }
+}

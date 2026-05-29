@@ -1,0 +1,53 @@
+.activity-heading {
+    @include cleaner-page-head;
+    .activity-headline {
+        @include max-page-cap;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-start;
+        padding-inline:$padding-inline-desktop;
+        .activity-heading-icon {
+            width:96px;
+            height:96px;
+            margin-right:16px;
+        }
+        .activity-heading-main {
+            flex-grow: 1;
+            h1 {
+                @include page-h1;
+            }
+            .activity-heading-subtitle {
+                @include page-heading-subtitle;
+            }
+            .activity-heading-flavortext {
+                @include page-heading-flavortext;
+            }
+        }
+    }
+    .activity-header-sections {
+        @include max-page-cap;
+        padding-inline:$padding-inline-desktop;
+        margin-top:60px;
+        .activity-head-section {
+            .activity-head-section-title {
+                @include common-page-section-title;
+            }
+            .activity-head-info {
+                margin-block:16px;
+                p {
+                    font-size:18px;
+                    letter-spacing: 0.065em;
+                    font-weight:$font-xlight;
+                    margin:0;
+                }
+                .activity-head-light {
+                    color:$color-lightlevel;
+                }
+            }
+            .activity-head-section-textblock {
+                @include common-page-textblock;
+            }
+        }
+    }
+}

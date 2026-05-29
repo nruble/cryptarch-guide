@@ -1790,7 +1790,7 @@
             }
         ]
     },
-    "legendary-class-engram": {
+    "legendary-class-item-engram": {
         "pageIcon": "/common/destiny_content/icons/df3e5c3707bf247d25b829dbc8883d16.jpg",
         "headline": "Class Item",
         "subtitle": "Legendary Engram",
@@ -2309,7 +2309,7 @@
             }
         ]
     },
-    "legacy-legendary-class-engram": {
+    "legacy-legendary-class-item-engram": {
         "pageIcon": "/common/destiny_content/icons/df3e5c3707bf247d25b829dbc8883d16.jpg",
         "headline": "Legacy Class Item",
         "subtitle": "Legendary Engram",
@@ -3210,7 +3210,7 @@
                     "falseItemLinks": [
                         {
                             "iconUrl": "/img/destiny_content/items/multi-chroma-icon.png",
-                            "linkLabel": "Chroma (Random Color)",
+                            "labelText": "Chroma (Random Color)",
                             "linkUrl": "/list/chroma"
                         }
                     ],

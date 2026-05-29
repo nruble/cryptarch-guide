@@ -8,7 +8,7 @@ import ItemRobustTalent from './ItemRobustTalent'
 
 export default function ItemDetailRobustData() {
     const itemHash:string = useParams<string>().itemHash ?? ''
-    const { items, talentGrid, perks }  = useLoaderData()
+    const { items }  = useLoaderData()
     const itemData:DestinyInventoryItem = items[itemHash]
     const itemType:number = itemData.itemType ?? 0
     const itemTalentHash:number = itemData.talentGridHash ?? 0

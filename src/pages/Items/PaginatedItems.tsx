@@ -10,16 +10,16 @@ function Items({ currentItems, itemsPerPage = 30 }:{currentItems:DestinyInventor
     return (
         <div className='resultslist-container' style={{gridTemplateRows:`repeat(${itemsPerPage ? (itemsPerPage / 3) : 10}, 1fr)`}}>
         {currentItems && currentItems.map((item: DestinyInventoryItem) => (
-            // <Link to={`/item/${item.itemHash}`} className='resultslist-item' key={`${item.itemHash}`}>
+            <Link to={`/item/${item.itemHash}`} className='resultslist-item' key={`${item.itemHash}`}>
+                <img src={`/data/d1_icons${item.icon}`} alt={`${item.itemName} Icon`} className='resultslist-item-icon' />
+                <h3>{item.itemName}</h3>
+            </Link>
+
+            // <div className='resultslist-item' key={`${item.itemHash}`}>
             //     <img src={`/data/d1_icons${item.icon}`} alt={`${item.itemName} Icon`} className='resultslist-item-icon' />
             //     <h3>{item.itemName}</h3>
             //     <p>{item.itemHash}</p>
-            // </Link>
-            <div className='resultslist-item' key={`${item.itemHash}`}>
-                <img src={`/data/d1_icons${item.icon}`} alt={`${item.itemName} Icon`} className='resultslist-item-icon' />
-                <h3>{item.itemName}</h3>
-                <p>{item.itemHash}</p>
-            </div>
+            // </div>
         ))}
         </div>
     )
@@ -28,7 +28,8 @@ function Items({ currentItems, itemsPerPage = 30 }:{currentItems:DestinyInventor
 export default function PaginatedItems({ itemsPerPage, sortedItemsData }:{itemsPerPage: number, sortedItemsData:DestinyInventoryItem[]}) {
     const [searchParams, setSearchParams] = useSearchParams()
     const [currentPage, setCurrentPage] = useState<number>(
-        () => parseInt(searchParams.get('page') ?? '1')
+        // () => parseInt(searchParams.get('page') ?? '1')
+        1
     )
     
     const pageCount:number = useMemo(()=> {
@@ -43,12 +44,13 @@ export default function PaginatedItems({ itemsPerPage, sortedItemsData }:{itemsP
 
     function handlePageChange(page:number){
         setCurrentPage(page)
-        setSearchParams(prev => {
-            const next = new URLSearchParams(prev)
-            next.delete('page')
-            page != 1 && next.set('page', page.toString())
-            return next
-        }, {replace:true})
+        // setSearchParams(prev => {
+        //     const next = new URLSearchParams(prev)
+        //     next.delete('page')
+        //     //page != 1 && next.set('page', page.toString())
+        //     next.set('page', page.toString())
+        //     return next
+        // }, {replace:true})
     }
 
     return (
@@ -59,6 +61,7 @@ export default function PaginatedItems({ itemsPerPage, sortedItemsData }:{itemsP
                     current={ currentPage }
                     total={ pageCount }
                     onPageChange={(page) => handlePageChange(page)}
+                    //onPageChange={(page) => handlePageChange(page)}
                     className="resultslist-pagination"
                     nextLabel={<RiArrowRightSFill />}
                     previousLabel={<RiArrowLeftSFill />}

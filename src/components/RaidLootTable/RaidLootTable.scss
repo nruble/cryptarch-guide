@@ -1,0 +1,78 @@
+.activity-loot-table-section {
+    @include max-page-cap;
+    padding-inline:$padding-inline-desktop;
+    .activity-loot-table-controls {
+        display: flex;
+        align-items: center;
+        gap:32px;
+        padding-block:32px;
+        hr {
+            flex-grow: 1;
+        }
+        .class-button-group {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap:24px;
+            button {
+                background:none;
+                border:none;
+                font-family: $font-family-display;
+                color:$color-white;
+                font-size: 1rem;
+                text-transform: uppercase;
+                letter-spacing: 0.04em;
+                display: flex;
+                flex-direction: column;
+                gap:6px;
+                align-items: center;
+                cursor: pointer;
+                .button-symbol-circle {
+                    height:72px;
+                    width:72px;
+                    border:2px solid $color-white;
+                    box-sizing: content-box;
+                    border-radius: 100%;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    margin-bottom:8px;
+                    transition: opacity 0.1s ease-in-out;
+                    img {
+                        &.hunter-logo {
+                            width:34px;
+                        }
+                        &.titan-logo {
+                            width:36px;
+                        }
+                        &.warlock-logo {
+                            width:44px;
+                        }
+                    }
+                }
+                &:not([aria-disabled="true"]){
+                    .button-symbol-circle {
+                        opacity: 0.4;
+                    }
+                    &:hover, &:focus {
+                        .button-symbol-circle {
+                            opacity:1.0;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    .activity-loot-table-grid{
+        width:100%;
+        display:grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap:16px;
+        grid-auto-flow: dense;
+        .set-item-container {
+            grid-column: span 3;
+        }
+        .simple-item-container {
+            width:100%;
+        }
+    }
+}

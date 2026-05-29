@@ -300,6 +300,66 @@ export type ReputationPackage = {
     "buckets": ReputationPackageBucket[]
 }
 
+export type FalseItemLink = {
+    "iconUrl": string,
+    "labelText": string,
+    "labelSubtitle": string,
+    "linkUrl": string
+}
+
+export type ItemDisplaySet = {
+    "setLabel": string,
+    "setSubtitle": string,
+    "setItems": [
+        string,
+        string,
+        string,
+        string,
+        string
+    ]
+}
+
+export type WideItemDisplay = {
+    "minimizeItemList": boolean,
+    "falseItemLinks": FalseItemLink[],
+    "sets": ItemDisplaySet[],
+    "items": string[]
+}
+
+export type DividedItemDisplay = {
+    "divisionLabel": string,
+    "minimizeItemList": boolean,
+    "falseItemLinks": FalseItemLink[],
+    "sets": ItemDisplaySet[],
+    "items": string[]
+}
+
+export type SummaryReward = {
+    "iconUrl": string,
+    "rewardText": string
+}
+
+export type SubjectDetailCard = {
+    "grimoireCardUrl": string,
+    "iconUrl": string,
+    "title": string,
+    "subtitle": string,
+    "lightLevel": string,
+    "description": string,
+    "quote": string,
+    "summaryRewards": SummaryReward[]
+}
+
+export type ActivityCardType = {
+    "backgroundUrl": string,
+    "title": string,
+    "subtitle": string,
+    "level": string,
+    "lightLevel": string,
+    "description": string,
+    "linkUrl": string
+}
+
 export type RewardBoxPage = {
     "pageIcon": string,
     "headline": string,
@@ -308,37 +368,8 @@ export type RewardBoxPage = {
     "sections": {
         "sectionTitle": string,
         "textBlock": string,
-        "wideItemDisplay": {
-            "falseItemLinks": {
-                "iconItemHash": string,
-                "iconUrl": string,
-                "labelText": string,
-                "labelSubtitle": string,
-                "linkUrl": string
-            }[],
-            "sets": {
-                "setLabel": string,
-                "setSubtitle": string,
-                "setItems": string[]
-            }[],
-            "items": string[]
-        },
-        "dividedItemDisplay": {
-            "divisionLabel": string,
-            "falseItemLinks": {
-                "iconItemHash": string,
-                "iconUrl": string,
-                "labelText": string,
-                "labelSubtitle": string,
-                "linkUrl": string
-            }[],
-            "sets": {
-                "setLabel": string,
-                "setSubtitle": string,
-                "setItems": string[]
-            }[],
-            "items": string[]
-        }[]
+        "wideItemDisplay": WideItemDisplay,
+        "dividedItemDisplay": DividedItemDisplay[]
     }[]
 }
 
@@ -350,64 +381,127 @@ export type ListPage = {
     "sections": {
         "sectionTitle": string,
         "textBlock": string,
-        "summaryRewards": {
-                "iconUrl": string,
-                "rewardText": string
-            }[],
+        "summaryRewards": SummaryReward[],
         "subjectCards": {
-            "columnCount": 3,
-            "subjectDetailCards": {
-                "iconUrl": string,
-                "title": string,
-                "subtitle": string,
-                "description": string,
-                "quote": string,
-                "summaryRewards": {
-                        "iconUrl": string,
-                        "rewardText": string
-                    }[]
-            }[]
+            "columnCount": number,
+            "subjectDetailCards": SubjectDetailCard[]
         },
         "bountyCards": string[],
-        "activityCards": {
-                "backgroundUrl": string,
-                "title": string,
-                "subtitle": string,
-                "level": string,
-                "lightLevel": string,
-                "description": string,
-                "linkUrl": string
-            }[],
-        "wideItemDisplay": {
-            "falseItemLinks": {
-                "iconItemHash": string,
-                "iconUrl": string,
-                "labelText": string,
-                "labelSubtitle": string,
-                "linkUrl": string
-            }[],
-            "sets": {
-                "setLabel": string,
-                "setSubtitle": string,
-                "setItems": string[]
-            }[],
+        "activityCards": ActivityCardType[],
+        "wideItemDisplay": WideItemDisplay,
+        "dividedItemDisplay": DividedItemDisplay[]
+    }[]
+}
+
+export type ActivityPage = {
+    "pageIcon": string,
+    "headline": string,
+    "subtitle": string,
+    "flavorText": string,
+    "headerBackgroundUrl": string,
+    "headerSections": {
+        "sectionTitle": string,
+        "activityInfo": {
+            "activityLevel": string,
+            "lightLevel": string,
+            "modeType": string,
+            "teamSize": string,
+            "activityType": string,
+            "hasMatchmaking": boolean
+        },
+        "textBlock": string
+    }[],
+    "raidLootTable": {
+        "hunter": {
+            "armorSet": ItemDisplaySet,
             "items": string[]
         },
-        "dividedItemDisplay": {
-            "divisionLabel": string,
-            "falseItemLinks": {
-                "iconItemHash": string,
-                "iconUrl": string,
-                "labelText": string,
-                "labelSubtitle": string,
-                "linkUrl": string
-            }[],
-            "sets": {
-                "setLabel": string,
-                "setSubtitle": string,
-                "setItems": string[]
-            }[],
+        "titan": {
+            "armorSet": ItemDisplaySet,
             "items": string[]
-        }[]
+        },
+        "warlock": {
+            "armorSet": ItemDisplaySet,
+            "items": string[]
+        },
+        "generalItems": string[]
+    },
+    "sections": {
+        "sectionTitle": string,
+        "textBlock": string,
+        "summaryRewards": SummaryReward[],
+        "subjectCards": {
+            "columnCount": number,
+            "subjectDetailCards": SubjectDetailCard[]
+        },
+        "activityCards": ActivityCardType[],
+        "wideItemDisplay": WideItemDisplay,
+        "dividedItemDisplay": DividedItemDisplay[]
     }[]
+}
+
+interface RewardValuesObject {
+    [key: string]: number
+}
+
+export type DestinyItemBounty = {
+    "itemHash": number,
+    "itemName": string,
+    "itemDescription": string,
+    "icon": string,
+    "displaySource": string,
+    "itemTypeName": string,
+    "rewardItemHash": number,
+    "values": RewardValuesObject,
+    "sourceHashes": number[],
+    "needsFullCompletion": boolean,
+    "objectiveVerb": string,
+    "objectiveHashes": number[]
+}
+
+export type DestinyObjective = {
+    "objectiveHash": number,
+    "unlockValueHash": number,
+    "completionValue": number,
+    "vendorHash": number,
+    "vendorCategoryHash": number,
+    "displayDescription": string,
+    "locationHash": number,
+    "allowNegativeValue": boolean,
+    "allowValueChangeWhenCompleted": boolean,
+    "isCountingDownward": boolean,
+    "valueStyle": number,
+    "hash": number,
+    "index": number,
+    "contentIdentifier": string,
+    "redacted": boolean
+}
+
+export type ActivityHeadSection = {
+    "sectionTitle": string,
+    "activityInfo": {
+        "activityLevel": string,
+        "lightLevel": string,
+        "modeType": string,
+        "teamSize": string,
+        "activityType": string,
+        "hasMatchmaking": boolean
+    },
+    "textBlock": string
+}
+
+export type RaidLootTable = {
+    "hunter": {
+        "armorSet": ItemDisplaySet,
+        "items": string[]
+    },
+    "titan": {
+        "armorSet": ItemDisplaySet,
+        "items": string[]
+    },
+    "warlock": {
+        "armorSet": ItemDisplaySet,
+        "items": string[]
+    },
+    "generalItems": string[]
 }

@@ -1,0 +1,92 @@
+.bounty-card {
+    @include glass-blur;
+    border-top:2px solid $color-fadewhite;
+    max-width: 372px;
+    display: flex;
+    flex-direction: column;
+    .bounty-header {
+        background-color: $color-box-black-hollow;
+        display: flex;
+        align-items: center;
+        height:72px;
+        overflow: hidden;
+        .bounty-icon {
+            width:72px;
+        }
+        h3 {
+            margin:0;
+            padding-inline:18px;
+            padding-block:8px;
+            font-size: 1.125rem;
+            font-weight:$font-xlight;
+            text-transform: uppercase;
+            letter-spacing: 0.075em;
+        }
+    }
+    .bounty-content {
+        background-color: $color-box-dark-gray-hollow;
+        padding:18px;
+        font-size:1rem;
+        font-weight:$font-xlight;
+        letter-spacing: 0.065rem;
+        display: flex;
+        flex-direction: column;
+        flex-grow: 1;
+        .bounty-description {
+            margin:0 0 16px;
+        }
+        .bounty-objective {
+            margin:0;
+            .bounty-objective-label {
+                font-weight:$font-bold;
+                text-transform: uppercase;
+            }
+        }
+        .bounty-quote {
+            margin:18px 0 0;
+            font-size:0.875rem;
+            font-style: italic;
+            color:$color-fadewhite;
+            font-weight:$font-thin;
+            letter-spacing: 0.085rem;
+            padding-top:18px;
+            border-top:1px solid $color-ghostwhite;
+        }
+        .bounty-rewards {
+            margin-top:32px;
+            flex-grow: 1;
+            align-content: flex-end;
+            h4 {
+                margin:0 0 8px;
+                font-weight:$font-xlight;
+                letter-spacing: 0.095rem;
+                font-size:1.125rem;
+                color:$color-fadewhite;
+            }
+            ul {
+                list-style: none;
+                padding:0;
+                margin-block:0;
+                display: flex;
+                flex-direction: column;
+                gap:8px;
+                li {
+                    display:flex;
+                    flex-direction: row;
+                    align-items: flex-start;
+                    gap:6px;
+                    .summary-reward-icon {
+                        width:16px;
+                        height:16px;
+                    }
+                    span {
+                        font-size:0.875rem;
+                        letter-spacing: 0.095em;
+                        font-weight:$font-xlight;
+                        line-height: 16px;
+                    }
+                }
+            }
+        }
+    }
+}

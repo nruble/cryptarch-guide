@@ -1,0 +1,29 @@
+.simple-item-container {
+    @include glass-box;
+    display:flex;
+    max-width:372px;
+    width:25vw;
+    height:96px;
+    box-sizing: border-box;
+    text-decoration: none;
+    overflow: hidden;
+    &.minimized {
+        max-width:unset;
+        width:98px;
+    }
+    .simple-item-image {
+        width:96px;
+        height:96px;
+        background-image:url('/data/d1_icons/img/destiny_content/items/set_blank.png');
+        background-size:cover;
+        background-position: center center;
+    }
+    .display-item-label {
+        padding-block:18px;
+        padding-inline:24px 18px;
+        margin:0;
+        font-size:1rem;
+        letter-spacing: 0.075em;
+        font-weight:$font-xlight;
+    }
+}

@@ -5,15 +5,13 @@ export async function inventoryLoader() {
 }
 
 export async function fullItemDataLoader() {
-    const [items, talentGrid, perks] = await Promise.all([
+    const [items, talentGrid] = await Promise.all([
         fetch('/data/d1_manifest/DestinyInventoryItemDefinition.json')
             .then(res => res.json()),
         fetch('/data/d1_manifest/DestinyTalentGridDefinition.json')
-            .then(res => res.json()),
-        fetch('/data/d1_manifest/DestinySandboxPerkDefinition.json')
-            .then(res => res.json()),
+            .then(res => res.json())
     ])
-    return { items, talentGrid, perks }
+    return { items, talentGrid }
 }
 
 export async function vendorAndItemLoader() {
@@ -26,4 +24,36 @@ export async function vendorAndItemLoader() {
             .then(res => res.json())
     ])
     return { items, vendors, repPackages }
+}
+
+export async function rewardBoxLoader() {
+    const [items, boxes] = await Promise.all([
+        fetch('/data/d1_manifest/DestinyInventoryItemDefinition.json')
+            .then(res => res.json()),
+        fetch('/data/rewardBoxData.json')
+            .then(res => res.json())
+    ])
+    return { items, boxes }
+}
+
+export async function listPageLoader() {
+    const [items, lists, objectives] = await Promise.all([
+        fetch('/data/d1_manifest/DestinyInventoryItemDefinition.json')
+            .then(res => res.json()),
+        fetch('/data/listPageData.json')
+            .then(res => res.json()),
+        fetch('/data/d1_manifest/DestinyObjectiveDefinition.json')
+            .then(res => res.json())
+    ])
+    return { items, lists, objectives }
+}
+
+export async function activityPageLoader() {
+    const [items, activities] = await Promise.all([
+        fetch('/data/d1_manifest/DestinyInventoryItemDefinition.json')
+            .then(res => res.json()),
+        fetch('/data/activityPageData.json')
+            .then(res => res.json())
+    ])
+    return { items, activities }
 }

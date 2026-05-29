@@ -1,0 +1,159 @@
+.page-heading {
+    .page-heading-inner {
+        .page-heading-text {
+            h1 {
+                font-weight: $font-thin;
+                //text-shadow: $text-shadow-standard;
+            }
+        }
+    }
+}
+.acquisition-body {
+    @include max-page-cap;
+    font-family: $font-family-display;
+    display:grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap:32px;
+    margin-block:16px 60px;
+    .source-section {
+        grid-column: span 2;
+        &.half-span {
+            grid-column: span 1;
+        }
+        .source-section-title {
+            @include common-page-section-title;
+            color:$color-white;
+            font-weight: $font-xlight;
+            letter-spacing: 0.125em;
+        }
+        .source-lists-group {
+            display: grid;
+            gap:16px;
+            align-items: flex-start;
+            grid-auto-flow: column;
+            &.colcount-2 {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            &.colcount-3 {
+                grid-template-columns: repeat(3, 1fr);
+            }
+            &.colcount-vendor {
+                grid-template-areas:
+                    "a d f"
+                    "b d f"
+                    "b d g"
+                    "b e g"
+                    "b e g"
+                    "c e g"
+                    "c e g"
+                    "c . .";
+                .vend-vanguard {
+                    grid-area: a;
+                    background: linear-gradient(rgba($color-black, 0.8), rgba($color-black, 0.8)), url('/data/d1_icons/img/theme/destiny/bgs/vendorsplash/vanguard.jpg') center center / cover no-repeat, $color-black;
+                }
+                .vend-crucible {
+                    grid-area: b;
+                    background: linear-gradient(rgba($color-black, 0.8), rgba($color-black, 0.8)), url('/data/d1_icons/img/theme/destiny/bgs/vendorsplash/crucible.jpg') center center / cover no-repeat, $color-black;
+                }
+                .vend-factions {
+                    grid-area: c;
+                    background: linear-gradient(rgba($color-black, 0.8), rgba($color-black, 0.8)), url('/data/d1_icons/img/theme/destiny/bgs/vendorsplash/factions.jpg') center center / cover no-repeat, $color-black;
+                }
+                .vend-tower {
+                    grid-area: d;
+                    background: linear-gradient(rgba($color-black, 0.8), rgba($color-black, 0.8)), url('/data/d1_icons/img/theme/destiny/bgs/vendorsplash/tower.jpg') center center / cover no-repeat, $color-black;
+                }
+                .vend-ever {
+                    grid-area: e;
+                    background: linear-gradient(rgba($color-black, 0.8), rgba($color-black, 0.8)), url('/data/d1_icons/img/theme/destiny/bgs/vendorsplash/eververse.jpg') center center / cover no-repeat, $color-black;
+                }
+                .vend-reef {
+                    grid-area: f;
+                    background: linear-gradient(rgba($color-black, 0.8), rgba($color-black, 0.8)), url('/data/d1_icons/img/theme/destiny/bgs/vendorsplash/reef.jpg') center center / cover no-repeat, $color-black;
+                }
+                .vend-iron {
+                    grid-area: g;
+                    background: linear-gradient(rgba($color-black, 0.8), rgba($color-black, 0.8)), url('/data/d1_icons/img/theme/destiny/bgs/vendorsplash/iron_temple.jpg') center center / cover no-repeat, $color-black;
+                }
+            }
+            &.colcount-4 {
+                grid-template-columns: repeat(4, 1fr);
+            }
+            &.colcount-5 {
+                grid-template-columns: repeat(5, 1fr);
+            }
+            .source-list {
+                background-color:rgba($color-box-black, 0.9);
+                margin:0;
+                $source-icon-size:48px;
+                margin-top:calc($source-icon-size / 2);
+                padding-inline:24px;
+                padding-block:0 24px;
+                dt.source-list-heading {
+                    display:flex;
+                    flex-direction: column;
+                    align-items: center;
+                    position:relative;
+                    top:calc(($source-icon-size/2) * -1);
+                    .icon-set {
+                        display:flex;
+                        gap:6px;
+                    }
+                    img {
+                        height:$source-icon-size;
+                        position: relative;
+                    }
+                    h3 {
+                        margin-block:6px 0;
+                        font-size:18px;
+                        font-weight:$font-medium;
+                        text-transform: uppercase;
+                        letter-spacing: 0.075em;
+                        text-shadow: $text-shadow-standard;
+                    }
+                }
+                dd {
+                    margin-inline:0;
+                    color:$color-white;
+                    font-size:1rem;
+                    font-weight:$font-xlight;
+                    letter-spacing: 0.095rem;
+                    text-shadow: $text-shadow-standard;
+                    & .r-exotic, & .r-legend, & .emphasis {
+                        font-weight:$font-medium;
+                        letter-spacing: 0.04em;
+                    }
+                    & .r-exotic {
+                        color:$color-exotic-gold-light;
+                    }
+                    & .r-legend {
+                        color:$color-legend-purple-light;
+                    }
+                    &:not(:nth-child(2)){
+                        margin-top:12px;
+                    }
+                    a {
+                        text-decoration: none;
+                        color:$color-white;
+                        &:hover, &:focus {
+                            color:$color-fadewhite;
+                        }
+                        &:hover .r-exotic, &:focus .r-exotic {
+                            color:rgba($color-exotic-gold-light, 0.8);
+                        }
+                        &:hover .r-legend, &:focus .r-legend {
+                            color:rgba($color-legend-purple-light, 0.8);
+                        }
+                    }
+                    p {
+                        margin:0;
+                        text-shadow: none;
+                        font-size:1rem;
+                        font-weight:$font-xlight;
+                        letter-spacing: 0.065em;
+                    }
+                }
+            }
+        }
+    }
+}

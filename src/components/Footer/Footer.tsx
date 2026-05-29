@@ -19,7 +19,7 @@ export default function Footer() {
             <div className='footer-info'>
                 <span className='footer-copyright'>© {currentYear} Cryptarch Guide</span>
                 <span className='footer-attribution'>Destiny & all related media are © Bungie</span>
-                <p className='footer-thanks'>Thanks to hundreds of community&nbsp;sources &&nbsp;{yearDifference}&nbsp;years of community&nbsp;developers</p>
+                <p className='footer-thanks'>Special thanks to {yearDifference}&nbsp;years of the Destiny&nbsp;community for developing tools, asking questions, and gathering up info.</p>
             </div>
         </footer>
     )

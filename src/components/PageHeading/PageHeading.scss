@@ -1,0 +1,28 @@
+.page-heading {
+    @include common-page-head;
+    .page-heading-inner {
+        @include max-page-cap;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-start;
+        padding-inline:$padding-inline-desktop;
+        .page-heading-icon {
+            width:96px;
+            height:96px;
+            margin-right:16px;
+        }
+        .page-heading-text {
+            flex-grow: 1;
+            h1 {
+                @include page-h1;
+            }
+            .page-heading-subtitle {
+                @include page-heading-subtitle;
+            }
+            .page-heading-flavortext {
+                @include page-heading-flavortext;
+            }
+        }
+    }
+}
