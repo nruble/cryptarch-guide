@@ -46,7 +46,7 @@ export default function Acquisition(){
                                 <h3>Prison of Elders</h3>
                             </dt>
                             <dd><Link to={'/activity/challenge-of-the-elders'}>Challenge of the&nbsp;Elders <RiArrowRightSLine/></Link></dd>
-                            <dd><Link to={'/activity/prison-of-elders'}>Prison of Elders: Taken <RiArrowRightSLine/></Link></dd>
+                            <dd><Link to={'/activity/prison-of-elders-taken'}>Prison of Elders: Taken <RiArrowRightSLine/></Link></dd>
                             <dd><Link to={'/activity/prison-of-elders-skolass-revenge'}>Skolas&rsquo;s Revenge <RiArrowRightSLine/></Link></dd>
                             <dd><Link to={'/activity/prison-of-elders-weapon-core'}>Prison of Elders: Weapon&nbsp;Core <RiArrowRightSLine/></Link></dd>
                             <dd><Link to={'/activity/prison-of-elders-armor-core'}>Prison of Elders: Armor&nbsp;Core <RiArrowRightSLine/></Link></dd>
@@ -207,8 +207,7 @@ export default function Acquisition(){
                             <dd><Link to={'/list/vanguard-bounties'}>Vanguard <RiArrowRightSLine/></Link></dd>
                             <dd><Link to={'/list/vanguard-elite-bounties'}>Vanguard Elite <RiArrowRightSLine/></Link></dd>
                             <dd><Link to={'/list/vanguard-weekly-elite-bounties'}>Vanguard Weekly&nbsp;Elite <RiArrowRightSLine/></Link></dd>
-                            {/* <dd><Link to={'/list/crucible-bounties'}>Crucible <RiArrowRightSLine/></Link></dd> */}
-                            <dd>Crucible <span className='emphasis'>(UNDER REVIEW)</span></dd>
+                            <dd><Link to={'/list/crucible-bounties'}>Crucible <RiArrowRightSLine/></Link></dd>
                             <dd><Link to={'/list/crucible-weekly-weapons-bounties'}>Crucible Weekly&nbsp;Weapons <RiArrowRightSLine/></Link></dd>
                             <dd><Link to={'/list/crucible-weekly-mode-bounties'}>Crucible Weekly&nbsp;Modes <RiArrowRightSLine/></Link></dd>
                             <dd><Link to={'/list/queens-wrath-bounties'}>Queen&rsquo;s Wrath <RiArrowRightSLine/></Link></dd>

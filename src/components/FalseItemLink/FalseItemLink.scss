@@ -1,39 +1,63 @@
+$reduced-icon-size: 72px;
 .false-item-container {
-    @include glass-box;
-    display:flex;
-    max-width:372px;
-    width:25vw;
-    height:96px;
-    box-sizing: border-box;
-    text-decoration: none;
-    overflow: hidden;
-    .false-item-icon {
+  @include glass-box;
+  display:flex;
+  max-width:372px;
+  width:25vw;
+  height:96px;
+  box-sizing: border-box;
+  text-decoration: none;
+  overflow: hidden;
+  .false-item-icon {
     width:96px;
     height:96px;
     background:url('/data/d1_icons/img/destiny_content/items/set_blank.png') center center / contain;
+  }
+  .false-item-body{
+    display: flex;
+    flex-direction: column;
+    padding-block:18px;
+    padding-inline:24px 18px;
+    gap:3px;
+    p {
+      font-size:0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.085rem;
+      font-weight: $font-medium;
+      color:$color-fadewhite;
+      margin:0;
     }
-    .false-item-body{
-        display: flex;
-        flex-direction: column;
-        padding-block:18px;
-        padding-inline:24px 18px;
-        gap:3px;
-        p {
-            font-size:12px;
-            text-transform: uppercase;
-            letter-spacing: 0.085rem;
-            font-weight: $font-medium;
-            color:$color-fadewhite;
-            margin:0;
-        }
-        .display-item-label {
-            margin:0;
-            font-size:1rem;
-            letter-spacing: 0.075em;
-            font-weight:$font-xlight;
-            text-transform: none;
-            color:$color-white;
-        }
-
+    .display-item-label {
+      margin:0;
+      font-size:1rem;
+      letter-spacing: 0.075em;
+      font-weight:$font-xlight;
+      text-transform: none;
+      color:$color-white;
     }
+  }
+  @media screen and (max-width:768px){
+    height: $reduced-icon-size;
+    .false-item-icon {
+      width:$reduced-icon-size;
+      height:$reduced-icon-size
+    }
+    .false-item-body {
+      padding-block:12px;
+      padding-inline:16px 12px;
+      .display-item-label {
+        font-size:0.875rem;
+      }
+    }
+  }
+  @media screen and (max-width:600px) {
+    .false-item-body {
+      p:not(.display-item-label){
+        display:none;
+      }
+      .display-item-label {
+        font-size:0.75rem;
+      }
+    }
+  }
 }

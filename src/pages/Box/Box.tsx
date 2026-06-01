@@ -22,7 +22,7 @@ export default function Box() {
                 subtitle={rewardBox.subtitle} 
                 flavor={rewardBox.flavorText} 
             />
-            <PageSections sectionData={rewardBox} />
+            <PageSections pageData={rewardBox} />
         </>
     )
 }

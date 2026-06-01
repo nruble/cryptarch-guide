@@ -177,7 +177,7 @@ export default function ItemsResultDisplay(){
                 }
                 <ItemResultsPerPage options={[
                     {value:12},
-                    {value:21},
+                    {value:24},
                     {value:30},
                     {value:48},
                     {value:72},

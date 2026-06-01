@@ -22,7 +22,7 @@ export default function List() {
                 subtitle={listPage.subtitle} 
                 flavor={listPage.flavorText} 
             />
-            <PageSections sectionData={listPage} />
+            <PageSections pageData={listPage} />
         </>
     )
 }

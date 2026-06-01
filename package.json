@@ -27,7 +27,7 @@
     "react-router-dom": "^7.14.2"
   },
   "devDependencies": {
-    "@cloudflare/vite-plugin": "^1.39.0",
+    "@cloudflare/vite-plugin": "^1.39.1",
     "@eslint/js": "^9.39.4",
     "@types/node": "^24.12.2",
     "@types/react": "^19.2.14",
@@ -40,8 +40,8 @@
     "sass-embedded": "^1.99.0",
     "typescript": "~6.0.2",
     "typescript-eslint": "^8.58.2",
-    "vite": "^8.0.9",
+    "vite": "^8.0.16",
     "vite-plugin-cjs-interop": "^3.3.0",
-    "wrangler": "^4.95.0"
+    "wrangler": "^4.96.0"
   }
 }

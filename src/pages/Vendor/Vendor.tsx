@@ -19,7 +19,7 @@ export default function Vendor(){
             <PageHeading icon={vendor2.pageIcon} headline={vendor2.headline} subtitle={vendor2.subtitle} flavor={vendor2.flavorText} />
             <VendorDetailSection data={vendor2} />
             {"sections" in vendor2 && vendor2.sections.length > 0 &&
-            <PageSections sectionData={vendor2} />
+            <PageSections pageData={vendor2} />
             }
         </>
     )

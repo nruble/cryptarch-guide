@@ -26,7 +26,7 @@ export default function Activity() {
             {"raidLootTable" in activityData && activityData.raidLootTable &&
                 <RaidLootTable data={activityData.raidLootTable} />
             }
-            <PageSections sectionData={activityData} />
+            <PageSections pageData={activityData} />
         </>
     )
 }

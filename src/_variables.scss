@@ -41,8 +41,8 @@ $glass-blur: blur(16px);
 $text-shadow-standard: 1.5px 1.5px 0 rgba($color-black, 0.2);
 
 @mixin glass-blur {
-  backdrop-filter: $glass-blur;
   -webkit-backdrop-filter: $glass-blur;
+  backdrop-filter: $glass-blur;
 }
 
 @mixin glass-box {

@@ -441,10 +441,24 @@
         "sections": [
             {
                 "sectionTitle": "Daily Bounties",
-                "textBlock": "Basic Crucible bounties to gain experience and reputation, refreshing with 6 available each daily reset. These can be acquired from the Bounty Tracker frames in any of the three social spaces, who share the same inventory. All of these bounties can be progressed in any Crucible modes, including in Private Matches but excluding Sparrow Racing.",
+                "textBlock": "Basic Crucible bounties to gain experience and reputation, refreshing with 6 available each daily reset. These can be acquired from the Bounty Tracker frames in any of the three social spaces, who share the same inventory. All of these bounties can be progressed in any Crucible modes, including in Private Matches but excluding Sparrow Racing.\n\nMany more Crucible daily bounties exist in data. Displayed here are those that could be directly verified as offerred in rotation.",
                 "bountyCards": [
-                    "",
-                    ""
+                    "206316291",
+                    "3909571011",
+                    "298210614",
+                    "3602776614",
+                    "3254477075",
+                    "3858527625",
+                    "2543642595",
+                    "603681238",
+                    "829471534",
+                    "3239308436",
+                    "2810461546",
+                    "3133875731",
+                    "817950946",
+                    "3223874427",
+                    "3576948764",
+                    "693391495"
                 ]
             }
         ]

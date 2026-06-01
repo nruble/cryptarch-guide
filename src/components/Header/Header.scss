@@ -26,10 +26,13 @@
             padding-top:7px;
             margin-left: 12px;
             letter-spacing: 0.02rem;
+            @media screen and (max-width:600px){
+              font-size:1.25rem;
+            }
             .site-logo-text-2nd {
                 font-weight:$font-xlight;
                 letter-spacing: 0.03rem;
-                @media screen and (max-width:400px) {
+                @media screen and (max-width:349px) {
                     display: none;
                 }
             }

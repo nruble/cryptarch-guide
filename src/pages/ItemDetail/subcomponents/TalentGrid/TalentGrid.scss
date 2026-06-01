@@ -8,6 +8,7 @@ $grid-spacing:16px;
     flex-wrap:wrap;
     gap:16px;
     //overflow-x:auto;
+    max-width:100%;
     .talents-heading {
         @include itempage-section-heading;
     }
@@ -15,6 +16,7 @@ $grid-spacing:16px;
         display:flex;
         flex-wrap: wrap;
         gap:16px;
+        max-width:100%;
         .talent-dotmap-container {
             display:flex;
             column-gap:calc($dot-size / 3);
@@ -33,6 +35,7 @@ $grid-spacing:16px;
         }
         .talent-grid-container {
             display:flex;
+            overflow-x:auto;
             .talent-grid-column {
                 display:flex;
                 flex-direction: column;

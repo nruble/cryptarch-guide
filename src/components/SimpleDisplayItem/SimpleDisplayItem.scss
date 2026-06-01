@@ -36,9 +36,6 @@ $reduced-icon-size: 72px;
       .simple-item-image {
           width:$reduced-icon-size;
           height:$reduced-icon-size;
-          img {
-              background:url('/data/d1_icons/img/destiny_content/items/set_blank.png') center center / contain;
-          }
       }
       .display-item-label {
         padding-block:12px;
@@ -46,5 +43,9 @@ $reduced-icon-size: 72px;
         font-size:0.875rem;
       }
     }
-
+    @media screen and (max-width:600px) {
+      .display-item-label {
+        font-size:0.75rem;
+      }
+    }
 }

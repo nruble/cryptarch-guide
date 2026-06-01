@@ -1,5 +1,6 @@
 import './PageSections.scss'
 import Markdown from 'react-markdown'
+import { useMemo } from 'react'
 import type { RewardBoxPage, ActivityPage, ListPage, NewVendorPageData, IconSectionTitle, FieldTestItemDisplay, WideItemDisplay, DividedItemDisplay, SubjectDetailCard, ActivityCardType, FalseItemLinkType, ItemDisplaySetType} from '../../types'
 import FalseItemLink from '../FalseItemLink/FalseItemLink'
 import ItemDisplaySet from '../ItemDisplaySet/ItemDisplaySet'
@@ -10,7 +11,11 @@ import SubjectCard from '../SubjectCard/SubjectCard'
 import SummaryRewards from '../SummaryRewards/SummaryRewards'
 import ActivityCard from '../ActivityCard/ActivityCard'
 
-export default function PageSections({sectionData}:{sectionData:Pick<ActivityPage, "sections"> | Pick<RewardBoxPage, "sections"> | Pick<ListPage, "sections"> | Pick<NewVendorPageData, "sections">}) {
+export default function PageSections({pageData}:{pageData:Pick<ActivityPage, "sections"> | Pick<RewardBoxPage, "sections"> | Pick<ListPage, "sections"> | Pick<NewVendorPageData, "sections">}) {
+    type PageSection = ActivityPage['sections'] | RewardBoxPage['sections'] | ListPage['sections'] | NewVendorPageData['sections']
+    const sectionData:PageSection = useMemo(()=>{
+      return pageData.sections
+    },[pageData])
     function iconTitleElement(data:IconSectionTitle){
       return (
         <>
@@ -71,18 +76,20 @@ export default function PageSections({sectionData}:{sectionData:Pick<ActivityPag
         )
     }
 
-    function dividedItemDisplay(data:DividedItemDisplay[], upperTitle:string) {
+    function dividedItemDisplay(data:DividedItemDisplay[], upperTitle:string = '') {
         return data.map((division:DividedItemDisplay, index) => {
-            const idString = `${upperTitle.replaceAll(' ', '-').toLocaleLowerCase()}-${division.divisionLabel.replaceAll(' ', '-').toLocaleLowerCase()}`
+          const idPart1:string = upperTitle === '' ? `division-${index}` : upperTitle.replaceAll(' ', '-').toLocaleLowerCase()
+          const idPart2:string = division.divisionLabel.replaceAll(' ', '-').toLocaleLowerCase()
+          const idString:string = `${idPart1}-${idPart2}`
 
-            return (
-                <section className='divided-item-section' key={index}>
-                    <h3 id={idString}>{division.divisionLabel}</h3>
-                    <div className={`divided-item-group${division.minimizeItemList ? ' minimized' : ''}`}>
-                        {wideItemDisplay(division)}
-                    </div>
-                </section>
-            )
+          return (
+            <section className='divided-item-section' key={index}>
+              <h3 id={idString}>{division.divisionLabel}</h3>
+              <div className={`divided-item-group${division.minimizeItemList ? ' minimized' : ''}`}>
+                {wideItemDisplay(division)}
+              </div>
+            </section>
+          )
         })
     }
 
@@ -105,7 +112,7 @@ export default function PageSections({sectionData}:{sectionData:Pick<ActivityPag
       })
     }
 
-    const sectionElements = sectionData.sections.map((section, index) => {
+    const sectionElements = sectionData.map((section, index) => {
         return (
             <section className='page-section' key={index}>
                 {"sectionTitle" in section && section.sectionTitle != '' &&

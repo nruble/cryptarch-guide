@@ -94,8 +94,9 @@
           width:unset;
           min-width:$reduced-icon-size;
           &:not(.minimized){
-            min-width:220px;
+            min-width:unset;
             flex-grow:1;
+            width:100%;
           }
           .false-item-icon, .simple-item-image {
             width:$reduced-icon-size;
@@ -109,6 +110,9 @@
           }
           .display-item-label, .display-item-label {
             font-size:0.875rem;
+            @media screen and (max-width:600px) {
+              font-size:0.75rem;
+            }
           }
         }
         .set-item-container {
@@ -125,6 +129,9 @@
               font-size:0.875rem;
             }
           }
+        }
+        @media screen and (max-width:600px){
+          grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
         }
       }
       .vendor-sale-footnote {

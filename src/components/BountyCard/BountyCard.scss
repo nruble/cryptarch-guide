@@ -1,27 +1,50 @@
 .bounty-card {
     @include glass-blur;
-    border-top:2px solid $color-fadewhite;
     max-width: 372px;
     display: flex;
     flex-direction: column;
     .bounty-header {
-        background-color: $color-box-black-hollow;
-        display: flex;
-        align-items: center;
-        height:72px;
-        overflow: hidden;
+      background-color: $color-box-black-hollow;
+      display: flex;
+      align-items: center;
+      height:72px;
+      overflow: hidden;
+      .bounty-icon {
+        width:72px;
+      }
+      h3 {
+        margin:0;
+        padding-inline:18px;
+        padding-block:8px;
+        font-size: 1.125rem;
+        font-weight:$font-xlight;
+        text-transform: uppercase;
+        letter-spacing: 0.075em;
+      }
+      @media screen and (max-width:768px) {
+        height:64px;
         .bounty-icon {
-            width:72px;
+          width:64px;
         }
         h3 {
-            margin:0;
-            padding-inline:18px;
-            padding-block:8px;
-            font-size: 1.125rem;
-            font-weight:$font-xlight;
-            text-transform: uppercase;
-            letter-spacing: 0.075em;
+          padding-inline:12px;
+          padding-block:8px;
+          font-size:1rem;
+          letter-spacing: 0.075rem;
         }
+      }
+      @media screen and (max-width:600px) {
+        height:48px;
+        .bounty-icon {
+          width:48px;
+        }
+        h3 {
+          padding-inline:12px;
+          padding-block:8px;
+          font-size:0.75rem;
+          letter-spacing: 0.075rem;
+        }
+      }
     }
     .bounty-content {
         background-color: $color-box-dark-gray-hollow;
@@ -93,6 +116,32 @@
                 font-size:0.875rem;
                 line-height:1.125rem;
             }
+        }
+        @media screen and (max-width:600px) {
+          padding:12px;
+          .bounty-description, .bounty-objective {
+            font-size:0.75rem;
+            line-height:1rem;
+          }
+          .bounty-quote {
+            display:none;
+          }
+          .bounty-rewards {
+            h4 {
+                margin:0 0 8px;
+                font-size:0.875rem;
+            }
+            ul li {
+              .summary-reward-icon {
+                width:0.75rem;
+                height:0.75rem;
+              }
+              span {
+                font-size:0.75rem;
+                line-height: 1;
+              }
+            }
+          }
         }
     }
 }

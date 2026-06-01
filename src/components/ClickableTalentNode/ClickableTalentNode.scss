@@ -28,11 +28,19 @@ $talent-node-size:48px;
         height:$talent-node-size;
     }
 }
-
+.react-aria-Popover {
+  @media screen and (max-width:768px){
+    position:fixed !important;
+    top:unset !important;
+    right:0 !important;
+    bottom:0;
+    left:0;
+  }
+}
 .clickable-talent-popover {
+  @include glass-blur;
     max-width:360px;
     width:360px;
-    @include glass-blur;
     .clickable-talent-title {
         display:flex;
         align-items: center;
