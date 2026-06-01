@@ -1,5 +1,4 @@
 import { defineConfig } from 'vite'
-// import { reactRouter } from '@react-router/dev/vite'
 import react from '@vitejs/plugin-react'
 import path from 'path'
 
@@ -8,7 +7,7 @@ export default defineConfig({
   publicDir: 'public',
   server: {
     headers : {
-      'cache-control': 'public, max-age=31536000'
+      'cache-control': 'public, max-age=7776000'
     }
   },
   plugins: [
