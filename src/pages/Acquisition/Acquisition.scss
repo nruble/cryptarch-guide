@@ -1,15 +1,6 @@
-.page-heading {
-    .page-heading-inner {
-        .page-heading-text {
-            h1 {
-                font-weight: $font-thin;
-                //text-shadow: $text-shadow-standard;
-            }
-        }
-    }
-}
 .acquisition-body {
     @include max-page-cap;
+    padding-inline: $padding-inline-desktop;
     font-family: $font-family-display;
     display:grid;
     grid-template-columns: repeat(2, 1fr);
@@ -19,6 +10,9 @@
         grid-column: span 2;
         &.half-span {
             grid-column: span 1;
+            @media screen and (max-width:767px) {
+                grid-column: span 2;
+            }
         }
         .source-section-title {
             @include common-page-section-title;
@@ -33,6 +27,8 @@
             grid-auto-flow: column;
             &.colcount-2 {
                 grid-template-columns: repeat(2, 1fr);
+                grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
+                grid-auto-flow: row dense;
             }
             &.colcount-3 {
                 grid-template-columns: repeat(3, 1fr);
@@ -47,40 +43,65 @@
                     "c e g"
                     "c e g"
                     "c . .";
+                @media screen and (max-width:1024px) {
+                    grid-template-areas:
+                    "a d "
+                    "b d "
+                    "b f "
+                    "c f "
+                    "c f "
+                    "c g "
+                    "c g "
+                    "e g "
+                    "e g ";
+                }
+                @media screen and (max-width:767px) {
+                    grid-template-areas:
+                    "a"
+                    "b"
+                    "c"
+                    "d"
+                    "e"
+                    "f"
+                    "g";
+                }
                 .vend-vanguard {
                     grid-area: a;
-                    background: linear-gradient(rgba($color-black, 0.8), rgba($color-black, 0.8)), url('/data/d1_icons/img/theme/destiny/bgs/vendorsplash/vanguard.jpg') center center / cover no-repeat, $color-black;
+                    background: linear-gradient(rgba($color-box-black, 0.8), rgba($color-box-black, 0.8)), url('/data/d1_icons/img/theme/destiny/bgs/vendorsplash/vanguard.jpg') center center / cover no-repeat, $color-box-black;
                 }
                 .vend-crucible {
                     grid-area: b;
-                    background: linear-gradient(rgba($color-black, 0.8), rgba($color-black, 0.8)), url('/data/d1_icons/img/theme/destiny/bgs/vendorsplash/crucible.jpg') center center / cover no-repeat, $color-black;
+                    background: linear-gradient(rgba($color-box-black, 0.8), rgba($color-box-black, 0.8)), url('/data/d1_icons/img/theme/destiny/bgs/vendorsplash/crucible.jpg') center center / cover no-repeat, $color-box-black;
                 }
                 .vend-factions {
                     grid-area: c;
-                    background: linear-gradient(rgba($color-black, 0.8), rgba($color-black, 0.8)), url('/data/d1_icons/img/theme/destiny/bgs/vendorsplash/factions.jpg') center center / cover no-repeat, $color-black;
+                    background: linear-gradient(rgba($color-box-black, 0.8), rgba($color-box-black, 0.8)), url('/data/d1_icons/img/theme/destiny/bgs/vendorsplash/factions.jpg') center center / cover no-repeat, $color-box-black;
                 }
                 .vend-tower {
                     grid-area: d;
-                    background: linear-gradient(rgba($color-black, 0.8), rgba($color-black, 0.8)), url('/data/d1_icons/img/theme/destiny/bgs/vendorsplash/tower.jpg') center center / cover no-repeat, $color-black;
+                    background: linear-gradient(rgba($color-box-black, 0.8), rgba($color-box-black, 0.8)), url('/data/d1_icons/img/theme/destiny/bgs/vendorsplash/tower.jpg') center center / cover no-repeat, $color-box-black;
                 }
                 .vend-ever {
                     grid-area: e;
-                    background: linear-gradient(rgba($color-black, 0.8), rgba($color-black, 0.8)), url('/data/d1_icons/img/theme/destiny/bgs/vendorsplash/eververse.jpg') center center / cover no-repeat, $color-black;
+                    background: linear-gradient(rgba($color-box-black, 0.8), rgba($color-box-black, 0.8)), url('/data/d1_icons/img/theme/destiny/bgs/vendorsplash/eververse.jpg') center center / cover no-repeat, $color-box-black;
                 }
                 .vend-reef {
                     grid-area: f;
-                    background: linear-gradient(rgba($color-black, 0.8), rgba($color-black, 0.8)), url('/data/d1_icons/img/theme/destiny/bgs/vendorsplash/reef.jpg') center center / cover no-repeat, $color-black;
+                    background: linear-gradient(rgba($color-box-black, 0.8), rgba($color-box-black, 0.8)), url('/data/d1_icons/img/theme/destiny/bgs/vendorsplash/reef.jpg') center center / cover no-repeat, $color-box-black;
                 }
                 .vend-iron {
                     grid-area: g;
-                    background: linear-gradient(rgba($color-black, 0.8), rgba($color-black, 0.8)), url('/data/d1_icons/img/theme/destiny/bgs/vendorsplash/iron_temple.jpg') center center / cover no-repeat, $color-black;
+                    background: linear-gradient(rgba($color-box-black, 0.8), rgba($color-box-black, 0.8)), url('/data/d1_icons/img/theme/destiny/bgs/vendorsplash/iron_temple.jpg') center center / cover no-repeat, $color-box-black;
                 }
             }
             &.colcount-4 {
                 grid-template-columns: repeat(4, 1fr);
             }
             &.colcount-5 {
-                grid-template-columns: repeat(5, 1fr);
+                display:grid;
+                grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+                gap:18px;
+                grid-auto-flow: row dense;
             }
             .source-list {
                 background-color:rgba($color-box-black, 0.9);
@@ -110,6 +131,7 @@
                         text-transform: uppercase;
                         letter-spacing: 0.075em;
                         text-shadow: $text-shadow-standard;
+                        text-align: center;
                     }
                 }
                 dd {
@@ -119,23 +141,42 @@
                     font-weight:$font-xlight;
                     letter-spacing: 0.095rem;
                     text-shadow: $text-shadow-standard;
+                    font-size: 0.875rem;
                     & .r-exotic, & .r-legend, & .emphasis {
-                        font-weight:$font-medium;
-                        letter-spacing: 0.04em;
+                      font-weight:$font-medium;
+                      letter-spacing: 0.04em;
                     }
                     & .r-exotic {
-                        color:$color-exotic-gold-light;
+                      color:$color-exotic-gold-light;
                     }
                     & .r-legend {
-                        color:$color-legend-purple-light;
+                      color:$color-legend-purple-light;
                     }
                     &:not(:nth-child(2)){
-                        margin-top:12px;
+                      margin-top:12px;
+                    }
+                    &:not(:last-child){
+                      border-bottom:1px solid rgba($color-ghostwhite, 0.2);
+                      padding-block:14px;
+                      margin:0;
+                    }
+                    span {
+                      .excess {
+                        font-weight:$font-light;
+                        color:$color-white;
+                        letter-spacing: 0.065em;
+                      }
                     }
                     a {
-                        text-decoration: none;
-                        color:$color-white;
-                        &:hover, &:focus {
+                      text-decoration: none;
+                      color:$color-white;
+                      display: flex;
+                      align-items: center;
+                      justify-content: space-between;
+                      svg {
+                        opacity: 0.8;
+                      }
+                      &:hover, &:focus {
                             color:$color-fadewhite;
                         }
                         &:hover .r-exotic, &:focus .r-exotic {
@@ -154,6 +195,35 @@
                     }
                 }
             }
+        }
+    }
+    @media screen and (max-width:768px) {
+        padding-inline: $padding-inline-mobile;
+        .source-section {
+          .source-lists-group {
+            .source-list {
+              padding-inline:16px;
+              padding-bottom: 16px;
+              dt.source-list-heading {
+                margin-bottom:-16px;
+              }
+              dd {
+                &:not(:last-child){
+                  border-bottom:1px solid $color-ghostwhite;
+                  padding-block:16px;
+                  margin:0;
+                }
+                a {
+                  display: flex;
+                  align-items: center;
+                  font-size:0.875rem;
+                  svg {
+
+                  }
+                }
+              }
+            }
+          }
         }
     }
 }

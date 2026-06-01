@@ -88,5 +88,11 @@
                 }
             }
         }
+        @media screen and (max-width:768px) {
+            .bounty-description, .bounty-objective, .bounty-quote {
+                font-size:0.875rem;
+                line-height:1.125rem;
+            }
+        }
     }
 }

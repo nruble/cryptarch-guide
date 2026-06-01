@@ -1,9 +1,7 @@
 import './ActivityCard.scss'
-import { useMediaQuery } from 'react-responsive'
-import { useMemo, useState } from 'react'
-import { useSearchParams, Link, useLoaderData } from 'react-router-dom'
+import { useMemo } from 'react'
+import { Link } from 'react-router-dom'
 import type { ActivityCardType } from '../../types'
-import Markdown from 'react-markdown'
 import { RiArrowRightSLine } from 'react-icons/ri'
 
 export default function ActivityCard({data}:{data:ActivityCardType}) {

@@ -1440,8 +1440,7 @@
                 "3011919237",
                 "1050291905",
                 "185564351",
-                "185564350",
-                "2206724918"
+                "185564350"
             ]
         },
         "sections": [
@@ -4335,7 +4334,7 @@
                 }
             },
             {
-                "sectionTitle": "",
+                "sectionTitle": "Patrol Destinations",
                 "activityCards": [
                     {
                         "backgroundUrl": "/img/theme/destiny/bgs/pgcrs/patrol_cosmo.jpg",

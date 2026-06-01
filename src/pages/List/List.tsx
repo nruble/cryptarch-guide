@@ -2,10 +2,9 @@ import './List.scss'
 import PageHeading from '../../components/PageHeading/PageHeading'
 import PageSections from '../../components/PageSections/PageSections'
 
-import { useMediaQuery } from 'react-responsive'
-import { useMemo, useState } from 'react'
-import type { DestinyInventoryItem, ListPage} from '../../types'
-import { Link, useParams, useLocation, useLoaderData } from 'react-router-dom'
+import { useMemo } from 'react'
+import type { ListPage} from '../../types'
+import { useParams, useLoaderData } from 'react-router-dom'
 
 export default function List() {
     const {lists} = useLoaderData()

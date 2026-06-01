@@ -31,7 +31,8 @@ export default function ItemsSubFilter({ legend, isList = true, paramKey, option
     }
     
     return (
-        <fieldset aria-label={legend} className={isList ? 'subfilter-set list-style' : 'subfilter-set button-style'}>
+        <fieldset role="group" aria-label={legend} className={isList ? 'subfilter-set list-style' : 'subfilter-set button-style'}>
+          <legend>{legend}</legend>
             {options.map(({ value, label}) => (
                 <label key={value} data-selected={selected.includes(value)}>
                     <span className='input-hider'>

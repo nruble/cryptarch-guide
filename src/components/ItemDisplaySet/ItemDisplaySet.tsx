@@ -1,10 +1,9 @@
 import './ItemDisplaySet.scss'
-import { useMediaQuery } from 'react-responsive'
-import { useMemo, useState } from 'react'
-import { useSearchParams, Link, useLoaderData } from 'react-router-dom'
-import type { DestinyInventoryItem, ItemDisplaySet} from '../../types'
+import { useMemo } from 'react'
+import { Link, useLoaderData } from 'react-router-dom'
+import type { DestinyInventoryItem, ItemDisplaySetType} from '../../types'
 
-export default function ItemDisplaySet({data}:{data:ItemDisplaySet}) {
+export default function ItemDisplaySet({data}:{data:ItemDisplaySetType}) {
     const blankItemPlaceholder = "/img/destiny_content/items/blank.png"
     const {items}:{items:DestinyInventoryItem[]} = useLoaderData()
     const setIcons = useMemo(()=>{
@@ -20,7 +19,7 @@ export default function ItemDisplaySet({data}:{data:ItemDisplaySet}) {
                 {
                     "name": items[parseInt(itemHash)].itemName ?? "",
                     "icon": items[parseInt(itemHash)].icon ?? "",
-                    "url": `item/${itemHash}`
+                    "url": `/item/${itemHash}`
                 }
                 )
         })
@@ -28,7 +27,7 @@ export default function ItemDisplaySet({data}:{data:ItemDisplaySet}) {
 
     
     const iconElements = setIcons.map((iconObject, index)=>{
-        const iconInner = <img src={`/data/d1_icons${iconObject.icon}`} alt={iconObject.name} />
+        const iconInner = <img src={`/data/d1_icons${iconObject.icon}`} alt={`${iconObject.name}, set piece ${index}`} />
 
         if(iconObject.icon === blankItemPlaceholder){
             return <span className='set-item-icon' key={index}>{iconInner}</span>

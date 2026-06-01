@@ -12,5 +12,8 @@
         letter-spacing: 0.095em;
         font-weight:$font-xlight;
         line-height: 16px;
+        @media screen and (max-width:768px) {
+            font-size:0.875rem;
+        }
     }
 }

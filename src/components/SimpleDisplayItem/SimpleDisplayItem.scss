@@ -1,3 +1,4 @@
+$reduced-icon-size: 72px;
 .simple-item-container {
     @include glass-box;
     display:flex;
@@ -14,9 +15,9 @@
     .simple-item-image {
         width:96px;
         height:96px;
-        background-image:url('/data/d1_icons/img/destiny_content/items/set_blank.png');
-        background-size:cover;
-        background-position: center center;
+        img {
+            background:url('/data/d1_icons/img/destiny_content/items/set_blank.png') center center / contain;
+        }
     }
     .display-item-label {
         padding-block:18px;
@@ -26,4 +27,24 @@
         letter-spacing: 0.075em;
         font-weight:$font-xlight;
     }
+    @media screen and (max-width:768px) {
+      height:$reduced-icon-size;
+      &.minimized {
+          max-width:unset;
+          width:$reduced-icon-size;
+      }
+      .simple-item-image {
+          width:$reduced-icon-size;
+          height:$reduced-icon-size;
+          img {
+              background:url('/data/d1_icons/img/destiny_content/items/set_blank.png') center center / contain;
+          }
+      }
+      .display-item-label {
+        padding-block:12px;
+        padding-inline:16px 12px;
+        font-size:0.875rem;
+      }
+    }
+
 }

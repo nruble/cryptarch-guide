@@ -28,4 +28,20 @@
         }
 
     }
+    @media screen and (max-width:768px) {
+      height:72px;
+      .ornament-link-icon {
+          width:72px;
+          height:72px;
+          background-color: rgba($color-box-gray, 0.6);
+      }
+      .ornament-link-text {
+        h3 {
+          font-size:1rem;
+        }
+        p {
+          font-size:0.75rem;
+        }
+      }
+    }
 }

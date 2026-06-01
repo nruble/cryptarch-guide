@@ -54,77 +54,86 @@ interface derivedItemCategories {
 
 export type DestinyInventoryItem = {
     "itemHash": number,
-    "itemName"?: string,
-    "itemDescription"?: string,
-    "icon"?: string,
-    "hasIcon"?: boolean,
-    "secondaryIcon"?: string,
-    "displaySource"?: string,
-    "actionName"?: string,
-    "actionDescription"?: string,
-    "hasAction"?: boolean,
-    "deleteOnAction"?: boolean,
-    "tierTypeName"?: string,
-    "tierType"?: number,
-    "itemTypeName"?: string,
-    "bucketTypeHash"?: number,
-    "primaryBaseStatHash"?: number,
-    "stats"?: {
+    "itemName": string,
+    "itemDescription": string,
+    "icon": string,
+    "hasIcon": boolean,
+    "secondaryIcon": string,
+    "displaySource": string,
+    "actionName": string,
+    "actionDescription": string,
+    "hasAction": boolean,
+    "deleteOnAction": boolean,
+    "tierTypeName": string,
+    "tierType": number,
+    "itemTypeName": string,
+    "bucketTypeHash": number,
+    "primaryBaseStatHash": number,
+    "stats": {
         [key: string]: statsObject
     },
-    "perkHashes"?: number[],
-    "specialItemType"?: number,
-    "talentGridHash"?: number,
-    "equippingBlock"?: {
+    "perkHashes": number[],
+    "specialItemType": number,
+    "talentGridHash": number,
+    "equippingBlock": {
         "weaponSandboxPatternIndex": number,
         "gearArtArrangementIndex": number,
         "defaultDyes": dyeObject[],
         "lockedDyes": dyeObject[],
         "customDyes": dyeObject[],
-        "customDyeExpression"?: {
-            "steps"?: customDyeStep[]
+        "customDyeExpression": {
+            "steps": customDyeStep[]
         },
         "weaponPatternHash": number,
-        "arrangements"?: arrangement[],
+        "arrangements": arrangement[],
         "equipmentSlotHash": number
     },
-    "hasGeometry"?: boolean,
-    "statGroupHash"?: number,
-    "itemLevels"?: number[],
-    "qualityLevel"?: number,
-    "equippable"?: boolean,
-    "instanced"?: boolean,
-    "rewardItemHash"?: number,
-    "values"?: {
+    "hasGeometry": boolean,
+    "statGroupHash": number,
+    "itemLevels": number[],
+    "qualityLevel": number,
+    "equippable": boolean,
+    "instanced": boolean,
+    "rewardItemHash": number,
+    "values": {
         [key: string]: number
     },
-    "itemType"?: number,
-    "itemSubType"?: number,
-    "classType"?: number,
-    "sources"?: sourceObject[],
-    "itemCategoryHashes"?: number[],
-    "sourceHashes"?: number[],
-    "nonTransferrable"?: boolean,
-    "exclusive"?: number,
-    "maxStackSize"?: number,
-    "itemIndex"?: number,
-    "setItemHashes"?: number[],
-    "tooltipStyle"?: string,
-    "questlineItemHash"?: number,
-    "needsFullCompletion"?: boolean,
-    "objectiveHashes"?: number[],
-    "derivedItemCategories"?: derivedItemCategories[],
-    "animations"?: animation[],
-    "allowActions"?: boolean,
-    "questTrackingUnlockValueHash"?: number,
-    "bountyResetUnlockHash"?: number,
-    "uniquenessHash"?: number,
-    "derivedItemVendorHash"?: number,
-    "showActiveNodesInTooltip"?: boolean,
-    "damageTypes"?: (1 | 2 | 3 | 4)[],
-    "hash"?: number,
-    "index"?: number,
-    "redacted"?: boolean
+    "itemType": number,
+    "itemSubType": number,
+    "classType": number,
+    "sources": sourceObject[],
+    "itemCategoryHashes": number[],
+    "sourceHashes": number[],
+    "nonTransferrable": boolean,
+    "exclusive": number,
+    "maxStackSize": number,
+    "itemIndex": number,
+    "setItemHashes": number[],
+    "tooltipStyle": string,
+    "questlineItemHash": number,
+    "needsFullCompletion": boolean,
+    "objectiveHashes": number[],
+    "derivedItemCategories": derivedItemCategories[],
+    "animations": animation[],
+    "allowActions": boolean,
+    "questTrackingUnlockValueHash": number,
+    "bountyResetUnlockHash": number,
+    "uniquenessHash": number,
+    "derivedItemVendorHash": number,
+    "showActiveNodesInTooltip": boolean,
+    "damageTypes": (1 | 2 | 3 | 4)[],
+    "hash": number,
+    "index": number,
+    "redacted": boolean
+}
+
+export type statPackage = {
+    "statHash": number,
+    "statName": string,
+    "statDescription": string,
+    "value": number,
+    "minimum": number,
+    "maximum": number
 }
 
 export type talentGridNodeStep = {
@@ -300,14 +309,14 @@ export type ReputationPackage = {
     "buckets": ReputationPackageBucket[]
 }
 
-export type FalseItemLink = {
+export type FalseItemLinkType = {
     "iconUrl": string,
     "labelText": string,
     "labelSubtitle": string,
     "linkUrl": string
 }
 
-export type ItemDisplaySet = {
+export type ItemDisplaySetType = {
     "setLabel": string,
     "setSubtitle": string,
     "setItems": [
@@ -321,16 +330,16 @@ export type ItemDisplaySet = {
 
 export type WideItemDisplay = {
     "minimizeItemList": boolean,
-    "falseItemLinks": FalseItemLink[],
-    "sets": ItemDisplaySet[],
+    "falseItemLinks": FalseItemLinkType[],
+    "sets": ItemDisplaySetType[],
     "items": string[]
 }
 
 export type DividedItemDisplay = {
     "divisionLabel": string,
     "minimizeItemList": boolean,
-    "falseItemLinks": FalseItemLink[],
-    "sets": ItemDisplaySet[],
+    "falseItemLinks": FalseItemLinkType[],
+    "sets": ItemDisplaySetType[],
     "items": string[]
 }
 
@@ -413,15 +422,15 @@ export type ActivityPage = {
     }[],
     "raidLootTable": {
         "hunter": {
-            "armorSet": ItemDisplaySet,
+            "armorSet": ItemDisplaySetType,
             "items": string[]
         },
         "titan": {
-            "armorSet": ItemDisplaySet,
+            "armorSet": ItemDisplaySetType,
             "items": string[]
         },
         "warlock": {
-            "armorSet": ItemDisplaySet,
+            "armorSet": ItemDisplaySetType,
             "items": string[]
         },
         "generalItems": string[]
@@ -492,16 +501,94 @@ export type ActivityHeadSection = {
 
 export type RaidLootTable = {
     "hunter": {
-        "armorSet": ItemDisplaySet,
+        "armorSet": ItemDisplaySetType,
         "items": string[]
     },
     "titan": {
-        "armorSet": ItemDisplaySet,
+        "armorSet": ItemDisplaySetType,
         "items": string[]
     },
     "warlock": {
-        "armorSet": ItemDisplaySet,
+        "armorSet": ItemDisplaySetType,
         "items": string[]
     },
     "generalItems": string[]
+}
+
+export type NewVendorPageData = {
+    "pageIcon": string,
+    "headline": string,
+    "subtitle": string,
+    "flavorText": string,
+    "repFactions": {
+        "repIcon": string,
+        "repName": string,
+        "repDescription": string,
+        "rankLevels": { 
+            "label": string,
+            "cost": string 
+        }[]
+    }[],
+    "sales": {
+            "saleTitle": string,
+            "saleItems": VendorPageSaleItem,
+            "saleFootnote": string
+        }[],
+    "sections": VendorSectionsType[]
+}
+
+export type VendorSalesType = {
+    "saleTitle": string,
+    "saleItems": VendorPageSaleItem,
+    "saleFootnote": string
+}
+
+export type VendorPageSaleItem = {
+    "minimizeItemList": boolean,
+    "falseItemLinks": FalseItemLinkType[],
+    "sets": ItemDisplaySetType[],
+    "items": string[]
+}
+
+export type VendorSectionsType = {
+    "sectionTitle": string,
+    "iconSectionTitle": {
+        "icon": string,
+        "title": string,
+        "subtitle": string
+    },
+    "textBlock": string,
+    "splashBanner" : {
+        "bannerBackgroundUrl": string,
+        "bannerSections": {
+            "sectionTitle": string,
+            "textBlock": string
+        }[]
+    },
+    "wideItemDisplay": WideItemDisplay,
+    "dividedItemDisplay": DividedItemDisplay[],
+    "fieldTestSpecial": FieldTestItemDisplay[]
+}
+
+export type FieldTestItemDisplay = {
+    "divisionLabel": string,
+    "items": string[],
+    "descriptionTrim": string,
+    "trailingTrim": string
+}
+
+export type IconSectionTitle = {
+    "icon": string,
+    "title": string,
+    "subtitle": string
+}
+
+export type FactionRepType = {
+    "repIcon": string,
+    "repName": string,
+    "repDescription": string,
+    "rankLevels": { 
+        "label": string,
+        "cost": string 
+    }[]
 }

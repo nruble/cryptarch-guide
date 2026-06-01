@@ -65,14 +65,76 @@
     .activity-loot-table-grid{
         width:100%;
         display:grid;
-        grid-template-columns: repeat(4, 1fr);
+        //grid-template-columns: repeat(4, 1fr);
+        grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
         gap:16px;
         grid-auto-flow: dense;
         .set-item-container {
             grid-column: span 3;
+            @media screen and (max-width:1200px) {
+                grid-column: 1 / -1;
+            }
+            @media screen and (max-width:767px) {
+                @include item-set-reduced;
+            }
         }
         .simple-item-container {
             width:100%;
+            max-width: unset;
         }
+    }
+    @media screen and (max-width:768px){
+      padding-inline:$padding-inline-mobile;
+      .activity-loot-table-controls {
+        justify-content: center;
+        .class-button-group {
+          gap:24px;
+          button {
+            font-size: 0.875rem;
+            letter-spacing: 0.04em;
+            cursor: pointer;
+            .button-symbol-circle {
+              height:64px;
+              width:64px;
+              border:2px solid $color-white;
+              box-sizing: content-box;
+              border-radius: 100%;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              margin-bottom:8px;
+              transition: opacity 0.1s ease-in-out;
+              img {
+                &.hunter-logo {
+                  width:32px;
+                }
+                &.titan-logo {
+                  width:34px;
+                }
+                &.warlock-logo {
+                  width:42px;
+                }
+              }
+            }
+            &:not([aria-disabled="true"]){
+              .button-symbol-circle {
+                opacity: 0.4;
+              }
+              &:hover, &:focus {
+                .button-symbol-circle {
+                  opacity:1.0;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    @media screen and (max-width:600px){
+      .activity-loot-table-controls {
+        hr {
+          display:none;
+        }
+      }
     }
 }

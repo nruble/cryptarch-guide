@@ -1,29 +1,42 @@
 import './PageSections.scss'
-import { useMediaQuery } from 'react-responsive'
-import { useMemo, useState } from 'react'
 import Markdown from 'react-markdown'
-import type { RewardBoxPage, ActivityPage, ListPage, WideItemDisplay, DividedItemDisplay, SubjectDetailCard, ActivityCardType} from '../../types'
+import type { RewardBoxPage, ActivityPage, ListPage, NewVendorPageData, IconSectionTitle, FieldTestItemDisplay, WideItemDisplay, DividedItemDisplay, SubjectDetailCard, ActivityCardType, FalseItemLinkType, ItemDisplaySetType} from '../../types'
 import FalseItemLink from '../FalseItemLink/FalseItemLink'
 import ItemDisplaySet from '../ItemDisplaySet/ItemDisplaySet'
 import SimpleDisplayItem from '../SimpleDisplayItem/SimpleDisplayItem'
+import FieldTestDisplayItem from '../FieldTestDisplayItem/FieldTestDisplayItem'
 import BountyCard from '../BountyCard/BountyCard'
 import SubjectCard from '../SubjectCard/SubjectCard'
 import SummaryRewards from '../SummaryRewards/SummaryRewards'
 import ActivityCard from '../ActivityCard/ActivityCard'
 
-export default function PageSections({sectionData}:{sectionData:Pick<ActivityPage, "sections"> | Pick<RewardBoxPage, "sections"> | Pick<ListPage, "sections">}) {
+export default function PageSections({sectionData}:{sectionData:Pick<ActivityPage, "sections"> | Pick<RewardBoxPage, "sections"> | Pick<ListPage, "sections"> | Pick<NewVendorPageData, "sections">}) {
+    function iconTitleElement(data:IconSectionTitle){
+      return (
+        <>
+          <img src={`/data/d1_icons${data.icon}`} alt="" />
+          <div className='icon-title-text'>
+            <h3>{data.title}</h3>
+            {"subtitle" in data && data.subtitle != '' &&    
+            <p>{data.subtitle}</p>
+            }
+          </div>
+        </>
+      )
+    }
+
     function subjectCardElements(data:SubjectDetailCard[]){
         return (
             data.map((cardObject:SubjectDetailCard, index)=>{
-                return <SubjectCard data={cardObject} key={index}/>
+                return <SubjectCard data={cardObject} key={`${cardObject.title}-${index}`}/>
             })
         )
     }
 
     function bountyCardElements(data:string[]){
         return(
-            data.map((itemHash:string, index)=>{
-                return <BountyCard itemHash={itemHash} key={index} />
+            data.map((itemHash:string)=>{
+                return <BountyCard itemHash={itemHash} key={itemHash} />
             })
         )
     }
@@ -31,7 +44,7 @@ export default function PageSections({sectionData}:{sectionData:Pick<ActivityPag
     function activityCardElements(data:ActivityCardType[]){
         return (
             data.map((cardObject:ActivityCardType, index) => {
-                return <ActivityCard data={cardObject} key={index} />
+                return <ActivityCard data={cardObject} key={`${cardObject.title}-${index}`} />
             })
         )
     }
@@ -39,31 +52,33 @@ export default function PageSections({sectionData}:{sectionData:Pick<ActivityPag
     function wideItemDisplay(data:WideItemDisplay) {
         return (
             <>
-            {data.falseItemLinks &&
-                data.falseItemLinks.map((linkObject, index) => {
-                    return <FalseItemLink data={linkObject} key={index} />
+            {"falseItemLinks" in data && data.falseItemLinks.length > 0 &&
+                data.falseItemLinks.map((linkObject:FalseItemLinkType, index) => {
+                    return <FalseItemLink data={linkObject} key={`${linkObject.labelText}-${index}`} />
                 })
             }
-            {data.sets &&
-                data.sets.map((setObject, index) => {
-                    return <ItemDisplaySet data={setObject} key={index} />
+            {"sets" in data && data.sets.length > 0 &&
+                data.sets.map((setObject:ItemDisplaySetType, index) => {
+                    return <ItemDisplaySet data={setObject} key={`${setObject.setLabel}-${index}`} />
                 })
             }
-            {data.items &&
-                data.items.map((itemHash, index) => {
-                    return <SimpleDisplayItem itemHash={itemHash} minimize={data.minimizeItemList} key={index} />
+            {"items" in data && data.items.length > 0 &&
+                data.items.map((itemHash:string, index) => {
+                    return <SimpleDisplayItem itemHash={itemHash} minimize={data.minimizeItemList} key={`${itemHash}-${index}`} />
                 })
             }
             </>
         )
     }
 
-    function dividedItemDisplay(data:DividedItemDisplay[]) {
+    function dividedItemDisplay(data:DividedItemDisplay[], upperTitle:string) {
         return data.map((division:DividedItemDisplay, index) => {
+            const idString = `${upperTitle.replaceAll(' ', '-').toLocaleLowerCase()}-${division.divisionLabel.replaceAll(' ', '-').toLocaleLowerCase()}`
+
             return (
                 <section className='divided-item-section' key={index}>
-                    <h3>{division.divisionLabel}</h3>
-                    <div className='divided-item-group'>
+                    <h3 id={idString}>{division.divisionLabel}</h3>
+                    <div className={`divided-item-group${division.minimizeItemList ? ' minimized' : ''}`}>
                         {wideItemDisplay(division)}
                     </div>
                 </section>
@@ -71,16 +86,45 @@ export default function PageSections({sectionData}:{sectionData:Pick<ActivityPag
         })
     }
 
+    function fieldTestElements(data:FieldTestItemDisplay[]) {
+      return data.map((division:FieldTestItemDisplay, index) => {
+        const fieldSetItems = division.items
+        const trim1 = division.descriptionTrim ?? ''
+        return (
+          <section className='divided-item-section' key={`${division.divisionLabel}-${index}`}>
+            <h3>{division.divisionLabel}</h3>
+            <div className={`divided-item-group`}>
+              {
+              fieldSetItems.map((itemHash:string) => {
+                return <FieldTestDisplayItem itemHash={itemHash} trim1={trim1} key={itemHash} />
+              })
+              }
+            </div>
+          </section>
+        )
+      })
+    }
+
     const sectionElements = sectionData.sections.map((section, index) => {
         return (
             <section className='page-section' key={index}>
-                {"sectionTitle" in section &&
-                <h2 className='page-section-title'>{section.sectionTitle}</h2>
+                {"sectionTitle" in section && section.sectionTitle != '' &&
+                  <h2 className='page-section-title' id={section.sectionTitle.replaceAll(' ', '-').toLocaleLowerCase()}>{section.sectionTitle}</h2>
                 }
-                {"textBlock" in section &&
-                <div className='page-section-textblock'>
-                    <Markdown>{section.textBlock}</Markdown>
-                </div>
+                {"iconSectionTitle" in section && section.iconSectionTitle.icon != '' && section.iconSectionTitle.title != '' &&
+                  <div className='page-section-icontitle'>
+                    {iconTitleElement(section.iconSectionTitle)}
+                  </div>
+                }
+                {"textBlock" in section && section.textBlock != '' &&
+                  <div className='page-section-textblock'>
+                      <Markdown>{section.textBlock}</Markdown>
+                  </div>
+                }
+                {"fieldTestSpecial" in section && section.fieldTestSpecial.length > 0 &&
+                  <div className='divided-item-container'>
+                    {fieldTestElements(section.fieldTestSpecial)}
+                  </div>
                 }
                 {"summaryRewards" in section &&
                     <ul className='page-summary-rewards'>
@@ -103,13 +147,13 @@ export default function PageSections({sectionData}:{sectionData:Pick<ActivityPag
                     </div>
                 }
                 {"wideItemDisplay" in section &&
-                    <div className='wide-item-container'>
+                    <div className={`wide-item-container${section.wideItemDisplay.minimizeItemList ? ' minimized' : ''}`}>
                         {wideItemDisplay(section.wideItemDisplay)}
                     </div>
                 }
                 {"dividedItemDisplay" in section &&
                     <div className='divided-item-container'>
-                        {dividedItemDisplay(section.dividedItemDisplay)}
+                        {dividedItemDisplay(section.dividedItemDisplay, section.sectionTitle)}
                     </div>
                 }
             </section>

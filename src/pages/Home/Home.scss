@@ -1,0 +1,101 @@
+.home-content-container {
+    @include max-page-cap;
+    padding-inline: $padding-inline-desktop;
+    margin-block:32px;
+    display:grid;
+    grid-template-columns: 2fr 1fr;
+    gap:0 32px;
+    .home-content-main, .home-content-sidebar {
+        .home-content-section {
+            margin-bottom:32px;
+            h2 {
+                @include common-page-section-title;
+            }
+            .home-content-section-body {
+                @include common-page-textblock;
+                margin:0;
+                p {
+                    letter-spacing: 0.045em;
+                }
+            }
+            .home-link-cards {
+                //display:flex;
+                margin-block:16px;
+                display: grid;
+                grid-template-columns: repeat(2, 1fr);
+                gap:16px;
+            }
+        }
+    }
+    // .home-content-sidebar {
+
+    // }
+    @media screen and (max-width:768px) {
+        padding-inline: $padding-inline-mobile;
+        grid-template-columns: 1fr;
+        .home-content-main, .home-content-sidebar {
+            .home-content-section {
+                h2 {
+                    font-size:1.25rem;
+                }
+                .home-content-section-body {
+                    p {
+                        font-size:0.875rem;
+                        line-height:1.125rem;
+                    }
+                }
+                .home-link-cards {
+                    .activity-card {
+                        min-height:0;
+                        display: flex;
+                        align-items: center;
+                        .activity-card-header {
+                            border:none;
+                            padding: 0;
+                            .activity-card-header-text {
+                                h3 {
+                                    font-size:1rem;
+                                }
+                            }
+                        }
+                        .activity-card-body {
+                            display: none;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    @media screen and (max-width:600px) {
+        .home-content-main, .home-content-sidebar {
+            .home-content-section {
+                h2 {
+                }
+                .home-content-section-body {
+                    p {
+                    }
+                }
+                .home-link-cards {
+                    grid-template-columns: 1fr;
+                    .activity-card {
+                        min-height:0;
+                        display: flex;
+                        align-items: center;
+                        .activity-card-header {
+                            border:none;
+                            padding: 0;
+                            .activity-card-header-text {
+                                h3 {
+                                    font-size:1rem;
+                                }
+                            }
+                        }
+                        .activity-card-body {
+                            display: none;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

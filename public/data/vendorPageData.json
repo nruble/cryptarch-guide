@@ -358,9 +358,9 @@
                 "sectionDescription": "Gaining new ranks above Rank 3 will present you a choice from 3 reward packages. Potential contents can be previewed in-game. The package is immediately opened when acquired, and contains 1 Guaranteed Item, 4 Motes of Light, 4 Strange Coins, and may contain up to 2 Possible Items. Reputation Pacakages do not stack, so claim your rewards before continuing to increase your rank.",
                 "sectionType": "Reputation Package",
                 "reputationPackages": [
-                    "vanguard-warlock-armor",
-                    "vanguard-warlock-chroma",
-                    "vanguard-warlock-weapon"
+                    "vanguard-hunter-armor",
+                    "vanguard-hunter-chroma",
+                    "vanguard-hunter-weapon"
                 ]
             }
         ]
@@ -895,9 +895,9 @@
                     "itemHash": "1983809889",
                     "showName":true,
                     "nameOverride": true,
-                    "name": "Weekly Crucible Weapon Bounties ×5",
+                    "name": "Weekly Crucible Weapons Bounties ×5",
                     "linkOverride": true,
-                    "link": "/list/crucible-weekly-weapon-bounties"
+                    "link": "/list/crucible-weekly-weapons-bounties"
                 }
             ],
             "saleFootnote": ""
@@ -1161,12 +1161,12 @@
                     {
                         "foundryName": "Omolon",
                         "foundryItems": [
-                            "536304807",
-                            "2245649823",
-                            "677734480",
-                            "2469630254",
-                            "718379268",
-                            "2322501562"
+                          "536304807",
+                          "2245649823",
+                          "677734480",
+                          "2469630254",
+                          "718379268",
+                          "2322501562"
                         ],
                         "descriptionTrim": "Omolon prototype. ",
                         "trailingTrim": " to gather data for Omolon's weapons developers."
@@ -2666,7 +2666,7 @@
     "crotas-bane": {
         "vendorName": "Eris Morn",
         "icon": "/img/destiny_content/vendor/eris_portrait.png",
-        "vendorTitle": "title",
+        "vendorTitle": "Crota's Bane",
         "vendorDescription": "Among the last of those Guardians who faced Crota, Eris works in the shadows to bring about his end.",
         "repFaction": {
             "repName": "Crota's Bane",
@@ -4469,7 +4469,7 @@
     },
     "eververse": {
         "vendorName": "Tess Everis",
-        "icon": "/img/destiny_content/vendor/tess.png",
+        "icon": "/img/destiny_content/vendor/tess.jpg",
         "vendorTitle": "",
         "vendorDescription": "Tess is the proprietor of Eververse, where Guardians can purchase unique curiosities and stylish wares.",
         "specialInformation": {

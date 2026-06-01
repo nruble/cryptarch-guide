@@ -1,8 +1,5 @@
 import './SubjectCard.scss'
-import { useMediaQuery } from 'react-responsive'
-import { useMemo, useState } from 'react'
-import { useSearchParams, Link, useLoaderData } from 'react-router-dom'
-import type { SubjectDetailCard, SummaryReward } from '../../types'
+import type { SubjectDetailCard } from '../../types'
 import Markdown from 'react-markdown'
 import SummaryRewards from '../SummaryRewards/SummaryRewards'
 

@@ -1,13 +1,10 @@
 import './Box.scss'
-import BoxHeading from './BoxHeading'
-import BoxSections from './BoxSections'
 import PageHeading from '../../components/PageHeading/PageHeading'
 import PageSections from '../../components/PageSections/PageSections'
 
-import { useMediaQuery } from 'react-responsive'
-import { useMemo, useState } from 'react'
-import type { DestinyInventoryItem, RewardBoxPage} from '../../types'
-import { Link, useParams, useLocation, useLoaderData } from 'react-router-dom'
+import { useMemo } from 'react'
+import type { RewardBoxPage} from '../../types'
+import { useParams, useLoaderData } from 'react-router-dom'
 
 export default function Box() {
     const {boxes} = useLoaderData()

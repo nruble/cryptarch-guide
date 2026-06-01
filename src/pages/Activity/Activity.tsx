@@ -1,18 +1,21 @@
 import './Activity.scss'
-import PageHeading from '../../components/PageHeading/PageHeading'
+import { redirect } from 'react-router-dom'
+import { useMemo } from 'react'
+import type { ActivityPage} from '../../types'
+import { useParams, useLoaderData } from 'react-router-dom'
 import ActivityHeading from '../../components/ActivityHeading/ActivityHeading'
 import PageSections from '../../components/PageSections/PageSections'
 import RaidLootTable from '../../components/RaidLootTable/RaidLootTable'
 
-import { useMediaQuery } from 'react-responsive'
-import { useMemo, useState } from 'react'
-import type { DestinyInventoryItem, ActivityPage} from '../../types'
-import { Link, useParams, useLocation, useLoaderData } from 'react-router-dom'
 
 export default function Activity() {
     const {activities} = useLoaderData()
     const activityTag:string = useParams<string>().activityTag ?? ''
     const activityData:ActivityPage = useMemo(()=>{
+        if(activityTag != '' && !Object.hasOwn(activities, activityTag)){
+          throw redirect('/acquisition')
+        }
+
         return activities[activityTag]
     },[activities, activityTag])
 

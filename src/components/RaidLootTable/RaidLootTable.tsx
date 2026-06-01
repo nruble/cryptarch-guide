@@ -1,8 +1,7 @@
 import './RaidLootTable.scss'
-import { useMediaQuery } from 'react-responsive'
 import { useMemo, useState } from 'react'
 import type { RaidLootTable } from '../../types'
-import FalseItemLink from '../FalseItemLink/FalseItemLink'
+// import FalseItemLink from '../FalseItemLink/FalseItemLink'
 import ItemDisplaySet from '../ItemDisplaySet/ItemDisplaySet'
 import SimpleDisplayItem from '../SimpleDisplayItem/SimpleDisplayItem'
 

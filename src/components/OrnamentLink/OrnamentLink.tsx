@@ -1,7 +1,7 @@
 import './OrnamentLink.scss'
-import { useEffect, useState, useMemo, Fragment } from 'react'
-import { Link, useParams, useLocation, useLoaderData } from 'react-router-dom'
-import type { DestinyInventoryItem, DestinyTalentGrid, talentGridNode, talentGridNodeStep} from '../../types'
+import { useMemo } from 'react'
+import { Link, useLoaderData } from 'react-router-dom'
+import type { DestinyInventoryItem } from '../../types'
 
 interface ornamentLinkObject {
     "itemName": string,
@@ -85,9 +85,7 @@ export default function OrnamentLink({ itemHash }:{itemHash:number}) {
     
     return (
         <Link to={`/item/${processedItemData.itemHash}`} className="ornament-link-box">
-            <div className='ornament-link-icon'>
-                <img src={`/data/d1_icons${processedItemData.icon}`} />
-            </div>
+            <img src={`/data/d1_icons${processedItemData.icon}`} alt="" className='ornament-link-icon'/>
             <div className='ornament-link-text'>
                 <h3>{processedItemData.itemName}</h3>
                 {processedItemData.itemDescription && <p>{description}</p>}

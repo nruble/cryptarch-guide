@@ -3,7 +3,7 @@ import { useState, useRef, useEffect } from 'react'
 import { clsx } from 'clsx'
 import { Link, NavLink, useLocation } from "react-router-dom"
 import cryptarchLogo from '../../assets/cryptarch_logo.png'
-import { RiMoreFill, RiCloseLargeFill, RiBookLine, RiBookOpenFill } from "react-icons/ri"
+import { RiBookLine, RiBookOpenFill } from "react-icons/ri"
 
 export default function Header() {
     const [navOpen, setNavOpen] = useState(false)
@@ -24,7 +24,7 @@ export default function Header() {
                 <img src={cryptarchLogo} alt="Cryptarch logo" className="site-logo-icon" />
                 <div className="site-logo-text">Cryptarch <span className="site-logo-text-2nd">Guide</span></div>
             </Link>
-            <button className='site-header-mobile-nav-btn' onClick={toggleMobileNav}>
+            <button className='site-header-mobile-nav-btn' onClick={toggleMobileNav} aria-label="Site Menu">
                 {navOpen ? <RiBookOpenFill/> : <RiBookLine />}
             </button>
             <nav className={clsx(`site-header-nav`, navOpen && `open`)} ref={navMenu}>

@@ -1,5 +1,3 @@
-import { useMediaQuery } from 'react-responsive'
-import { useMemo, useState } from 'react'
 import './PageHeading.scss'
 
 export default function PageHeading({icon, headline = "", subtitle, flavor}:{icon?:string, headline:string, subtitle?:string, flavor?:string}) {

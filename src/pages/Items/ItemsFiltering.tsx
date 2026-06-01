@@ -68,7 +68,7 @@ export default function ItemsFiltering() {
     return (
         <menu className="resultslist-filter-menu">
             <section className='results-filter-section'>
-                <h3 className='results-filter-section-heading'>Categories</h3>
+                <h2 className='results-filter-section-heading'>Categories</h2>
                 <Tree 
                     selectionMode='multiple' 
                     selectionBehavior='toggle' 
@@ -81,14 +81,15 @@ export default function ItemsFiltering() {
                     >
                     <TreeItem id='1' textValue="Weapons" className='results-filter-item results-filter-item-expandable'>
                         <TreeItemContent>
-                            <Checkbox slot='selection'/>
-                            <Button slot="chevron" className='results-filter-tree-btn'>
-                                <RiArrowRightSLine className='results-filter-tree-chevron'/>
-                                <span className='results-filter-tree-btn-text'>Weapons</span>
-                                <span className='results-filter-tree-checkbox'>
-                                    <RiCheckFill />
-                                </span>
-                            </Button>
+                            <Checkbox slot='selection'>
+                              <Button slot="chevron" className='results-filter-tree-btn'>
+                                  <RiArrowRightSLine className='results-filter-tree-chevron'/>
+                                  <span className='results-filter-tree-btn-text'>Weapons</span>
+                                  <span className='results-filter-tree-checkbox'>
+                                      <RiCheckFill />
+                                  </span>
+                              </Button>
+                            </Checkbox>
                         </TreeItemContent>
                         
                         <TreeItem id='weapon-subfilters' textValue="Weapon Filters" isDisabled>
@@ -101,14 +102,15 @@ export default function ItemsFiltering() {
 
                     <TreeItem id='20' textValue="Armor" className='results-filter-item results-filter-item-expandable'>
                         <TreeItemContent>
-                            <Checkbox slot='selection'/>
-                            <Button slot="chevron" className='results-filter-tree-btn'>
-                                <RiArrowRightSLine className='results-filter-tree-chevron'/>
-                                <span className='results-filter-tree-btn-text'>Armor</span>
-                                <span className='results-filter-tree-checkbox'>
-                                    <RiCheckFill />
-                                </span>
-                            </Button>
+                            <Checkbox slot='selection'>
+                              <Button slot="chevron" className='results-filter-tree-btn'>
+                                  <RiArrowRightSLine className='results-filter-tree-chevron'/>
+                                  <span className='results-filter-tree-btn-text'>Armor</span>
+                                  <span className='results-filter-tree-checkbox'>
+                                      <RiCheckFill />
+                                  </span>
+                              </Button>
+                            </Checkbox>
                         </TreeItemContent>
                         
                         <TreeItem id='armor-subfilters' textValue="Armor Filters" isDisabled>
@@ -121,14 +123,15 @@ export default function ItemsFiltering() {
 
                     <TreeItem id='52' textValue="Inventory" className='results-filter-item results-filter-item-expandable'>
                         <TreeItemContent>
-                            <Checkbox slot='selection'/>
-                            <Button slot="chevron" className='results-filter-tree-btn'>
-                                <RiArrowRightSLine className='results-filter-tree-chevron'/>
-                                <span className='results-filter-tree-btn-text'>Inventory</span>
-                                <span className='results-filter-tree-checkbox'>
-                                    <RiCheckFill />
-                                </span>
-                            </Button>
+                            <Checkbox slot='selection'>
+                              <Button slot="chevron" className='results-filter-tree-btn'>
+                                  <RiArrowRightSLine className='results-filter-tree-chevron'/>
+                                  <span className='results-filter-tree-btn-text'>Inventory</span>
+                                  <span className='results-filter-tree-checkbox'>
+                                      <RiCheckFill />
+                                  </span>
+                              </Button>
+                            </Checkbox>
                         </TreeItemContent>
                         
                         <TreeItem id='inventory-subfilters' textValue="Inventory Filters" isDisabled>
@@ -141,14 +144,14 @@ export default function ItemsFiltering() {
             </section>
 
             <section className='results-filter-section'>
-                <h3 className='results-filter-section-heading'>Filters</h3>
+                <h2 className='results-filter-section-heading'>Filters</h2>
                 <ItemsSubSelector legend="Rarity" paramKey="rarity" options={ITEM_RARITY_OPTIONS} />
                 <ItemsSubSelector legend="Activity Sources" paramKey="asrc" options={ACTIVITY_SOURCE_OPTIONS} />
                 <ItemsSubSelector legend="Vendor Sources" paramKey="vsrc" options={VENDOR_SOURCE_OPTIONS} />
             </section>
 
             {/* <section className='results-filter-section'>
-                <h3 className='results-filter-section-heading'>Name Search</h3>
+                <h2 className='results-filter-section-heading'>Name Search</h2>
                 
             </section> */}
         </menu>

@@ -1,7 +1,6 @@
 import './ActivityHeading.scss'
-import { useMediaQuery } from 'react-responsive'
-import { useMemo, useState } from 'react'
-import { Link, useParams, useLocation, useLoaderData } from 'react-router-dom'
+import { useMemo } from 'react'
+import { useParams, useLoaderData } from 'react-router-dom'
 import type { ActivityPage, ActivityHeadSection } from '../../types'
 import Markdown from 'react-markdown'
 
@@ -35,19 +34,19 @@ export default function ActivityHeading(){
                     }
                     {"activityInfo" in section && 
                         <div className='activity-head-info'>
-                            {"activityLevel" in activityInfo &&
+                            {"activityLevel" in activityInfo && activityInfo.activityLevel != '' &&
                                 <p>Level: <b>{activityInfo.activityLevel}</b></p>
                             }
-                            {"lightLevel" in activityInfo &&
+                            {"lightLevel" in activityInfo && activityInfo.lightLevel != '' &&
                                 <p className='activity-head-light'>Recommended Light: <b>{activityInfo.lightLevel}</b></p>
                             }
-                            {"modeType" in activityInfo &&
+                            {"modeType" in activityInfo && activityInfo.modeType != '' &&
                                 <p>Mode Type: <b>{activityInfo.modeType}</b></p>
                             }
-                            {"teamSize" in activityInfo &&
+                            {"teamSize" in activityInfo && activityInfo.teamSize != '' &&
                                 <p>Fireteam: <b>{activityInfo.teamSize}</b></p>
                             }
-                            {"activityType" in activityInfo &&
+                            {"activityType" in activityInfo && activityInfo.activityType != '' &&
                                 <p>{activityInfo.activityType}</p>
                             }
                             {"hasMatchmaking" in activityInfo && activityInfo.hasMatchmaking &&

@@ -1,0 +1,23 @@
+.simple-item-container {
+    .fieldtest-item-text {
+      padding-block:8px;
+      padding-inline:18px 18px;
+      margin:0;
+      .fieldtest-item-label {
+        font-size:1rem;
+        letter-spacing: 0.075em;
+        font-weight:$font-xlight;
+        text-shadow: $text-shadow-standard;
+        margin-block:0 6px;
+        padding-bottom: 6px;
+        border-bottom: 1px solid $color-ghostwhite;
+      }
+      .fieldtest-item-desc {
+        font-size:0.75rem;
+        letter-spacing: 0.06rem;
+        text-shadow: $text-shadow-standard;
+        margin:0;
+        line-height: 1;
+      }
+    }
+}

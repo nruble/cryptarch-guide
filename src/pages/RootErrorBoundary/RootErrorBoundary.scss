@@ -1,0 +1,37 @@
+.error-page-container {
+  @include max-page-cap;
+  padding-inline:$padding-inline-desktop;
+  display:flex;
+  flex-direction: column;
+  flex-grow:1;
+  align-items: center;
+  //justify-content: center;
+  overflow: hidden;
+  margin-block:32px 64px;
+  @media screen and (max-width:768px){
+    padding-inline: $padding-inline-mobile;
+  }
+  h1 {
+    font-size:3rem;
+    letter-spacing: 0.04em;
+    margin-block:0 32px;
+    text-transform: uppercase;
+    font-weight: $font-thin;
+  }
+  p {
+    margin-block:0 16px;
+    letter-spacing: 0.065em;
+  }
+  .fouroh-out-links {
+    display:flex;
+    flex-wrap: wrap;
+    gap:16px;
+    a {
+      @include glass-box;
+      padding:8px 16px;
+      text-decoration: none;
+      color:$color-white;
+      letter-spacing: 0.045rem;
+    }
+  }
+}

@@ -1,45 +1,36 @@
-import './ItemsResultDisplay.scss'
+import './PaginatedItems.scss'
 import { useState, useMemo } from 'react'
-import { useSearchParams, Link } from 'react-router-dom'
+// import { useSearchParams, Link } from 'react-router-dom'
 import ResponsivePagination from 'react-responsive-pagination'
-import type { DestinyInventoryItem } from '../../types'
 import { RiArrowRightSFill, RiArrowLeftSFill } from "react-icons/ri"
+import SimpleDisplayItem from '../../components/SimpleDisplayItem/SimpleDisplayItem'
 
 
-function Items({ currentItems, itemsPerPage = 30 }:{currentItems:DestinyInventoryItem[], itemsPerPage:number}) {
+function Items({ currentItems}:{currentItems:string[]}) {
     return (
-        <div className='resultslist-container' style={{gridTemplateRows:`repeat(${itemsPerPage ? (itemsPerPage / 3) : 10}, 1fr)`}}>
-        {currentItems && currentItems.map((item: DestinyInventoryItem) => (
-            <Link to={`/item/${item.itemHash}`} className='resultslist-item' key={`${item.itemHash}`}>
-                <img src={`/data/d1_icons${item.icon}`} alt={`${item.itemName} Icon`} className='resultslist-item-icon' />
-                <h3>{item.itemName}</h3>
-            </Link>
-
-            // <div className='resultslist-item' key={`${item.itemHash}`}>
-            //     <img src={`/data/d1_icons${item.icon}`} alt={`${item.itemName} Icon`} className='resultslist-item-icon' />
-            //     <h3>{item.itemName}</h3>
-            //     <p>{item.itemHash}</p>
-            // </div>
+        <div className='resultslist-container' >
+        {currentItems && currentItems.map((item: string) => (
+            <SimpleDisplayItem itemHash={item} key={`${item}`} />
         ))}
         </div>
     )
 }
 
-export default function PaginatedItems({ itemsPerPage, sortedItemsData }:{itemsPerPage: number, sortedItemsData:DestinyInventoryItem[]}) {
-    const [searchParams, setSearchParams] = useSearchParams()
+export default function PaginatedItems({ itemsPerPage, sortedItemsList }:{itemsPerPage: number, sortedItemsList:string[]}) {
+    //const [searchParams, setSearchParams] = useSearchParams()
     const [currentPage, setCurrentPage] = useState<number>(
-        // () => parseInt(searchParams.get('page') ?? '1')
+        // () => parseInt(searchParams.get('page') ?? '1') // this was for storing current page into URL
         1
     )
     
     const pageCount:number = useMemo(()=> {
-        return Math.ceil(sortedItemsData.length / itemsPerPage)
-    },[sortedItemsData.length, itemsPerPage])
+        return Math.ceil(sortedItemsList.length / itemsPerPage)
+    },[sortedItemsList.length, itemsPerPage])
 
-    const currentItems:DestinyInventoryItem[] = useMemo(()=>{
+    const currentItems:string[] = useMemo(()=>{
         const offset:number = (currentPage * itemsPerPage) - itemsPerPage
-        return [...sortedItemsData.slice(offset, offset + itemsPerPage)]
-    },[sortedItemsData, currentPage, itemsPerPage])
+        return [...sortedItemsList.slice(offset, offset + itemsPerPage)]
+    },[sortedItemsList, currentPage, itemsPerPage])
 
 
     function handlePageChange(page:number){
@@ -50,18 +41,17 @@ export default function PaginatedItems({ itemsPerPage, sortedItemsData }:{itemsP
         //     //page != 1 && next.set('page', page.toString())
         //     next.set('page', page.toString())
         //     return next
-        // }, {replace:true})
+        // }, {replace:true}) // this was for storing current page into URL. removed function as it behaved poorly on certain browser Back uses, and also needed to be fixed to revert to page 1 if any other params change to not be stranded on non-existent pages in some cases.
     }
 
     return (
         <>
-            <Items currentItems={ currentItems } itemsPerPage={itemsPerPage} />
+            <Items currentItems={ currentItems } />
             <div className='resultslist-pagination-wrapper'>   
                 <ResponsivePagination 
                     current={ currentPage }
                     total={ pageCount }
                     onPageChange={(page) => handlePageChange(page)}
-                    //onPageChange={(page) => handlePageChange(page)}
                     className="resultslist-pagination"
                     nextLabel={<RiArrowRightSFill />}
                     previousLabel={<RiArrowLeftSFill />}

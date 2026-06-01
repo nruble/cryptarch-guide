@@ -1,0 +1,11 @@
+.progress-circle {
+  opacity: 0.6;
+  svg {
+    .circle1 {
+      stroke:$color-ghostwhite;
+    }
+    .circle2 {
+      stroke: $color-fadewhite;
+    }
+  }
+}

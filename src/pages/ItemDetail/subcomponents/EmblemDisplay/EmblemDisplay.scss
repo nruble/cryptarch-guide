@@ -1,0 +1,50 @@
+.itemdetail-robust-emblem {
+  @include max-page-cap;
+  padding-inline:$padding-inline-desktop;
+  margin-block:32px;
+  display:flex;
+  flex-direction: column;
+  gap:12px;
+  h2 {
+      @include itempage-section-heading;
+  }
+  .emblem-preview-wrapper {
+      $emblem-icon-size:96px;
+      height:$emblem-icon-size;
+      position:relative;
+      width:100%;
+      max-width: 474px;
+      .emblem-preview-background {
+          width:100%;
+          height:auto;
+      }
+      .emblem-preview-icon {
+          width:20.25316456%;
+          height:auto;
+          position:absolute;
+          left:0;
+          top:0;
+      }
+      @media screen and (max-width:768px) {
+          width:100%;
+          max-width: 474px;
+      }    
+  }
+  .emblem-external-link {
+      display:flex;
+      align-items: center;
+      gap:6px;
+      color:$color-white;
+      font-size:1rem;
+      letter-spacing: 0.05em;
+      margin-top:5px;
+      font-weight:$font-xlight;
+      svg {
+          width:18px;
+          height:18px;
+      }
+  }
+  @media screen and (max-width:768px){
+    padding-inline: $padding-inline-mobile;
+  }
+}

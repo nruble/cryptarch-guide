@@ -8,6 +8,7 @@ $color-box-black: #1A1A1A;
 $color-box-dark-gray:#272727;
 $color-exotic-gold: #CEAE33;
 $color-exotic-gold-light: #FFE57B;
+$color-legend-purple: #522F65;
 $color-legend-purple-light: #DD94FF;
 $color-positive-green: #7AC673;
 $color-negative-red: #FF4D4D;
@@ -58,11 +59,13 @@ $text-shadow-standard: 1.5px 1.5px 0 rgba($color-black, 0.2);
   flex-direction: row;
   width:100%;
   padding-block:40px;
-  background:url('./assets/cryptarch_logo_vector-01.svg') center center / 340px no-repeat, $gradient-major-intro;
+  background:url('./assets/cryptarch_logo_vector-01.svg') center center / 320px no-repeat, $gradient-major-intro;
   height: fit-content;
   box-shadow: 0 6px 80px 0 rgba($color-black, 0.35), 0 4px 10px 0 rgba($color-black, 0.15);
   @media screen and (max-width:768px) {
       background-size: 50%;
+      padding-block:24px;
+      background:url('./assets/cryptarch_logo_vector-01.svg') center center / 240px no-repeat, $gradient-major-intro;
   }
 }
 
@@ -91,7 +94,7 @@ $text-shadow-standard: 1.5px 1.5px 0 rgba($color-black, 0.2);
 }
 
 @mixin common-page-section-title {
-  font-size:24px;
+  font-size:1.5rem;
   font-weight:$font-light;
   text-transform: uppercase;
   letter-spacing: 0.06em;
@@ -109,7 +112,7 @@ $text-shadow-standard: 1.5px 1.5px 0 rgba($color-black, 0.2);
   margin-bottom:24px;
   p {
     font-size:1rem;
-    letter-spacing: 0.055em;
+    letter-spacing: 0.065em;
     font-weight:$font-xlight;
     text-shadow: $text-shadow-standard;
     margin-block:0;
@@ -141,4 +144,23 @@ $text-shadow-standard: 1.5px 1.5px 0 rgba($color-black, 0.2);
     font-weight:$font-xlight;
     font-style: italic;
     letter-spacing: 0.06rem;
+}
+
+@mixin item-set-reduced {
+  flex-direction: column;
+  height: unset;
+  .set-item-icongroup {
+      display:flex;
+      gap:6px;
+      width: 100%;
+      border-bottom:1px solid $color-ghostwhite;
+      .set-item-icon {
+          img {
+              width:100%;
+          }
+          width:68px;
+          height:68px;
+          background-image:url('/data/d1_icons/img/destiny_content/items/set_blank.png');
+      }
+  }
 }

@@ -1,0 +1,95 @@
+.home-banner-container {
+    background:linear-gradient(rgba($color-box-black, 0.8), rgba($color-box-black, 0.9)), url('/data/d1_icons/img/theme/destiny/bgs/twabgallery/place_vaults.jpg') center center / cover no-repeat, $color-box-black;
+    box-shadow: 0 6px 80px 0 rgba($color-black, 0.35), 0 4px 10px 0 rgba($color-black, 0.15);
+    .home-banner-inner {
+        @include max-page-cap;
+        padding-inline:$padding-inline-desktop;
+        height:600px;
+        display:flex;
+        flex-direction: column;
+        justify-content: space-between;
+        padding-block:32px;
+        .home-banner-headline {
+            text-transform: uppercase;
+            display:flex;
+            flex-direction: column;
+            width:fit-content;
+            .headline-bit-1, .headline-bit-3 {
+                font-size:20px;
+                line-height:1;
+                font-weight:$font-xlight;
+                letter-spacing: 0.065rem;
+            }
+            .headline-bit-2 {
+                font-size:55px;
+                line-height:1;
+                letter-spacing: 0.04rem;
+            }
+            .headline-bit-3 {
+                text-align: right
+            }
+        }
+        .home-banner-section {
+            h2 {
+                @include common-page-section-title;
+            }
+            .home-banner-body {
+                @include common-page-textblock;
+                margin:0;
+                p {
+                    letter-spacing: 0.045em;
+                    text-shadow: $text-shadow-standard;
+                }
+            }
+        }
+        @media screen and (max-width:1024px) {
+            height:540px;
+        }
+        @media screen and (max-width:768px) {
+            padding-inline: $padding-inline-mobile;
+            height:580px;
+            align-items: center;
+            .home-banner-headline {
+                text-align: center;
+                .headline-bit-1, .headline-bit-3 {
+                    font-size:18px;
+                }
+                .headline-bit-2 {
+                    font-size:44px;
+                }
+                .headline-bit-3 {
+                    text-align: center;
+                }
+            }
+            .home-banner-section {
+                .home-banner-body {
+                    p {
+                        font-size:0.875rem;
+                        line-height:1.125rem;
+                    }
+                }
+            }
+        }
+        @media screen and (max-width:600px) {
+            height:240px;
+            justify-content: center;
+            .home-banner-headline {
+                text-align: center;
+                width:100%;
+                margin:0;
+                .headline-bit-1, .headline-bit-3 {
+                    font-size:16px;
+                }
+                .headline-bit-2 {
+                    font-size:36px;
+                }
+                .headline-bit-3 {
+                    text-align: center;
+                }
+            }
+            .home-banner-section {
+                display: none;
+            }
+        }
+    }
+}

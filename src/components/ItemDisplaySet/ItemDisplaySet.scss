@@ -11,27 +11,32 @@
         .set-item-icon {
             width:96px;
             height:96px;
-            background-image:url('/data/d1_icons/img/destiny_content/items/set_blank.png');
+            img {
+                background:url('/data/d1_icons/img/destiny_content/items/set_blank.png') center center / contain;
+            }
         }
     }
     .set-item-labels {
         padding-block:18px;
         padding-inline:24px 18px;
         p {
-            font-size:12px;
+            font-size:0.75rem;
             text-transform: uppercase;
             letter-spacing: 0.085rem;
-            font-weight: $font-medium;
+            font-weight: $font-normal;
             color:$color-fadewhite;
             margin:0;
         }
         .display-item-label {
-            margin:0;
             font-size:1rem;
             letter-spacing: 0.075em;
             font-weight:$font-xlight;
             text-transform: none;
             color:$color-white;
+            margin-block:0 3px;
         }
+    }
+    @media screen and (max-width:767px) {
+
     }
 }

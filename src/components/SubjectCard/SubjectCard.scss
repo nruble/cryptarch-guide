@@ -4,18 +4,20 @@
     flex-direction: row;
     align-items: flex-start;
     .subject-card-grim {
-        max-width:300px;
-        width:40%;
+        max-width:200px;
+        flex-basis:40%;
         height:auto;
         background-color: $color-box-black-hollow;
+        @media screen and (max-width:600px){
+            display:none;
+        }
     }
     .subject-detail-card-inner {
         @include glass-blur;
         display: flex;
         flex-direction: column;
         flex-grow: 1;
-        width:70%;
-        //max-width:600px;
+        flex-basis:70%;
         .subject-card-header {
             background-color: $color-box-black-hollow;
             display: flex;
@@ -109,6 +111,14 @@
                         span {
                             font-size:0.875rem;
                         }
+                    }
+                }
+            }
+            @media screen and (max-width:768px) {
+                .subject-card-description, .subject-card-quote {
+                    p {
+                        font-size:0.875rem;
+                        line-height:1.125rem;
                     }
                 }
             }

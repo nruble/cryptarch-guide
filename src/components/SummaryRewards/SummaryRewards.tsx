@@ -1,9 +1,5 @@
 import './SummaryRewards.scss'
-import { useMediaQuery } from 'react-responsive'
-import { useMemo, useState } from 'react'
-import { useSearchParams, Link, useLoaderData } from 'react-router-dom'
-import type { SubjectDetailCard, SummaryReward } from '../../types'
-import Markdown from 'react-markdown'
+import type { SummaryReward } from '../../types'
 
 export default function SummaryRewards({rewardData}:{rewardData:SummaryReward[]}) {
     return rewardData.map((reward:SummaryReward, index)=> {

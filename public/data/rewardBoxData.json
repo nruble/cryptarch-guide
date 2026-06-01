@@ -263,7 +263,7 @@
     "dusty-iron-engram": {
         "pageIcon": "/common/destiny_content/icons/dbd6163d8c8bfaf91f39e9cc173ebcf2.jpg",
         "headline": "Dusty Iron Engram",
-        "subtitle": "Bright Dust Engram",
+        "subtitle": "Silver Dust Engram",
         "flavorText": "Contains an Iron Banner armor piece.",
         "sections": [
             {
@@ -427,7 +427,7 @@
     "triad-engram": {
         "pageIcon": "/common/destiny_content/icons/8e8d7f7e20a98c9e0f699e773852c770.jpg",
         "headline": "Triad Engram",
-        "subtitle": "Bright Dust Engram",
+        "subtitle": "Silver Dust Engram",
         "flavorText": "Contains a Vanguard armor piece.",
         "sections": [
             {
@@ -591,7 +591,7 @@
     "arena-engram": {
         "pageIcon": "/common/destiny_content/icons/87392c2afbd69c128a54a02df0a0a4ea.jpg",
         "headline": "Arena Engram",
-        "subtitle": "Bright Dust Engram",
+        "subtitle": "Silver Dust Engram",
         "flavorText": "Contains a Crucible armor piece.",
         "sections": [
             {
@@ -755,7 +755,7 @@
     "exodus-engram": {
         "pageIcon": "/common/destiny_content/icons/7abb141223a6a1eefc37beb71a85bf51.jpg",
         "headline": "Exodus Engram",
-        "subtitle": "Bright Dust Engram",
+        "subtitle": "Silver Dust Engram",
         "flavorText": "Contains a Dead Orbit armor piece.",
         "sections": [
             {
@@ -919,7 +919,7 @@
     "warpath-engram": {
         "pageIcon": "/common/destiny_content/icons/d73e08944d1c953f1699f0167de9f833.jpg",
         "headline": "Warpath Engram",
-        "subtitle": "Bright Dust Engram",
+        "subtitle": "Silver Dust Engram",
         "flavorText": "Contains a Future War Cult armor piece.",
         "sections": [
             {
@@ -1083,7 +1083,7 @@
     "unity-engram": {
         "pageIcon": "/common/destiny_content/icons/09c2d0f1b24fa1a36a1443f8052049d0.jpg",
         "headline": "Unity Engram",
-        "subtitle": "Bright Dust Engram",
+        "subtitle": "Silver Dust Engram",
         "flavorText": "Contains a New Monarchy armor piece.",
         "sections": [
             {
@@ -1247,7 +1247,7 @@
     "sterling-engram": {
         "pageIcon": "/common/destiny_content/icons/7d029520cbac56730912d5ea16f7bc48.jpg",
         "headline": "Sterling Engram",
-        "subtitle": "Bright Dust Engram",
+        "subtitle": "Silver Dust Engram",
         "flavorText": "Contains a Spektar armor piece.",
         "sections": [
             {
@@ -1302,7 +1302,7 @@
     "icy-engram": {
         "pageIcon": "/common/destiny_content/icons/54af77e531d13b812675e875c5b157fe.jpg",
         "headline": "Icy Engram",
-        "subtitle": "Bright Dust Engram",
+        "subtitle": "Silver Dust Engram",
         "flavorText": "Contains a Dawning Chroma armor piece.",
         "sections": [
             {

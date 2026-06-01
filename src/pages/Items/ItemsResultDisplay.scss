@@ -121,47 +121,9 @@
                 }
             }
         }
-        .resultslist-container {
-            display:grid;
-            grid-template-columns: repeat(3, 1fr);
-            // grid-template-rows: repeat(auto, 1fr);
-            gap:16px;
-            @media screen and (max-width:1200px){
-                grid-template-columns: repeat(2, 1fr);
-            }
-            @media screen and (max-width:860px){
-                grid-template-columns: repeat(1, 1fr);
-            }
-            @media screen and (max-width:768px){
-                grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-            }
-            .resultslist-item {
-                @include glass-box;
-                display:flex;
-                flex-direction: row;
-                min-width:0;
-                overflow:hidden;
-                height:98px;
-                text-decoration: none;
-                color:$color-white;
-                .resultslist-item-icon {
-                    width:96px;
-                    height:96px;
-                }
-                h3 {
-                    margin:0;
-                    font-weight:$font-normal;
-                    padding-block:18px;
-                    padding-inline:20px 18px;
-                    font-size:1rem;
-                    font-weight:$font-light;
-                    letter-spacing: 0.04rem;
-                    flex-grow:1;
-                }
-            }
-        }
         .resultslist-pagination-wrapper{
-            max-width:392px;
+            //max-width:392px;
+            max-width:600px;
             margin:32px auto 0;
             .resultslist-pagination {
                 display:flex;

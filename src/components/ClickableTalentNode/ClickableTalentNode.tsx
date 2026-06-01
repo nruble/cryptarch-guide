@@ -1,7 +1,7 @@
 import './ClickableTalentNode.scss'
-import { useEffect, useState, useMemo, useRef, Fragment } from 'react'
+import { useEffect, useState, useRef } from 'react'
 import type { talentGridNodeStep} from '../../types'
-import { DialogTrigger, Popover, Button, OverlayArrow } from 'react-aria-components'
+import { DialogTrigger, Popover, Button } from 'react-aria-components'
 
 
 export default function ClickableTalentNode({step}:{step:talentGridNodeStep}) {
@@ -48,7 +48,7 @@ export default function ClickableTalentNode({step}:{step:talentGridNodeStep}) {
                         >
                     <div className='clickable-talent-popover'>
                         <section className='clickable-talent-title'>
-                            <img src={`/data/d1_icons${step.icon}`} className='popover-talent-icon' />
+                            <img src={`/data/d1_icons${step.icon}`} alt="" className='popover-talent-icon' />
                             <h3>{step.nodeStepName}</h3>
                         </section>
                         <section className='clickable-talent-body'>

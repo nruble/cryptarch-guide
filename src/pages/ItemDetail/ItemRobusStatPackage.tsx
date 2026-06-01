@@ -1,7 +1,7 @@
 import { Fragment } from 'react'
 import { useParams, useLoaderData } from 'react-router-dom'
 import type { DestinyInventoryItem, statsObject} from '../../types'
-import { WEAPON_STAT_ORDER, WEAPON_STAT_TEXTADDONS, ARMOR_STAT_ORDER, ARMOR_STAT_TEXTADDONS } from './StatDescriptors'
+import { WEAPON_STAT_ORDER, WEAPON_STAT_TEXTADDONS, ARMOR_STAT_ORDER, ARMOR_STAT_TEXTADDONS } from './subcomponents/StatDisplay/StatDescriptors'
 
 interface statPackage {
     "statHash": number,
@@ -51,7 +51,7 @@ export default function ItemRobustStatPackage() {
         return sortedStats.map((stat) => {
             return (
                 <Fragment key={stat.statHash}>
-                <dt id={`stat-label-${stat.statName}`}>{stat.statName}</dt>
+                <dt id={`stat-label-${stat.statName.replaceAll(" ", "-").toLocaleLowerCase()}`}>{stat.statName}</dt>
                     <dd className='stat-meter' 
                         role="meter"
                         aria-valuemax={stat.maximum}
@@ -70,7 +70,7 @@ export default function ItemRobustStatPackage() {
                                 : stat.value
                             }. Base value of ${stat.value}.`
                         }
-                        aria-labelledby={`stat-label-${stat.statName}`}
+                        aria-labelledby={`stat-label-${stat.statName.replaceAll(" ", "-").toLocaleLowerCase()}`}
                     >
                         {stat.maximum > stat.value && <span className="stat-meter-max" style={{'width':`${stat.maximum}%`}} aria-hidden></span>}
                         <span className="stat-meter-base" style={{'width':`${stat.value}%`}} aria-hidden></span>

@@ -24,6 +24,19 @@
                 @include page-heading-flavortext;
             }
         }
+        @media screen and (max-width:768px) {
+            padding-inline:$padding-inline-mobile;
+            .activity-heading-icon {
+                width:48px;
+                height:48px;
+                margin-right:16px;
+            }
+            .activity-heading-main {
+                h1 {
+                    font-size:2rem;
+                }
+            }
+        }
     }
     .activity-header-sections {
         @include max-page-cap;
@@ -47,6 +60,25 @@
             }
             .activity-head-section-textblock {
                 @include common-page-textblock;
+                &:last-child {
+                    margin-bottom:0;
+                }
+            }
+        }
+        @media screen and (max-width:768px) {
+            padding-inline:$padding-inline-mobile;
+            .activity-head-section {
+                .activity-head-section-title {
+                    font-size:1.25rem;
+                }
+                .activity-head-info {
+                }
+                .activity-head-section-textblock {
+                    p {
+                        font-size:0.875rem;
+                        line-height:1.125rem;
+                    }
+                }
             }
         }
     }

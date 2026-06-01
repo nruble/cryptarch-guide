@@ -1,0 +1,165 @@
+.itemdetail-robust-stat-container {
+  //padding-right:32px;
+  //border-right:2px solid rgba($color-white, 0.6);
+  .itemdetail-weapon-stat-priority {
+      display: flex;
+      margin-bottom:24px;
+      gap:32px;
+      justify-content: flex-end;
+      dl {
+          margin:0;
+          dd {
+              margin:0;
+          }
+          dd, dt {
+              text-shadow: $text-shadow-standard;
+              line-height:1em;
+          }
+      }
+      .itemdetail-weapon-maxatk {
+          text-align: right;
+          dt {
+              font-size:1.375rem;
+              font-weight:$font-xlight;
+              letter-spacing: 0.05em;
+          }
+          dd {
+              font-size:3.938rem;
+              font-weight:$font-bold;
+              display:flex;
+              align-items: center;
+              justify-content: flex-end;
+              margin-bottom:-10px;
+          }
+          .itemdetail-weapon-element {
+              width:52px;
+          }
+      }
+      .itemdetail-weapon-atk {
+          align-content: flex-end;
+          text-align: right;
+          display:grid;
+          grid-template-columns: 1fr max-content;
+          grid-template-rows: repeat(2, auto);
+          gap:0 6px;
+          align-items: flex-end;
+          dt {
+            font-size:18px;
+            font-weight:$font-normal;
+            letter-spacing: 0.05em;
+            position: relative;
+          }
+          dd {
+            font-size:30px;
+            font-weight: $font-bold;
+            line-height: 26px;
+          }
+          @media screen and (max-width:768px) {
+            display:none;
+          }
+      }
+  }
+  .stat-bar-container {
+    display:grid;
+    grid-template-columns: max-content 206px 30px 1px 30px 1px 30px;
+    column-gap: 3px; 
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin-block:24px 0;
+    dt, dd {
+      margin:0;
+      text-shadow: $text-shadow-standard;
+    }
+    dt {
+      padding-right:8px;
+      text-align: right;
+      font-size:0.875rem;
+      font-weight:$font-xlight;
+      line-height: 1;
+      letter-spacing: 0.065rem;
+    }
+    dd {
+      text-align: center;
+      font-size:0.813rem;
+      line-height: 1rem;
+      letter-spacing: 0.04rem;
+      font-weight:$font-normal;
+    }
+    .stat-numeric-label {
+      font-size: 0.75rem;
+      line-height: 0.75rem;
+      letter-spacing: 0.045rem;
+      font-weight:$font-medium;
+      margin-bottom:-4px;
+    }
+    .stat-vertical-rule {
+      background-color:$color-ghostwhite;
+      height: 100%;
+    }
+    .stat-meter {
+      display: flex;
+      position: relative;
+      min-width:100px;
+      width:100%;
+      max-width:200px;
+      margin-top:10px;
+      margin-right:6px;
+      height:18px;
+      background-color:rgba($color-box-gray, 0.4);
+      overflow:hidden;
+      span {
+        display: block;
+        height:18px;
+        position: absolute;
+        left: 0;
+        max-width: 200px;
+        &.stat-meter-min {
+          background:linear-gradient(90deg, rgba($color-white, 1.0) 30%, rgba($color-negative-red, 1.0) 99%);
+        }
+        &.stat-meter-base {
+          background-color: $color-white;
+        }
+        &.stat-meter-max {
+          background-color: $color-positive-green;
+        }
+      }
+    }
+    @media screen and (max-width:768px) {
+      grid-template-columns: max-content 156px 30px 1px 30px 1px 30px;
+      column-gap: 0;
+      dt {
+        padding-right:6px;
+        font-size:0.75rem;
+        letter-spacing: 0.045rem;
+      }
+      dd {
+        font-size:0.75rem;
+      }
+    }
+  }
+  .itemdetail-statless-notice {
+      min-width:200px;
+      max-width:390px;
+      width:max-content;
+      text-align: center;
+      margin:0 auto;
+      @include glass-box;
+      padding:12px 24px;
+      text-shadow:$text-shadow-standard;
+      h3 {
+          margin:0 0 6px;;
+          font-size:1.25rem;
+          font-weight:$font-medium;
+          text-transform: uppercase;
+          letter-spacing: 0.04em;
+      }
+      p {
+          margin:0;
+          font-size:0.875rem;
+          font-weight:$font-light;
+          letter-spacing: 0.06rem;
+          line-height:1.2;
+
+      }
+  }
+}

@@ -1,7 +1,6 @@
 import './BountyCard.scss'
-import { useMediaQuery } from 'react-responsive'
-import { useMemo, useState } from 'react'
-import { useSearchParams, Link, useLoaderData } from 'react-router-dom'
+import { useMemo } from 'react'
+import { useLoaderData } from 'react-router-dom'
 import type { DestinyItemBounty, DestinyObjective } from '../../types'
 
 interface RewardValuesObject {

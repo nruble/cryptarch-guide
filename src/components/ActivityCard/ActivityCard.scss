@@ -56,4 +56,39 @@
             letter-spacing: 0.055em;
         }
     }
+  @media screen and (max-width:768px) {
+    min-height: 180px;
+    overflow: hidden;
+    .activity-card-header {
+      .activity-card-header-text {
+        h3 {
+          font-size:1rem;
+        }
+        p {
+          font-size:0.75rem;
+        }
+      }
+    }
+    .activity-card-body {
+      .activity-card-level {
+        font-size:1rem;
+      }
+      .activity-card-light {
+        font-size:1rem;
+      }
+      .activity-card-description {
+        font-size:0.875rem;
+      }
+    }
+  }
+  @media screen and (max-width:600px) {
+    min-height:unset;
+    .activity-card-header { 
+      padding:0;
+      border:none;
+    }
+    .activity-card-body {
+      display:none;
+    }
+  }
 }

@@ -1,5 +1,5 @@
 import { DialogTrigger, ModalOverlay, Modal, Dialog, Button, Heading } from 'react-aria-components'
-import { RiArrowRightSFill, RiArrowLeftSFill, RiEqualizerLine, RiListSettingsFill, RiListSettingsLine, RiFilter3Fill, RiFilter2Fill, RiCloseFill } from "react-icons/ri"
+import { RiFilter3Fill, RiCloseFill } from "react-icons/ri"
 import ItemsFiltering from './ItemsFiltering'
 
 export default function ItemResultsMobileFilterModal(){

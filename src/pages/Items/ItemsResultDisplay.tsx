@@ -3,14 +3,14 @@
 // Can I somehow have the filters set state here in the results before setting the param, to drive rendering faster? Context? State in Items parent, pass the set function down? Or how?
 
 import './ItemsResultDisplay.scss'
-import { useEffect, useState, useMemo } from 'react'
-import { useSearchParams, Link, useLoaderData } from 'react-router-dom'
+import { useMemo } from 'react'
+import { useSearchParams, useLoaderData } from 'react-router-dom'
 import type { DestinyInventoryItem } from '../../types'
 import ItemResultsPerPage from './ItemResultsPerPage'
 import ItemResultsMobileFilterModal from './ItemResultsMobileFilterModal'
 import { useMediaQuery } from 'react-responsive'
-import { Form, SearchField, Label, Input, Button, Text, FieldError } from 'react-aria-components'
-import { RiMoreFill, RiCloseLargeFill, RiSearchLine } from "react-icons/ri"
+import { Form, SearchField, Label, Input, Button } from 'react-aria-components'
+import { RiCloseLargeFill, RiSearchLine } from "react-icons/ri"
 import PaginatedItems from './PaginatedItems'
 
 
@@ -23,7 +23,8 @@ const lightStat = "2391494160"
 
 
 export default function ItemsResultDisplay(){
-    const dataManifest = useLoaderData()
+    const {items} = useLoaderData()
+    const dataManifest = items
     const [searchParams, setSearchParams] = useSearchParams()
     const isAboveTablet = useMediaQuery({ query: '(min-width: 769px)'})
 
@@ -91,8 +92,8 @@ export default function ItemsResultDisplay(){
     }, [itemArray, cleanParamsKey, excludedNames, categoryExclusions])
 
 
-    const sortedItemsData:DestinyInventoryItem[] = useMemo(()=>{
-       return sanitizedItemsData.toSorted((a:DestinyInventoryItem, b:DestinyInventoryItem) => {
+    const sortedItemsList:string[] = useMemo(()=>{
+       const sortedData = sanitizedItemsData.toSorted((a:DestinyInventoryItem, b:DestinyInventoryItem) => {
             const sortCategory0:number = (a.itemCategoryHashes && b.itemCategoryHashes) ? a.itemCategoryHashes[0] - b.itemCategoryHashes[0] : 0
             const sortTierType:number = (b.tierType ?? 0) - (a.tierType ?? 0)
             const sortCategory1:number = (a.itemCategoryHashes && b.itemCategoryHashes) ? a.itemCategoryHashes[1] - b.itemCategoryHashes[1] : 0
@@ -109,6 +110,8 @@ export default function ItemsResultDisplay(){
                 || sortLightMax
             )
         })
+        const sortedHashList:string[] = sortedData.map((item) => item.itemHash.toString()) // after sorting, process into a list of hash strings so we don't pass all the unneeded data through
+        return sortedHashList
 
     },[sanitizedItemsData])
 
@@ -153,7 +156,6 @@ export default function ItemsResultDisplay(){
                             name="keywordsearch"
                             className="keyword-input"
                         />
-                        {/* <Button>Clear</Button> */}
                     </SearchField>
                     <Button className="resultslist-search-submit" type="submit" aria-label='Search'><RiSearchLine /></Button>
                 </Form>
@@ -165,7 +167,7 @@ export default function ItemsResultDisplay(){
             </div>
             <div className="resultslist-header">
                 <h2>
-                    {sortedItemsData.length.toLocaleString('en-US')} Results
+                    {sortedItemsList.length.toLocaleString('en-US')} Results
                     {displayKeyword != '' &&
                         <span> | "{displayKeyword}"</span>
                     }
@@ -182,7 +184,7 @@ export default function ItemsResultDisplay(){
                     {value:96},
                 ]}/>
             </div>
-            <PaginatedItems itemsPerPage={itemsPerPage ?? 30} sortedItemsData={sortedItemsData} aria-live='polite' />
+            <PaginatedItems itemsPerPage={itemsPerPage ?? 30} sortedItemsList={sortedItemsList} aria-live='polite' />
         </section>
     )
 }

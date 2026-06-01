@@ -1,11 +1,8 @@
 import './FalseItemLink.scss'
-import { useMediaQuery } from 'react-responsive'
-import { useMemo, useState } from 'react'
-import { useSearchParams, Link, useLoaderData } from 'react-router-dom'
-import type { DestinyInventoryItem, RewardBoxPage, FalseItemLink} from '../../types'
-import Markdown from 'react-markdown'
+import { Link } from 'react-router-dom'
+import type { FalseItemLinkType} from '../../types'
 
-export default function FalseItemLink({data}:{data:FalseItemLink}) {
+export default function FalseItemLink({data}:{data:FalseItemLinkType}) {
     const falseLinkInner = 
         <>
             {data.iconUrl &&
@@ -20,6 +17,13 @@ export default function FalseItemLink({data}:{data:FalseItemLink}) {
         </>
 
     if(data.linkUrl){
+        if(data.linkUrl.startsWith('#')){
+          return(
+            <a href={data.linkUrl} className='false-item-container'>
+                {falseLinkInner}
+            </a>
+          )
+        }
         return(
             <Link to={data.linkUrl} className='false-item-container'>
                 {falseLinkInner}
