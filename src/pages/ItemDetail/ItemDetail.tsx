@@ -4,7 +4,7 @@ import PageHeading from '../../components/PageHeading/PageHeading'
 import EmblemDisplay from './subcomponents/EmblemDisplay/EmblemDisplay'
 import StatDisplay from './subcomponents/StatDisplay/StatDisplay'
 import TalentGrid from './subcomponents/TalentGrid/TalentGrid'
-import { Link, useParams, useLocation, useLoaderData } from 'react-router-dom'
+import { useParams, useLoaderData } from 'react-router-dom'
 import type { DestinyInventoryItem} from '../../types'
 type typelineObj = {
     [key:string] : string

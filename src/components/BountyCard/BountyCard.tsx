@@ -32,7 +32,7 @@ export default function BountyCard({itemHash}:{itemHash:string}){
     },[objectives, bountyData.objectiveHashes])
 
     function BountyRewardElements(data:RewardValuesObject) {
-        return Object.entries(bountyData.values).map(([key, value])=> {
+        return Object.entries(data).map(([key, value])=> {
             const rewardItemData = {
                 "icon": items[parseInt(key)].icon,
                 "text": items[parseInt(key)].itemName

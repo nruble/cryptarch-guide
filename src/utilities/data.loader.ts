@@ -14,8 +14,7 @@ export async function fullItemDataLoader({params}: LoaderFunctionArgs) {
     if (!itemHash || !Object.hasOwn(items, itemHash)) {
       throw new Response('Item not found', { status: 404 })
     }
-    const talentGrid = await fetch('/data/d1_manifest/DestinyTalentGridDefinition.json')
-      .then(res => res.json())
+    const talentGrid = await getTalentGrid()
 
     return { items, talentGrid }
 }

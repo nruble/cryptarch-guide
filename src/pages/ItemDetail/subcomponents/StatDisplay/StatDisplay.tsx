@@ -1,6 +1,5 @@
 import './StatDisplay.scss'
-import { Fragment, useMemo } from 'react'
-import { useParams, useLoaderData } from 'react-router-dom'
+import { useMemo } from 'react'
 import type { DestinyInventoryItem, statsObject, statPackage} from '../../../../types'
 import { WEAPON_STAT_ORDER, WEAPON_STAT_TEXTADDONS, ARMOR_STAT_ORDER, ARMOR_STAT_TEXTADDONS, SPARROW_STAT_ORDER, SPARROW_STAT_TEXTADDONS } from './StatDescriptors'
 import StatBar from './StatBar/StatBar'
@@ -11,7 +10,7 @@ const elementMatches = ['', 'kinetic', 'arc', 'thermal', 'void']
 const attackStat = '368428387'
 const defenseStat = '3897883278'
 const speedStat = '1501155019'
-const lightStat = '2391494160'
+//const lightStat = '2391494160'
 
 export default function StatDisplay({itemData}:{itemData:DestinyInventoryItem}) {
   const itemType:number = itemData.itemType ?? 0
