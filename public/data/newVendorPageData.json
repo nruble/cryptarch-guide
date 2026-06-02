@@ -3580,7 +3580,7 @@
     ]
   },
   "eververse" : {
-    "pageIcon": "/img/destiny_content/vendor/.png",
+    "pageIcon": "/img/destiny_content/vendor/tess.jpg",
     "headline": "Tess Everis",
     "subtitle": "Eververse",
     "flavorText": "Tess is the proprietor of Eververse, where Guardians can purchase unique curiosities and stylish wares.",
@@ -3619,7 +3619,7 @@
     ]
   },
   "silver-dust-kiosk" : {
-    "pageIcon": "/img/destiny_content/vendor/.png",
+    "pageIcon": "/img/destiny_content/vendor/silverDustCollection.png",
     "headline": "Silver Dust Eververse Vendor",
     "subtitle": "Silver Dust Kiosk",
     "flavorText": "Purchase items from Eververse with Silver Dust.",
