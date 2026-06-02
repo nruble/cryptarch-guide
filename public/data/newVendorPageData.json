@@ -998,9 +998,9 @@
           "falseItemLinks": [
             {
               "iconUrl": "/common/destiny_content/icons/bd103cae420f953cce1e6962ec991a6c.jpg",
-              "labelText": "Weekly Crucible Mode Bounties",
+              "labelText": "Weekly Crucible Weapons Bounties",
               "labelSubtitle": "",
-              "linkUrl": "/list/crucible-weekly-mode-bounties"
+              "linkUrl": "/list/crucible-weekly-weapons-bounties"
             }
           ]
         },
@@ -1104,7 +1104,7 @@
     "sections": [
       {
         "sectionTitle": "Field Test Weapons",
-        "textBlock": "Each week 5 prototype weapons are provided by SUROS, Omolon, and Häkke foundries for Guardians to field-tests for valuable weapon performance data. Complete the requested objective while wielding the weapon to be awarded Gunsmith Reputation.\n\nAll field-test weapons are common rarity with either sights or a barrel, and a single perk. Reputation is gained immediately upon objective completion, leaving behind the weapon with 100% progress which can be safely dismantled or kept. Duplicates have the same perks but different objectives. And yes, all of the Häkke weapons have the same name.",
+        "textBlock": "Each week 5 prototype weapons are provided by SUROS, Omolon, and Häkke foundries for Guardians to field-test for valuable weapon performance data. Complete the requested objective while wielding the weapon to be awarded Gunsmith Reputation.\n\nAll field-test weapons are common rarity with either sights or a barrel, and a single perk. Reputation is gained immediately upon objective completion, leaving behind the weapon with 100% progress which can be safely dismantled or kept. Duplicates have the same possible perks but different objectives. And yes, all of the Häkke weapons have the same name.",
         "fieldTestSpecial": [
           {
             "divisionLabel": "Häkke",
@@ -2206,7 +2206,7 @@
         "saleItems": {
           "minimizeItemList": false,
           "items": [
-            "914171677",
+            "928169143",
             "211861343",
             "3776902105"
           ]

@@ -11,7 +11,7 @@ export default function FieldTestDisplayItem({itemHash, trim1}:{itemHash:string,
             "icon": items[hashInt].icon ?? "/img/destiny_content/items/set_blank.png",
             "name": items[hashInt].itemName ?? "",
             "description": items[hashInt].itemDescription ?? '',
-            "url": `item/${itemHash}`
+            "url": `/item/${itemHash}`
         }
     },[items, itemHash])
 
