@@ -10,6 +10,7 @@ import BountyCard from '../BountyCard/BountyCard'
 import SubjectCard from '../SubjectCard/SubjectCard'
 import SummaryRewards from '../SummaryRewards/SummaryRewards'
 import ActivityCard from '../ActivityCard/ActivityCard'
+import SplashBanner from '../SplashBanner/SplashBanner'
 
 export default function PageSections({pageData}:{pageData:Pick<ActivityPage, "sections"> | Pick<RewardBoxPage, "sections"> | Pick<ListPage, "sections"> | Pick<NewVendorPageData, "sections">}) {
     type PageSection = ActivityPage['sections'] | RewardBoxPage['sections'] | ListPage['sections'] | NewVendorPageData['sections']
@@ -115,6 +116,9 @@ export default function PageSections({pageData}:{pageData:Pick<ActivityPage, "se
     const sectionElements = sectionData.map((section, index) => {
         return (
             <section className='page-section' key={index}>
+                {"splashBanner" in section && section.splashBanner &&
+                  <SplashBanner splashData={section.splashBanner} />
+                }
                 {"sectionTitle" in section && section.sectionTitle != '' &&
                   <h2 className='page-section-title' id={section.sectionTitle.replaceAll(' ', '-').toLocaleLowerCase()}>{section.sectionTitle}</h2>
                 }

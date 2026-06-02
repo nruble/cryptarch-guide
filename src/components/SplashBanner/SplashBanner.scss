@@ -1,0 +1,57 @@
+.splash-banner {
+    @include cleaner-page-head;
+    max-width:unset;
+    box-shadow:none;
+    min-height:490px;
+    display: flex;
+    align-items: flex-end;
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-inline:-50vw;
+    overflow-x:hidden;
+    .splash-banner-sections {
+        @include max-page-cap;
+        padding-inline:$padding-inline-desktop;
+        //margin-top:60px;
+        align-items: flex-end;
+        .splash-banner-section {
+            .splash-banner-section-title {
+                @include common-page-section-title;
+            }
+            .splash-banner-info {
+                margin-block:16px;
+                p {
+                    font-size:18px;
+                    letter-spacing: 0.065em;
+                    font-weight:$font-xlight;
+                    margin:0;
+                }
+                .splash-banner-light {
+                    color:$color-lightlevel;
+                }
+            }
+            .splash-banner-section-textblock {
+                @include common-page-textblock;
+                &:last-child {
+                    margin-bottom:0;
+                }
+            }
+        }
+        @media screen and (max-width:768px) {
+            padding-inline:$padding-inline-mobile;
+            .splash-banner-section {
+                .splash-banner-section-title {
+                    font-size:1.25rem;
+                }
+                .splash-banner-section-textblock {
+                    p {
+                        font-size:0.875rem;
+                        line-height:1.125rem;
+                    }
+                }
+            }
+        }
+    }
+}

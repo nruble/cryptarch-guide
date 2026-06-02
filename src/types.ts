@@ -570,6 +570,19 @@ export type VendorSectionsType = {
     "fieldTestSpecial": FieldTestItemDisplay[]
 }
 
+export type SplashBannerType = {
+    "bannerBackgroundUrl": string,
+    "bannerSections": {
+        "sectionTitle": string,
+        "textBlock": string
+    }[]
+}
+
+export type SplashBannerSectionType = {
+    "sectionTitle": string,
+    "textBlock": string
+}
+
 export type FieldTestItemDisplay = {
     "divisionLabel": string,
     "items": string[],
