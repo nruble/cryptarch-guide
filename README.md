@@ -18,7 +18,7 @@ Cryptarch Guide is intended to fill that gap, to provide information on: activit
 
 This web application utilizes Vite, React, React Router, and other dependencies listed in the package.json file. Item data is primarily sourced from D1 Manifest files, archival copied JSON files built from API information. Because the game itself is no longer updated, the relevant information is static and live communication with the actual API was deemed unnecessary. This also serves to keep the site functional should the API ever go down, to preserve access to information.
 
-Other data has been manually collated into JSON files for constructing the relevant pages. Information for this process was sourced from too many community sources across a decade or more of time, and could not all be reasonably attributed. Special thanks to RiseofBacon for foundational reprised raid loot table information, to Heli for opening over 100 Shaxx bounties on camera, 
+Other data has been manually collated into JSON files for constructing the relevant pages. Information for this process was sourced from too many community sources across a decade or more of time, and could not all be reasonably attributed.
 
 ## Future Development
 
