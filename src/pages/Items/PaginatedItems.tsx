@@ -1,6 +1,6 @@
 import './PaginatedItems.scss'
-import { useState, useMemo } from 'react'
-// import { useSearchParams, Link } from 'react-router-dom'
+import { useState, useMemo, useEffect } from 'react'
+import { useSearchParams } from 'react-router-dom'
 import ResponsivePagination from 'react-responsive-pagination'
 import { RiArrowRightSFill, RiArrowLeftSFill } from "react-icons/ri"
 import SimpleDisplayItem from '../../components/SimpleDisplayItem/SimpleDisplayItem'
@@ -17,11 +17,14 @@ function Items({ currentItems}:{currentItems:string[]}) {
 }
 
 export default function PaginatedItems({ itemsPerPage, sortedItemsList }:{itemsPerPage: number, sortedItemsList:string[]}) {
-    //const [searchParams, setSearchParams] = useSearchParams()
-    const [currentPage, setCurrentPage] = useState<number>(
-        // () => parseInt(searchParams.get('page') ?? '1') // this was for storing current page into URL
-        1
-    )
+    const [searchParams] = useSearchParams()
+    const [currentPage, setCurrentPage] = useState<number>(1)
+    // const [currentPage, setCurrentPage] = useState<number>(
+    //     () => parseInt(searchParams.get('page') ?? '1') // this was for storing current page into URL
+    // )
+    useEffect(() => {
+      setCurrentPage(1)
+    },[searchParams]) //resetting to page 1 if the search params are altered
     
     const pageCount:number = useMemo(()=> {
         return Math.ceil(sortedItemsList.length / itemsPerPage)
