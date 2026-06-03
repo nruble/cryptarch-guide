@@ -3442,7 +3442,7 @@
             },
             {
                 "sectionTitle": "End Screen Legacy Legendary Items",
-                "textBlock": "Drop rates for this gear on the Activity Rewards screen are low enough to prohibit adequate data gathering. This list is provided from a combination of limited anecdotal reporting and Year 1 items tagged with a Prison of Elders source in the API. There is a non-zero chance that items included here cannot drop, or that items not included here (such as *House of Wolves* era Faction armor) can.",
+                "textBlock": "Drop rates for this gear on the Activity Rewards screen are low enough to prohibit adequate data gathering. This list is provided from a combination of limited anecdotal reporting and Year 1 items tagged with a Prison of Elders source in the API. There is a non-zero chance that items included here cannot drop, or that items not included here (such as *House of Wolves* era Faction armor) can.\n\nAdditionally, end screen rewards can provide \"legacy\" Legendary or Rare Engrams. These legacy Rare Engrams have been anecdotally reported to, in the rare chance of decrypting at a higher rarity, provide pre-*House of Wolves* Legendary items.",
                 "dividedItemDisplay": [
                     {
                         "divisionLabel": "Weapons",
